@@ -1,0 +1,473 @@
+{
+  "samples_per_edge_orientation": 1885,
+  "common_valid_directions": 1877,
+  "proper_mounting_orientations_per_pair": 2,
+  "minimum_pair_RMS_mm": 3.7806333123852998,
+  "all_66_pairs_distinct_in_sampled_exterior": true,
+  "scope": "Actual rounded exported assembly meshes. Equal-solid-angle radial samples in both proper self-isometries of the common attachment lens; reflections are excluded. Rotation retained from the original search, not reoptimized for this revision. A distinction test, not a proof of global optimality or of every forced insertion attempt.",
+  "pairs": [
+    {
+      "edges": [
+        1,
+        2
+      ],
+      "minimum_RMS_mm": 6.5067924988190375
+    },
+    {
+      "edges": [
+        1,
+        3
+      ],
+      "minimum_RMS_mm": 5.833421353596692
+    },
+    {
+      "edges": [
+        1,
+        4
+      ],
+      "minimum_RMS_mm": 7.990505588054376
+    },
+    {
+      "edges": [
+        1,
+        5
+      ],
+      "minimum_RMS_mm": 6.99932174812684
+    },
+    {
+      "edges": [
+        1,
+        6
+      ],
+      "minimum_RMS_mm": 6.355416871375775
+    },
+    {
+      "edges": [
+        1,
+        7
+      ],
+      "minimum_RMS_mm": 7.082169609886371
+    },
+    {
+      "edges": [
+        1,
+        8
+      ],
+      "minimum_RMS_mm": 5.032990475782518
+    },
+    {
+      "edges": [
+        1,
+        9
+      ],
+      "minimum_RMS_mm": 5.724284908555741
+    },
+    {
+      "edges": [
+        1,
+        10
+      ],
+      "minimum_RMS_mm": 7.804052452346273
+    },
+    {
+      "edges": [
+        1,
+        11
+      ],
+      "minimum_RMS_mm": 7.691223407453412
+    },
+    {
+      "edges": [
+        1,
+        12
+      ],
+      "minimum_RMS_mm": 5.800529427852839
+    },
+    {
+      "edges": [
+        2,
+        3
+      ],
+      "minimum_RMS_mm": 8.850882646091234
+    },
+    {
+      "edges": [
+        2,
+        4
+      ],
+      "minimum_RMS_mm": 6.398932633608945
+    },
+    {
+      "edges": [
+        2,
+        5
+      ],
+      "minimum_RMS_mm": 8.517464777596459
+    },
+    {
+      "edges": [
+        2,
+        6
+      ],
+      "minimum_RMS_mm": 9.988943528027653
+    },
+    {
+      "edges": [
+        2,
+        7
+      ],
+      "minimum_RMS_mm": 10.331193631202304
+    },
+    {
+      "edges": [
+        2,
+        8
+      ],
+      "minimum_RMS_mm": 7.654643780642186
+    },
+    {
+      "edges": [
+        2,
+        9
+      ],
+      "minimum_RMS_mm": 4.308199949302572
+    },
+    {
+      "edges": [
+        2,
+        10
+      ],
+      "minimum_RMS_mm": 8.988999040871764
+    },
+    {
+      "edges": [
+        2,
+        11
+      ],
+      "minimum_RMS_mm": 4.845771848487046
+    },
+    {
+      "edges": [
+        2,
+        12
+      ],
+      "minimum_RMS_mm": 7.63776139459617
+    },
+    {
+      "edges": [
+        3,
+        4
+      ],
+      "minimum_RMS_mm": 7.3661934324765035
+    },
+    {
+      "edges": [
+        3,
+        5
+      ],
+      "minimum_RMS_mm": 6.221128108636295
+    },
+    {
+      "edges": [
+        3,
+        6
+      ],
+      "minimum_RMS_mm": 3.831207141764319
+    },
+    {
+      "edges": [
+        3,
+        7
+      ],
+      "minimum_RMS_mm": 5.040340801145118
+    },
+    {
+      "edges": [
+        3,
+        8
+      ],
+      "minimum_RMS_mm": 4.285005203607164
+    },
+    {
+      "edges": [
+        3,
+        9
+      ],
+      "minimum_RMS_mm": 7.0448318741645215
+    },
+    {
+      "edges": [
+        3,
+        10
+      ],
+      "minimum_RMS_mm": 3.7806333123852998
+    },
+    {
+      "edges": [
+        3,
+        11
+      ],
+      "minimum_RMS_mm": 8.987336804779892
+    },
+    {
+      "edges": [
+        3,
+        12
+      ],
+      "minimum_RMS_mm": 7.6848300679188934
+    },
+    {
+      "edges": [
+        4,
+        5
+      ],
+      "minimum_RMS_mm": 6.513512018918938
+    },
+    {
+      "edges": [
+        4,
+        6
+      ],
+      "minimum_RMS_mm": 9.210800754854207
+    },
+    {
+      "edges": [
+        4,
+        7
+      ],
+      "minimum_RMS_mm": 8.902679439952946
+    },
+    {
+      "edges": [
+        4,
+        8
+      ],
+      "minimum_RMS_mm": 7.261247936488338
+    },
+    {
+      "edges": [
+        4,
+        9
+      ],
+      "minimum_RMS_mm": 6.538632467965659
+    },
+    {
+      "edges": [
+        4,
+        10
+      ],
+      "minimum_RMS_mm": 7.021090847482045
+    },
+    {
+      "edges": [
+        4,
+        11
+      ],
+      "minimum_RMS_mm": 4.29514451536114
+    },
+    {
+      "edges": [
+        4,
+        12
+      ],
+      "minimum_RMS_mm": 5.70870772354634
+    },
+    {
+      "edges": [
+        5,
+        6
+      ],
+      "minimum_RMS_mm": 7.5631653538251244
+    },
+    {
+      "edges": [
+        5,
+        7
+      ],
+      "minimum_RMS_mm": 5.287358993536222
+    },
+    {
+      "edges": [
+        5,
+        8
+      ],
+      "minimum_RMS_mm": 7.678509545030734
+    },
+    {
+      "edges": [
+        5,
+        9
+      ],
+      "minimum_RMS_mm": 7.297265421884791
+    },
+    {
+      "edges": [
+        5,
+        10
+      ],
+      "minimum_RMS_mm": 4.307009251568585
+    },
+    {
+      "edges": [
+        5,
+        11
+      ],
+      "minimum_RMS_mm": 7.607505108392054
+    },
+    {
+      "edges": [
+        5,
+        12
+      ],
+      "minimum_RMS_mm": 5.067939279512948
+    },
+    {
+      "edges": [
+        6,
+        7
+      ],
+      "minimum_RMS_mm": 3.8333828169943436
+    },
+    {
+      "edges": [
+        6,
+        8
+      ],
+      "minimum_RMS_mm": 5.245982736866306
+    },
+    {
+      "edges": [
+        6,
+        9
+      ],
+      "minimum_RMS_mm": 8.936084746369167
+    },
+    {
+      "edges": [
+        6,
+        10
+      ],
+      "minimum_RMS_mm": 5.0284526184192
+    },
+    {
+      "edges": [
+        6,
+        11
+      ],
+      "minimum_RMS_mm": 10.315151667203226
+    },
+    {
+      "edges": [
+        6,
+        12
+      ],
+      "minimum_RMS_mm": 7.091451992269598
+    },
+    {
+      "edges": [
+        7,
+        8
+      ],
+      "minimum_RMS_mm": 7.539848476069952
+    },
+    {
+      "edges": [
+        7,
+        9
+      ],
+      "minimum_RMS_mm": 9.233174596624737
+    },
+    {
+      "edges": [
+        7,
+        10
+      ],
+      "minimum_RMS_mm": 3.902518067795864
+    },
+    {
+      "edges": [
+        7,
+        11
+      ],
+      "minimum_RMS_mm": 9.987007457157592
+    },
+    {
+      "edges": [
+        7,
+        12
+      ],
+      "minimum_RMS_mm": 6.31196219433729
+    },
+    {
+      "edges": [
+        8,
+        9
+      ],
+      "minimum_RMS_mm": 6.493235554538271
+    },
+    {
+      "edges": [
+        8,
+        10
+      ],
+      "minimum_RMS_mm": 6.211552995163968
+    },
+    {
+      "edges": [
+        8,
+        11
+      ],
+      "minimum_RMS_mm": 8.502466981660007
+    },
+    {
+      "edges": [
+        8,
+        12
+      ],
+      "minimum_RMS_mm": 7.043890165863905
+    },
+    {
+      "edges": [
+        9,
+        10
+      ],
+      "minimum_RMS_mm": 7.3971502736836845
+    },
+    {
+      "edges": [
+        9,
+        11
+      ],
+      "minimum_RMS_mm": 6.438928559189307
+    },
+    {
+      "edges": [
+        9,
+        12
+      ],
+      "minimum_RMS_mm": 8.002121532259865
+    },
+    {
+      "edges": [
+        10,
+        11
+      ],
+      "minimum_RMS_mm": 8.813465372488476
+    },
+    {
+      "edges": [
+        10,
+        12
+      ],
+      "minimum_RMS_mm": 5.748730762507787
+    },
+    {
+      "edges": [
+        11,
+        12
+      ],
+      "minimum_RMS_mm": 6.47959948088554
+    }
+  ],
+  "seconds": 555.2055778503418
+}

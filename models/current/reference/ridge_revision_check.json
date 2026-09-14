@@ -1,0 +1,1009 @@
+{
+  "revision": "v4.2",
+  "unchanged_part_stl_bytes": {
+    "core": true,
+    "C01": true,
+    "C02": true,
+    "C03": true,
+    "C04": true,
+    "C05": true,
+    "C06": true,
+    "C07": true,
+    "C08": true
+  },
+  "edge_changes": [
+    {
+      "edge": "E01",
+      "changed_volume_in_inner_track_region_mm3": 32.36210272568479,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 2.4464375711680543e-06,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 1.9811794122276596e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 76.83504365394037,
+      "passed": true
+    },
+    {
+      "edge": "E02",
+      "changed_volume_in_inner_track_region_mm3": 32.34470491669621,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 2.3874687457394005e-06,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 2.528146150842764e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 78.93489935158868,
+      "passed": true
+    },
+    {
+      "edge": "E03",
+      "changed_volume_in_inner_track_region_mm3": 32.239890862779966,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 2.4287631841095466e-06,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 1.836915988618157e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 77.87725200196292,
+      "passed": true
+    },
+    {
+      "edge": "E04",
+      "changed_volume_in_inner_track_region_mm3": 32.29186038820007,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 5.5107332082216576e-05,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 2.399839876240308e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 78.30949243115901,
+      "passed": true
+    },
+    {
+      "edge": "E05",
+      "changed_volume_in_inner_track_region_mm3": 32.22055626716794,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 2.414175515218495e-06,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 2.3766201449214232e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 86.75012712517491,
+      "passed": true
+    },
+    {
+      "edge": "E06",
+      "changed_volume_in_inner_track_region_mm3": 32.2849333160133,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 1.6605281352493984e-05,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 2.020560789983274e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 85.99564799556174,
+      "passed": true
+    },
+    {
+      "edge": "E07",
+      "changed_volume_in_inner_track_region_mm3": 32.2853600115834,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 2.386099922580459e-06,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 1.9190976647214544e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 85.9833680280608,
+      "passed": true
+    },
+    {
+      "edge": "E08",
+      "changed_volume_in_inner_track_region_mm3": 32.236585481942214,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 1.6605281352493984e-05,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 2.4248837111285052e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 86.77658083340066,
+      "passed": true
+    },
+    {
+      "edge": "E09",
+      "changed_volume_in_inner_track_region_mm3": 32.291350568612174,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 5.5107332082216576e-05,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 2.454538831798495e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 78.31247611423896,
+      "passed": true
+    },
+    {
+      "edge": "E10",
+      "changed_volume_in_inner_track_region_mm3": 32.25297471215092,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 5.5107332082216576e-05,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 1.948100889926773e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 77.88600565343586,
+      "passed": true
+    },
+    {
+      "edge": "E11",
+      "changed_volume_in_inner_track_region_mm3": 32.34282063067369,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 2.361103503718128e-06,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 2.5557819772812144e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 78.92700810822862,
+      "passed": true
+    },
+    {
+      "edge": "E12",
+      "changed_volume_in_inner_track_region_mm3": 32.405858696376555,
+      "maximum_saved_vertex_distance_to_exact_subtractive_CAD_vertex_mm": 2.4551051687603676e-06,
+      "maximum_print_vertex_distance_to_reference_vertex_mm": 2.081027288739015e-06,
+      "same_print_transform": true,
+      "removed_volume_mm3": 76.87560029210363,
+      "passed": true
+    }
+  ],
+  "single_edge_mixed_turns": [
+    {
+      "corner": 1,
+      "angle_samples": 13,
+      "maximum_outer_overlap_mm3": 0
+    },
+    {
+      "corner": 2,
+      "angle_samples": 13,
+      "maximum_outer_overlap_mm3": 0
+    },
+    {
+      "corner": 3,
+      "angle_samples": 13,
+      "maximum_outer_overlap_mm3": 0
+    },
+    {
+      "corner": 4,
+      "angle_samples": 13,
+      "maximum_outer_overlap_mm3": 0
+    },
+    {
+      "corner": 5,
+      "angle_samples": 13,
+      "maximum_outer_overlap_mm3": 0
+    },
+    {
+      "corner": 6,
+      "angle_samples": 13,
+      "maximum_outer_overlap_mm3": 0
+    },
+    {
+      "corner": 7,
+      "angle_samples": 13,
+      "maximum_outer_overlap_mm3": 0
+    },
+    {
+      "corner": 8,
+      "angle_samples": 13,
+      "maximum_outer_overlap_mm3": 0
+    }
+  ],
+  "retention": {
+    "model": "v4.2 edge with unchanged v4.1 retainers",
+    "principal_pulls": [
+      {
+        "retainer": "C08",
+        "corner_lift_mm": 0,
+        "direction": "radial",
+        "first_contact_mm": 0.5,
+        "peak_intersection_mm3": 153.75978265038248
+      },
+      {
+        "retainer": "C08",
+        "corner_lift_mm": 0,
+        "direction": "own_axis",
+        "first_contact_mm": 0.5,
+        "peak_intersection_mm3": 846.1057800292775
+      },
+      {
+        "retainer": "C08",
+        "corner_lift_mm": 0,
+        "direction": "other_axis",
+        "first_contact_mm": 0.4,
+        "peak_intersection_mm3": 46.37990103136774
+      },
+      {
+        "retainer": "C08",
+        "corner_lift_mm": 0.1,
+        "direction": "radial",
+        "first_contact_mm": 0.6000000000000001,
+        "peak_intersection_mm3": 149.785121093805
+      },
+      {
+        "retainer": "C08",
+        "corner_lift_mm": 0.1,
+        "direction": "own_axis",
+        "first_contact_mm": 0.6000000000000001,
+        "peak_intersection_mm3": 838.3511297926751
+      },
+      {
+        "retainer": "C08",
+        "corner_lift_mm": 0.1,
+        "direction": "other_axis",
+        "first_contact_mm": 0.5,
+        "peak_intersection_mm3": 43.06979972623942
+      },
+      {
+        "retainer": "C08",
+        "corner_lift_mm": 0.25,
+        "direction": "radial",
+        "first_contact_mm": 0.6000000000000001,
+        "peak_intersection_mm3": 144.08121588195644
+      },
+      {
+        "retainer": "C08",
+        "corner_lift_mm": 0.25,
+        "direction": "own_axis",
+        "first_contact_mm": 0.7000000000000001,
+        "peak_intersection_mm3": 826.0778227630886
+      },
+      {
+        "retainer": "C08",
+        "corner_lift_mm": 0.25,
+        "direction": "other_axis",
+        "first_contact_mm": 0.5,
+        "peak_intersection_mm3": 38.33823705302887
+      },
+      {
+        "retainer": "C07",
+        "corner_lift_mm": 0,
+        "direction": "radial",
+        "first_contact_mm": 0.5,
+        "peak_intersection_mm3": 153.75412125903242
+      },
+      {
+        "retainer": "C07",
+        "corner_lift_mm": 0,
+        "direction": "own_axis",
+        "first_contact_mm": 0.5,
+        "peak_intersection_mm3": 997.8175700918348
+      },
+      {
+        "retainer": "C07",
+        "corner_lift_mm": 0,
+        "direction": "other_axis",
+        "first_contact_mm": 0.4,
+        "peak_intersection_mm3": 46.37989315615386
+      },
+      {
+        "retainer": "C07",
+        "corner_lift_mm": 0.1,
+        "direction": "radial",
+        "first_contact_mm": 0.6000000000000001,
+        "peak_intersection_mm3": 149.7776316071225
+      },
+      {
+        "retainer": "C07",
+        "corner_lift_mm": 0.1,
+        "direction": "own_axis",
+        "first_contact_mm": 0.6000000000000001,
+        "peak_intersection_mm3": 983.0272374401277
+      },
+      {
+        "retainer": "C07",
+        "corner_lift_mm": 0.1,
+        "direction": "other_axis",
+        "first_contact_mm": 0.5,
+        "peak_intersection_mm3": 43.069871032128
+      },
+      {
+        "retainer": "C07",
+        "corner_lift_mm": 0.25,
+        "direction": "radial",
+        "first_contact_mm": 0.6000000000000001,
+        "peak_intersection_mm3": 144.0750064991253
+      },
+      {
+        "retainer": "C07",
+        "corner_lift_mm": 0.25,
+        "direction": "own_axis",
+        "first_contact_mm": 0.7000000000000001,
+        "peak_intersection_mm3": 960.592275070135
+      },
+      {
+        "retainer": "C07",
+        "corner_lift_mm": 0.25,
+        "direction": "other_axis",
+        "first_contact_mm": 0.5,
+        "peak_intersection_mm3": 38.33875628669859
+      }
+    ],
+    "rocking_pulls": [
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.5,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.4,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.7000000000000001,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.5,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.4,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.6000000000000001,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.5,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.8,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.6000000000000001,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.5,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.1,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.6000000000000001,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.5,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.4,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 1.3,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "toward_corners",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": -5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.6000000000000001,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 0,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.5,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 5,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.30000000000000004,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "radial",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      },
+      {
+        "corner_lift_mm": 0.25,
+        "rock_axis": "sideways",
+        "final_rock_angle_deg": 10,
+        "pull_direction": "other_axis",
+        "first_contact_mm": 0.2,
+        "collision_free_to_10_mm": false
+      }
+    ],
+    "principal_all_blocked": true,
+    "rocking_escape_paths_found": 0,
+    "scope": "One edge foot and one retainer; rocking paths also include the core. Other edges and corners are omitted. Contacts represent geometric obstruction, not measured force."
+  },
+  "misalignment_probe": [
+    {
+      "residual_C07_deg": -2,
+      "C08_motion_deg": -2,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -2,
+      "C08_motion_deg": -1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -2,
+      "C08_motion_deg": -0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -2,
+      "C08_motion_deg": 0.5,
+      "baseline_overlap_mm3": 1.1053136206798301e-05,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -2,
+      "C08_motion_deg": 1,
+      "baseline_overlap_mm3": 0.41478274393372006,
+      "revision_overlap_mm3": 0.001365875003553179
+    },
+    {
+      "residual_C07_deg": -2,
+      "C08_motion_deg": 2,
+      "baseline_overlap_mm3": 3.109479450582117,
+      "revision_overlap_mm3": 0.023503311584923876
+    },
+    {
+      "residual_C07_deg": -1,
+      "C08_motion_deg": -2,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -1,
+      "C08_motion_deg": -1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -1,
+      "C08_motion_deg": -0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -1,
+      "C08_motion_deg": 0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -1,
+      "C08_motion_deg": 1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -1,
+      "C08_motion_deg": 2,
+      "baseline_overlap_mm3": 0.4055221502036509,
+      "revision_overlap_mm3": 0.0013772949605530647
+    },
+    {
+      "residual_C07_deg": -0.5,
+      "C08_motion_deg": -2,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -0.5,
+      "C08_motion_deg": -1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -0.5,
+      "C08_motion_deg": -0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -0.5,
+      "C08_motion_deg": 0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -0.5,
+      "C08_motion_deg": 1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": -0.5,
+      "C08_motion_deg": 2,
+      "baseline_overlap_mm3": 4.780650245958219e-06,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 0.5,
+      "C08_motion_deg": -2,
+      "baseline_overlap_mm3": 4.7506459241869715e-06,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 0.5,
+      "C08_motion_deg": -1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 0.5,
+      "C08_motion_deg": -0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 0.5,
+      "C08_motion_deg": 0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 0.5,
+      "C08_motion_deg": 1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 0.5,
+      "C08_motion_deg": 2,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 1,
+      "C08_motion_deg": -2,
+      "baseline_overlap_mm3": 0.4055194477009928,
+      "revision_overlap_mm3": 0.0013787538898700088
+    },
+    {
+      "residual_C07_deg": 1,
+      "C08_motion_deg": -1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 1,
+      "C08_motion_deg": -0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 1,
+      "C08_motion_deg": 0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 1,
+      "C08_motion_deg": 1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 1,
+      "C08_motion_deg": 2,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 2,
+      "C08_motion_deg": -2,
+      "baseline_overlap_mm3": 3.1060638298092673,
+      "revision_overlap_mm3": 0.023501828480673316
+    },
+    {
+      "residual_C07_deg": 2,
+      "C08_motion_deg": -1,
+      "baseline_overlap_mm3": 0.41478516093438356,
+      "revision_overlap_mm3": 0.0013644560644578939
+    },
+    {
+      "residual_C07_deg": 2,
+      "C08_motion_deg": -0.5,
+      "baseline_overlap_mm3": 1.1098588396669049e-05,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 2,
+      "C08_motion_deg": 0.5,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 2,
+      "C08_motion_deg": 1,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    },
+    {
+      "residual_C07_deg": 2,
+      "C08_motion_deg": 2,
+      "baseline_overlap_mm3": 0.0,
+      "revision_overlap_mm3": 0.0
+    }
+  ],
+  "limits": [
+    "The radial-ridge fillet is a constant 3 mm circular arc in transverse sections, including the inner track region; no radius taper is used.",
+    "The CAD only removes material. Export coordinates are checked within 0.005 mm, far below the fit clearances.",
+    "The held-residual-turn probe compares geometric intersection only. It does not predict hand torque or a physical corner-cutting angle.",
+    "Retention checks cover specified translations and rocking paths, not every possible escape or deformation."
+  ],
+  "passed": true,
+  "failures": [],
+  "seconds": 70.34508204460144
+}

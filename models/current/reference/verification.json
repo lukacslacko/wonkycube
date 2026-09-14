@@ -1,0 +1,652 @@
+{
+  "saved_stl_checks": [
+    {
+      "file": "calibration/assembly_stand.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 20163.648146950254,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "calibration/fit_coupon.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 53899.67602250822,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "calibration/test_edge_1.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 14157.0619504679,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "calibration/test_edge_2.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 14256.261077308634,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "calibration/test_edge_3.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 14221.576165652243,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "calibration/test_fixture.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 181747.49274520928,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "calibration/test_rotor.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 5413.298701033066,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/C01.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 7944.450746944741,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/C02.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 16972.026497897114,
+      "minimum_print_z_mm": 3.000000106112566e-06,
+      "passed": true
+    },
+    {
+      "file": "parts/C03.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 9182.500974043336,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/C04.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 11854.229123542988,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/C05.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 11854.190172620452,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/C06.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 9182.491546401892,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/C07.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 16971.997866771468,
+      "minimum_print_z_mm": 3.000000106112566e-06,
+      "passed": true
+    },
+    {
+      "file": "parts/C08.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 7944.40044529534,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E01.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 25928.424244293245,
+      "minimum_print_z_mm": 9.999999974752427e-07,
+      "passed": true
+    },
+    {
+      "file": "parts/E02.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 33259.61973364915,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E03.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 21597.229268977113,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E04.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 30799.080007855362,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E05.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 26585.947327707265,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E06.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 18851.26156964645,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E07.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 18851.32545231537,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E08.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 26586.021098129688,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E09.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 30799.118689942832,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E10.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 21597.34351037932,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E11.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 33259.66854841066,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    {
+      "file": "parts/E12.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 25928.753286437448,
+      "minimum_print_z_mm": 9.999999974752427e-07,
+      "passed": true
+    },
+    {
+      "file": "parts/core.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 54656.45564589697,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    }
+  ],
+  "flat_bearing_contacts": [
+    {
+      "raw_core_contact_overlap_mm3": 7.2150021322950555e-06,
+      "overlap_after_0p005_mm_lift_mm3": 0.0
+    },
+    {
+      "raw_core_contact_overlap_mm3": 0.00019924407863986703,
+      "overlap_after_0p005_mm_lift_mm3": 0.0
+    },
+    {
+      "raw_core_contact_overlap_mm3": 1.0758121644156317e-05,
+      "overlap_after_0p005_mm_lift_mm3": 0.0
+    },
+    {
+      "raw_core_contact_overlap_mm3": 9.12705156678789e-06,
+      "overlap_after_0p005_mm_lift_mm3": 0.0
+    },
+    {
+      "raw_core_contact_overlap_mm3": 1.1709614607334569e-05,
+      "overlap_after_0p005_mm_lift_mm3": 0.0
+    },
+    {
+      "raw_core_contact_overlap_mm3": 8.101148456710115e-06,
+      "overlap_after_0p005_mm_lift_mm3": 0.0
+    },
+    {
+      "raw_core_contact_overlap_mm3": 0.00019909009017812324,
+      "overlap_after_0p005_mm_lift_mm3": 0.0
+    },
+    {
+      "raw_core_contact_overlap_mm3": 7.811004266023018e-06,
+      "overlap_after_0p005_mm_lift_mm3": 0.0
+    }
+  ],
+  "solved": {
+    "maximum_outer_overlap_mm3": 0.0,
+    "maximum_screw_washer_overlap_mm3": 0.0
+  },
+  "all_axis_turn_sweeps": [
+    {
+      "corner": 1,
+      "samples": 25,
+      "maximum_raw_overlap_mm3": 7.865320170000345e-06,
+      "minimum_outer_gap_mm": 0.18825486400834865,
+      "core_overlap_after_0p005_mm_lift": 0
+    },
+    {
+      "corner": 2,
+      "samples": 25,
+      "maximum_raw_overlap_mm3": 0.000199623817471315,
+      "minimum_outer_gap_mm": 0.18783956178183328,
+      "core_overlap_after_0p005_mm_lift": 0
+    },
+    {
+      "corner": 3,
+      "samples": 25,
+      "maximum_raw_overlap_mm3": 1.1145523651145023e-05,
+      "minimum_outer_gap_mm": 0.18766678568739623,
+      "core_overlap_after_0p005_mm_lift": 0
+    },
+    {
+      "corner": 4,
+      "samples": 25,
+      "maximum_raw_overlap_mm3": 9.28151874399776e-06,
+      "minimum_outer_gap_mm": 0.1878403996620389,
+      "core_overlap_after_0p005_mm_lift": 0
+    },
+    {
+      "corner": 5,
+      "samples": 25,
+      "maximum_raw_overlap_mm3": 1.1933167967845501e-05,
+      "minimum_outer_gap_mm": 0.1859512567097237,
+      "core_overlap_after_0p005_mm_lift": 0
+    },
+    {
+      "corner": 6,
+      "samples": 25,
+      "maximum_raw_overlap_mm3": 8.148458248377006e-06,
+      "minimum_outer_gap_mm": 0.18783956178183328,
+      "core_overlap_after_0p005_mm_lift": 0
+    },
+    {
+      "corner": 7,
+      "samples": 25,
+      "maximum_raw_overlap_mm3": 0.0001994586363912727,
+      "minimum_outer_gap_mm": 0.1878671659775398,
+      "core_overlap_after_0p005_mm_lift": 0
+    },
+    {
+      "corner": 8,
+      "samples": 25,
+      "maximum_raw_overlap_mm3": 7.985317587192481e-06,
+      "minimum_outer_gap_mm": 0.18766678568739623,
+      "core_overlap_after_0p005_mm_lift": 0
+    }
+  ],
+  "corner_insertion": [
+    {
+      "corner": 1,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "corner": 2,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "corner": 3,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "corner": 4,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "corner": 5,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "corner": 6,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "corner": 7,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "corner": 8,
+      "maximum_overlap_mm3": 0
+    }
+  ],
+  "edge_insertion": [
+    {
+      "edge": 1,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 2,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 3,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 4,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 5,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 6,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 7,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 8,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 9,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 10,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 11,
+      "maximum_overlap_mm3": 0
+    },
+    {
+      "edge": 12,
+      "maximum_overlap_mm3": 0
+    }
+  ],
+  "driver_and_washer_access": [
+    {
+      "corner": 1,
+      "holder_diameter_mm": 12,
+      "holder_body_overlap_mm3": 0.0,
+      "washer_insertion_overlap_mm3": 0
+    },
+    {
+      "corner": 2,
+      "holder_diameter_mm": 12,
+      "holder_body_overlap_mm3": 0.0,
+      "washer_insertion_overlap_mm3": 0
+    },
+    {
+      "corner": 3,
+      "holder_diameter_mm": 12,
+      "holder_body_overlap_mm3": 0.0,
+      "washer_insertion_overlap_mm3": 0
+    },
+    {
+      "corner": 4,
+      "holder_diameter_mm": 12,
+      "holder_body_overlap_mm3": 0.0,
+      "washer_insertion_overlap_mm3": 0
+    },
+    {
+      "corner": 5,
+      "holder_diameter_mm": 12,
+      "holder_body_overlap_mm3": 0.0,
+      "washer_insertion_overlap_mm3": 0
+    },
+    {
+      "corner": 6,
+      "holder_diameter_mm": 12,
+      "holder_body_overlap_mm3": 0.0,
+      "washer_insertion_overlap_mm3": 0
+    },
+    {
+      "corner": 7,
+      "holder_diameter_mm": 12,
+      "holder_body_overlap_mm3": 0.0,
+      "washer_insertion_overlap_mm3": 0
+    },
+    {
+      "corner": 8,
+      "holder_diameter_mm": 12,
+      "holder_body_overlap_mm3": 0.0,
+      "washer_insertion_overlap_mm3": 0
+    }
+  ],
+  "assembly_stand": {
+    "type": "gravity-supported, integral 2.2 mm peg",
+    "initial_contact_overlap_mm3": 4.349917208962637e-06,
+    "withdrawal_maximum_overlap_mm3": 0,
+    "saved_stl": {
+      "file": "calibration/assembly_stand.stl",
+      "watertight": true,
+      "connected_components": 1,
+      "volume_mm3": 20163.648146950254,
+      "minimum_print_z_mm": 0.0,
+      "passed": true
+    },
+    "passed": true
+  },
+  "radial_pullout_retention": [
+    {
+      "edge": 1,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 2,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 3,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 4,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 5,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 6,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 7,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 8,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 9,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 10,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 11,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "edge": 12,
+      "first_radial_obstruction_by_each_corner_mm": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "one_axis_fixture": {
+    "angle_samples": 73,
+    "maximum_contact_overlap_mm3": 8.66199711129144e-06
+  },
+  "bearing_and_washer_support": [
+    {
+      "corner": 1,
+      "missing_volume_from_2_mm_collar_mm3": 0.0
+    },
+    {
+      "corner": 2,
+      "missing_volume_from_2_mm_collar_mm3": 0.0
+    },
+    {
+      "corner": 3,
+      "missing_volume_from_2_mm_collar_mm3": 0.0
+    },
+    {
+      "corner": 4,
+      "missing_volume_from_2_mm_collar_mm3": 0.0
+    },
+    {
+      "corner": 5,
+      "missing_volume_from_2_mm_collar_mm3": 0.0
+    },
+    {
+      "corner": 6,
+      "missing_volume_from_2_mm_collar_mm3": 0.0
+    },
+    {
+      "corner": 7,
+      "missing_volume_from_2_mm_collar_mm3": 0.0
+    },
+    {
+      "corner": 8,
+      "missing_volume_from_2_mm_collar_mm3": 0.0
+    }
+  ],
+  "screw_lengths": [
+    {
+      "length_mm": 20,
+      "nominal_core_engagement_mm": 7.350000000000001,
+      "maximum_screw_pair_overlap_mm3": 0.0
+    },
+    {
+      "length_mm": 25,
+      "nominal_core_engagement_mm": 12.350000000000001,
+      "maximum_screw_pair_overlap_mm3": 0.0
+    }
+  ],
+  "print_plates": [
+    {
+      "file": "comparison_E12.3mf",
+      "objects": 1,
+      "within_256_mm_volume": true
+    },
+    {
+      "file": "core.3mf",
+      "objects": 1,
+      "within_256_mm_volume": true
+    },
+    {
+      "file": "corners_01_to_04.3mf",
+      "objects": 4,
+      "within_256_mm_volume": true
+    },
+    {
+      "file": "corners_05_to_08.3mf",
+      "objects": 4,
+      "within_256_mm_volume": true
+    },
+    {
+      "file": "edges_01_to_06.3mf",
+      "objects": 6,
+      "within_256_mm_volume": true
+    },
+    {
+      "file": "edges_07_to_12.3mf",
+      "objects": 6,
+      "within_256_mm_volume": true
+    }
+  ],
+  "limitations": [
+    "Not physically printed or tested for thread grip, turning torque, deformation or wear.",
+    "Screw adjustment must leave approximately 0.08\u20130.15 mm axial freedom; over-tightening clamps the rotating corner.",
+    "Perfectly aligned rigid geometry is checked. Wobble and roughness require the physical fixture test.",
+    "Direct PLA threads have no independently validated holding load and may loosen with use.",
+    "Turn/insertion sampling is backed by the unchanged rotational cut family and explicit axisymmetric inner bearing foot and square retaining rails; sampling alone is not a continuous-motion proof.",
+    "The screw envelope assumes a flat-underhead machine screw with head diameter <=6 mm and height <=3 mm; the open well also accommodates larger heads below 13 mm diameter.",
+    "Flat contact overlap <=0.01 mm3 is accepted only with separate contact-lift, outer collision and hardware checks; strict threshold elsewhere is 1e-5 mm3."
+  ],
+  "failures": [],
+  "passed": true,
+  "seconds": 416.063462972641
+}

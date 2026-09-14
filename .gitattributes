@@ -1,0 +1,7 @@
+*.stl binary
+*.3mf binary
+*.npz binary
+*.png binary
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf

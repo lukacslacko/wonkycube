@@ -1,0 +1,10 @@
+{
+  "scope": "Independent second generation from the public CAD directory and fixed baseline using the pinned runtime. STL bytes and decompressed 3MF members compared. ZIP container timestamps are ignored for 3MF.",
+  "stls_checked": 28,
+  "all_stl_bytes_identical": true,
+  "plates_checked": 6,
+  "all_plate_payloads_identical": true,
+  "different_stls": [],
+  "different_plate_payloads": [],
+  "passed": true
+}

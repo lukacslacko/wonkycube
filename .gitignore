@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.mpl-cache/
+build/
+dist/
+*.log
+cad/v3_round_cache/
+cad/v4-canonical-cache.npz
+models/current/source/
