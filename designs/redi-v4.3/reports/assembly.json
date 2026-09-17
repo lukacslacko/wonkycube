@@ -1,0 +1,101 @@
+{
+  "insert_E01": [
+    0.0,
+    0.0
+  ],
+  "insert_E02": [
+    0.0,
+    0.0
+  ],
+  "insert_E03": [
+    0.0,
+    0.0
+  ],
+  "insert_E04": [
+    0.0,
+    0.0
+  ],
+  "insert_E05": [
+    0.0,
+    0.0
+  ],
+  "insert_E06": [
+    0.0,
+    0.0
+  ],
+  "insert_E07": [
+    0.0,
+    0.0
+  ],
+  "insert_E08": [
+    0.0,
+    0.0
+  ],
+  "insert_E09": [
+    0.0,
+    0.0
+  ],
+  "insert_E10": [
+    0.0,
+    0.0
+  ],
+  "insert_E11": [
+    0.0,
+    0.0
+  ],
+  "insert_E12": [
+    0.0,
+    0.0
+  ],
+  "insert_C01": [
+    0.0,
+    0.0
+  ],
+  "insert_C02": [
+    0.0,
+    0.0
+  ],
+  "insert_C03": [
+    0.0,
+    0.0
+  ],
+  "insert_C04": [
+    0.0,
+    0.0
+  ],
+  "insert_C05": [
+    0.0,
+    0.0
+  ],
+  "insert_C06": [
+    0.0,
+    0.0
+  ],
+  "insert_C07": [
+    0.0,
+    0.0
+  ],
+  "insert_C08": [
+    0.0,
+    0.0
+  ],
+  "stand_withdrawal": [
+    0.0,
+    0.0
+  ],
+  "stand_during_edge_loading": [
+    "E01",
+    0.0,
+    0.0
+  ],
+  "stand_hardware": {
+    "washer_seat_mm": 28.5,
+    "screw_tip_mm": 9.5,
+    "tip_past_nut_mm": 2.150000000000002,
+    "overlap_mm3": 0.0
+  },
+  "_completion": {
+    "passed": true,
+    "seconds": 25.3128821849823
+  }
+}

@@ -1,62 +1,134 @@
 # Design reference
 
-The exterior is an 80 mm cube rotated relative to a Redi-like corner-turning mechanism. Each 120° turn rotates one corner and cycles its three adjacent edges. Corners keep their axes; the twelve edges move between locations.
+The current **v4.3** design is a 64 mm Redi-equivalent puzzle: eight screw-mounted
+C pieces and twelve movable E pieces around one core. Each 120° turn rotates one
+C piece and cycles its three neighboring edges. It has the original Redi cut
+family, not the later experimental 65°/petal topology.
+
+The owner has built the compact version and reports that everything except the
+nut retention feels very nice. The release preserves that geometry and records
+the remaining core issue below. See the [complete compact description](../designs/redi-v4.3/README.md),
+[assembly guide](../designs/redi-v4.3/ASSEMBLY.md) and
+[validation/provenance](../designs/redi-v4.3/VALIDATION.md).
 
 ## Coordinates and exterior orientation
 
-The mechanism center is the origin. Eight unit axes are `(±1, ±1, ±1) / sqrt(3)`, lexicographically ordered from C01 `(−,−,−)` to C08 `(+,+,+)`. An edge joins two axes whose dot product is `1/3`.
+The mechanism center is the origin. Its eight turn axes are
+`(±1, ±1, ±1) / sqrt(3)`, ordered from C01 `(−,−,−)` to C08 `(+,+,+)`.
+Each edge joins two axes whose dot product is `1/3`.
 
-The exterior cube is transformed into mechanism coordinates using
+The cube-to-mechanism rotation is unchanged from v4.2:
 
 `R = Rz(−13.232962300°) · Ry(26.192857308°) · Rx(32.391706195°)`.
 
-These are rotations about fixed axes, applied X then Y then Z to column vectors. The full precision matrix is in [chosen_rotation.json](../cad/chosen_rotation.json), and each part's mechanism-to-print transform is in [design.json](../models/current/reference/design.json). STL coordinates are already oriented for printing; do not assemble those print-space coordinates directly. Use the assembled reference or the saved transforms.
+These are fixed-axis rotations applied X, then Y, then Z to column vectors.
+The full precision matrix is in [cube-to-mechanism.json](../designs/redi-v4.3/reference/cube-to-mechanism.json).
+The original search maximized the minimum sampled radial-profile difference
+between pairs of edge exteriors under their two compatible proper mounting
+orientations; mirror images count as different. It is a best-found numerical
+orientation, not a proof of a global or perceptual optimum. The compact revision
+retains it and rechecks all 66 pairs on the exported meshes; the weakest sampled
+pair has an RMS exterior difference of 3.024 mm.
 
-The optimization maximizes the minimum sampled radial-profile difference between any pair of edge exteriors, considering their two compatible **proper** mounting orientations. Reflections are not allowed to identify shapes. A generic rotated cube breaks the repeated silhouettes; the numerical search spreads the least distinguishable pair apart. The result is best found under that metric, not a certified global optimum, perceptual optimum, or proof of a unique solution under every possible puzzle equivalence. [The current mesh check](../models/current/reference/edge_shape_check.json) evaluates all 66 pairs again after rounding.
+Edge attachments intentionally interchange so the puzzle can scramble. Their
+different exteriors distinguish solved positions; the parts are not mechanically
+keyed to a single slot. Use the compact [neighbor sheet](../designs/redi-v4.3/NEIGHBORS.md).
 
-The mounting geometry must interchange so the puzzle can scramble. “Different shapes” means the exterior of one edge does not reproduce another edge's solved exterior under the allowed mounting orientations. It does not mean mechanically keying each edge to one location.
+## Dimensions and compatibility
 
-## Dimensions
+All lengths are millimetres. Clearance values below describe different interfaces;
+they are not interchangeable tolerances.
 
-All lengths below are millimetres. These are the released design's settings, not universal FDM fit values.
+| Feature | Compact v4.3 | Previous 80 mm v4.2.1 |
+|---|---|---|
+| Solved exterior | 64 | 80 |
+| Cone half-angle | 54.7356103° | Same |
+| Core spherical radius | 19.20 | 24 |
+| Core bearing-flat distance from center | 17.60 | 22 |
+| Main conical-face gap, total | 0.03 | 0.20 |
+| Track cutter expansion from unrounded flange sweep | 0.40 | 0.40 |
+| Radial ridge transverse radius, including inner tracks | 3.00 | 3.00 |
+| Internal edge / corner lead-in rounding | 0.60 / 0.45 | Same |
+| General exterior softening | 0.80 | 1.00 |
+| Rotating screw bore | Ø3.60 | Ø3.30 |
+| Washer outside diameter × thickness | 9 × 1 | 13 × 0.55 |
+| Washer/access well diameter | 9.60 | 13.80 |
+| Screw | DIN912 M3 × 20, 2.5 mm hex key | M3 × 20, flat head underside |
+| Thread anchorage | Captive DIN985 M3 nut | Ø2.60 direct-to-plastic pilot |
 
-| Feature | Value and interpretation |
-|---|---|
-| Solved exterior | 80 mm between the original opposing face planes |
-| Core curved surface | Sphere R24 between eight intentional flat axle pads |
-| Shell cavity | R24.5 nominal spherical envelope |
-| Core axle-pad plane | 22 from center along its axis |
-| Corner bearing foot | Ø7.4, flat annulus around Ø3.3 bore |
-| Nominal foot area | Approximately 34.5 mm² before faceting |
-| Rail | Maximum radial distance 28 from its turn axis; shoulder at axial coordinate 17 |
-| Outer turning-interface separation | 0.20 nominal total, generated from ±0.10 profile offsets |
-| Track cutter expansion | 0.40 from the unrounded v3.1 flange profile; 0.20 extra beyond the earlier allowance |
-| Internal edge protrusion rounding | 0.60 nominal away from the later radial-ridge cuts |
-| Internal corner lead-in rounding | 0.45 nominal |
-| General exposed-edge rounding | 1.0 nominal |
-| Two radial ridges per edge | Constant 3.0 transverse radius, including the stepped track zone |
-| Rotating screw bore | Ø3.3 |
-| Direct-to-plastic core pilots | Ø2.6, four through body diagonals / eight entries |
-| Washer seat plane | 34 from center along the axis |
-| Washer | OD13, ID nominal 3.2, thickness 0.55 |
-| Access well | Ø13.8; checked for a Ø12 tubular bit-holder envelope |
-| Intended axial play | About 0.10; practical starting range 0.08–0.15 |
-| Screw | M3 × 20 machine screw, flat underside; nominal core engagement 7.35 |
+The compact rail dimensions are regenerated at 80% of the old size, while the
+track allowance and R3 ridge rounding remain unscaled. The smaller washer well
+allows the surrounding structure to shrink. Uniformly scaling the old STL would
+also shrink hardware holes and working clearances, and would not produce this design.
+The compact and 80 mm parts **do not interchange**. The older
+[design reference](design-v4.2.1.md), [files](../models/current) and
+[release](https://github.com/lukacslacko/wonkycube/releases/tag/v4.2.1) remain available.
 
-The radial distance to the core sphere, axial pad coordinates and distance from a turn axis are different coordinates. The similar-looking numbers in the table must not be substituted for one another.
+## Retention, motion and bearings
 
-![Axle, matching flat bearing foot and external screw access](images/axle-section-v3.png)
+Stepped surfaces of revolution provide flat retaining shoulders. Their remaining
+overlap obstructs outward edge movement. Neighboring passages are derived from
+the swept **unrounded** flanges, expanded by 0.40 mm; the printed flange receives
+its small rounding separately. The long radial ridges use a constant 3 mm radius
+in transverse sections, continuing through the inner track region. These features
+provide entry relief while preserving capture material.
 
-This axle drawing was made for v3; the bearing and hardware dimensions shown are retained in the current design. Its original testing-status footer refers to that earlier stage.
+Reducing the main-face gap to 0.03 mm addresses one source of slack while keeping
+the established track allowance. It does not eliminate every degree of freedom:
+the retained track geometry still has measured radial travel before obstruction.
+The numerical checks and physical feedback are detailed in
+[VALIDATION.md](../designs/redi-v4.3/VALIDATION.md).
 
-## Rail and track construction
+The core remains spherical between its eight intentional bearing flats and prints
+on one of those flats. Each C piece has a matching flat annular foot, radius 3.20,
+at axial coordinate 17.70, nominally 0.10 above the core flat. The stationary
+screw clears the rotating Ø3.60 bore; the washer limits axial movement. The washer
+seat is at 27.30, its top at 28.30, and the 20 mm screw tip at 8.30. The nominal
+nut occupies axial coordinates 11.65–15.65, leaving 3.35 mm of screw past its inner
+face. The eight screw envelopes clear each other, so shorter screws are not needed.
 
-The basic cut is a surface of revolution. In its meridian, `(rho,z)` follows a cone with `rho = sqrt(2) z`, detours through a stepped annular rail at z14–17, then returns to the cone. The shoulder at z17 supplies positive capture. [mechanism_v3.py](../cad/mechanism_v3.py) gives the full polygon and true-distance offsets.
+The nut loads sideways beneath a 1.95 mm roof, metal face toward the screw and
+nylon end toward the center. The default pocket is 5.60 across flats; optional
+5.50 and 5.70 variants and coupons are supplied. Existing small ribs aid insertion
+retention but have not provided reliable resistance to screw torque in the build.
 
-Intersecting two axis cells produces an edge. Subtracting the other cells leaves space for the remaining pieces. Small disconnected inner intersections are discarded deliberately, with a check that they stay inside the intended inner region.
+![Compact hardware dimensions](../designs/redi-v4.3/images/hardware-dimensions.png)
 
-The assembly relief follows actual nonconvex edge-foot insertion sweeps. Later tracks use the rotational envelope of the **unrounded** foot, widened before subtracting it from the corner. Printed edge feet are rounded separately. Bearing feet, stems and washer collars are protected from these internal edits. [mechanism_v4.py](../cad/mechanism_v4.py) implements these operations.
+## Known core issue and next change
 
-The 3 mm ridge cutter uses actual inner track sections and the analytic conical profile farther outward. The radius stays fixed while the center follows the surface. It cuts both ridges of a canonical edge and maps them to the other edges using proper cube rotations. This also trims the radial ends of the flanges, so retention is rechecked. See [mechanism_v4p2.py](../cad/mechanism_v4p2.py).
+**Observed:** roughly half the installed nuts rotate in their seats as the screw
+passes through the DIN985 nylon locking ring. This is a nut-to-core antirotation
+failure; the report does not indicate a problem with the other pieces. A retaining
+roof that blocks axial withdrawal does not establish torsional holding capacity.
 
-The publication export uses the v4.1 baseline and only subtracts from the edges. Core and corner STL files are byte-identical to the baseline; no new screws, washers or main dimensions are needed.
+**Proposed core-only change, not implemented in this release:**
+
+- Keep the mouth and most of the loading passage easy to insert through.
+- Narrow the terminal seat around the screw bore, with a short lead-in and enough
+  flat engagement to prevent the nut turning. Press the nut through this final
+  region with a blunt metal rod; avoid making the whole slot a long interference fit.
+- Preserve the nut's final depth, screw alignment, roof, bearing flats and core
+  envelope, keeping the printed C and E pieces compatible.
+- Select the final interference using real nuts and printed coupons. Check that
+  each fully seated nut survives screw insertion through the nylon ring and removal
+  without spinning or splitting the pocket; repeat the check in all eight core
+  slots. No final narrowed dimension or torque rating has yet been established.
+
+The optional 5.50/5.70 cores change the existing pocket width; neither is claimed
+to implement this separate entrance/seat fit or to resolve the reported defect.
+This release publishes the tested assembly geometry with the limitation visible.
+
+## Printing and assembly
+
+Edges are supplied with their **inward radial vector pointing down (−Z)** and their
+lowest point at Z = 0, matching the owner's preferred printing results. Corners
+keep an exterior face on the bed. The core uses one existing axle flat. These print
+poses are not assembly coordinates; transforms are stored in
+[manifest.json](../designs/redi-v4.3/manifest.json).
+
+Load and check all nuts, place the edges around the core, then insert and screw in
+the C pieces. The optional stand withdraws through the last empty C corridor.
+Tune each screw by the rotating piece's resistance: the locknut already creates
+driver resistance before the bearing clamps. One fifth turn of an M3 × 0.5 thread
+corresponds to 0.10 mm of screw-head travel, not a guarantee of a universal release
+setting. See the [assembly guide](../designs/redi-v4.3/ASSEMBLY.md) for the sequence.

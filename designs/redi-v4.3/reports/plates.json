@@ -1,0 +1,50 @@
+{
+  "plates": [
+    {
+      "file": "plates/C-01.3mf",
+      "objects": 8,
+      "passed": true,
+      "sha256": "662170e631ca5fa037dd5da42c575ffe04fa450ef88a63dea889bb90dabe24a5"
+    },
+    {
+      "file": "plates/E-01.3mf",
+      "objects": 12,
+      "passed": true,
+      "sha256": "fc6d68c22352eb054fbbdbe26d778fbc68c3d3d9c64fee2b8e3deab4f8f41884"
+    },
+    {
+      "file": "plates/core-01.3mf",
+      "objects": 1,
+      "passed": true,
+      "sha256": "109c1d7787b85c3d122403cf99cd25e82af9ffd97e840ab932a6aa182acfb827"
+    },
+    {
+      "file": "plates/fit-coupons-01.3mf",
+      "objects": 4,
+      "passed": true,
+      "sha256": "bb1073930ee296bec7fbb982eaed396b815b5fb0a36dc57c5961a9e9415f2270"
+    },
+    {
+      "file": "plates/optional-01.3mf",
+      "objects": 1,
+      "passed": true,
+      "sha256": "9b964e027321cee8179f84007107eab9a92ec2f435ee156981cd1bf32fb8b6ce"
+    },
+    {
+      "file": "plates/optional-core-5.50-01.3mf",
+      "objects": 1,
+      "passed": true,
+      "sha256": "81160ae4ad337fc41edf720ba212f6cbdaee9db9e6541391cadb1164253c2828"
+    },
+    {
+      "file": "plates/optional-core-5.70-01.3mf",
+      "objects": 1,
+      "passed": true,
+      "sha256": "d1219572dc4a67dbaf8332382e84af756ce3f171085f0965b8aee6df0d0bed44"
+    }
+  ],
+  "_completion": {
+    "passed": true,
+    "seconds": 2.970654010772705
+  }
+}

@@ -1,18 +1,20 @@
 # Wonkycube
 
-An 80 mm, 3D-printable corner-turning puzzle with a cube-shaped exterior rotated away from its mechanism. Eight corners turn about the cube's body diagonals; twelve movable edges have different exterior shapes. Scramble it and the cube changes shape.
+An open-source, 3D-printable corner-turning puzzle with a cube-shaped exterior rotated away from its mechanism. Eight corners turn about the mechanism's body diagonals; twelve movable edges have different exterior shapes. Scramble it and the cube changes shape. The latest version, **v4.3, is 64 mm across**.
 
-![Wonkycube, assembled and opened to reveal its mechanism](docs/images/wonkycube.png)
+![Compact 64 mm Wonkycube](designs/redi-v4.3/images/solved.png)
 
 Designed and physically iterated by **László Lukács**, with CAD, optimization and documentation developed with OpenAI Codex. Source, documentation and original generated models are available under the [MIT license](LICENSE).
 
 ## Print one
 
-Download the [latest release](https://github.com/lukacslacko/wonkycube/releases/latest), or use [models/current](models/current). The full set contains **21 puzzle parts**: one core, eight corners and twelve edges. You also need **eight M3 × 20 machine screws with flat head undersides** and **eight washers, Ø13 × 0.55 mm**. No inserts, sleeves, hidden nuts or glued shells.
+Download [v4.3](https://github.com/lukacslacko/wonkycube/releases/tag/v4.3), or use [designs/redi-v4.3](designs/redi-v4.3). The full set contains **21 puzzle parts**: one core, eight corners and twelve edges. You also need eight each of **DIN912 M3 × 20 socket-head screws**, **Ø9 × 1 mm washers with M3 clearance holes**, and **DIN985 M3 nylon-insert locknuts**. The nuts load sideways into the core; no glued shells or separate printed retainers are needed.
 
-Use millimetres, **100% scale**, and a 0.4 mm nozzle. The project was developed on a Bambu Lab P1S with PLA as the original baseline. The 3MF plates contain geometry, not a validated slicer profile or G-code. Start with the [printing and assembly guide](docs/printing-and-assembly.md).
+Use millimetres, **100% scale**, and a 0.4 mm nozzle. The project was developed on a Bambu Lab P1S with PLA as the original baseline. The edge STLs already point radially inward toward the bed, the owner's preferred print orientation. The 3MF plates contain geometry, not a validated slicer profile or G-code. Start with the [v4.3 printing and assembly guide](designs/redi-v4.3/ASSEMBLY.md) and [piece-neighbor list](designs/redi-v4.3/NEIGHBORS.md).
 
-The owner reports that the **v4.2 / 3 mm revision printed very well**. The downloadable **v4.2.1** is a fresh, consistent publication export with the same main dimensions, unchanged core/corners, and the intended 3 mm rounding continued through the tracks. It has digital verification; that exact export has not separately been reported printed. [Validation and file provenance](docs/validation.md) explain the distinction.
+The owner built the compact revision and reports that everything except nut retention feels very nice. **Known core issue:** about half the nut seats allow the nut to spin under the locknut's installation torque. The proposed improvement keeps the loading entrance wide and narrows only the final seat around the screw hole, allowing the nut to be pressed home with a blunt metal rod. **That improvement is documented, not yet implemented in the released core.** See the [design and follow-up specification](docs/design.md#known-core-issue-and-next-change).
+
+The [80 mm v4.2.1 release](https://github.com/lukacslacko/wonkycube/releases/tag/v4.2.1) and [its files](models/current) remain available. The compact version uses a smaller mechanism and different hardware; **do not mix parts between these versions**. The historical `models/current` directory still denotes the 80 mm set.
 
 ## Why it turns well
 
@@ -25,10 +27,10 @@ The most useful result beyond this particular puzzle is the [mechanism design gu
 | Resource | Purpose |
 |---|---|
 | [Mechanism principles](docs/mechanism-principles.md) | Transferable design knowledge, independent of this cube's appearance |
-| [Design reference](docs/design.md) | Actual dimensions, axes, rotation and shape-distinction objective |
-| [Printing and assembly](docs/printing-and-assembly.md) | Hardware, orientation, adjustment, fixture and piece map |
-| [Validation](docs/validation.md) | Checks, results, provenance and practical limits |
+| [Design reference](docs/design.md) | Current dimensions, rotation, version comparison and pending core improvement |
+| [Printing and assembly](designs/redi-v4.3/ASSEMBLY.md) | Compact hardware, orientation, nut loading and screw adjustment |
+| [Validation](designs/redi-v4.3/VALIDATION.md) | Compact checks, physical feedback, provenance and practical limits |
 | [Development history](docs/development-history.md) | How the printed feedback changed the design |
-| [CAD and reproduction](cad/README.md) | Python/Manifold source, fixed baseline, regeneration and checks |
+| [CAD and reproduction](designs/redi-v4.3/source/README.md) | Compact Python/Manifold source, canonical masters, regeneration and checks |
 
 The chosen exterior rotation is a best-found numerical result under a sampled shape-distance objective, not a proof of the globally most distinctive possible puzzle. The edge attachments intentionally interchange during play; their exteriors distinguish solved locations. Mirror images count as different.

@@ -1,0 +1,471 @@
+{
+  "common_directions": 1880,
+  "proper_mounting_orientations": 2,
+  "minimum_pair_rms_mm": 3.023957582997525,
+  "pairs": [
+    {
+      "edges": [
+        "E01",
+        "E02"
+      ],
+      "minimum_rms_mm": 5.168232476732567
+    },
+    {
+      "edges": [
+        "E01",
+        "E03"
+      ],
+      "minimum_rms_mm": 4.646962586305338
+    },
+    {
+      "edges": [
+        "E01",
+        "E04"
+      ],
+      "minimum_rms_mm": 6.388503808792754
+    },
+    {
+      "edges": [
+        "E01",
+        "E05"
+      ],
+      "minimum_rms_mm": 5.61193202385146
+    },
+    {
+      "edges": [
+        "E01",
+        "E06"
+      ],
+      "minimum_rms_mm": 5.076602581407157
+    },
+    {
+      "edges": [
+        "E01",
+        "E07"
+      ],
+      "minimum_rms_mm": 5.693275638717785
+    },
+    {
+      "edges": [
+        "E01",
+        "E08"
+      ],
+      "minimum_rms_mm": 4.006933175167638
+    },
+    {
+      "edges": [
+        "E01",
+        "E09"
+      ],
+      "minimum_rms_mm": 4.538912893516389
+    },
+    {
+      "edges": [
+        "E01",
+        "E10"
+      ],
+      "minimum_rms_mm": 6.226632558369274
+    },
+    {
+      "edges": [
+        "E01",
+        "E11"
+      ],
+      "minimum_rms_mm": 6.116385204518136
+    },
+    {
+      "edges": [
+        "E01",
+        "E12"
+      ],
+      "minimum_rms_mm": 4.626567986008902
+    },
+    {
+      "edges": [
+        "E02",
+        "E03"
+      ],
+      "minimum_rms_mm": 7.064376447541162
+    },
+    {
+      "edges": [
+        "E02",
+        "E04"
+      ],
+      "minimum_rms_mm": 5.13593156538651
+    },
+    {
+      "edges": [
+        "E02",
+        "E05"
+      ],
+      "minimum_rms_mm": 6.770962636776054
+    },
+    {
+      "edges": [
+        "E02",
+        "E06"
+      ],
+      "minimum_rms_mm": 7.980985087434523
+    },
+    {
+      "edges": [
+        "E02",
+        "E07"
+      ],
+      "minimum_rms_mm": 8.249418343840162
+    },
+    {
+      "edges": [
+        "E02",
+        "E08"
+      ],
+      "minimum_rms_mm": 6.076425470296624
+    },
+    {
+      "edges": [
+        "E02",
+        "E09"
+      ],
+      "minimum_rms_mm": 3.3946747846238514
+    },
+    {
+      "edges": [
+        "E02",
+        "E10"
+      ],
+      "minimum_rms_mm": 7.202770955251229
+    },
+    {
+      "edges": [
+        "E02",
+        "E11"
+      ],
+      "minimum_rms_mm": 3.824471864296555
+    },
+    {
+      "edges": [
+        "E02",
+        "E12"
+      ],
+      "minimum_rms_mm": 6.114235033541278
+    },
+    {
+      "edges": [
+        "E03",
+        "E04"
+      ],
+      "minimum_rms_mm": 5.906458881810868
+    },
+    {
+      "edges": [
+        "E03",
+        "E05"
+      ],
+      "minimum_rms_mm": 4.971718752913995
+    },
+    {
+      "edges": [
+        "E03",
+        "E06"
+      ],
+      "minimum_rms_mm": 3.0648278068283585
+    },
+    {
+      "edges": [
+        "E03",
+        "E07"
+      ],
+      "minimum_rms_mm": 3.9845656430738643
+    },
+    {
+      "edges": [
+        "E03",
+        "E08"
+      ],
+      "minimum_rms_mm": 3.425526678779483
+    },
+    {
+      "edges": [
+        "E03",
+        "E09"
+      ],
+      "minimum_rms_mm": 5.625555244514409
+    },
+    {
+      "edges": [
+        "E03",
+        "E10"
+      ],
+      "minimum_rms_mm": 3.023957582997525
+    },
+    {
+      "edges": [
+        "E03",
+        "E11"
+      ],
+      "minimum_rms_mm": 7.1921030847008325
+    },
+    {
+      "edges": [
+        "E03",
+        "E12"
+      ],
+      "minimum_rms_mm": 6.183157922373179
+    },
+    {
+      "edges": [
+        "E04",
+        "E05"
+      ],
+      "minimum_rms_mm": 5.229900744897598
+    },
+    {
+      "edges": [
+        "E04",
+        "E06"
+      ],
+      "minimum_rms_mm": 7.372323071031183
+    },
+    {
+      "edges": [
+        "E04",
+        "E07"
+      ],
+      "minimum_rms_mm": 7.147539476652213
+    },
+    {
+      "edges": [
+        "E04",
+        "E08"
+      ],
+      "minimum_rms_mm": 5.83703330411088
+    },
+    {
+      "edges": [
+        "E04",
+        "E09"
+      ],
+      "minimum_rms_mm": 5.248231945120933
+    },
+    {
+      "edges": [
+        "E04",
+        "E10"
+      ],
+      "minimum_rms_mm": 5.623104155679291
+    },
+    {
+      "edges": [
+        "E04",
+        "E11"
+      ],
+      "minimum_rms_mm": 3.422103263914708
+    },
+    {
+      "edges": [
+        "E04",
+        "E12"
+      ],
+      "minimum_rms_mm": 4.545860017437591
+    },
+    {
+      "edges": [
+        "E05",
+        "E06"
+      ],
+      "minimum_rms_mm": 6.0135146416703416
+    },
+    {
+      "edges": [
+        "E05",
+        "E07"
+      ],
+      "minimum_rms_mm": 4.203940812016712
+    },
+    {
+      "edges": [
+        "E05",
+        "E08"
+      ],
+      "minimum_rms_mm": 6.153177109761223
+    },
+    {
+      "edges": [
+        "E05",
+        "E09"
+      ],
+      "minimum_rms_mm": 5.853539914539402
+    },
+    {
+      "edges": [
+        "E05",
+        "E10"
+      ],
+      "minimum_rms_mm": 3.463844733019408
+    },
+    {
+      "edges": [
+        "E05",
+        "E11"
+      ],
+      "minimum_rms_mm": 6.080525373571495
+    },
+    {
+      "edges": [
+        "E05",
+        "E12"
+      ],
+      "minimum_rms_mm": 3.986655779793835
+    },
+    {
+      "edges": [
+        "E06",
+        "E07"
+      ],
+      "minimum_rms_mm": 3.0428363847001996
+    },
+    {
+      "edges": [
+        "E06",
+        "E08"
+      ],
+      "minimum_rms_mm": 4.20416741660271
+    },
+    {
+      "edges": [
+        "E06",
+        "E09"
+      ],
+      "minimum_rms_mm": 7.14386865915887
+    },
+    {
+      "edges": [
+        "E06",
+        "E10"
+      ],
+      "minimum_rms_mm": 4.02773252733901
+    },
+    {
+      "edges": [
+        "E06",
+        "E11"
+      ],
+      "minimum_rms_mm": 8.26752897425179
+    },
+    {
+      "edges": [
+        "E06",
+        "E12"
+      ],
+      "minimum_rms_mm": 5.6633273851732735
+    },
+    {
+      "edges": [
+        "E07",
+        "E08"
+      ],
+      "minimum_rms_mm": 5.999532829322554
+    },
+    {
+      "edges": [
+        "E07",
+        "E09"
+      ],
+      "minimum_rms_mm": 7.366925959083018
+    },
+    {
+      "edges": [
+        "E07",
+        "E10"
+      ],
+      "minimum_rms_mm": 3.059805647753565
+    },
+    {
+      "edges": [
+        "E07",
+        "E11"
+      ],
+      "minimum_rms_mm": 7.986479030526092
+    },
+    {
+      "edges": [
+        "E07",
+        "E12"
+      ],
+      "minimum_rms_mm": 5.064092019370215
+    },
+    {
+      "edges": [
+        "E08",
+        "E09"
+      ],
+      "minimum_rms_mm": 5.222808911034982
+    },
+    {
+      "edges": [
+        "E08",
+        "E10"
+      ],
+      "minimum_rms_mm": 5.020503395600711
+    },
+    {
+      "edges": [
+        "E08",
+        "E11"
+      ],
+      "minimum_rms_mm": 6.768669586782131
+    },
+    {
+      "edges": [
+        "E08",
+        "E12"
+      ],
+      "minimum_rms_mm": 5.610443391062318
+    },
+    {
+      "edges": [
+        "E09",
+        "E10"
+      ],
+      "minimum_rms_mm": 5.932408520964907
+    },
+    {
+      "edges": [
+        "E09",
+        "E11"
+      ],
+      "minimum_rms_mm": 5.137759565885657
+    },
+    {
+      "edges": [
+        "E09",
+        "E12"
+      ],
+      "minimum_rms_mm": 6.387198550893315
+    },
+    {
+      "edges": [
+        "E10",
+        "E11"
+      ],
+      "minimum_rms_mm": 7.065476745005338
+    },
+    {
+      "edges": [
+        "E10",
+        "E12"
+      ],
+      "minimum_rms_mm": 4.641191794860844
+    },
+    {
+      "edges": [
+        "E11",
+        "E12"
+      ],
+      "minimum_rms_mm": 5.16978270247871
+    }
+  ],
+  "passed": true,
+  "scope": "Sampled exterior difference in both proper lens orientations; mirrored shapes remain distinct. No new rotation optimization or arbitrary forced-fit claim."
+}

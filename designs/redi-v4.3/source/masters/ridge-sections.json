@@ -1,0 +1,1664 @@
+[
+  {
+    "x_mm": 16.0,
+    "circle_center_y_mm": 14.486051129996776,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 16.25,
+    "circle_center_y_mm": 14.129700529277324,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 16.5,
+    "circle_center_y_mm": 13.755754875838756,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 16.75,
+    "circle_center_y_mm": 13.362401465773582,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 17.0,
+    "circle_center_y_mm": 12.947536724507808,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 17.25,
+    "circle_center_y_mm": 12.508704411685466,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 17.5,
+    "circle_center_y_mm": 12.040367203652858,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 17.75,
+    "circle_center_y_mm": 11.537950816452502,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 17.875,
+    "circle_center_y_mm": 11.27481311827898,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 18.0,
+    "circle_center_y_mm": 10.998932237625121,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 18.125,
+    "circle_center_y_mm": 10.710485662221908,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 18.25,
+    "circle_center_y_mm": 10.410390737354755,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 18.375,
+    "circle_center_y_mm": 10.096649977266788,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 18.5,
+    "circle_center_y_mm": 9.764532941281795,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 18.625,
+    "circle_center_y_mm": 9.411311040520667,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 18.75,
+    "circle_center_y_mm": 9.035677942335605,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 18.875,
+    "circle_center_y_mm": 8.632841880321502,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 18.9375,
+    "circle_center_y_mm": 8.419966134130954,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.0,
+    "circle_center_y_mm": 8.196492801308631,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.125,
+    "circle_center_y_mm": 7.718142199218273,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.1875,
+    "circle_center_y_mm": 7.454133662283421,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.25,
+    "circle_center_y_mm": 7.178163844048977,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.3125,
+    "circle_center_y_mm": 6.88093740016222,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.375,
+    "circle_center_y_mm": 6.55293309211731,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.40625,
+    "circle_center_y_mm": 6.382330375611782,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.4375,
+    "circle_center_y_mm": 6.193051914572716,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.46875,
+    "circle_center_y_mm": 6.00377346098423,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.5,
+    "circle_center_y_mm": 5.786752554476261,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.53125,
+    "circle_center_y_mm": 5.5678633254766465,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.5625,
+    "circle_center_y_mm": 5.308954718410969,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.56640625,
+    "circle_center_y_mm": 5.276556680798531,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0005
+  },
+  {
+    "x_mm": 19.568359375,
+    "circle_center_y_mm": 5.266363494662163,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5489909525983145
+  },
+  {
+    "x_mm": 19.5703125,
+    "circle_center_y_mm": 5.264410370392565,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5489913969356065
+  },
+  {
+    "x_mm": 19.578125,
+    "circle_center_y_mm": 5.256597869776835,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.548991022386289
+  },
+  {
+    "x_mm": 19.59375,
+    "circle_center_y_mm": 5.2409728699630245,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5489911356774416
+  },
+  {
+    "x_mm": 19.625,
+    "circle_center_y_mm": 5.209722869826192,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5489910524213408
+  },
+  {
+    "x_mm": 19.65625,
+    "circle_center_y_mm": 5.178469682150578,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5503393234834024
+  },
+  {
+    "x_mm": 19.671875,
+    "circle_center_y_mm": 5.1627366982184615,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5562481528317426
+  },
+  {
+    "x_mm": 19.6796875,
+    "circle_center_y_mm": 5.155123625899505,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.572156453920254
+  },
+  {
+    "x_mm": 19.681640625,
+    "circle_center_y_mm": 5.153107253631545,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5721726620608713
+  },
+  {
+    "x_mm": 19.68359375,
+    "circle_center_y_mm": 5.151776880760898,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5972401665024767
+  },
+  {
+    "x_mm": 19.6875,
+    "circle_center_y_mm": 5.149246385316927,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.597240192220934
+  },
+  {
+    "x_mm": 19.75,
+    "circle_center_y_mm": 5.108758518152466,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5972402127862642
+  },
+  {
+    "x_mm": 19.8125,
+    "circle_center_y_mm": 5.068270647496217,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.597240221799793
+  },
+  {
+    "x_mm": 19.828125,
+    "circle_center_y_mm": 5.058148677337518,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5972402208922258
+  },
+  {
+    "x_mm": 19.830078125,
+    "circle_center_y_mm": 5.056883430848232,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5972401638321356
+  },
+  {
+    "x_mm": 19.83203125,
+    "circle_center_y_mm": 5.055713652519267,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6590129479520227
+  },
+  {
+    "x_mm": 19.8359375,
+    "circle_center_y_mm": 5.0551130911824815,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6590129341638934
+  },
+  {
+    "x_mm": 19.84375,
+    "circle_center_y_mm": 5.053911971531146,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6590127872768918
+  },
+  {
+    "x_mm": 19.875,
+    "circle_center_y_mm": 5.049107473923908,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6590128972405495
+  },
+  {
+    "x_mm": 19.9375,
+    "circle_center_y_mm": 5.0394984915620045,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6590127941142515
+  },
+  {
+    "x_mm": 19.96875,
+    "circle_center_y_mm": 5.034693999485692,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.659012881733804
+  },
+  {
+    "x_mm": 19.984375,
+    "circle_center_y_mm": 5.032291751702036,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6590128699052872
+  },
+  {
+    "x_mm": 19.9921875,
+    "circle_center_y_mm": 5.031090628580742,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6590129055049521
+  },
+  {
+    "x_mm": 19.99609375,
+    "circle_center_y_mm": 5.030490067325971,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.659012926727045
+  },
+  {
+    "x_mm": 19.998046875,
+    "circle_center_y_mm": 5.030260365555223,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6996385973904689
+  },
+  {
+    "x_mm": 20.0,
+    "circle_center_y_mm": 5.030631147897153,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6996386711597912
+  },
+  {
+    "x_mm": 20.125,
+    "circle_center_y_mm": 5.053863072381891,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6916990856808578
+  },
+  {
+    "x_mm": 20.12890625,
+    "circle_center_y_mm": 5.0545763429253405,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.691699074953309
+  },
+  {
+    "x_mm": 20.130859375,
+    "circle_center_y_mm": 5.054932968293939,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6916990861879865
+  },
+  {
+    "x_mm": 20.1328125,
+    "circle_center_y_mm": 5.055383001860134,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7444017117687203
+  },
+  {
+    "x_mm": 20.140625,
+    "circle_center_y_mm": 5.060287503601849,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7444016363704175
+  },
+  {
+    "x_mm": 20.15625,
+    "circle_center_y_mm": 5.070096505383842,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7444016030527537
+  },
+  {
+    "x_mm": 20.1875,
+    "circle_center_y_mm": 5.08971451896016,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7444017440883445
+  },
+  {
+    "x_mm": 20.25,
+    "circle_center_y_mm": 5.12895054048061,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.744401821812064
+  },
+  {
+    "x_mm": 20.28125,
+    "circle_center_y_mm": 5.1485685465481685,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7444016182502136
+  },
+  {
+    "x_mm": 20.28515625,
+    "circle_center_y_mm": 5.1510207995174975,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7444016570597101
+  },
+  {
+    "x_mm": 20.287109375,
+    "circle_center_y_mm": 5.15224692420792,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7444016180961422
+  },
+  {
+    "x_mm": 20.2890625,
+    "circle_center_y_mm": 5.153714909605938,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.785405139963164
+  },
+  {
+    "x_mm": 20.296875,
+    "circle_center_y_mm": 5.1615274034851,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 20.3125,
+    "circle_center_y_mm": 5.177152409511618,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853982320250105
+  },
+  {
+    "x_mm": 20.375,
+    "circle_center_y_mm": 5.2396524034851,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 20.5,
+    "circle_center_y_mm": 5.364652410440615,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853980260252439
+  },
+  {
+    "x_mm": 20.75,
+    "circle_center_y_mm": 5.614652404861251,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981850251943
+  },
+  {
+    "x_mm": 21.0,
+    "circle_center_y_mm": 5.8646524057239136,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981400019003
+  },
+  {
+    "x_mm": 21.25,
+    "circle_center_y_mm": 6.1146524034851,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 21.5,
+    "circle_center_y_mm": 6.364652403485099,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 21.75,
+    "circle_center_y_mm": 6.614652403485099,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 22.0,
+    "circle_center_y_mm": 6.864652403485099,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 22.25,
+    "circle_center_y_mm": 7.114652403485099,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 22.5,
+    "circle_center_y_mm": 7.364652403485099,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 22.75,
+    "circle_center_y_mm": 7.61465241093568,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 23.0,
+    "circle_center_y_mm": 7.864652403485099,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 23.25,
+    "circle_center_y_mm": 8.114652403485097,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 23.5,
+    "circle_center_y_mm": 8.364652410655074,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981496384325
+  },
+  {
+    "x_mm": 23.75,
+    "circle_center_y_mm": 8.614652403485097,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7853981633974482
+  },
+  {
+    "x_mm": 23.78125,
+    "circle_center_y_mm": 8.64589188712312,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7831716273822715
+  },
+  {
+    "x_mm": 23.796875,
+    "circle_center_y_mm": 8.659892468150202,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7595917244811782
+  },
+  {
+    "x_mm": 23.8046875,
+    "circle_center_y_mm": 8.66594996265069,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7467531286461085
+  },
+  {
+    "x_mm": 23.8125,
+    "circle_center_y_mm": 8.671341549510718,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7340653197832266
+  },
+  {
+    "x_mm": 23.828125,
+    "circle_center_y_mm": 8.680401151062666,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.7117819436373448
+  },
+  {
+    "x_mm": 23.84375,
+    "circle_center_y_mm": 8.687185320402042,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6901279653048551
+  },
+  {
+    "x_mm": 23.859375,
+    "circle_center_y_mm": 8.691881634689528,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6660739749429722
+  },
+  {
+    "x_mm": 23.875,
+    "circle_center_y_mm": 8.69463415038467,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6453517574344999
+  },
+  {
+    "x_mm": 23.890625,
+    "circle_center_y_mm": 8.694693202488109,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6238883264959579
+  },
+  {
+    "x_mm": 23.90625,
+    "circle_center_y_mm": 8.692474295553506,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6068566001309552
+  },
+  {
+    "x_mm": 23.9375,
+    "circle_center_y_mm": 8.686661055085127,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6068566040900782
+  },
+  {
+    "x_mm": 24.0,
+    "circle_center_y_mm": 8.675034569620845,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6068566186814255
+  },
+  {
+    "x_mm": 24.25,
+    "circle_center_y_mm": 8.628528619669135,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6068566257781429
+  },
+  {
+    "x_mm": 24.375,
+    "circle_center_y_mm": 8.60519339323444,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.6001448696148399
+  },
+  {
+    "x_mm": 24.390625,
+    "circle_center_y_mm": 8.600792230829974,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5789816886033992
+  },
+  {
+    "x_mm": 24.40625,
+    "circle_center_y_mm": 8.594484480545663,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5580524468848442
+  },
+  {
+    "x_mm": 24.421875,
+    "circle_center_y_mm": 8.586345973972355,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5344079709209898
+  },
+  {
+    "x_mm": 24.4375,
+    "circle_center_y_mm": 8.574606289597716,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.515109929023846
+  },
+  {
+    "x_mm": 24.4453125,
+    "circle_center_y_mm": 8.567860747351562,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5025434661018875
+  },
+  {
+    "x_mm": 24.453125,
+    "circle_center_y_mm": 8.560578325404819,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.49006321043792256
+  },
+  {
+    "x_mm": 24.46875,
+    "circle_center_y_mm": 8.544578492576644,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.46795398514256903
+  },
+  {
+    "x_mm": 24.484375,
+    "circle_center_y_mm": 8.526631233625361,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4435097864021984
+  },
+  {
+    "x_mm": 24.5,
+    "circle_center_y_mm": 8.506810336878203,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4216443576175056
+  },
+  {
+    "x_mm": 24.75,
+    "circle_center_y_mm": 8.144751172963135,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.43611962634430956
+  },
+  {
+    "x_mm": 25.0,
+    "circle_center_y_mm": 7.778238984859242,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4361196414688311
+  },
+  {
+    "x_mm": 25.125,
+    "circle_center_y_mm": 7.594845705590983,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4452243437503543
+  },
+  {
+    "x_mm": 25.1875,
+    "circle_center_y_mm": 7.501626413273306,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4684386657911684
+  },
+  {
+    "x_mm": 25.25,
+    "circle_center_y_mm": 7.40729471866849,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4712324732045127
+  },
+  {
+    "x_mm": 25.5,
+    "circle_center_y_mm": 7.029915375348199,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4712324980658825
+  },
+  {
+    "x_mm": 25.625,
+    "circle_center_y_mm": 6.841225703890088,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.47123257815671665
+  },
+  {
+    "x_mm": 25.6875,
+    "circle_center_y_mm": 6.74645692123734,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.48710166949985945
+  },
+  {
+    "x_mm": 25.75,
+    "circle_center_y_mm": 6.649923865024122,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5068685363089159
+  },
+  {
+    "x_mm": 25.78125,
+    "circle_center_y_mm": 6.601322143222199,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.5068687973505005
+  },
+  {
+    "x_mm": 25.796875,
+    "circle_center_y_mm": 6.576731139361983,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.49386445825490377
+  },
+  {
+    "x_mm": 25.8046875,
+    "circle_center_y_mm": 6.563347580976995,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4796018729525226
+  },
+  {
+    "x_mm": 25.8125,
+    "circle_center_y_mm": 6.549142656387611,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4628096247411142
+  },
+  {
+    "x_mm": 25.8203125,
+    "circle_center_y_mm": 6.534000177378322,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.4461569230067017
+  },
+  {
+    "x_mm": 25.828125,
+    "circle_center_y_mm": 6.517942768576822,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.42963583734126937
+  },
+  {
+    "x_mm": 25.8359375,
+    "circle_center_y_mm": 6.500991425851039,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.41323888816488735
+  },
+  {
+    "x_mm": 25.84375,
+    "circle_center_y_mm": 6.483213014562101,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.39906822565173067
+  },
+  {
+    "x_mm": 25.8515625,
+    "circle_center_y_mm": 6.463964639607849,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.3824778219821463
+  },
+  {
+    "x_mm": 25.859375,
+    "circle_center_y_mm": 6.44057100900553,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.36411380796674425
+  },
+  {
+    "x_mm": 25.8671875,
+    "circle_center_y_mm": 6.416102215537219,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.3458774448064526
+  },
+  {
+    "x_mm": 25.875,
+    "circle_center_y_mm": 6.390630915621651,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.32950724594928876
+  },
+  {
+    "x_mm": 25.8828125,
+    "circle_center_y_mm": 6.364173998711203,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.31149052097234664
+  },
+  {
+    "x_mm": 25.890625,
+    "circle_center_y_mm": 6.336699955357011,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.29357772164660206
+  },
+  {
+    "x_mm": 25.8984375,
+    "circle_center_y_mm": 6.308225711965815,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.2757614142085346
+  },
+  {
+    "x_mm": 25.90625,
+    "circle_center_y_mm": 6.278766791730406,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.25803449243473886
+  },
+  {
+    "x_mm": 25.9140625,
+    "circle_center_y_mm": 6.24252006533171,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.23775100910672098
+  },
+  {
+    "x_mm": 25.921875,
+    "circle_center_y_mm": 6.204205590335694,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.21721448513866157
+  },
+  {
+    "x_mm": 25.9296875,
+    "circle_center_y_mm": 6.1646012936856485,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.19677063675108092
+  },
+  {
+    "x_mm": 25.9375,
+    "circle_center_y_mm": 6.123723697950916,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.17640978126209136
+  },
+  {
+    "x_mm": 25.9453125,
+    "circle_center_y_mm": 6.081650978032456,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.15736973179627137
+  },
+  {
+    "x_mm": 25.953125,
+    "circle_center_y_mm": 6.03834516229771,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.13714339403588727
+  },
+  {
+    "x_mm": 25.9609375,
+    "circle_center_y_mm": 5.985747770398146,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.11391539421212626
+  },
+  {
+    "x_mm": 25.96875,
+    "circle_center_y_mm": 5.928372340032262,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.08958870506227086
+  },
+  {
+    "x_mm": 25.9765625,
+    "circle_center_y_mm": 5.8692183766104185,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.06531507046331875
+  },
+  {
+    "x_mm": 25.984375,
+    "circle_center_y_mm": 5.808295893459181,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.04107992579422815
+  },
+  {
+    "x_mm": 25.9921875,
+    "circle_center_y_mm": 5.745611744018035,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.016868902077813108
+  },
+  {
+    "x_mm": 25.99609375,
+    "circle_center_y_mm": 5.709373912682294,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0033500828424311425
+  },
+  {
+    "x_mm": 26.0,
+    "circle_center_y_mm": 5.666909342389722,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.0120402826245312
+  },
+  {
+    "x_mm": 26.00390625,
+    "circle_center_y_mm": 5.623734013035521,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.027433498456847588
+  },
+  {
+    "x_mm": 26.0078125,
+    "circle_center_y_mm": 5.579847283413649,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.04283322219464006
+  },
+  {
+    "x_mm": 26.01171875,
+    "circle_center_y_mm": 5.535247982292362,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.05824311783342116
+  },
+  {
+    "x_mm": 26.015625,
+    "circle_center_y_mm": 5.489934449063222,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.07366687116957171
+  },
+  {
+    "x_mm": 26.01953125,
+    "circle_center_y_mm": 5.4439045034087785,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.08910820530571596
+  },
+  {
+    "x_mm": 26.0234375,
+    "circle_center_y_mm": 5.397155418792054,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.10457087143121344
+  },
+  {
+    "x_mm": 26.02734375,
+    "circle_center_y_mm": 5.3370469749213365,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.12383919590219017
+  },
+  {
+    "x_mm": 26.03125,
+    "circle_center_y_mm": 5.268382361869157,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.14533941281130222
+  },
+  {
+    "x_mm": 26.03515625,
+    "circle_center_y_mm": 5.198311823242959,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.16690751841083085
+  },
+  {
+    "x_mm": 26.0390625,
+    "circle_center_y_mm": 5.126820951766679,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.18855429739841426
+  },
+  {
+    "x_mm": 26.04296875,
+    "circle_center_y_mm": 5.053893071710543,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.21029088377603333
+  },
+  {
+    "x_mm": 26.046875,
+    "circle_center_y_mm": 4.9769051636734565,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.2320673722095448
+  },
+  {
+    "x_mm": 26.048828125,
+    "circle_center_y_mm": 4.913268375158931,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.25013871848830066
+  },
+  {
+    "x_mm": 26.05078125,
+    "circle_center_y_mm": 4.848615719572071,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.2682939029502074
+  },
+  {
+    "x_mm": 26.052734375,
+    "circle_center_y_mm": 4.7829324085608125,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.2865401704816888
+  },
+  {
+    "x_mm": 26.0546875,
+    "circle_center_y_mm": 4.71620225743619,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.30488507983137036
+  },
+  {
+    "x_mm": 26.056640625,
+    "circle_center_y_mm": 4.655094019065577,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.32169390989871033
+  },
+  {
+    "x_mm": 26.05859375,
+    "circle_center_y_mm": 4.607091545481394,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.33621603377057574
+  },
+  {
+    "x_mm": 26.0625,
+    "circle_center_y_mm": 4.595831420976965,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.3413891856280569
+  },
+  {
+    "x_mm": 26.078125,
+    "circle_center_y_mm": 4.552723688468457,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.35544930336460684
+  },
+  {
+    "x_mm": 26.09375,
+    "circle_center_y_mm": 4.508438740778884,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.3716939355168128
+  },
+  {
+    "x_mm": 26.109375,
+    "circle_center_y_mm": 4.476705638828899,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.37932002068267
+  },
+  {
+    "x_mm": 26.11328125,
+    "circle_center_y_mm": 4.4695747822207545,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.38067758253918454
+  },
+  {
+    "x_mm": 26.115234375,
+    "circle_center_y_mm": 4.467847922020781,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8795907133677991
+  },
+  {
+    "x_mm": 26.1171875,
+    "circle_center_y_mm": 4.467828716433866,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8795907405096474
+  },
+  {
+    "x_mm": 26.125,
+    "circle_center_y_mm": 4.467751888057701,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8795907147569204
+  },
+  {
+    "x_mm": 26.25,
+    "circle_center_y_mm": 4.466522664944164,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8795907223160749
+  },
+  {
+    "x_mm": 26.5,
+    "circle_center_y_mm": 4.464064216069461,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8795907047396524
+  },
+  {
+    "x_mm": 26.75,
+    "circle_center_y_mm": 4.461605764543425,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8795907509101847
+  },
+  {
+    "x_mm": 26.8,
+    "circle_center_y_mm": 4.46045802606814,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.875235995771658
+  },
+  {
+    "x_mm": 27.3,
+    "circle_center_y_mm": 4.456086833330788,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8733930272054455
+  },
+  {
+    "x_mm": 27.8,
+    "circle_center_y_mm": 4.45190099925106,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8716236917553558
+  },
+  {
+    "x_mm": 28.3,
+    "circle_center_y_mm": 4.447888991352415,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8699236916374403
+  },
+  {
+    "x_mm": 28.8,
+    "circle_center_y_mm": 4.444040213236017,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8682890548470334
+  },
+  {
+    "x_mm": 29.3,
+    "circle_center_y_mm": 4.440344911620712,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8667161050908886
+  },
+  {
+    "x_mm": 29.8,
+    "circle_center_y_mm": 4.43679409422968,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8652014349630306
+  },
+  {
+    "x_mm": 30.3,
+    "circle_center_y_mm": 4.433379457077558,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8637418819667245
+  },
+  {
+    "x_mm": 30.8,
+    "circle_center_y_mm": 4.430093319927729,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8623345070391698
+  },
+  {
+    "x_mm": 31.3,
+    "circle_center_y_mm": 4.426928568869891,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8609765752816931
+  },
+  {
+    "x_mm": 31.8,
+    "circle_center_y_mm": 4.42387860511917,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8596655386375279
+  },
+  {
+    "x_mm": 32.3,
+    "circle_center_y_mm": 4.420937299265252,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8583990202929263
+  },
+  {
+    "x_mm": 32.8,
+    "circle_center_y_mm": 4.418098950307319,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8571748006061495
+  },
+  {
+    "x_mm": 33.3,
+    "circle_center_y_mm": 4.415358248901355,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8559908043936437
+  },
+  {
+    "x_mm": 33.8,
+    "circle_center_y_mm": 4.412710244323567,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8548450894240097
+  },
+  {
+    "x_mm": 34.3,
+    "circle_center_y_mm": 4.410150314719221,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8537358359887574
+  },
+  {
+    "x_mm": 34.8,
+    "circle_center_y_mm": 4.4076741402623325,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8526613374347359
+  },
+  {
+    "x_mm": 35.3,
+    "circle_center_y_mm": 4.405277678899562,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8516199915568905
+  },
+  {
+    "x_mm": 35.8,
+    "circle_center_y_mm": 4.402957144392903,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8506102927619602
+  },
+  {
+    "x_mm": 36.3,
+    "circle_center_y_mm": 4.4007089864111375,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8496308249241351
+  },
+  {
+    "x_mm": 36.8,
+    "circle_center_y_mm": 4.3985298724506565,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8486802548627478
+  },
+  {
+    "x_mm": 37.3,
+    "circle_center_y_mm": 4.396416671392619,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8477573263800077
+  },
+  {
+    "x_mm": 37.8,
+    "circle_center_y_mm": 4.394366438526389,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8468608548037059
+  },
+  {
+    "x_mm": 38.3,
+    "circle_center_y_mm": 4.392376401889025,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8459897219858971
+  },
+  {
+    "x_mm": 38.8,
+    "circle_center_y_mm": 4.390443949787957,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8451428717138969
+  },
+  {
+    "x_mm": 39.3,
+    "circle_center_y_mm": 4.388566619389065,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8443193054946343
+  },
+  {
+    "x_mm": 39.8,
+    "circle_center_y_mm": 4.386742086265578,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8435180786775157
+  },
+  {
+    "x_mm": 40.3,
+    "circle_center_y_mm": 4.3849681548148025,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8427382968846354
+  },
+  {
+    "x_mm": 40.8,
+    "circle_center_y_mm": 4.383242749459791,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8419791127203683
+  },
+  {
+    "x_mm": 41.3,
+    "circle_center_y_mm": 4.381563906561984,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8412397227352498
+  },
+  {
+    "x_mm": 41.8,
+    "circle_center_y_mm": 4.379929766978749,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8405193646215869
+  },
+  {
+    "x_mm": 42.3,
+    "circle_center_y_mm": 4.378338569206638,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8398173146204868
+  },
+  {
+    "x_mm": 42.8,
+    "circle_center_y_mm": 4.376788643057291,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8391328851219969
+  },
+  {
+    "x_mm": 43.3,
+    "circle_center_y_mm": 4.375278403818371,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8384654224418294
+  },
+  {
+    "x_mm": 43.8,
+    "circle_center_y_mm": 4.373806346856695,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.837814304759746
+  },
+  {
+    "x_mm": 44.3,
+    "circle_center_y_mm": 4.372371042624985,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8371789402060812
+  },
+  {
+    "x_mm": 44.8,
+    "circle_center_y_mm": 4.370971132037503,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8365587650841745
+  },
+  {
+    "x_mm": 45.3,
+    "circle_center_y_mm": 4.369605322183136,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8359532422176075
+  },
+  {
+    "x_mm": 45.8,
+    "circle_center_y_mm": 4.368272382347597,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8353618594121637
+  },
+  {
+    "x_mm": 46.3,
+    "circle_center_y_mm": 4.366971140319024,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8347841280233561
+  },
+  {
+    "x_mm": 46.8,
+    "circle_center_y_mm": 4.365700478953745,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.83421958162118
+  },
+  {
+    "x_mm": 47.3,
+    "circle_center_y_mm": 4.364459332981047,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8336677747444979
+  },
+  {
+    "x_mm": 47.8,
+    "circle_center_y_mm": 4.36324668602781,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8331282817381299
+  },
+  {
+    "x_mm": 48.3,
+    "circle_center_y_mm": 4.362061567845543,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8326006956663287
+  },
+  {
+    "x_mm": 48.8,
+    "circle_center_y_mm": 4.360903051723951,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8320846272968612
+  },
+  {
+    "x_mm": 49.3,
+    "circle_center_y_mm": 4.35977025207655,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8315797041504093
+  },
+  {
+    "x_mm": 49.8,
+    "circle_center_y_mm": 4.358662322185153,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8310855696104561
+  },
+  {
+    "x_mm": 50.3,
+    "circle_center_y_mm": 4.35757845209114,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.830601882089224
+  },
+  {
+    "x_mm": 50.8,
+    "circle_center_y_mm": 4.356517866622506,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8301283142455892
+  },
+  {
+    "x_mm": 51.3,
+    "circle_center_y_mm": 4.3554798235466015,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8296645522512539
+  },
+  {
+    "x_mm": 51.8,
+    "circle_center_y_mm": 4.354463611839304,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8292102951017275
+  },
+  {
+    "x_mm": 52.3,
+    "circle_center_y_mm": 4.353468550062181,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.828765253968978
+  },
+  {
+    "x_mm": 52.8,
+    "circle_center_y_mm": 4.35249398483984,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8283291515928373
+  },
+  {
+    "x_mm": 53.3,
+    "circle_center_y_mm": 4.35153928943033,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8279017217084873
+  },
+  {
+    "x_mm": 53.8,
+    "circle_center_y_mm": 4.350603862382057,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8274827085075661
+  },
+  {
+    "x_mm": 54.3,
+    "circle_center_y_mm": 4.349687126271108,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8270718661306048
+  },
+  {
+    "x_mm": 54.8,
+    "circle_center_y_mm": 4.348788526513502,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8266689581887091
+  },
+  {
+    "x_mm": 55.3,
+    "circle_center_y_mm": 4.347907530247158,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.826273757312526
+  },
+  {
+    "x_mm": 55.8,
+    "circle_center_y_mm": 4.347043625278906,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8258860447267098
+  },
+  {
+    "x_mm": 56.3,
+    "circle_center_y_mm": 4.346196319092143,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8255056098482223
+  },
+  {
+    "x_mm": 56.8,
+    "circle_center_y_mm": 4.345365137911111,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8251322499069214
+  },
+  {
+    "x_mm": 57.3,
+    "circle_center_y_mm": 4.3445496258180585,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8247657695870172
+  },
+  {
+    "x_mm": 57.8,
+    "circle_center_y_mm": 4.343749343919831,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8244059806880661
+  },
+  {
+    "x_mm": 58.3,
+    "circle_center_y_mm": 4.342963869560694,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8240527018042729
+  },
+  {
+    "x_mm": 58.8,
+    "circle_center_y_mm": 4.342192795578424,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8237057580209662
+  },
+  {
+    "x_mm": 59.3,
+    "circle_center_y_mm": 4.3414357296009305,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8233649806271753
+  },
+  {
+    "x_mm": 59.8,
+    "circle_center_y_mm": 4.340692293380827,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8230302068433297
+  },
+  {
+    "x_mm": 60.3,
+    "circle_center_y_mm": 4.339962122165615,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8227012795631593
+  },
+  {
+    "x_mm": 60.8,
+    "circle_center_y_mm": 4.339244864101258,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8223780471089372
+  },
+  {
+    "x_mm": 61.3,
+    "circle_center_y_mm": 4.338540179667113,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8220603629992761
+  },
+  {
+    "x_mm": 61.8,
+    "circle_center_y_mm": 4.337847741140292,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8217480857287232
+  },
+  {
+    "x_mm": 62.3,
+    "circle_center_y_mm": 4.337167232087715,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8214410785584719
+  },
+  {
+    "x_mm": 62.8,
+    "circle_center_y_mm": 4.336498346884155,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8211392093175336
+  },
+  {
+    "x_mm": 63.3,
+    "circle_center_y_mm": 4.335840790254773,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8208423502137714
+  },
+  {
+    "x_mm": 63.8,
+    "circle_center_y_mm": 4.335194276840694,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8205503776542267
+  },
+  {
+    "x_mm": 64.3,
+    "circle_center_y_mm": 4.3345585307862695,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8202631720742127
+  },
+  {
+    "x_mm": 64.8,
+    "circle_center_y_mm": 4.333933285346778,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8199806177746779
+  },
+  {
+    "x_mm": 65.3,
+    "circle_center_y_mm": 4.333318282515424,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8197026027673804
+  },
+  {
+    "x_mm": 65.8,
+    "circle_center_y_mm": 4.332713272668465,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8194290186274348
+  },
+  {
+    "x_mm": 66.3,
+    "circle_center_y_mm": 4.332118014227542,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8191597603528304
+  },
+  {
+    "x_mm": 66.8,
+    "circle_center_y_mm": 4.331532273338163,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8188947262305348
+  },
+  {
+    "x_mm": 67.3,
+    "circle_center_y_mm": 4.3309558235634915,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.818633817708831
+  },
+  {
+    "x_mm": 67.8,
+    "circle_center_y_mm": 4.330388445592599,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8183769392755486
+  },
+  {
+    "x_mm": 68.3,
+    "circle_center_y_mm": 4.329829926962361,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8181239983418751
+  },
+  {
+    "x_mm": 68.8,
+    "circle_center_y_mm": 4.329280061792277,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.817874905131451
+  },
+  {
+    "x_mm": 69.3,
+    "circle_center_y_mm": 4.328738650531531,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8176295725744757
+  },
+  {
+    "x_mm": 69.8,
+    "circle_center_y_mm": 4.328205499717607,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8173879162065514
+  },
+  {
+    "x_mm": 70.3,
+    "circle_center_y_mm": 4.327680421745884,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8171498540720337
+  },
+  {
+    "x_mm": 70.8,
+    "circle_center_y_mm": 4.327163234649598,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8169153066316438
+  },
+  {
+    "x_mm": 71.3,
+    "circle_center_y_mm": 4.326653761889658,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.816684196674134
+  },
+  {
+    "x_mm": 71.8,
+    "circle_center_y_mm": 4.326151832153794,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8164564492317944
+  },
+  {
+    "x_mm": 72.3,
+    "circle_center_y_mm": 4.325657279164548,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8162319914996132
+  },
+  {
+    "x_mm": 72.8,
+    "circle_center_y_mm": 4.32516994149568,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.816010752757901
+  },
+  {
+    "x_mm": 73.3,
+    "circle_center_y_mm": 4.324689662396541,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.815792664298215
+  },
+  {
+    "x_mm": 73.8,
+    "circle_center_y_mm": 4.324216289624018,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8155776593524129
+  },
+  {
+    "x_mm": 74.3,
+    "circle_center_y_mm": 4.323749675281687,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8153656730246894
+  },
+  {
+    "x_mm": 74.8,
+    "circle_center_y_mm": 4.323289675665788,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8151566422264453
+  },
+  {
+    "x_mm": 75.3,
+    "circle_center_y_mm": 4.322836151117715,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.814950505613857
+  },
+  {
+    "x_mm": 75.8,
+    "circle_center_y_mm": 4.322388965882683,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.814747203528011
+  },
+  {
+    "x_mm": 76.3,
+    "circle_center_y_mm": 4.3219479879742915,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8145466779374904
+  },
+  {
+    "x_mm": 76.8,
+    "circle_center_y_mm": 4.3215130890446565,
+    "radius_mm": 3.0,
+    "half_arc_angle_rad": 0.8143488723832842
+  }
+]

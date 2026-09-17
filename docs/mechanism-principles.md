@@ -13,6 +13,7 @@ A useful interface has an explicit answer to each of these questions:
 | Locate an axis | Journal/bore and bearing foot | Wobble or off-axis rubbing |
 | Support inward force | Flat annular bearing pad | Screw has to carry bending that a bearing could support |
 | Limit outward movement | Washer, screw and seat | Loose adjustment becomes separation |
+| Prevent an anchored nut turning | Seated hex flats with adequate engagement | Locknut spins before the screw can advance |
 | Retain a sliding piece | Overlapping shoulder with a useful flat land | A sloped lip becomes an escape ramp |
 | Permit intended motion | Swept track with positive allowance | Local interference despite an apparently generous gap elsewhere |
 | Help entry under small misalignment | Rounded ends and ridges | A sharp tip meets a sharp track mouth |
@@ -59,12 +60,13 @@ There is no single tolerance that controls a mechanism's feel. Distinguish at le
 - Extra clearance inside tracks and at their mouths.
 - Axial movement allowed by the fastener.
 - Diametral clearance around a rotating screw shank.
-- Interference in a screw pilot that must grip plastic.
+- Interference in a screw pilot that must grip plastic, or the fit of a captive nut.
+- Easy-loading clearance at a nut-slot entrance versus interference at its final seat.
 - Access clearance for the actual washer and driver holder.
 
 Name whether a value is **per wall, total separation, radial or diametral**. An offset applied to the entire swept profile moves every profile boundary by that distance; it is not the same as a diametral hole allowance.
 
-Here, the outer interfaces use 0.20 mm nominal separation, while the track cutter has a 0.40 mm distance allowance from the old unrounded flange. Local relief can be larger. The washer adjustment allows approximately 0.10 mm axial freedom. These numbers describe different contacts and should not be added into a single “puzzle gap.”
+The 80 mm version used 0.20 mm nominal main-face separation. The later 64 mm version reduces this to 0.03 mm while retaining the **0.40 mm track-cutter expansion** from the unrounded flange and roughly 0.10 mm axial adjustment. Its owner likes the resulting feel apart from the nut seats. This supports tuning main-face fit separately from track relief; it does not establish 0.03 mm as a general printer tolerance. That gap is below normal FDM variation, and the wider track still allows some travel before capture. These numbers describe different contacts and should not be added into a single “puzzle gap.”
 
 Reducing every gap toward zero may reduce wobble but increase binding. Negative clearance plus a loose screw is especially hard to control: loosening moves one retainer along one axis; it does not open all intersecting tracks uniformly. Excessive lift also reduces capture and permits rocking.
 
@@ -99,7 +101,9 @@ Protect the exact bearing foot and washer collar rather than broadly protecting 
 
 Set the fastener, bearing, retaining and access dimensions first. Then make the decorative or puzzle exterior large enough to contain those features with adequate walls in every direction.
 
-The exterior need not be as large as the first prototype. Reducing this puzzle from 100 to 80 mm kept the 24 mm core radius and brought the grip closer to the interfaces. This is a useful ergonomic and shell-size change, not a measured optimum or a proof that a smaller cube would work.
+The exterior need not be as large as the first prototype. Reducing this puzzle from 100 to 80 mm kept the 24 mm core radius and brought the grip closer to the interfaces. A later 64 mm build reduced the core radius to 19.2 mm and regenerated the rails at 80% size, enabled by smaller washers and access wells. It retained full-size M3 × 20 screws, the 0.40 mm track allowance and 3 mm ridge radius. The owner successfully built it. These are two different sizing changes: reducing excess shell and redesigning the mechanism around smaller hardware access.
+
+Check the entire fastener stack before concluding that a long screw sets the minimum exterior size. The compact design accommodates its extra length inside the core, with clearance between all screw tips. Conversely, a small head may still need a substantial access well or bearing collar. Use actual hardware envelopes and the least favorable part, not a uniform percentage reduction.
 
 Do not shrink a finished STL uniformly to achieve that result. Uniform scaling also shrinks screw holes, washer wells, lands and gaps. Change the outer envelope independently and regenerate/check the affected intersections.
 
@@ -130,6 +134,26 @@ Layer steps, supports, seams, elephant foot, washer burrs and screw tension can 
 
 Numerical export deserves its own checks. Very small Boolean slivers can collapse when STL coordinates become float32. Controlled simplification and welding must still yield a closed mesh; then inspect the actual fillet sections. On steep profiles, a small normal-distance simplification error can become a larger transverse section error.
 
+## 10. Design captive nuts for installation torque, not just handling retention
+
+A captive locknut has three distinct requirements: a path to insert it, axial capture once installed, and resistance to screw torque. A roof can satisfy axial capture while leaving the nut free to rotate. Small ribs that stop a nut falling out during handling do not necessarily supply enough torque resistance.
+
+The compact build exposed this distinction: roughly half the nuts spun in their seats as the M3 screws engaged the DIN985 nylon rings. The owner otherwise liked the puzzle. The evidence identifies a local anchorage problem; it does not call for changing the successful sliding pieces.
+
+Separate the **loading passage** from the **final torque seat**. Keep the entrance generous, then use a short lead-in to a tighter terminal region around the screw bore. Give the nut flats enough engagement and surrounding material to react torque. A blunt rod can press the nut through the last region without making the entire insertion path an interference fit. Keep the final nut depth and screw alignment fixed when revising an otherwise compatible core. This is the proposed correction here, not yet a validated fit or an implemented feature of v4.3.
+
+Validate with the actual locking nut: push it fully home, drive the screw through the nylon ring, and reverse it. Watch for nut rotation, damaged flats, splitting and progressive loosening over repeated cycles. Check all differently oriented pockets in the real printed core; a single conveniently oriented coupon cannot represent them all. Choose the final interference from those results rather than treating nominal nut dimensions or insertion feel as a torque test.
+
+Keep screw-thread locking separate from bearing adjustment too. The rotating piece needs shank clearance, and the washer/foot need enough axial freedom. The nylon ring produces driver resistance before the bearing clamps, so tune by the rotating part's feel rather than assuming all resistance at the tool is clamp load. Long-term adjustment stability remains a separate wear/settling observation.
+
+## 11. Choose print orientation for the working surfaces
+
+The owner found that the edges printed best with their inward radial vectors pointing down. The compact release supplies that pose in both the STLs and the plates. This is useful empirical evidence for these parts, not a universal rule that a narrow footprint always prints better than a broad face.
+
+Compare the surfaces that actually slide, enter tracks, or carry load: layer steps, seams and support scars on those surfaces can matter more than minimizing support volume alone. Evaluate adhesion, support removal and flange strength alongside surface quality. Keep the other slicer settings fixed when comparing orientations.
+
+Store the print-to-assembly transform and retain part IDs. Verify scale, bed height and closed meshes after reorientation. A rigid rotation should change the printing pose without redesigning the mechanism, but its physical effect on finish and strength still needs a print trial.
+
 ## A practical diagnosis table
 
 | Symptom | Inspect first | Design response to evaluate |
@@ -140,5 +164,7 @@ Numerical export deserves its own checks. Very small Boolean slivers can collaps
 | Catches when changing axes | Ridge/track-mouth contact and transition bands | Continuous local rounding; expanded unrounded sweep |
 | Turns freely but feels unstable | Axial and diametral freedom | Tighten the appropriate constraint without closing every gap |
 | CAD passes but print catches | Seams, supports, first-layer lip, dimensions | Calibrate and finish before changing the whole mechanism |
+| Nut spins as the screw reaches its locking ring | Final seat flat engagement and actual installation torque | Keep entrance easy; tighten only the final seat; test with real locknuts |
+| Nut stays in during handling but spins under a driver | Grip ribs versus torque-bearing walls | Treat handling retention and antirotation as separate requirements |
 
 The reusable rule is to preserve firm constraints in unwanted directions while making the intended paths forgiving. Capture lands, bearings, clearances and rounded entrances cooperate; none can substitute for all the others.

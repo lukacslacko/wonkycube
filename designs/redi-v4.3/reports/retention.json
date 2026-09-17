@@ -1,0 +1,642 @@
+{
+  "principal": [
+    {
+      "retainer": "C08",
+      "corner_lift_mm": 0,
+      "direction": "radial",
+      "first_contact_mm": 0.5,
+      "peak_overlap_mm3": 69.30073656902987
+    },
+    {
+      "retainer": "C08",
+      "corner_lift_mm": 0,
+      "direction": "own_axis",
+      "first_contact_mm": 0.2,
+      "peak_overlap_mm3": 508.99400613048124
+    },
+    {
+      "retainer": "C08",
+      "corner_lift_mm": 0,
+      "direction": "other_axis",
+      "first_contact_mm": 0.5,
+      "peak_overlap_mm3": 13.673000452939883
+    },
+    {
+      "retainer": "C08",
+      "corner_lift_mm": 0.1,
+      "direction": "radial",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 66.7158375290352
+    },
+    {
+      "retainer": "C08",
+      "corner_lift_mm": 0.1,
+      "direction": "own_axis",
+      "first_contact_mm": 0.30000000000000004,
+      "peak_overlap_mm3": 508.99400613048124
+    },
+    {
+      "retainer": "C08",
+      "corner_lift_mm": 0.1,
+      "direction": "other_axis",
+      "first_contact_mm": 0.5,
+      "peak_overlap_mm3": 11.914323737489285
+    },
+    {
+      "retainer": "C08",
+      "corner_lift_mm": 0.25,
+      "direction": "radial",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 62.815558132359584
+    },
+    {
+      "retainer": "C08",
+      "corner_lift_mm": 0.25,
+      "direction": "own_axis",
+      "first_contact_mm": 0.4,
+      "peak_overlap_mm3": 508.926833485717
+    },
+    {
+      "retainer": "C08",
+      "corner_lift_mm": 0.25,
+      "direction": "other_axis",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 9.437455523091238
+    },
+    {
+      "retainer": "C07",
+      "corner_lift_mm": 0,
+      "direction": "radial",
+      "first_contact_mm": 0.5,
+      "peak_overlap_mm3": 69.29397817040811
+    },
+    {
+      "retainer": "C07",
+      "corner_lift_mm": 0,
+      "direction": "own_axis",
+      "first_contact_mm": 0.2,
+      "peak_overlap_mm3": 708.0522035186093
+    },
+    {
+      "retainer": "C07",
+      "corner_lift_mm": 0,
+      "direction": "other_axis",
+      "first_contact_mm": 0.5,
+      "peak_overlap_mm3": 13.670695447350598
+    },
+    {
+      "retainer": "C07",
+      "corner_lift_mm": 0.1,
+      "direction": "radial",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 66.70932541139516
+    },
+    {
+      "retainer": "C07",
+      "corner_lift_mm": 0.1,
+      "direction": "own_axis",
+      "first_contact_mm": 0.30000000000000004,
+      "peak_overlap_mm3": 699.438475152886
+    },
+    {
+      "retainer": "C07",
+      "corner_lift_mm": 0.1,
+      "direction": "other_axis",
+      "first_contact_mm": 0.5,
+      "peak_overlap_mm3": 11.912225442545708
+    },
+    {
+      "retainer": "C07",
+      "corner_lift_mm": 0.25,
+      "direction": "radial",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 62.809501568296945
+    },
+    {
+      "retainer": "C07",
+      "corner_lift_mm": 0.25,
+      "direction": "own_axis",
+      "first_contact_mm": 0.4,
+      "peak_overlap_mm3": 686.430562477797
+    },
+    {
+      "retainer": "C07",
+      "corner_lift_mm": 0.25,
+      "direction": "other_axis",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 9.435721718463444
+    }
+  ],
+  "rocking": [
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": -10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": -10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": -5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": -5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": 0,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.5
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": 0,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.5
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": 5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": 5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.4
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": 10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "toward_corners",
+      "angle_deg": 10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": -10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": -10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": -5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": -5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": 0,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.5
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": 0,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.5
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": 5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": 5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": 10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0,
+      "rock_axis": "sideways",
+      "angle_deg": 10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": -10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": -10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": -5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": -5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": 0,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": 0,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.5
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": 5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": 5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 1.4000000000000001
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": 10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "toward_corners",
+      "angle_deg": 10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": -10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": -10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": -5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": -5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": 0,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": 0,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.5
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": 5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": 5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": 10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "rock_axis": "sideways",
+      "angle_deg": 10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": -10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": -10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": -5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": -5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": 0,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": 0,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": 5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": 5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 1.5
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": 10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "toward_corners",
+      "angle_deg": 10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": -10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": -10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": -5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": -5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.4
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": 0,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": 0,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": 5,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.2
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": 5,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.4
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": 10,
+      "pull_direction": "radial",
+      "first_contact_mm": 0.1
+    },
+    {
+      "corner_lift_mm": 0.25,
+      "rock_axis": "sideways",
+      "angle_deg": 10,
+      "pull_direction": "other_axis",
+      "first_contact_mm": 0.1
+    }
+  ],
+  "all_edges": [
+    {
+      "name": "E01",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E02",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E03",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E04",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E05",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E06",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E07",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E08",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E09",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E10",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E11",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "name": "E12",
+      "first_radial_contact_each_retainer_mm": [
+        0.5,
+        0.5
+      ]
+    }
+  ],
+  "_completion": {
+    "passed": true,
+    "seconds": 22.24659490585327
+  }
+}

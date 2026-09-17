@@ -1,0 +1,1495 @@
+{
+  "version": "v4.3",
+  "units": "millimeter",
+  "cube_side_mm": 64.0,
+  "cone_half_angle_deg": 54.735610317245346,
+  "parts": [
+    {
+      "name": "C01",
+      "role": "axis",
+      "quantity": 1,
+      "file": "stl/puzzle/C01.stl",
+      "dimensions_mm": [
+        48.11423873901367,
+        45.39780044555664,
+        19.00294303894043
+      ],
+      "solid_volume_mm3": 4140.021604510567,
+      "triangles": 31492,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": 407.27728249762504,
+      "first_layer_0_16_mm_area_mm2": 492.1222449063231,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.8514327114918054,
+          -0.5185851096263743,
+          0.07830595044767105,
+          9.650238082588828
+        ],
+        [
+          0.3094089649456481,
+          0.3761189856285018,
+          -0.873384566534725,
+          -12.164032634751162
+        ],
+        [
+          0.42347187653134,
+          0.7678567527368553,
+          0.4806948897829447,
+          32.000001277266875
+        ]
+      ],
+      "geometry_sha256": "53966747184a0aca934339a0032bebee6cde9eeaa391d9b9cf5b5aa8cf596afc",
+      "sha256": "a706be8c964ead8dbad8913c2966de1704be3272ae002fa311263f24a317b0c0"
+    },
+    {
+      "name": "C02",
+      "role": "axis",
+      "quantity": 1,
+      "file": "stl/puzzle/C02.stl",
+      "dimensions_mm": [
+        45.132381439208984,
+        36.99325942993164,
+        37.946136474609375
+      ],
+      "solid_volume_mm3": 9093.3104182839,
+      "triangles": 32300,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": 451.28084973680745,
+      "first_layer_0_16_mm_area_mm2": 512.9158165640013,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.4211122741046527,
+          0.7684084639803704,
+          0.4818847217766256,
+          9.432214044862484
+        ],
+        [
+          0.8746273911107469,
+          -0.20333119976081052,
+          -0.4400947056289569,
+          13.587174157425121
+        ],
+        [
+          -0.24019029813299433,
+          0.6067988593324458,
+          -0.7576963540862699,
+          32.000001708553114
+        ]
+      ],
+      "geometry_sha256": "1a6f568980ab35785261a97d42822c1bdb5343cd0d99b665a0b16d50e9a53654",
+      "sha256": "e84016caa0dc06e9f9ddcf4ee840ad7f8e1985ddebee6d8bc7104228b99e28fe"
+    },
+    {
+      "name": "C03",
+      "role": "axis",
+      "quantity": 1,
+      "file": "stl/puzzle/C03.stl",
+      "dimensions_mm": [
+        44.08549118041992,
+        41.38117980957031,
+        24.1248836517334
+      ],
+      "solid_volume_mm3": 4804.8859301731545,
+      "triangles": 31702,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": 428.493454697051,
+      "first_layer_0_16_mm_area_mm2": 506.892038103445,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 6,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.8942172770526674,
+          -0.16542257858981274,
+          -0.415945707891319,
+          10.731554147608755
+        ],
+        [
+          0.3777354657737297,
+          0.777451294169313,
+          0.5028771252415085,
+          -5.278413307907117
+        ],
+        [
+          0.24019029813299442,
+          -0.6067988593324459,
+          0.7576963540862696,
+          32.0000013455986
+        ]
+      ],
+      "geometry_sha256": "98351caa9328aad20b4871e82de12a516eaa073ad052967f3aa3630c2bfcf0df",
+      "sha256": "e028e294a1f178ae177246bf2b1abd3b44d4e0e3caa2e78f1a55ecc843af7566"
+    },
+    {
+      "name": "C04",
+      "role": "axis",
+      "quantity": 1,
+      "file": "stl/puzzle/C04.stl",
+      "dimensions_mm": [
+        49.46446990966797,
+        45.59838104248047,
+        25.151906967163086
+      ],
+      "solid_volume_mm3": 6246.011642507103,
+      "triangles": 31318,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": 531.8068165199072,
+      "first_layer_0_16_mm_area_mm2": 593.8116613790436,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          -0.3658646385416498,
+          0.3211897815855596,
+          -0.873487372816464,
+          14.48746303496427
+        ],
+        [
+          0.3211897815855596,
+          0.9244706445397637,
+          0.20540484801789477,
+          -14.30725644160576
+        ],
+        [
+          0.873487372816464,
+          -0.20540484801789477,
+          -0.4413939940018861,
+          32.00000107550491
+        ]
+      ],
+      "geometry_sha256": "53fb9ad05363f182c3812e17b13e3f59da1fd3a333ef007939d64e25ec78eaa2",
+      "sha256": "e2c2b030b1d2463e15717ef2b35dad571a380e539213604533518f61a0930a26"
+    },
+    {
+      "name": "C05",
+      "role": "axis",
+      "quantity": 1,
+      "file": "stl/puzzle/C05.stl",
+      "dimensions_mm": [
+        45.58979797363281,
+        49.658267974853516,
+        25.151906967163086
+      ],
+      "solid_volume_mm3": 6245.995668107338,
+      "triangles": 31312,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": 531.7908935158432,
+      "first_layer_0_16_mm_area_mm2": 593.8105617751826,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          -0.3182040132399308,
+          -0.9270519382522255,
+          -0.19829500684786291,
+          -14.386553604957916
+        ],
+        [
+          0.3684644019280464,
+          -0.3136615248855644,
+          0.8751288089865797,
+          14.51564464893837
+        ],
+        [
+          -0.8734873728164645,
+          0.20540484801789483,
+          0.4413939940018855,
+          32.00000107550491
+        ]
+      ],
+      "geometry_sha256": "55da59abc2bf7848823a1f8a3064a15e4cc682e327247588c4ff8e03c711c581",
+      "sha256": "e0c4b5d2b2c57fc18b9d5e0651c26f0803142480ae71f0e0f542bee9642f8226"
+    },
+    {
+      "name": "C06",
+      "role": "axis",
+      "quantity": 1,
+      "file": "stl/puzzle/C06.stl",
+      "dimensions_mm": [
+        41.25606155395508,
+        44.083614349365234,
+        24.1248836517334
+      ],
+      "solid_volume_mm3": 4804.894531781584,
+      "triangles": 31706,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": 428.4925050537395,
+      "first_layer_0_16_mm_area_mm2": 506.8910814557327,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.39033168813335445,
+          0.7750365268413835,
+          0.4969502543520946,
+          5.197053005630751
+        ],
+        [
+          0.8887911981572214,
+          -0.17639026723288462,
+          -0.4230090775666198,
+          -10.528846817894275
+        ],
+        [
+          -0.24019029813299433,
+          0.6067988593324458,
+          -0.7576963540862699,
+          32.00000124615429
+        ]
+      ],
+      "geometry_sha256": "33e1bed900106a1d6080928ac0f7925cc8168df465535cd258957a85871479bd",
+      "sha256": "579f68b4d9f7ee55b8238c92e851a3fb12ea5e3389cdb138e8d258232db76550"
+    },
+    {
+      "name": "C07",
+      "role": "axis",
+      "quantity": 1,
+      "file": "stl/puzzle/C07.stl",
+      "dimensions_mm": [
+        37.11146545410156,
+        45.30772018432617,
+        37.946136474609375
+      ],
+      "solid_volume_mm3": 9093.28705992962,
+      "triangles": 32302,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": 451.2808497368149,
+      "first_layer_0_16_mm_area_mm2": 512.9183934025816,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.880489766406241,
+          -0.1924544665017213,
+          -0.4332424835786776,
+          -13.962846801765876
+        ],
+        [
+          0.40871309244586984,
+          0.7712045271109216,
+          0.48805449022312397,
+          -9.332401044214201
+        ],
+        [
+          0.2401902981329944,
+          -0.6067988593324458,
+          0.7576963540862695,
+          32.00000170855311
+        ]
+      ],
+      "geometry_sha256": "1d87759c39020261aedb51b98a90779bd3a33cb37d2d46905aef7127cd5f9fe2",
+      "sha256": "453f1956ff98b4c8d7e9f326ae5af5cdebfd7117416bf18d190fb55b2a699caf"
+    },
+    {
+      "name": "C08",
+      "role": "axis",
+      "quantity": 1,
+      "file": "stl/puzzle/C08.stl",
+      "dimensions_mm": [
+        45.484737396240234,
+        48.10121536254883,
+        19.00294303894043
+      ],
+      "solid_volume_mm3": 4140.012264875532,
+      "triangles": 31488,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": 407.27728249768626,
+      "first_layer_0_16_mm_area_mm2": 492.12565389403045,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.30574070633048045,
+          0.3783479932160671,
+          -0.8737135780803188,
+          12.145576857346235
+        ],
+        [
+          0.8527568177854482,
+          -0.516961123592274,
+          0.07454533127332061,
+          -9.689211288032833
+        ],
+        [
+          -0.42347187653133994,
+          -0.7678567527368553,
+          -0.4806948897829444,
+          32.00000127726687
+        ]
+      ],
+      "geometry_sha256": "c6d2b249749ea9989c41cd50053fff2c118b3aba505c32443ef944d3e292f18a",
+      "sha256": "eef52de180223caa21c3008ea6249278738c4b4b8ae7882e7d704a0d63110745"
+    },
+    {
+      "name": "E01",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E01.stl",
+      "dimensions_mm": [
+        52.87168502807617,
+        27.895933151245117,
+        32.19514083862305
+      ],
+      "solid_volume_mm3": 13365.782815594876,
+      "triangles": 36980,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.0728319929846757,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          -3.162256336416055e-20,
+          -1.5811281682080274e-20,
+          1.1293772630057337e-21,
+          2.117582368135751e-22,
+          -8.161515377189873e-23,
+          -7.058607893785836e-23,
+          -2.3695277963758604e-26
+        ],
+        "slit_weld_displacement_bound_mm": 0.00018653417373153092,
+        "simplification_mm": 0,
+        "coordinate_decimals": 7,
+        "removed_coincident_faces": 8
+      },
+      "mechanism_to_print": [
+        [
+          0.7044160264027587,
+          -0.7044160264027587,
+          -0.08715574274765822,
+          -1.3212641490088792
+        ],
+        [
+          0.06162841671621949,
+          -0.06162841671621931,
+          0.9961946980917455,
+          -2.1597912970013438
+        ],
+        [
+          -0.7071067811865476,
+          -0.7071067811865476,
+          1.1102230246251565e-16,
+          -15.402776722956908
+        ]
+      ],
+      "geometry_sha256": "45a16a2660303494af1d66c5ce48c67771363cdfbbcee20dcbc60353c76a3404",
+      "sha256": "8c461ab6dbc020a7e0a2409aaf038780e63d009e392770630fdc7bf928fc149c",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        0.0,
+        1.249000902703301e-16,
+        -1.0000000000000002
+      ]
+    },
+    {
+      "name": "E02",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E02.stl",
+      "dimensions_mm": [
+        53.74508285522461,
+        24.8641414642334,
+        36.9036750793457
+      ],
+      "solid_volume_mm3": 17118.121976327904,
+      "triangles": 35584,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.072946609115082,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          7.228014483236696e-20,
+          -1.807003620809174e-20,
+          -9.03501810404587e-21,
+          4.517509052022935e-21,
+          -5.646886315028669e-22,
+          -7.720352383828258e-23,
+          -2.477233605302036e-26
+        ],
+        "slit_weld_displacement_bound_mm": 0.0014517025487103784,
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 6
+      },
+      "mechanism_to_print": [
+        [
+          0.703233176253404,
+          -0.10452846326765373,
+          -0.7032331762534042,
+          -1.579946639861987
+        ],
+        [
+          -0.0739127852035669,
+          -0.9945218953682732,
+          0.07391278520356692,
+          -0.3313996322714612
+        ],
+        [
+          -0.7071067811865476,
+          0.0,
+          -0.7071067811865474,
+          -15.40277712674656
+        ]
+      ],
+      "geometry_sha256": "2713a8cbdeae0c2f43ebd997da50055aa4ccdfa310d45dd29089fbef930fa393",
+      "sha256": "ffc21f2f0ee46ea86c388a74821e34c519e9429a9675f6bb5dd5c912eef4da47",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        -1.1102230246251565e-16,
+        2.0816681711721685e-17,
+        -1.0
+      ]
+    },
+    {
+      "name": "E03",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E03.stl",
+      "dimensions_mm": [
+        24.5784912109375,
+        53.61397933959961,
+        26.848108291625977
+      ],
+      "solid_volume_mm3": 11135.13024201205,
+      "triangles": 27430,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.0664468988659452,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          9.035018104045871e-20,
+          -3.614007241618348e-20,
+          1.807003620809174e-20,
+          -2.7178887721214595e-26,
+          0.0
+        ],
+        "slit_weld_displacement_bound_mm": 0.0019346957698910627,
+        "simplification_mm": 0.004,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 6
+      },
+      "mechanism_to_print": [
+        [
+          -0.049325275616132355,
+          -0.9975640502598242,
+          -0.04932527561613237,
+          -0.49245232337147016
+        ],
+        [
+          0.7053843046066396,
+          -0.0697564737441253,
+          0.7053843046066398,
+          -2.470346060216638
+        ],
+        [
+          -0.7071067811865476,
+          0.0,
+          0.7071067811865474,
+          -15.402777281329952
+        ]
+      ],
+      "geometry_sha256": "8802d800b93414ee99f044d10e77f4ddb029a5b1d0cc793f76bf71918e6f6780",
+      "sha256": "ba80910181947430fd8e74bc73833432298bb445d7ceade03711829e2fd7d097",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        1.3877787807814457e-17,
+        -1.6653345369377348e-16,
+        -1.0
+      ]
+    },
+    {
+      "name": "E04",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E04.stl",
+      "dimensions_mm": [
+        25.6511287689209,
+        53.938819885253906,
+        35.49528503417969
+      ],
+      "solid_volume_mm3": 15855.79697155128,
+      "triangles": 24056,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.0667615440605767,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          -4.368837123260071e-20,
+          -1.0164395367051604e-20,
+          -9.03501810404587e-21,
+          1.1293772630057337e-21,
+          5.646886315028669e-22,
+          -1.0587911840678754e-22,
+          -6.479581464998716e-23,
+          -2.5849394142282115e-26
+        ],
+        "slit_weld_displacement_bound_mm": 0.0018938297578899915,
+        "simplification_mm": 0.004,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 6
+      },
+      "mechanism_to_print": [
+        [
+          -0.037007109559268,
+          -0.03700710955926814,
+          0.9986295347545738,
+          0.1966628751048516
+        ],
+        [
+          0.7061377159181262,
+          0.7061377159181262,
+          0.05233595624294385,
+          -2.2917497864225194
+        ],
+        [
+          -0.7071067811865475,
+          0.7071067811865475,
+          1.1102230246251564e-16,
+          -15.402777354321891
+        ]
+      ],
+      "geometry_sha256": "963458d564766f66f54e49ef09cf879a10b2fb5e968e202ff0267fa37a7e9bdc",
+      "sha256": "3c9945997461da926bd40d59438ea65e057db312becafbeba68fc0d7f9d493d6",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        9.71445146547012e-17,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "name": "E05",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E05.stl",
+      "dimensions_mm": [
+        26.71807861328125,
+        56.642337799072266,
+        30.554811477661133
+      ],
+      "solid_volume_mm3": 13707.093804041724,
+      "triangles": 23176,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.0652193799874907,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          -2.710505431213761e-20,
+          -1.807003620809174e-20,
+          7.905640841040137e-21,
+          7.905640841040137e-21,
+          -4.517509052022935e-21,
+          1.2352563814125213e-21,
+          1.1293772630057337e-21,
+          5.385290446308774e-28,
+          0.0,
+          0.0
+        ],
+        "slit_weld_displacement_bound_mm": 0.0018897725280446788,
+        "simplification_mm": 0.006,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 4
+      },
+      "mechanism_to_print": [
+        [
+          0.9848077530122081,
+          0.12278780396897282,
+          -0.12278780396897286,
+          -1.566248628091552
+        ],
+        [
+          0.17364817766693033,
+          -0.696364240320019,
+          0.6963642403200192,
+          0.9107064652943908
+        ],
+        [
+          0.0,
+          -0.7071067811865477,
+          -0.7071067811865475,
+          -15.402777127523514
+        ]
+      ],
+      "geometry_sha256": "d1a40f65929eecbebc97d8b44a8564578116e0af37d67d37883c4ff8f12220cc",
+      "sha256": "ecdf937bfa49f0f6fe2e7507ecd33ba48b02c1d813a97eb67235c6ab27e146a7",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        -2.7755575615628914e-17,
+        1.6653345369377348e-16,
+        -1.0
+      ]
+    },
+    {
+      "name": "E06",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E06.stl",
+      "dimensions_mm": [
+        24.63348388671875,
+        55.9636344909668,
+        21.984615325927734
+      ],
+      "solid_volume_mm3": 9723.708241351922,
+      "triangles": 25288,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.066090975823701,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          6.143812310751192e-19,
+          -2.2587545260114674e-21,
+          -2.2587545260114674e-21,
+          1.2352563814125213e-21,
+          -1.378634354255046e-25,
+          -5.469435609532349e-28,
+          0.0
+        ],
+        "slit_weld_displacement_bound_mm": 0.0020267225746484897,
+        "simplification_mm": 0.004,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 2
+      },
+      "mechanism_to_print": [
+        [
+          0.9781476007338056,
+          -0.14701576646519846,
+          -0.14701576646519848,
+          0.42112456807031773
+        ],
+        [
+          0.20791169081775931,
+          0.6916548014802254,
+          0.6916548014802256,
+          0.5524401072021057
+        ],
+        [
+          0.0,
+          -0.7071067811865476,
+          0.7071067811865474,
+          -15.402776993235724
+        ]
+      ],
+      "geometry_sha256": "22825f5537260dcfa054c3570d9da594809223eaafb4729bbfb8ffa8d08d77c9",
+      "sha256": "f688262d9c32fa3719b9856f820873c9c764aaaa972fcd37d5cd7d5cc97ae3eb",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        2.7755575615628914e-17,
+        -1.6653345369377348e-16,
+        -1.0
+      ]
+    },
+    {
+      "name": "E07",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E07.stl",
+      "dimensions_mm": [
+        25.033737182617188,
+        55.50659942626953,
+        21.984615325927734
+      ],
+      "solid_volume_mm3": 9723.95693084685,
+      "triangles": 30138,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.0720686151438974,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          6.584269443323428e-19,
+          -3.614007241618348e-20,
+          4.517509052022935e-21,
+          1.4117215787571672e-22,
+          0.0
+        ],
+        "slit_weld_displacement_bound_mm": 0.0019208073376892271,
+        "simplification_mm": 0.002,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 6
+      },
+      "mechanism_to_print": [
+        [
+          -0.9702957262759964,
+          0.17106461289602903,
+          0.1710646128960291,
+          0.41520303002430037
+        ],
+        [
+          0.24192189559966773,
+          0.6861026878060831,
+          0.6861026878060833,
+          -0.5362369449862037
+        ],
+        [
+          0.0,
+          0.7071067811865477,
+          -0.7071067811865475,
+          -15.402777012483329
+        ]
+      ],
+      "geometry_sha256": "d8036939cf5fbf74549096c4f5f5c80c798f1f41342803cee629845c5fd658e6",
+      "sha256": "811365d6d01378cf6783fd3435799d139691e7b843acfceade03a3ca6a556a1b",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        4.163336342344337e-17,
+        1.6653345369377348e-16,
+        -1.0
+      ]
+    },
+    {
+      "name": "E08",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E08.stl",
+      "dimensions_mm": [
+        56.64546585083008,
+        26.719472885131836,
+        30.554861068725586
+      ],
+      "solid_volume_mm3": 13707.134409737924,
+      "triangles": 17240,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.066664935397468,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          1.4971884441129328e-09
+        ],
+        "slit_weld_displacement_bound_mm": 0.0019564895102458695,
+        "simplification_mm": 0.006,
+        "coordinate_decimals": 4,
+        "removed_coincident_faces": 2
+      },
+      "mechanism_to_print": [
+        [
+          0.17364817766693041,
+          -0.6963642403200188,
+          0.696364240320019,
+          -0.9122216990661229
+        ],
+        [
+          0.9848077530122079,
+          0.12278780396897289,
+          -0.12278780396897292,
+          1.5669884535395688
+        ],
+        [
+          0.0,
+          0.7071067811865476,
+          0.7071067811865474,
+          -15.402765673791075
+        ]
+      ],
+      "geometry_sha256": "d5e654646b454b0208642166a2ca92f05614aa06de228919a16189ca1037418d",
+      "sha256": "4494a741ff03fb9e2825dc5c4dbfad48f724ebbcd1bca6d9e8892c47cd22ecf3",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        -1.1102230246251565e-16,
+        2.7755575615628914e-17,
+        -1.0
+      ]
+    },
+    {
+      "name": "E09",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E09.stl",
+      "dimensions_mm": [
+        50.39387512207031,
+        26.917329788208008,
+        35.49528503417969
+      ],
+      "solid_volume_mm3": 15856.958748705418,
+      "triangles": 23980,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.0712931349656722,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          -1.1564823173178713e-18,
+          -4.698209414103852e-19,
+          3.6140072416183483e-19,
+          5.421010862427522e-20,
+          2.5552160575504728e-20,
+          -6.776263578034403e-21,
+          -1.1293772630057337e-21
+        ],
+        "slit_weld_displacement_bound_mm": 0.0017217944176347699,
+        "simplification_mm": 0.004,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 6
+      },
+      "mechanism_to_print": [
+        [
+          -0.6601410503592007,
+          -0.6601410503592007,
+          -0.35836794954530027,
+          -1.910613318031805
+        ],
+        [
+          0.2534044072834004,
+          0.25340440728340025,
+          -0.9335804264972019,
+          1.1474603084806443
+        ],
+        [
+          0.7071067811865476,
+          -0.7071067811865476,
+          1.1102230246251565e-16,
+          -15.402777362079183
+        ]
+      ],
+      "geometry_sha256": "88313a48832d34b1ce9aa5f5e41c664412817da841f03787135fd7287cca9de1",
+      "sha256": "72ffd2a768bca7e026da08037a09580ef75c042bb2d8d9149668fedcbc60a42f",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        0.0,
+        -1.1102230246251565e-16,
+        -1.0000000000000002
+      ]
+    },
+    {
+      "name": "E10",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E10.stl",
+      "dimensions_mm": [
+        24.5784912109375,
+        53.613975524902344,
+        26.8311710357666
+      ],
+      "solid_volume_mm3": 11132.842307881292,
+      "triangles": 23698,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.3507529862868157,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          -1.1564823173178713e-18,
+          -3.783413831069208e-20,
+          -3.614007241618348e-20,
+          9.03501810404587e-21,
+          1.5528937366328839e-21,
+          -6.705677499096544e-22,
+          -5.293955920339377e-23,
+          -1.433779728425248e-23,
+          0.0,
+          0.0
+        ],
+        "slit_weld_displacement_bound_mm": 0.0019130136195985557,
+        "simplification_mm": 0.008,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 8
+      },
+      "mechanism_to_print": [
+        [
+          -0.049325275616132355,
+          -0.9975640502598242,
+          -0.04932527561613237,
+          0.49245243374445824
+        ],
+        [
+          -0.7053843046066396,
+          0.0697564737441253,
+          -0.7053843046066398,
+          -2.4703459596999533
+        ],
+        [
+          0.7071067811865476,
+          0.0,
+          -0.7071067811865474,
+          -15.41971301460687
+        ]
+      ],
+      "geometry_sha256": "66075cf5e5fdfaa65848c3efe8fb2ea73015ff84dd3b9a81b446d7fcdc22734f",
+      "sha256": "df1d2508a092053f739e910d4b18cc78268207c04aae86b4007aa98a3c89282f",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        -1.3877787807814457e-17,
+        -1.6653345369377348e-16,
+        -1.0
+      ]
+    },
+    {
+      "name": "E11",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E11.stl",
+      "dimensions_mm": [
+        53.52558135986328,
+        25.07546043395996,
+        36.9036750793457
+      ],
+      "solid_volume_mm3": 17117.276881739857,
+      "triangles": 17182,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.0650789458228234,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          -2.710505431213761e-20,
+          1.6940658945086007e-21,
+          -7.511101538246485e-22,
+          4.411629933616147e-24,
+          0.0,
+          0.0
+        ],
+        "slit_weld_displacement_bound_mm": 0.0017175294564350098,
+        "simplification_mm": 0.01,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.7002252665996704,
+          -0.13917310096006544,
+          -0.7002252665996707,
+          1.5911997743853732
+        ],
+        [
+          0.09841024344762227,
+          0.9902680687415703,
+          -0.0984102434476223,
+          -0.5284130413393129
+        ],
+        [
+          0.7071067811865476,
+          0.0,
+          0.7071067811865474,
+          -15.402777295500778
+        ]
+      ],
+      "geometry_sha256": "829eadbbd37ab34facd1ff64842a9322928160e029296fb00c64e148a3fb76c9",
+      "sha256": "5d52f9e5d5d62d89c852bc2239f0cab7dd0dab59d1a82d2eab7b60ce801be44d",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        1.1102230246251565e-16,
+        1.3877787807814457e-17,
+        -1.0
+      ]
+    },
+    {
+      "name": "E12",
+      "role": "edge",
+      "quantity": 1,
+      "file": "stl/puzzle/E12.stl",
+      "dimensions_mm": [
+        27.895933151245117,
+        52.87168502807617,
+        32.19514083862305
+      ],
+      "solid_volume_mm3": 13365.278595137415,
+      "triangles": 27412,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.0646912936599486,
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          -4.912155537652637e-10
+        ],
+        "slit_weld_displacement_bound_mm": 0.0019240486822533348,
+        "simplification_mm": 0.004,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 8
+      },
+      "mechanism_to_print": [
+        [
+          0.061628416716219325,
+          -0.061628416716219464,
+          0.9961946980917455,
+          2.1597906920098495
+        ],
+        [
+          0.7044160264027588,
+          -0.7044160264027587,
+          -0.08715574274765818,
+          1.3212643990218123
+        ],
+        [
+          0.7071067811865476,
+          0.7071067811865476,
+          1.1102230246251565e-16,
+          -15.402776804628504
+        ]
+      ],
+      "geometry_sha256": "f928e0b2a9a9a0610c2df648bf6a163a617c0b5271cabb36d3be0cd300a25520",
+      "sha256": "84b599117d762d96b5fb625bddfacd1589300623f113159ad6f60ef8662dfa0a",
+      "print_orientation": "inward-radial-down-v1",
+      "inward_direction_in_print_coordinates": [
+        9.71445146547012e-17,
+        -5.551115123125783e-17,
+        -1.0000000000000002
+      ]
+    },
+    {
+      "name": "core",
+      "role": "core",
+      "quantity": 1,
+      "file": "stl/puzzle/core.stl",
+      "dimensions_mm": [
+        38.30207443237305,
+        38.398807525634766,
+        35.20000076293945
+      ],
+      "solid_volume_mm3": 24555.275053056946,
+      "triangles": 38000,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 193.25175369924077,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.39584539733200347,
+          -0.8163722245436608,
+          0.4205268272116574,
+          -0.0
+        ],
+        [
+          0.7141240004913257,
+          -0.014249830185003186,
+          -0.6998741703063227,
+          -0.0
+        ],
+        [
+          0.5773502691896258,
+          0.5773502691896258,
+          0.5773502691896256,
+          17.600000510017313
+        ]
+      ],
+      "geometry_sha256": "b7bd73bb2c84c3d4611cf64d9b382bda8c3d48043d3cd2fe01bd0f2abff62c9e",
+      "sha256": "bf4d5c9e3c28cd7912db09f18c9c01a7536a45eb8865657a1199034997ffcbb0"
+    },
+    {
+      "name": "core-nut-5.50",
+      "role": "core",
+      "quantity": 1,
+      "file": "stl/optional/core-nut-5.50.stl",
+      "dimensions_mm": [
+        38.30207443237305,
+        38.398807525634766,
+        35.20000076293945
+      ],
+      "solid_volume_mm3": 24616.574051085958,
+      "triangles": 38048,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 193.26765445576265,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.39584539733200347,
+          -0.8163722245436608,
+          0.4205268272116574,
+          -0.0
+        ],
+        [
+          0.7141240004913257,
+          -0.014249830185003186,
+          -0.6998741703063227,
+          -0.0
+        ],
+        [
+          0.5773502691896258,
+          0.5773502691896258,
+          0.5773502691896256,
+          17.600000510017313
+        ]
+      ],
+      "geometry_sha256": "fbf97f39599167980ef651c9b1de921fb3a84dfdfa8a4245f3530f72676a3ad1",
+      "sha256": "ed7be937862de522bd26d68da81dd3541bfadad9525b2214e93defc9c52b37f4"
+    },
+    {
+      "name": "core-nut-5.70",
+      "role": "core",
+      "quantity": 1,
+      "file": "stl/optional/core-nut-5.70.stl",
+      "dimensions_mm": [
+        38.30207443237305,
+        38.398807525634766,
+        35.20000076293945
+      ],
+      "solid_volume_mm3": 24493.716944886895,
+      "triangles": 38016,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 193.23263346305345,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          0.39584539733200347,
+          -0.8163722245436608,
+          0.4205268272116574,
+          -0.0
+        ],
+        [
+          0.7141240004913257,
+          -0.014249830185003186,
+          -0.6998741703063227,
+          -0.0
+        ],
+        [
+          0.5773502691896258,
+          0.5773502691896258,
+          0.5773502691896256,
+          17.600000510017313
+        ]
+      ],
+      "geometry_sha256": "fca6d14718abc5c1c86de5485bb4c4420cd4356496224a8b26db82d9c17aa2b2",
+      "sha256": "6bf95e8693bf20df7d893371ee4479bb271207f723a15384a1eb11c1f470fcea"
+    },
+    {
+      "name": "nut-fit-5.50",
+      "role": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.50.stl",
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "solid_volume_mm3": 3931.9504184073126,
+      "triangles": 842,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 422.92727781679355,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -7.599999904632568
+        ]
+      ],
+      "geometry_sha256": "b5efe2dccad183285fdb755c3d0de31917ca0f96da11fc6ed51882b72c54ff9d",
+      "sha256": "6daf95a1581c7d8233553e16690414048e4ea3706f2e750e3c41b958ee0e5f2f"
+    },
+    {
+      "name": "nut-fit-5.60",
+      "role": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.60.stl",
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "solid_volume_mm3": 3924.807688715704,
+      "triangles": 842,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 422.92727781679355,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -7.599999904632568
+        ]
+      ],
+      "geometry_sha256": "9a0b4a25c0e342b0ef79ce4ad3179f2bd032142175b2118040b438b95f3caa97",
+      "sha256": "d97e7d50ae74a60f31a36378e80127b5a99f3589799890454b428dd9223cf474"
+    },
+    {
+      "name": "nut-fit-5.70",
+      "role": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.70.stl",
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "solid_volume_mm3": 3917.6281530223227,
+      "triangles": 844,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 422.92727781679355,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -7.599999904632568
+        ]
+      ],
+      "geometry_sha256": "f9b6153840d4077cd4f91650682d488b9f1556f9afb0c6b4a1540173ef2ac236",
+      "sha256": "f78f9f28fb5d76759aea56546a6648fcac8d2cca3b20d1d5f7a925ae934c9a47"
+    },
+    {
+      "name": "rotor-fit",
+      "role": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/rotor-fit.stl",
+      "dimensions_mm": [
+        11.99817180633545,
+        11.99817180633545,
+        13.599998474121094
+      ],
+      "solid_volume_mm3": 616.5215528207146,
+      "triangles": 2496,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 21.98417110054229,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          -0.7193398003386513,
+          -0.6946583704589971,
+          0.0,
+          -0.0
+        ],
+        [
+          0.6946583704589971,
+          -0.7193398003386513,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -17.700000762939453
+        ]
+      ],
+      "geometry_sha256": "9337e097414ee0b74a6e95cca53ed02433a52081f2bb58f7aa2eaba63d517117",
+      "sha256": "1f1f499c5ca51133bb66e5655e1715c604fac6c37a95dabd513f7f41c448710e"
+    },
+    {
+      "name": "assembly-stand",
+      "role": "stand",
+      "quantity": 1,
+      "file": "stl/optional/assembly-stand.stl",
+      "dimensions_mm": [
+        43.9932975769043,
+        43.99330139160156,
+        72.30000305175781
+      ],
+      "solid_volume_mm3": 7956.458351870276,
+      "triangles": 3072,
+      "watertight": true,
+      "components": 1,
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1447.679003452299,
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "mechanism_to_print": [
+        [
+          -0.2658252849732179,
+          -0.535669954057513,
+          0.8014952390307313,
+          -1.0217093358022566e-06
+        ],
+        [
+          0.7720126841804958,
+          -0.6162177918452926,
+          -0.15579489233520333,
+          1.4724973329549584e-06
+        ],
+        [
+          0.5773502691896258,
+          0.5773502691896258,
+          0.5773502691896256,
+          90.00000347774731
+        ]
+      ],
+      "geometry_sha256": "f486188662b718620118374539edfb565d81d8567f6abf575a13d217734e7847",
+      "sha256": "e0dba47cac17c98a12d1d56a38a157e5bfab1f1fe473b58da3b3478f2f6137c6"
+    }
+  ],
+  "plates": [
+    {
+      "name": "C-01",
+      "objects": [
+        "C05",
+        "C08",
+        "C04",
+        "C01",
+        "C07",
+        "C06",
+        "C03",
+        "C02"
+      ],
+      "file": "plates/C-01.3mf"
+    },
+    {
+      "name": "E-01",
+      "objects": [
+        "E05",
+        "E06",
+        "E07",
+        "E04",
+        "E03",
+        "E10",
+        "E12",
+        "E01",
+        "E09",
+        "E08",
+        "E11",
+        "E02"
+      ],
+      "file": "plates/E-01.3mf"
+    },
+    {
+      "name": "core-01",
+      "objects": [
+        "core"
+      ],
+      "file": "plates/core-01.3mf"
+    },
+    {
+      "name": "fit-coupons-01",
+      "objects": [
+        "nut-fit-5.50",
+        "nut-fit-5.60",
+        "nut-fit-5.70",
+        "rotor-fit"
+      ],
+      "file": "plates/fit-coupons-01.3mf"
+    },
+    {
+      "name": "optional-01",
+      "objects": [
+        "assembly-stand"
+      ],
+      "file": "plates/optional-01.3mf"
+    },
+    {
+      "name": "optional-core-5.50-01",
+      "objects": [
+        "core-nut-5.50"
+      ],
+      "file": "plates/optional-core-5.50-01.3mf"
+    },
+    {
+      "name": "optional-core-5.70-01",
+      "objects": [
+        "core-nut-5.70"
+      ],
+      "file": "plates/optional-core-5.70-01.3mf"
+    }
+  ],
+  "print_orientation_revision": "inward-radial-down-v1"
+}

@@ -1,0 +1,171 @@
+{
+  "axes": [
+    {
+      "axis": 1,
+      "nut_insertion_worst": [
+        5.5,
+        1.1677611256991939e-14
+      ],
+      "nut_capture_overlap_mm3": 8.562273199608768,
+      "crush_rib_overlap_mm3": 0.1509925618674433,
+      "missing_washer_seat_mm2": 0.0,
+      "missing_bearing_foot_mm2": 0.0,
+      "missing_1_2_mm_collar_mm2": 0.0,
+      "driver_overlap_mm3": 0.0,
+      "screw_overlap_mm3": 0.0,
+      "washer_overlap_mm3": 2.1652427493707866e-06,
+      "washer_loading_overlap_mm3": 2.1652427493707866e-06
+    },
+    {
+      "axis": 2,
+      "nut_insertion_worst": [
+        8.75,
+        4.848653759308846e-15
+      ],
+      "nut_capture_overlap_mm3": 8.562273199608764,
+      "crush_rib_overlap_mm3": 0.15099330894894528,
+      "missing_washer_seat_mm2": 0.0,
+      "missing_bearing_foot_mm2": 0.0,
+      "missing_1_2_mm_collar_mm2": 0.0,
+      "driver_overlap_mm3": 0.0,
+      "screw_overlap_mm3": 0.0,
+      "washer_overlap_mm3": 5.6259329282570624e-06,
+      "washer_loading_overlap_mm3": 5.6259329282570624e-06
+    },
+    {
+      "axis": 3,
+      "nut_insertion_worst": [
+        6.5,
+        1.0909607539793322e-14
+      ],
+      "nut_capture_overlap_mm3": 8.562273199608764,
+      "crush_rib_overlap_mm3": 0.15099320364771895,
+      "missing_washer_seat_mm2": 0.0,
+      "missing_bearing_foot_mm2": 0.0,
+      "missing_1_2_mm_collar_mm2": 0.0,
+      "driver_overlap_mm3": 0.0,
+      "screw_overlap_mm3": 0.0,
+      "washer_overlap_mm3": 5.277386321615909e-06,
+      "washer_loading_overlap_mm3": 5.277386321615909e-06
+    },
+    {
+      "axis": 4,
+      "nut_insertion_worst": [
+        8.5,
+        4.4090572122110205e-15
+      ],
+      "nut_capture_overlap_mm3": 8.562273199608768,
+      "crush_rib_overlap_mm3": 0.15099294314455203,
+      "missing_washer_seat_mm2": 0.0,
+      "missing_bearing_foot_mm2": 0.0,
+      "missing_1_2_mm_collar_mm2": 0.0,
+      "driver_overlap_mm3": 0.0,
+      "screw_overlap_mm3": 0.0,
+      "washer_overlap_mm3": 5.141362182997302e-06,
+      "washer_loading_overlap_mm3": 5.141362182997302e-06
+    },
+    {
+      "axis": 5,
+      "nut_insertion_worst": [
+        7.75,
+        1.098176183236127e-14
+      ],
+      "nut_capture_overlap_mm3": 8.562273199608766,
+      "crush_rib_overlap_mm3": 0.15099267566738617,
+      "missing_washer_seat_mm2": 0.0,
+      "missing_bearing_foot_mm2": 0.0,
+      "missing_1_2_mm_collar_mm2": 0.0,
+      "driver_overlap_mm3": 0.0,
+      "screw_overlap_mm3": 0.0,
+      "washer_overlap_mm3": 8.602965867686815e-06,
+      "washer_loading_overlap_mm3": 8.602965867686815e-06
+    },
+    {
+      "axis": 6,
+      "nut_insertion_worst": [
+        8.75,
+        4.496161302297844e-15
+      ],
+      "nut_capture_overlap_mm3": 8.562273199608768,
+      "crush_rib_overlap_mm3": 0.15099337406612712,
+      "missing_washer_seat_mm2": 0.0,
+      "missing_bearing_foot_mm2": 0.0,
+      "missing_1_2_mm_collar_mm2": 0.0,
+      "driver_overlap_mm3": 0.0,
+      "screw_overlap_mm3": 0.0,
+      "washer_overlap_mm3": 4.85442786067665e-06,
+      "washer_loading_overlap_mm3": 4.85442786067665e-06
+    },
+    {
+      "axis": 7,
+      "nut_insertion_worst": [
+        6.0,
+        8.257138055982674e-15
+      ],
+      "nut_capture_overlap_mm3": 8.56227319960877,
+      "crush_rib_overlap_mm3": 0.15099196480891539,
+      "missing_washer_seat_mm2": 0.0,
+      "missing_bearing_foot_mm2": 0.0,
+      "missing_1_2_mm_collar_mm2": 0.0,
+      "driver_overlap_mm3": 0.0,
+      "screw_overlap_mm3": 0.0,
+      "washer_overlap_mm3": 5.663083058121724e-06,
+      "washer_loading_overlap_mm3": 5.663083058121724e-06
+    },
+    {
+      "axis": 8,
+      "nut_insertion_worst": [
+        11.75,
+        3.797494342095732e-15
+      ],
+      "nut_capture_overlap_mm3": 8.562273199608766,
+      "crush_rib_overlap_mm3": 0.1510014175524673,
+      "missing_washer_seat_mm2": 0.0,
+      "missing_bearing_foot_mm2": 0.0,
+      "missing_1_2_mm_collar_mm2": 0.0,
+      "driver_overlap_mm3": 0.0,
+      "screw_overlap_mm3": 0.0,
+      "washer_overlap_mm3": 5.631763186222375e-06,
+      "washer_loading_overlap_mm3": 5.631763186222375e-06
+    }
+  ],
+  "screw_pair_overlap_mm3": 0.0,
+  "bearing_clamp": [
+    [
+      0,
+      0.0
+    ],
+    [
+      0.05,
+      0.0
+    ],
+    [
+      0.1,
+      3.6411874907669766e-06
+    ],
+    [
+      0.11,
+      0.21986313466245747
+    ],
+    [
+      0.15,
+      1.099308723083914
+    ]
+  ],
+  "stack_mm": {
+    "core_radius": 19.200000000000003,
+    "core_flat": 17.6,
+    "foot": 17.700000000000003,
+    "washer_seat": 27.300000000000004,
+    "washer_thickness": 1,
+    "head_underside": 28.300000000000004,
+    "screw_tip": 8.300000000000004,
+    "nut_roof": 15.650000000000002,
+    "nut_inner_face": 11.650000000000002,
+    "tip_past_nut": 3.349999999999998
+  },
+  "_completion": {
+    "passed": true,
+    "seconds": 12.910840272903442
+  }
+}

@@ -1,4 +1,7 @@
-# CAD and reproduction
+# CAD and reproduction — 80 mm v4.2.1
+
+This directory and the root `scripts/reproduce.py` reproduce the older 80 mm
+version. For compact v4.3 use [its source and build instructions](../designs/redi-v4.3/source/README.md).
 
 Python 3.11 was used for the publication export. Dependencies are pinned in [requirements.txt](../requirements.txt). No OpenSCAD or proprietary CAD runtime is required.
 

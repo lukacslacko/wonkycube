@@ -1,4 +1,7 @@
-# Validation and provenance
+# Validation and provenance — 80 mm v4.2.1
+
+This report describes the older 80 mm set. The compact release has its own
+[v4.3 validation and physical feedback](../designs/redi-v4.3/VALIDATION.md).
 
 The **v4.2.1 publication export passes all four geometry reports**, plus an independent repeat-build comparison. These results apply to the files identified by [SHA256SUMS.txt](../models/current/SHA256SUMS.txt).
 

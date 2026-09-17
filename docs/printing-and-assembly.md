@@ -1,4 +1,8 @@
-# Printing and assembly
+# Printing and assembly — 80 mm v4.2.1
+
+This guide is for the older 80 mm direct-screw version. For the latest 64 mm
+locknut version, use [v4.3 assembly](../designs/redi-v4.3/ASSEMBLY.md).
+The hardware and pieces are different; do not mix the sets.
 
 Print one core, C01–C08 and E01–E12 from [models/current/parts](../models/current/parts). The [plates](../models/current/plates) arrange those parts for a 256 mm bed. `comparison_E12.3mf` is optional, not an additional required piece.
 
