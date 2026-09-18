@@ -1,0 +1,124 @@
+{
+  "plates": [
+    {
+      "file": "plates/C-01.3mf",
+      "objects": [
+        "C04",
+        "C02",
+        "C03",
+        "C01"
+      ],
+      "sha256": "989ee5061914eb151baf8d1c65f82e3aac054f0fc8c436f7f860e366dd144def"
+    },
+    {
+      "file": "plates/F-01.3mf",
+      "objects": [
+        "F02",
+        "F05",
+        "F01",
+        "F03",
+        "F04",
+        "F06"
+      ],
+      "sha256": "1d25195551f7669bef3090e0850d0bfac6439537c30919b57dab6524a1480a34"
+    },
+    {
+      "file": "plates/K-01.3mf",
+      "objects": [
+        "K01",
+        "K03",
+        "K04",
+        "K02"
+      ],
+      "sha256": "dacfcecfa28504b225bb199d4e946fe02ca2bc8cf3159a4e29a1573e20da2c2f"
+    },
+    {
+      "file": "plates/F-face-down-01.3mf",
+      "objects": [
+        "F02",
+        "F06",
+        "F04",
+        "F03",
+        "F05",
+        "F01"
+      ],
+      "sha256": "6c0d7078b07840043405c67943872a3af403b0a6296b9f3a224b857868c47e1b"
+    },
+    {
+      "file": "plates/K-face-down-01.3mf",
+      "objects": [
+        "K01",
+        "K03",
+        "K04",
+        "K02"
+      ],
+      "sha256": "6855483427db56f23d37154f33cd9604a13d199d60b13d4528d080d34fe86c7d"
+    },
+    {
+      "file": "plates/core-01.3mf",
+      "objects": [
+        "core"
+      ],
+      "sha256": "85500ddec8b6837d12a4998784bce2f62a64d813cce6ce050dee1662cca70306"
+    },
+    {
+      "file": "plates/alternate-cores-01.3mf",
+      "objects": [
+        "core-seat-5.30",
+        "core-seat-5.50"
+      ],
+      "sha256": "ab1210fabaab8669ecbbf7d0fe3fd51a96911281d3b64d921b91a4cb91c84947"
+    },
+    {
+      "file": "plates/fit-coupons-01.3mf",
+      "objects": [
+        "nut-fit-5.30",
+        "nut-fit-5.40",
+        "nut-fit-5.50",
+        "rotor-fit"
+      ],
+      "sha256": "c25c76999403f54cab717bdadd80bc7ac76697afadbdd73a4a78f6775a0655b3"
+    },
+    {
+      "file": "plates/stand-01.3mf",
+      "objects": [
+        "assembly-stand"
+      ],
+      "sha256": "ead77116e1a2263b96d515394046b555683081a00f15bd0075c2cb68b6011af3"
+    }
+  ],
+  "orientation_F01": {
+    "max_vertex_distance_mm": 1.0658141036401503e-14
+  },
+  "orientation_F02": {
+    "max_vertex_distance_mm": 1.5987211554602254e-14
+  },
+  "orientation_F03": {
+    "max_vertex_distance_mm": 1.464821375527116e-14
+  },
+  "orientation_F04": {
+    "max_vertex_distance_mm": 1.2592102364157598e-14
+  },
+  "orientation_F05": {
+    "max_vertex_distance_mm": 3.592459381734991e-14
+  },
+  "orientation_F06": {
+    "max_vertex_distance_mm": 2.853597149939685e-14
+  },
+  "orientation_K01": {
+    "max_vertex_distance_mm": 7.944109290391274e-15
+  },
+  "orientation_K02": {
+    "max_vertex_distance_mm": 1.854570987253821e-14
+  },
+  "orientation_K03": {
+    "max_vertex_distance_mm": 1.3181297901759441e-14
+  },
+  "orientation_K04": {
+    "max_vertex_distance_mm": 2.4613922385709617e-14
+  },
+  "_completion": {
+    "passed": true,
+    "mode": "plates"
+  }
+}

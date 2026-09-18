@@ -1,0 +1,111 @@
+{
+  "insert_K01": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_K02": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_K03": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_K04": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_F01": {
+    "samples": 79,
+    "worst": [
+      4.0,
+      2.71504467085228e-11
+    ]
+  },
+  "insert_F02": {
+    "samples": 79,
+    "worst": [
+      2.0,
+      1.68453728903759e-11
+    ]
+  },
+  "insert_F03": {
+    "samples": 79,
+    "worst": [
+      2.0,
+      3.1765389558185256e-11
+    ]
+  },
+  "insert_F04": {
+    "samples": 79,
+    "worst": [
+      2.0,
+      2.355912148390771e-11
+    ]
+  },
+  "insert_F05": {
+    "samples": 79,
+    "worst": [
+      4.0,
+      2.4557928440633487e-11
+    ]
+  },
+  "insert_F06": {
+    "samples": 79,
+    "worst": [
+      4.0,
+      2.1787456105624368e-11
+    ]
+  },
+  "insert_C01": {
+    "samples": 79,
+    "worst": [
+      1.0,
+      2.327381156965817e-08
+    ]
+  },
+  "insert_C02": {
+    "samples": 79,
+    "worst": [
+      1.0,
+      2.320690963016543e-08
+    ]
+  },
+  "insert_C03": {
+    "samples": 79,
+    "worst": [
+      1.0,
+      2.313765813308039e-08
+    ]
+  },
+  "insert_C04": {
+    "samples": 79,
+    "worst": [
+      1.0,
+      2.334938719284699e-08
+    ]
+  },
+  "stand_withdrawal": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "_completion": {
+    "passed": true,
+    "mode": "assembly"
+  }
+}

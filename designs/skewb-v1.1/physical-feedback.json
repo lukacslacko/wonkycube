@@ -1,0 +1,33 @@
+{
+  "design": "wonky-skewb-64mm-v1.1",
+  "reported_date": "2026-09-18",
+  "reported_by": "László Lukács (project owner)",
+  "report": "The skewb shape mod with the trimmed flange tips printed very well and turns very nicely.",
+  "scope": "Owner-reported successful physical print and turning of the trimmed v1.1 Skewb. No instrumented torque, breaking-load or long-term wear measurements.",
+  "settings": "The project baseline is Bambu Lab P1S, 0.4 mm nozzle and PLA. Exact settings, chosen orientation and nut-seat variant were not restated in this report.",
+  "provenance": "Hashes identify the delivered v1.1 package associated with the owner report, not an independently inspected printer job. The report does not say every supplied alternative core or coupon was printed.",
+  "delivered_stl_sha256": {
+    "stl/fit-coupons/nut-fit-5.30.stl": "6749f37812ce05d7cf7825eb2f2ff844aa95735f985c06914b9deb3f5adf29b8",
+    "stl/fit-coupons/nut-fit-5.40.stl": "191025b1e57713e2f0105027255b17281a59ce2090f2a9872173da3dc12501d8",
+    "stl/fit-coupons/nut-fit-5.50.stl": "414429396406a07ae64261bbf253ad726e2703629bea7e5487d4cb24b69c9162",
+    "stl/fit-coupons/rotor-fit.stl": "837b99d401d230c8c9d0be3783a75b20fc6b8583fd21aa68114a78f881ae9b6c",
+    "stl/optional/assembly-stand.stl": "5668f6b190ed0c9fecebeeac59b2eff9a29839ab13532457ffaedbdd8d58dd57",
+    "stl/optional/core-seat-5.30.stl": "a31ab63e6519422bf19401e99ded39d916d653c82205ecb0f84c26201a5ddf38",
+    "stl/optional/core-seat-5.50.stl": "5ee40308719cfd97337f1f1ad77a626f86c2382aefded17a50348aa569747a03",
+    "stl/puzzle/C01.stl": "d8a9ca3520c964840cdc6c7940284e463e6dbae4035169d56c7f51dc39a118bf",
+    "stl/puzzle/C02.stl": "fc0ab66c20cf98b71ad9a6fabfa0d3ba26e792fa367a851edb544139e8e4402d",
+    "stl/puzzle/C03.stl": "ea7e14c028284178841fd2ac8f6f42a9025e6efe38ce7155bdd79fa01af28c4b",
+    "stl/puzzle/C04.stl": "f9f6b21ae0b19829fc2f7648f5ca2197b3fd4b6ef2dde7f8a1865728a1ebce05",
+    "stl/puzzle/F01.stl": "aa3f0595fc6d9bbf0d3e97392157ddeeb4ffc1a8b3539cf6ef96822f7760aee4",
+    "stl/puzzle/F02.stl": "786f031793f1cd5374832c1dbc9cce50a09c16c65c1c28c2dacc33471f19d4fa",
+    "stl/puzzle/F03.stl": "a58691f9807267d9c14c02c34a042dd45a4634b902ce9dfb70ce1ce033853361",
+    "stl/puzzle/F04.stl": "47543f5763552c46dc1756f8140dec0a348cba8d352942cd639ca9c0d81153d7",
+    "stl/puzzle/F05.stl": "052f02effeeb251232dbcd62e708983ba1b04a845392d06b73b983c103712add",
+    "stl/puzzle/F06.stl": "dbc1e72ec58573ceb0d3964990beeb6b9da106cba23b704d15fa751e7fc7be67",
+    "stl/puzzle/K01.stl": "5d91025822d4786cdd284e1dd7c74728f1f953083f1717bb1e4109efcd116a18",
+    "stl/puzzle/K02.stl": "764643d8fec2ca4cb05cc0aad9f85a4a4792e2d5cae8d5b96fa9d450aeef1693",
+    "stl/puzzle/K03.stl": "0559c63e77cba084bbd031f85417a1b19a25139d3ddfb2f9d1d45ec20e0a975d",
+    "stl/puzzle/K04.stl": "c3d4969678a0d9be6c51fb0e7b79a1f3c53131fa4dd992160454e0a9bebd8c9d",
+    "stl/puzzle/core.stl": "1cdab1abf622206e755944c0f65ac1fd8f285d928b2b957ef4ef2e716bb00c39"
+  }
+}

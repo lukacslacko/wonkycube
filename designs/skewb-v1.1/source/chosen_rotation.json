@@ -1,0 +1,26 @@
+{
+  "rotation_convention": "Active cube-to-mechanism R = Rz(z) @ Ry(y) @ Rx(x); x/y/z fixed mechanism axes; degrees",
+  "angles_xyz_deg": [
+    32.39170619500448,
+    26.19285730818689,
+    -13.23296229981059
+  ],
+  "cube_to_mechanism_matrix": [
+    [
+      0.8734873728164643,
+      0.42347187653133994,
+      0.24019029813299433
+    ],
+    [
+      -0.20540484801789485,
+      0.7678567527368553,
+      -0.6067988593324459
+    ],
+    [
+      -0.44139399400188567,
+      0.48069488978294483,
+      0.7576963540862698
+    ]
+  ],
+  "provenance": "The optimized exterior orientation of the original Wonky Redi is reused. No new orientation search was performed for this Skewb. Actual SIDE is set in skewb_design.py."
+}

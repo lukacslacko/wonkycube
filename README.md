@@ -1,36 +1,48 @@
 # Wonkycube
 
-An open-source, 3D-printable corner-turning puzzle with a cube-shaped exterior rotated away from its mechanism. Eight corners turn about the mechanism's body diagonals; twelve movable edges have different exterior shapes. Scramble it and the cube changes shape. The latest version, **v4.3, is 64 mm across**.
+Open-source, 3D-printable Redi and Skewb shape mods. Their cube-shaped exterior is rotated away from the mechanism's axes, giving interchangeable pieces distinct outside shapes. Scramble either puzzle and the cube changes shape.
 
-![Compact 64 mm Wonkycube](designs/redi-v4.3/images/solved.png)
+The newest release is **Wonky Skewb v1.1, 64 mm, with trimmed floating-corner flange tips**. On 2026-09-18 the owner reported that it printed very well and turns very nicely.
+
+![Wonky Skewb, solved and exploded](designs/skewb-v1.1/images/overview.png)
 
 Designed and physically iterated by **László Lukács**, with CAD, optimization and documentation developed with OpenAI Codex. Source, documentation and original generated models are available under the [MIT license](LICENSE).
 
 ## Print one
 
-Download [v4.3](https://github.com/lukacslacko/wonkycube/releases/tag/v4.3), or use [designs/redi-v4.3](designs/redi-v4.3). The full set contains **21 puzzle parts**: one core, eight corners and twelve edges. You also need eight each of **DIN912 M3 × 20 socket-head screws**, **Ø9 × 1 mm washers with M3 clearance holes**, and **DIN985 M3 nylon-insert locknuts**. The nuts load sideways into the core; no glued shells or separate printed retainers are needed.
+| Design | Download | Build guide | Puzzle parts and hardware |
+|---|---|---|---|
+| **Skewb v1.1 — 64 mm** | [Full set or four-corner upgrade](https://github.com/lukacslacko/wonkycube/releases/tag/skewb-v1.1) | [Assembly](designs/skewb-v1.1/ASSEMBLY.md) · [Neighbors](designs/skewb-v1.1/NEIGHBORS.md) | 15 printed parts; 4 screws, washers and locknuts |
+| **Redi v4.3 — 64 mm** | [Full set](https://github.com/lukacslacko/wonkycube/releases/tag/v4.3) | [Assembly](designs/redi-v4.3/ASSEMBLY.md) · [Neighbors](designs/redi-v4.3/NEIGHBORS.md) | 21 printed parts; 8 screws, washers and locknuts |
 
-Use millimetres, **100% scale**, and a 0.4 mm nozzle. The project was developed on a Bambu Lab P1S with PLA as the original baseline. The edge STLs already point radially inward toward the bed, the owner's preferred print orientation. The 3MF plates contain geometry, not a validated slicer profile or G-code. Start with the [v4.3 printing and assembly guide](designs/redi-v4.3/ASSEMBLY.md) and [piece-neighbor list](designs/redi-v4.3/NEIGHBORS.md).
+Both use **DIN912 M3 × 20 socket-head screws**, **Ø9 × 1 mm washers with M3 clearance holes**, and **DIN985 M3 nylon-insert locknuts**. Nuts load sideways into the core. Retaining features are integral with the pieces; no glue or separate hidden printed carriers are needed.
 
-The owner built the compact revision and reports that everything except nut retention feels very nice. **Known core issue:** about half the nut seats allow the nut to spin under the locknut's installation torque. The proposed improvement keeps the loading entrance wide and narrows only the final seat around the screw hole, allowing the nut to be pressed home with a blunt metal rod. **That improvement is documented, not yet implemented in the released core.** See the [design and follow-up specification](docs/design.md#known-core-issue-and-next-change).
+Use millimetres and **100% scale**. Development used a Bambu Lab P1S with a 0.4 mm nozzle and PLA as the baseline. The supplied 3MFs contain geometry, not a validated slicer profile or G-code. Check the version's assembly guide, nut-fit coupons and support placement. Exact slicer settings, chosen orientation and nut-seat variant were not restated in the latest success report.
 
-The [80 mm v4.2.1 release](https://github.com/lukacslacko/wonkycube/releases/tag/v4.2.1) and [its files](models/current) remain available. The compact version uses a smaller mechanism and different hardware; **do not mix parts between these versions**. The historical `models/current` directory still denotes the 80 mm set.
+The Skewb has four screwed corners C01–C04, six floating faces F01–F06 and four floating corners K01–K04 around one core. Assembly order is **K → F → C**. Its core implements a wide nut-loading entrance leading to a narrower final torque seat, with alternative fits supplied. The v1.1 correction trims three thin perforated tips from each K flange, leaving broad retaining lobes. Only K01–K04 need replacing in an existing v1 build; every other STL is byte-for-byte unchanged. Read the [tip revision and checks](designs/skewb-v1.1/TIP-REVISION.md).
 
-## Why it turns well
+The Redi has eight screwed corners and twelve movable edges around one core. Its owner reports that everything except nut retention feels very nice. **Known Redi v4.3 core issue:** about half the nut seats allowed nuts to spin under installation torque. A narrower final seat is documented as a [pending Redi core improvement](docs/design.md#known-core-issue-and-next-change); the published Redi core has not been changed by this Skewb release.
 
-The mechanism gives different surfaces different jobs. Flat retaining shoulders obstruct edge withdrawal. Wider tracks follow the complete swept flange shape. Rounded entrances and continuous radial ridges reduce snagging, while flat axle feet and lightly adjusted screws support the corners without clamping them. A smaller exterior brings the grip closer to the mechanism.
+The [80 mm Redi v4.2.1 release](https://github.com/lukacslacko/wonkycube/releases/tag/v4.2.1) and [its files](models/current) remain available. **Do not mix parts between these different mechanisms or sizes.** The historical `models/current` directory still denotes the 80 mm set.
 
-The most useful result beyond this particular puzzle is the [mechanism design guide](docs/mechanism-principles.md): how to balance capture, clearance, rounding, support, size and assembly in other printed moving mechanisms. It includes what failed and how to diagnose similar failures.
+## Why they turn well
+
+Different surfaces do different jobs. Flat retaining shoulders obstruct withdrawal. Wider tracks accommodate the swept flange shape. Rounded entrances and continuous radial ridges reduce snagging, while flat axle feet and lightly adjusted screws support rotation. A compact exterior brings the grip closer to the mechanism.
+
+The Skewb adds a printing lesson: a connected CAD flange can have webs too thin to form extrusion paths. Removing its nonfunctional perforated tips eliminated isolated scraps while preserving capture in the checked paths. The owner then confirmed successful printing and nice turning. This qualitative result supports the combined design; it does not isolate the contribution of each feature or measure strength and wear.
+
+The [mechanism design guide](docs/mechanism-principles.md) collects these transferable lessons about capture, clearance, rounding, assembly, sizing, nut retention and printable connectivity, including failures and ways to diagnose them.
 
 ## Explore or modify
 
 | Resource | Purpose |
 |---|---|
-| [Mechanism principles](docs/mechanism-principles.md) | Transferable design knowledge, independent of this cube's appearance |
-| [Design reference](docs/design.md) | Current dimensions, rotation, version comparison and pending core improvement |
-| [Printing and assembly](designs/redi-v4.3/ASSEMBLY.md) | Compact hardware, orientation, nut loading and screw adjustment |
-| [Validation](designs/redi-v4.3/VALIDATION.md) | Compact checks, physical feedback, provenance and practical limits |
-| [Development history](docs/development-history.md) | How the printed feedback changed the design |
-| [CAD and reproduction](designs/redi-v4.3/source/README.md) | Compact Python/Manifold source, canonical masters, regeneration and checks |
+| [Mechanism principles](docs/mechanism-principles.md) | Reusable design knowledge, including flange-tip trimming |
+| [Skewb design](designs/skewb-v1.1/DESIGN.md) | Four-axis mechanism, retaining rails, hardware and assembly hierarchy |
+| [Skewb validation](designs/skewb-v1.1/VALIDATION.md) | Geometry checks, physical feedback and their limits |
+| [Skewb CAD](designs/skewb-v1.1/source/README.md) | Python/Manifold source, regeneration and checks |
+| [Redi design](docs/design.md) | Dimensions, rotation and pending core improvement |
+| [Redi CAD](designs/redi-v4.3/source/README.md) | Compact Redi source and regeneration |
+| [Development history](docs/development-history.md) | How printed feedback changed both mechanisms |
 
-The chosen exterior rotation is a best-found numerical result under a sampled shape-distance objective, not a proof of the globally most distinctive possible puzzle. The edge attachments intentionally interchange during play; their exteriors distinguish solved locations. Mirror images count as different.
+The exterior rotation is a best-found numerical result for sampled Redi edge distinction, reused for the Skewb. It is not a proof of global or perceptual optimality. Attachments intentionally interchange during play; exterior shapes distinguish solved locations. Mirror images count as different.

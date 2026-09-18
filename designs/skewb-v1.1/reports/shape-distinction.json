@@ -1,0 +1,214 @@
+{
+  "C": {
+    "common_directions": 579,
+    "proper_mounts": 3,
+    "pairs": [
+      {
+        "pieces": [
+          "C01",
+          "C02"
+        ],
+        "minimum_rms_mm": 9.115556454345297
+      },
+      {
+        "pieces": [
+          "C01",
+          "C03"
+        ],
+        "minimum_rms_mm": 7.470392366146648
+      },
+      {
+        "pieces": [
+          "C01",
+          "C04"
+        ],
+        "minimum_rms_mm": 10.158815570392905
+      },
+      {
+        "pieces": [
+          "C02",
+          "C03"
+        ],
+        "minimum_rms_mm": 2.684854281884603
+      },
+      {
+        "pieces": [
+          "C02",
+          "C04"
+        ],
+        "minimum_rms_mm": 2.880122850506794
+      },
+      {
+        "pieces": [
+          "C03",
+          "C04"
+        ],
+        "minimum_rms_mm": 4.196606612351104
+      }
+    ],
+    "minimum_pair_rms_mm": 2.684854281884603
+  },
+  "F": {
+    "common_directions": 1778,
+    "proper_mounts": 2,
+    "pairs": [
+      {
+        "pieces": [
+          "F01",
+          "F02"
+        ],
+        "minimum_rms_mm": 4.199187892243529
+      },
+      {
+        "pieces": [
+          "F01",
+          "F03"
+        ],
+        "minimum_rms_mm": 4.835490704922382
+      },
+      {
+        "pieces": [
+          "F01",
+          "F04"
+        ],
+        "minimum_rms_mm": 5.692095471819676
+      },
+      {
+        "pieces": [
+          "F01",
+          "F05"
+        ],
+        "minimum_rms_mm": 5.802631877878018
+      },
+      {
+        "pieces": [
+          "F01",
+          "F06"
+        ],
+        "minimum_rms_mm": 4.242342763709364
+      },
+      {
+        "pieces": [
+          "F02",
+          "F03"
+        ],
+        "minimum_rms_mm": 5.080402573358818
+      },
+      {
+        "pieces": [
+          "F02",
+          "F04"
+        ],
+        "minimum_rms_mm": 5.8728755043290475
+      },
+      {
+        "pieces": [
+          "F02",
+          "F05"
+        ],
+        "minimum_rms_mm": 5.921615599587421
+      },
+      {
+        "pieces": [
+          "F02",
+          "F06"
+        ],
+        "minimum_rms_mm": 5.803648078936666
+      },
+      {
+        "pieces": [
+          "F03",
+          "F04"
+        ],
+        "minimum_rms_mm": 4.819960037938113
+      },
+      {
+        "pieces": [
+          "F03",
+          "F05"
+        ],
+        "minimum_rms_mm": 5.870288713688676
+      },
+      {
+        "pieces": [
+          "F03",
+          "F06"
+        ],
+        "minimum_rms_mm": 5.6871183131768595
+      },
+      {
+        "pieces": [
+          "F04",
+          "F05"
+        ],
+        "minimum_rms_mm": 5.083986082789066
+      },
+      {
+        "pieces": [
+          "F04",
+          "F06"
+        ],
+        "minimum_rms_mm": 4.835963210136262
+      },
+      {
+        "pieces": [
+          "F05",
+          "F06"
+        ],
+        "minimum_rms_mm": 4.195688730733677
+      }
+    ],
+    "minimum_pair_rms_mm": 4.195688730733677
+  },
+  "K": {
+    "common_directions": 599,
+    "proper_mounts": 3,
+    "pairs": [
+      {
+        "pieces": [
+          "K01",
+          "K02"
+        ],
+        "minimum_rms_mm": 4.004709325614735
+      },
+      {
+        "pieces": [
+          "K01",
+          "K03"
+        ],
+        "minimum_rms_mm": 2.6925657355306853
+      },
+      {
+        "pieces": [
+          "K01",
+          "K04"
+        ],
+        "minimum_rms_mm": 10.00487242696314
+      },
+      {
+        "pieces": [
+          "K02",
+          "K03"
+        ],
+        "minimum_rms_mm": 2.479523343481901
+      },
+      {
+        "pieces": [
+          "K02",
+          "K04"
+        ],
+        "minimum_rms_mm": 7.064755038194066
+      },
+      {
+        "pieces": [
+          "K03",
+          "K04"
+        ],
+        "minimum_rms_mm": 8.89278793119485
+      }
+    ],
+    "minimum_pair_rms_mm": 2.479523343481901
+  },
+  "passed": true,
+  "scope": "Sampled exterior differences under proper tetrahedral mount rotations; reflections remain distinct. The Redi exterior rotation was reused, not reoptimized for Skewb."
+}

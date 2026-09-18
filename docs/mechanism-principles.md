@@ -1,8 +1,10 @@
 # Designing printed mechanisms that retain well and move freely
 
-These lessons came from printing and revising a corner-turning puzzle. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [design reference](design.md) records the particular dimensions used here; the principles below explain how to choose and evaluate such dimensions elsewhere.
+These lessons came from printing and revising the Wonky Redi and Wonky Skewb. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [Redi reference](design.md) and [Skewb reference](../designs/skewb-v1.1/DESIGN.md) record particular dimensions; the principles below explain how to choose and evaluate such dimensions elsewhere.
 
 The successful behavior comes from a combination of features. The print trials changed several features between revisions, so they do not isolate a measured contribution from each radius or clearance.
+
+On 2026-09-18 the owner reported that the Skewb with trimmed flange tips printed very well and turns very nicely. This extends the physical evidence to a second mechanism topology using close main faces, wider tracks, continuous R3 radial rounding and flat axle bearings. It is qualitative print and turning feedback, not a measured strength or endurance rating. [Report and supplied export hashes](../designs/skewb-v1.1/physical-feedback.json).
 
 ## 1. Give retention, guidance and fastening separate jobs
 
@@ -97,6 +99,8 @@ A subtract-only revision has a valuable ideal-geometry property: if each new par
 
 Protect the exact bearing foot and washer collar rather than broadly protecting every internal surface. Broad protection can accidentally leave the sharp transition the revision was intended to remove. Check motion, material left at the lands, and assembly access separately.
 
+The Skewb tip correction is a concrete example: only its four floating K corners change, and all 18 other STL files remain byte-for-byte identical to v1. Apply the final tip subtraction after generating the original insertion reliefs; keep the original mating envelope when rebuilding neighboring parts. Otherwise a smaller corner can inadvertently produce a smaller clearance in a supposedly compatible replacement. Sampled retention was checked again after trimming, and the owner subsequently confirmed a successful print and nice turning.
+
 ## 7. Size the exterior around a mechanically adequate interior
 
 Set the fastener, bearing, retaining and access dimensions first. Then make the decorative or puzzle exterior large enough to contain those features with adequate walls in every direction.
@@ -113,7 +117,7 @@ An asymmetric shell can expose thin spots that a symmetric prototype hides. Insp
 
 Closed-loop retention is only useful if there is an assembly sequence. Model the swept volume of each insertion, the driver and washer access, and the withdrawal of any assembly jig.
 
-This mechanism is assembled by placing the edges around the core before installing the corner retainers. Corners slide along their axes and are screwed from outside. One corner corridor stays empty until the stand is withdrawn. Nothing needs to pass through an already installed flange.
+The Redi is assembled by placing the edges around the core before installing the corner retainers. The Skewb adds another level of capture: floating K corners are held by F face pieces, which are held by screwed C corners. Its assembly order is therefore **K → F → C**. Both designs use whole pieces with checked insertion paths; one C corridor stays empty until the optional stand is withdrawn. Nothing needs to pass through an already installed flange.
 
 A fastener can be visible yet unreachable by the actual tool: include the tubular bit holder, not just the Phillips tip. Likewise, a jig that supports the first step can be trapped by the last step. Explicitly reserve and verify its exit route.
 
@@ -125,8 +129,9 @@ Use a ladder of evidence:
 2. Check aligned fit and sampled intended turns with hardware present.
 3. Check insertion, tool access and jig withdrawal.
 4. Probe escape paths and small misalignment, especially after material removal.
-5. Print a coupon/fixture or a few interchangeable parts.
-6. Test the full mechanism and record the exact file hashes, material and settings.
+5. Check printable connectivity at the intended layer height, line width and orientation; inspect slicer toolpaths and support placement.
+6. Print a coupon/fixture or a few interchangeable parts.
+7. Test the full mechanism and record the exact file hashes, material and settings. Distinguish hashes of supplied files from independently confirmed printer inputs, and record missing settings as unknown.
 
 Finite collision samples do not prove clearance at every possible pose. Intersection volume does not measure hand torque. A blocked rigid extraction path does not establish a holding-force rating or resistance to elastic popping.
 
@@ -140,7 +145,9 @@ A captive locknut has three distinct requirements: a path to insert it, axial ca
 
 The compact build exposed this distinction: roughly half the nuts spun in their seats as the M3 screws engaged the DIN985 nylon rings. The owner otherwise liked the puzzle. The evidence identifies a local anchorage problem; it does not call for changing the successful sliding pieces.
 
-Separate the **loading passage** from the **final torque seat**. Keep the entrance generous, then use a short lead-in to a tighter terminal region around the screw bore. Give the nut flats enough engagement and surrounding material to react torque. A blunt rod can press the nut through the last region without making the entire insertion path an interference fit. Keep the final nut depth and screw alignment fixed when revising an otherwise compatible core. This is the proposed correction here, not yet a validated fit or an implemented feature of v4.3.
+Separate the **loading passage** from the **final torque seat**. Keep the entrance generous, then use a short lead-in to a tighter terminal region around the screw bore. Give the nut flats enough engagement and surrounding material to react torque. A blunt rod can press the nut through the last region without making the entire insertion path an interference fit. Keep the final nut depth and screw alignment fixed when revising an otherwise compatible core.
+
+The Skewb implements this separation with a 5.85 mm loading mouth, a tapered approach to a nominal 5.40 mm terminal seat across flats, and access for a blunt Ø3 mm pressing rod. Fit coupons and 5.30/5.50 mm alternatives accommodate print and nut variation. Its successful whole-puzzle report supports buildability, but does not identify the chosen seat variant or independently establish installation-torque capacity or long-term resistance to spinning. The released **Redi v4.3 core remains unchanged**; its tighter seat is still a proposed follow-up.
 
 Validate with the actual locking nut: push it fully home, drive the screw through the nylon ring, and reverse it. Watch for nut rotation, damaged flats, splitting and progressive loosening over repeated cycles. Check all differently oriented pockets in the real printed core; a single conveniently oriented coupon cannot represent them all. Choose the final interference from those results rather than treating nominal nut dimensions or insertion feel as a torque test.
 
@@ -148,11 +155,27 @@ Keep screw-thread locking separate from bearing adjustment too. The rotating pie
 
 ## 11. Choose print orientation for the working surfaces
 
-The owner found that the edges printed best with their inward radial vectors pointing down. The compact release supplies that pose in both the STLs and the plates. This is useful empirical evidence for these parts, not a universal rule that a narrow footprint always prints better than a broad face.
+The owner found that the Redi edges printed best with their inward radial vectors pointing down. The compact Redi release supplies that pose in both the STLs and the plates. This is useful empirical evidence for these parts, not a universal rule that a narrow footprint always prints better than a broad face.
+
+The Skewb's inward-down F/K pieces have very small initial footprints, so it also supplies broad-face-down 3MF alternatives. Trimming its disconnected tip remnants fixes the geometry in both orientations; it does not remove the need to support ordinary overhangs. The successful print report did not restate which orientation was used, so it is not an orientation comparison.
 
 Compare the surfaces that actually slide, enter tracks, or carry load: layer steps, seams and support scars on those surfaces can matter more than minimizing support volume alone. Evaluate adhesion, support removal and flange strength alongside surface quality. Keep the other slicer settings fixed when comparing orientations.
 
 Store the print-to-assembly transform and retain part IDs. Verify scale, bed height and closed meshes after reorientation. A rigid rotation should change the printing pose without redesigning the mechanism, but its physical effect on finish and strength still needs a print trial.
+
+## 12. Check printable connectivity and remove nonfunctional thin remnants
+
+A watertight, connected CAD solid can slice into disconnected pieces. In the first Skewb floating corners, three small holes near the flange vertices left thin terminal loops. Their connecting webs were too narrow to generate extrusion paths, while the tips themselves survived as separate scraps. The slicer then spent support material holding those scraps instead of making a useful connection.
+
+![Skewb floating-corner flange before and after trimming](../designs/skewb-v1.1/images/tip-comparison.png)
+
+Inspect the geometry at the intended layer height and extrusion width, not just its mesh connectivity. A fixed-width layer graph reproduced six isolated scraps in the old K01 at 0.16 mm layers and 0.42 mm width. After trimming, all four corners had one connected printable graph in 40 tested combinations of orientation, layer height and width. Those are geometric simulations, not actual slicer toolpaths; the subsequent successful physical print supplies separate evidence.
+
+Determine what each suspect region does before removing it. Here the broad lobes between the vertices provide capture, so the revision cuts away the three perforated tips and opens their holes to the perimeter. The sampled pull and rocking paths remain blocked at the same first-contact travel, including checks with lifted screwed corners. Those results justify retaining the broad lobes while removing the troublesome remnants; they do not prove equal breaking strength.
+
+The case-specific trim uses three chords 9.5 mm from the corner axis, limited below axial distance 22 mm. Those numbers are not a general design rule. The transferable process is to locate material that cannot print reliably, distinguish it from load-bearing lands, make a local correction, and recheck capture, assembly and motion. If a thin web is essential, thicken or redesign it and its mating clearance instead. Filling holes or adding material without checking the swept path can create a new jam.
+
+Support is appropriate for a useful overhang that joins the body later. It cannot compensate for a connecting web omitted from every extrusion layer. Keep such overhangs distinct from permanently isolated scraps, and correct the latter explicitly in the CAD when they serve no necessary function.
 
 ## A practical diagnosis table
 
@@ -164,6 +187,7 @@ Store the print-to-assembly transform and retain part IDs. Verify scale, bed hei
 | Catches when changing axes | Ridge/track-mouth contact and transition bands | Continuous local rounding; expanded unrounded sweep |
 | Turns freely but feels unstable | Axial and diametral freedom | Tighten the appropriate constraint without closing every gap |
 | CAD passes but print catches | Seams, supports, first-layer lip, dimensions | Calibrate and finish before changing the whole mechanism |
+| Watertight flange slices into isolated supported scraps | Thin webs around holes and corners, at actual layer height and line width | Trim nonfunctional tips or redesign essential webs; recheck retention and motion |
 | Nut spins as the screw reaches its locking ring | Final seat flat engagement and actual installation torque | Keep entrance easy; tighten only the final seat; test with real locknuts |
 | Nut stays in during handling but spins under a driver | Grip ribs versus torque-bearing walls | Treat handling retention and antirotation as separate requirements |
 

@@ -1,4 +1,6 @@
-# Design reference
+# Redi design reference
+
+For the newer, owner-tested Skewb with trimmed flange tips, see its [design reference](../designs/skewb-v1.1/DESIGN.md) and [print files](../designs/skewb-v1.1). This page records the separate Redi design.
 
 The current **v4.3** design is a 64 mm Redi-equivalent puzzle: eight screw-mounted
 C pieces and twelve movable E pieces around one core. Each 120° turn rotates one

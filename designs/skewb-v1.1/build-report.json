@@ -1,0 +1,24 @@
+{
+  "design": "wonky-skewb-64mm-v1.1",
+  "created_utc": "2026-09-17T18:39:08.011799+00:00",
+  "physical_tested": true,
+  "physical_feedback_record": "physical-feedback.json",
+  "physical_test_scope": "Owner-reported qualitative print and turning result for matching delivered STLs; not all optional variants or instrumented performance",
+  "manifest_sha256": "9f4daef5dd64a941d09bab53be3232db60fac4f2d8afa8eec2be81aa7dac64cc",
+  "reports": {
+    "assembly.json": "4bbde6da63b7df55c1aa05e9925756608998859ce028a488eb7417d0086a7a2f",
+    "export-surface.json": "7d9910a195765df288da30711151c34065c7752329642e55b6fd39cd2ac37b42",
+    "hardware.json": "986f637af45819ff7254dadaa2473fd240ef6fb106f2310847d91093f00e637e",
+    "motion.json": "08119c39d6e936e962e12f4c919db536ce7d0187d561dc2e81a209bae8228802",
+    "plates.json": "912b9ee05a2cf0dc7dbdad2cebe231163f505799fd1f18650c6b9f6034c9973b",
+    "retention.json": "6eddb500791650f75d92d2318eb829aa69e5728837afd5776ab601752c0a98e9",
+    "ridge-radii.json": "ced414bcef670bf29d0aabcce5f0560b4db27a56598f6f3a1388a85b31e15aa2",
+    "shape-distinction.json": "5f5c4b238c12e0704036dc2d963d94d7b0e8d8d1921f2c659e8d5bd36bfe694a",
+    "tip-revision.json": "a28a9734aeea1017bdd7d52074c72826415e748f04161a9538bfd8853d7ae48b"
+  },
+  "stl_count": 22,
+  "plate_count": 9,
+  "default_puzzle_parts": 15,
+  "hardware_sets": 4,
+  "publication_metadata_updated_utc": "2026-09-18T07:39:33.076576+00:00"
+}
