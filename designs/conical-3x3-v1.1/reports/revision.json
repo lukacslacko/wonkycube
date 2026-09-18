@@ -1,0 +1,73 @@
+{
+  "passed": true,
+  "manifest_sha256": "e75ef7ed4fad157cd994201b009e249a9801c7ffa2297faf09121094073c5da5",
+  "changes": [
+    {
+      "name": "C01",
+      "added_material_mm3": 93.27253059809698,
+      "removed_material_mm3": 0.0002538593791088588,
+      "old_sha256": "125f206515263d64438049bed8cd06027346030831421854466cd4fc8a6da902",
+      "new_sha256": "d2ecc927dfe0413fd523829663793bd32e1eecbf7c7d5dfc60ca57047493d957"
+    },
+    {
+      "name": "C02",
+      "added_material_mm3": 93.27264163864875,
+      "removed_material_mm3": 0.0001273254348384223,
+      "old_sha256": "aa5f9fa4503207952f63f0ed1c1ea1ba5377b1a3f5ef2d658e951c2ab293ea0c",
+      "new_sha256": "07597a6dcbbc4ece62dfab92fbed0ced8280d22674d664d4763e548ad98f38d0"
+    },
+    {
+      "name": "C03",
+      "added_material_mm3": 93.27265117401383,
+      "removed_material_mm3": 0.00036903287616393127,
+      "old_sha256": "6e49950665b0d14083dcd7dca90191ef5dcc9ae001d9b0c643dda8f2f202f772",
+      "new_sha256": "ea98a6656cacf8ce0e663ca88b33352478ed1db6b1547c957700cd2b677056c3"
+    },
+    {
+      "name": "C04",
+      "added_material_mm3": 93.27256565379098,
+      "removed_material_mm3": 0.00025351819670865684,
+      "old_sha256": "2ba1c66fc29c88ef7d0710aa1266df7c5f593ea713e319a73be3e05f71c1b398",
+      "new_sha256": "375ef0171a5283cf7e05890797e69e9769f32fccff03c097d55d44b05822f6c9"
+    },
+    {
+      "name": "C05",
+      "added_material_mm3": 93.27270169377772,
+      "removed_material_mm3": 0.0001283769243324742,
+      "old_sha256": "d320c79693a47168dda6a984b0349688f691225dec599ab0f0dca984f9d7fc9d",
+      "new_sha256": "288b8eb683f3db2c4350933994ae0b8d08b60ce42618dcc62c60672770d68f80"
+    },
+    {
+      "name": "C06",
+      "added_material_mm3": 93.27264519156559,
+      "removed_material_mm3": 0.00036985164242140284,
+      "old_sha256": "66e73861ca6685284d2089b1da714caed56567951c12f0f877453c4763205c0a",
+      "new_sha256": "4dadd108e17503f9393ff42d7ba6743063640b9c410ec27667fe8c254dfb1094"
+    }
+  ],
+  "unchanged_puzzle_parts": [
+    "E01",
+    "E02",
+    "E03",
+    "E04",
+    "E05",
+    "E06",
+    "E07",
+    "E08",
+    "E09",
+    "E10",
+    "E11",
+    "E12",
+    "K01",
+    "K02",
+    "K03",
+    "K04",
+    "K05",
+    "K06",
+    "K07",
+    "K08",
+    "core"
+  ],
+  "washer_seat_old_mm": 27.3,
+  "washer_seat_new_mm": 28.8
+}

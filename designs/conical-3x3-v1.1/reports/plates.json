@@ -1,0 +1,177 @@
+{
+  "manifest_sha256": "e75ef7ed4fad157cd994201b009e249a9801c7ffa2297faf09121094073c5da5",
+  "plates": [
+    {
+      "file": "plates/C-01.3mf",
+      "objects": [
+        "C01",
+        "C04",
+        "C03",
+        "C06",
+        "C05",
+        "C02"
+      ],
+      "sha256": "896fc3d08dcff970734645d0911b717ef4d1e79a7fc7759640c39ff67e507619"
+    },
+    {
+      "file": "plates/E-01.3mf",
+      "objects": [
+        "E11",
+        "E10",
+        "E01",
+        "E08",
+        "E07",
+        "E09",
+        "E04",
+        "E02",
+        "E03",
+        "E06",
+        "E05",
+        "E12"
+      ],
+      "sha256": "75a9d5e48e6d5da7fa4ce0150d2dd04d845866d15c1fa641ab4493dba43877c3"
+    },
+    {
+      "file": "plates/K-01.3mf",
+      "objects": [
+        "K07",
+        "K03",
+        "K02",
+        "K05",
+        "K04",
+        "K01",
+        "K08",
+        "K06"
+      ],
+      "sha256": "b6a47dc8f9c381a92677b4a4a0d78e92a4eb1f09fcc059b6c413a31d3e653265"
+    },
+    {
+      "file": "plates/E-face-down-01.3mf",
+      "objects": [
+        "E12",
+        "E01",
+        "E10",
+        "E09",
+        "E07",
+        "E05",
+        "E04",
+        "E08",
+        "E03",
+        "E06",
+        "E11",
+        "E02"
+      ],
+      "sha256": "3176c1febaa372eb768aaf7fc124eaeb0e5d8058db218d8771a27c38f14b4953"
+    },
+    {
+      "file": "plates/K-radial-down-01.3mf",
+      "objects": [
+        "K03",
+        "K07",
+        "K02",
+        "K08",
+        "K01",
+        "K05",
+        "K04",
+        "K06"
+      ],
+      "sha256": "d75768aa439513ab99bd7c34806c96ff4b3f049562e267a5823321481ee7b9b5"
+    },
+    {
+      "file": "plates/core-01.3mf",
+      "objects": [
+        "core"
+      ],
+      "sha256": "60badd3254290669eb930100ad694ba253d1b10c0460246fef4e3659c431237f"
+    },
+    {
+      "file": "plates/alternate-cores-01.3mf",
+      "objects": [
+        "core-seat-5.30",
+        "core-seat-5.50"
+      ],
+      "sha256": "04a0aeaf29a9d1c3ad0ccd0706ca9e7eef83f499d6925c60edff7d0d1f9e3a3d"
+    },
+    {
+      "file": "plates/fit-coupons-01.3mf",
+      "objects": [
+        "nut-fit-5.30",
+        "nut-fit-5.40",
+        "nut-fit-5.50",
+        "rotor-fit"
+      ],
+      "sha256": "349acc9e3a4f079e2a94f971226d5233180c479c4390b35f3af80df34cdfb1c5"
+    },
+    {
+      "file": "plates/stand-01.3mf",
+      "objects": [
+        "assembly-stand"
+      ],
+      "sha256": "9e68b5efd1155d00bcd4cfc883f477563f62afa945cf9a0182b120a337f85899"
+    }
+  ],
+  "orientation_E01": {
+    "max_vertex_distance_mm": 2.416106516409301e-14
+  },
+  "orientation_E02": {
+    "max_vertex_distance_mm": 1.7404671430534633e-14
+  },
+  "orientation_E03": {
+    "max_vertex_distance_mm": 2.898511452556946e-14
+  },
+  "orientation_E04": {
+    "max_vertex_distance_mm": 2.1628557899130955e-14
+  },
+  "orientation_E05": {
+    "max_vertex_distance_mm": 3.7133931414897734e-14
+  },
+  "orientation_E06": {
+    "max_vertex_distance_mm": 1.464821375527116e-14
+  },
+  "orientation_E07": {
+    "max_vertex_distance_mm": 2.4420869033412487e-14
+  },
+  "orientation_E08": {
+    "max_vertex_distance_mm": 1.1374233532693354e-14
+  },
+  "orientation_E09": {
+    "max_vertex_distance_mm": 1.1916163935586911e-14
+  },
+  "orientation_E10": {
+    "max_vertex_distance_mm": 1.596406515249055e-14
+  },
+  "orientation_E11": {
+    "max_vertex_distance_mm": 1.435067942883752e-14
+  },
+  "orientation_E12": {
+    "max_vertex_distance_mm": 2.0097183471152322e-14
+  },
+  "orientation_K01": {
+    "max_vertex_distance_mm": 1.9539925233402755e-14
+  },
+  "orientation_K02": {
+    "max_vertex_distance_mm": 2.929642751054232e-14
+  },
+  "orientation_K03": {
+    "max_vertex_distance_mm": 1.1374233532693354e-14
+  },
+  "orientation_K04": {
+    "max_vertex_distance_mm": 4.3800795900274466e-14
+  },
+  "orientation_K05": {
+    "max_vertex_distance_mm": 9.565974336450906e-15
+  },
+  "orientation_K06": {
+    "max_vertex_distance_mm": 2.774758085844075e-14
+  },
+  "orientation_K07": {
+    "max_vertex_distance_mm": 1.464821375527116e-14
+  },
+  "orientation_K08": {
+    "max_vertex_distance_mm": 3.557151798805476e-14
+  },
+  "_completion": {
+    "passed": true,
+    "mode": "plates"
+  }
+}

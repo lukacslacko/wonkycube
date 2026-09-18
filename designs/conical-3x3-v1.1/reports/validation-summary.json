@@ -1,0 +1,30 @@
+{
+  "version": "wonky-conical-3x3-70-v1.1",
+  "cube_side_mm": 64.0,
+  "cone_half_angle_deg": 70.0,
+  "printed_piece_count": 27,
+  "moving_piece_count": 26,
+  "physical_print_tested": true,
+  "physical_feedback_record": "physical-feedback.json",
+  "sampled_turn_poses": 570,
+  "checked_R3_sections": 5234,
+  "maximum_R3_circle_error_mm": 0.024693808873431866,
+  "layer_connectivity_cases": 54,
+  "minimum_stalk_root_web_mm": 2.042507931760836,
+  "screw_projection_past_locknut_mm": 1.8499999999999996,
+  "all_required_checks_passed": true,
+  "reports": [
+    "motion",
+    "assembly",
+    "hardware",
+    "retention",
+    "plates",
+    "midturn-capture",
+    "ridge-radii",
+    "printability",
+    "export-fidelity",
+    "root-web"
+  ],
+  "manifest_sha256": "e75ef7ed4fad157cd994201b009e249a9801c7ffa2297faf09121094073c5da5",
+  "disclaimer": "Computed geometry checks plus the separate physical-feedback record. No instrumented torque, strength or wear rating; no exhaustive escape proof."
+}

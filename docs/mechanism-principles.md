@@ -1,6 +1,6 @@
 # Designing printed mechanisms that retain well and move freely
 
-These lessons came from printing and revising the Wonky Redi and Wonky Skewb. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [Redi reference](design.md) and [Skewb reference](../designs/skewb-v1.1/DESIGN.md) record particular dimensions; the principles below explain how to choose and evaluate such dimensions elsewhere.
+These lessons came from printing and revising the Wonky Redi, Wonky Skewb and Wonky conical 3×3. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [Redi](design.md), [Skewb](../designs/skewb-v1.1/DESIGN.md) and [conical 3×3](../designs/conical-3x3-v1.1/DESIGN.md) references record particular dimensions; the principles below explain how to choose and evaluate such dimensions elsewhere.
 
 The successful behavior comes from a combination of features. The print trials changed several features between revisions, so they do not isolate a measured contribution from each radius or clearance.
 
@@ -177,6 +177,22 @@ The case-specific trim uses three chords 9.5 mm from the corner axis, limited be
 
 Support is appropriate for a useful overhang that joins the body later. It cannot compensate for a connecting web omitted from every extrusion layer. Keep such overhangs distinct from permanently isolated scraps, and correct the latter explicitly in the CAD when they serve no necessary function.
 
+## 13. Check the load path around access wells, not just connectivity
+
+A connected solid and even a connected printable layer graph can contain a mechanically poor junction. A broad stalk may look substantial in sections perpendicular to its axis while connecting to the shell through a thin, sloping web beside an access recess. Inspect longitudinal and oblique sections as well as the minimum distance between the recess and the outside root.
+
+The conical 3×3 exposed this distinction. Its screwed centers were connected solids, but a slicer review drew attention to their foot-to-body junctions. Measuring the actual exported meshes found about **0.65 mm** between the washer-well rim and the outside root. The prior connectivity and motion checks did not establish adequate strength there.
+
+![Shallower washer wells reinforce the connection without changing the retaining surfaces](../designs/conical-3x3-v1.1/images/root-reinforcement.png)
+
+Moving the washer seat **1.5 mm outward**, so that the wide access well became shallower, increased the smallest measured root web to **2.04 mm** on all six centers. The narrow screw passage remained open, and the bearing foot, exposed flange, tracks and outside shape kept their working dimensions. The same M3 × 20 screws still extend **1.85 mm beyond the locknuts** with their heads contained inside the solved cube. A thicker connection was achieved by filling an internal recess rather than thinning a retaining flange.
+
+This illustrates a useful redesign sequence: identify the force path from the retainer into the shell, find the internal cut that weakens it, and add material where it does not occupy a neighboring piece's motion envelope. Then recheck the whole hardware stack—thread engagement, head containment, washer insertion and driver access—as well as assembly and turning. A shallower well is only an option when the fastener still reaches its nut and the head still fits.
+
+The compatible release changes only the six screwed puzzle pieces; the other 21 puzzle STLs keep their exact bytes. Its root check samples 720 positions around each washer-well rim and verifies that the shortest measured segment lies in solid material. This is a targeted geometric measurement, not a universal minimum-wall analysis or a strength calculation. Print orientation, continuous wall paths and local solid layers still affect how the load is carried; sparse infill alone is not a substitute for the connection.
+
+The owner subsequently reported that the reinforced version **printed very well**. That confirms a successful print of the supplied design, while strength, fatigue and a separate turning assessment remain unmeasured in that report. [Feedback and associated supplied-file hashes](../designs/conical-3x3-v1.1/physical-feedback.json). Never turn a thickness ratio into a claimed strength multiplier without mechanical evidence.
+
 ## A practical diagnosis table
 
 | Symptom | Inspect first | Design response to evaluate |
@@ -188,6 +204,7 @@ Support is appropriate for a useful overhang that joins the body later. It canno
 | Turns freely but feels unstable | Axial and diametral freedom | Tighten the appropriate constraint without closing every gap |
 | CAD passes but print catches | Seams, supports, first-layer lip, dimensions | Calibrate and finish before changing the whole mechanism |
 | Watertight flange slices into isolated supported scraps | Thin webs around holes and corners, at actual layer height and line width | Trim nonfunctional tips or redesign essential webs; recheck retention and motion |
+| Connected stalk looks weak beside a washer or tool well | Shortest solid web at the root, including longitudinal and oblique sections | Make the wide recess shallower or reinforce its root; recheck screw reach and head clearance |
 | Nut spins as the screw reaches its locking ring | Final seat flat engagement and actual installation torque | Keep entrance easy; tighten only the final seat; test with real locknuts |
 | Nut stays in during handling but spins under a driver | Grip ribs versus torque-bearing walls | Treat handling retention and antirotation as separate requirements |
 

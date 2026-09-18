@@ -1,0 +1,2303 @@
+{
+  "version": "wonky-conical-3x3-70-v1",
+  "units": "millimeter",
+  "cube_side_mm": 64.0,
+  "core_seat_af_mm": 5.4,
+  "parts": [
+    {
+      "name": "C01",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C01.stl",
+      "sha256": "125f206515263d64438049bed8cd06027346030831421854466cd4fc8a6da902",
+      "dimensions_mm": [
+        29.431732177734375,
+        31.73261070251465,
+        18.313980102539062
+      ],
+      "volume_mm3": 5917.081641262917,
+      "triangles": 23228,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.24938660734834248,
+          -0.9674346884363952,
+          -0.043317937223033426,
+          10.672369725769471
+        ],
+        [
+          0.4181221467531642,
+          -0.14791542184884082,
+          0.8962672025539062,
+          -16.93379269919405
+        ],
+        [
+          -0.8734873728164645,
+          0.20540484801789483,
+          0.4413939940018855,
+          32.00000169715047
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.00047137035374583886,
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 591.6968908312831,
+      "first_layer_0_16_mm_area_mm2": 642.4414051995172
+    },
+    {
+      "name": "C02",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C02.stl",
+      "sha256": "aa5f9fa4503207952f63f0ed1c1ea1ba5377b1a3f5ef2d658e951c2ab293ea0c",
+      "dimensions_mm": [
+        37.45948028564453,
+        26.138296127319336,
+        21.26014518737793
+      ],
+      "volume_mm3": 7412.885011690924,
+      "triangles": 23656,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.891379420617816,
+          -0.25852746919182273,
+          -0.3722986384239371,
+          10.479410853452528
+        ],
+        [
+          0.16159919023953015,
+          -0.5861395353921135,
+          0.7939308198856152,
+          19.750832167508534
+        ],
+        [
+          -0.42347187653134005,
+          -0.7678567527368555,
+          -0.4806948897829445,
+          32.00000156230356
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.00047069600416966455,
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 474.12526090601983,
+      "first_layer_0_16_mm_area_mm2": 537.9534310653607
+    },
+    {
+      "name": "C03",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C03.stl",
+      "sha256": "6e49950665b0d14083dcd7dca90191ef5dcc9ae001d9b0c643dda8f2f202f772",
+      "dimensions_mm": [
+        30.289228439331055,
+        30.523738861083984,
+        21.382829666137695
+      ],
+      "volume_mm3": 8870.807898679337,
+      "triangles": 22700,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.4211122741046527,
+          0.7684084639803704,
+          0.4818847217766256,
+          -16.939860730089826
+        ],
+        [
+          0.8746273911107469,
+          -0.20333119976081052,
+          -0.4400947056289569,
+          16.706302441037074
+        ],
+        [
+          -0.24019029813299433,
+          0.6067988593324458,
+          -0.7576963540862699,
+          32.000001631117925
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 533.6806708018967,
+      "first_layer_0_16_mm_area_mm2": 598.3655251288986
+    },
+    {
+      "name": "C04",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C04.stl",
+      "sha256": "2ba1c66fc29c88ef7d0710aa1266df7c5f593ea713e319a73be3e05f71c1b398",
+      "dimensions_mm": [
+        29.354570388793945,
+        31.703872680664062,
+        18.313980102539062
+      ],
+      "volume_mm3": 5917.081484611139,
+      "triangles": 23224,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.25277845933822923,
+          -0.9661998784325242,
+          -0.05060479632966352,
+          -10.871676251124248
+        ],
+        [
+          -0.41608035284639766,
+          0.1557775443628544,
+          -0.8958853144501792,
+          -16.802094591244618
+        ],
+        [
+          0.873487372816464,
+          -0.20540484801789477,
+          -0.4413939940018861,
+          32.00000169715046
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.00144195556640625,
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 591.73782425542,
+      "first_layer_0_16_mm_area_mm2": 642.4404138378112
+    },
+    {
+      "name": "C05",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C05.stl",
+      "sha256": "d320c79693a47168dda6a984b0349688f691225dec599ab0f0dca984f9d7fc9d",
+      "dimensions_mm": [
+        37.387359619140625,
+        26.186540603637695,
+        21.26014518737793
+      ],
+      "volume_mm3": 7412.88347975746,
+      "triangles": 23660,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.8920668402377944,
+          -0.2610483861465272,
+          -0.368877340912194,
+          -10.58243205768569
+        ],
+        [
+          -0.1577603319443227,
+          0.5850211512131039,
+          -0.7955261971161677,
+          19.759827583844658
+        ],
+        [
+          0.42347187653134,
+          0.7678567527368553,
+          0.4806948897829447,
+          32.00000156230355
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.00047069600416966455,
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 474.1252609063119,
+      "first_layer_0_16_mm_area_mm2": 537.9567025665813
+    },
+    {
+      "name": "C06",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C06.stl",
+      "sha256": "66e73861ca6685284d2089b1da714caed56567951c12f0f877453c4763205c0a",
+      "dimensions_mm": [
+        30.513879776000977,
+        30.473712921142578,
+        21.382829666137695
+      ],
+      "volume_mm3": 8870.814003968253,
+      "triangles": 22706,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.880489766406241,
+          -0.1924544665017213,
+          -0.4332424835786776,
+          -16.540851866745786
+        ],
+        [
+          0.40871309244586984,
+          0.7712045271109216,
+          0.48805449022312397,
+          17.285906296738162
+        ],
+        [
+          0.2401902981329944,
+          -0.6067988593324458,
+          0.7576963540862695,
+          32.00000163111791
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 533.6806752571885,
+      "first_layer_0_16_mm_area_mm2": 598.3656786102907
+    },
+    {
+      "name": "E01",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E01.stl",
+      "sha256": "024631bb849a1d10c9a5130f2f84a9f1184d949e754da9562eaa40bb69495b0e",
+      "dimensions_mm": [
+        33.28754425048828,
+        33.21059799194336,
+        30.783187866210938
+      ],
+      "volume_mm3": 10235.996869015931,
+      "triangles": 50970,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.6984011233337103,
+          -0.6984011233337103,
+          -0.15643446504023087,
+          -1.264534381167505
+        ],
+        [
+          -0.1106158710412371,
+          0.11061587104123724,
+          -0.9876883405951377,
+          -1.5050885574919022
+        ],
+        [
+          0.7071067811865475,
+          0.7071067811865475,
+          1.1102230246251564e-16,
+          -17.038844014812668
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          1.0020539329204413e-08,
+          1.0481453243358179e-10,
+          4.1336250505780235e-11,
+          6.329667988658396e-12,
+          -1.697919762281468e-12,
+          8.570256772773751e-15,
+          4.285143253618526e-15
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.16686974064052146,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        0.0,
+        -9.71445146547012e-17,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "E02",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E02.stl",
+      "sha256": "05393a8772715b4caada4d3a2d4fc914b045f81236ff909f74ca6fba1b30a00b",
+      "dimensions_mm": [
+        39.145015716552734,
+        28.27187156677246,
+        35.267608642578125
+      ],
+      "volume_mm3": 13001.288952483206,
+      "triangles": 50760,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.7002252665996704,
+          -0.13917310096006544,
+          -0.7002252665996707,
+          -0.36951865335234224
+        ],
+        [
+          0.09841024344762227,
+          0.9902680687415703,
+          -0.0984102434476223,
+          -0.998005760962763
+        ],
+        [
+          0.7071067811865476,
+          0.0,
+          0.7071067811865474,
+          -17.03884401481267
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          1.0020539329206672e-08,
+          1.8133260785574887e-10,
+          7.911535402345923e-11,
+          7.637203591976185e-11,
+          3.904319131001171e-12,
+          -1.705024866813637e-12,
+          8.570138494217962e-15,
+          -6.776263578034403e-21
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.16688533585606719,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        1.6653345369377348e-16,
+        1.3877787807814457e-17,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "E03",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E03.stl",
+      "sha256": "83786fd820c3117cf12b0136aa42fa4a900ab9c2d606245b566d6c5917b9eb02",
+      "dimensions_mm": [
+        41.001121520996094,
+        28.015836715698242,
+        33.85921859741211
+      ],
+      "volume_mm3": 12063.213082991113,
+      "triangles": 50734,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.7018361144661901,
+          -0.7018361144661901,
+          -0.12186934340514767,
+          -1.8000218143164233
+        ],
+        [
+          0.08617463914053208,
+          0.0861746391405319,
+          -0.992546151641322,
+          -0.1945690003141598
+        ],
+        [
+          0.7071067811865475,
+          -0.7071067811865475,
+          1.1102230246251564e-16,
+          -17.038844014812668
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          1.0020539329220224e-08,
+          1.813326080725893e-10,
+          7.911535402951198e-11,
+          6.8685282748936e-11,
+          6.329667988658396e-12,
+          -1.6979197639755339e-12,
+          8.570256772773751e-15,
+          4.2851186209682904e-15,
+          -5.646886315028669e-21
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.16688591966234376,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        0.0,
+        -1.3183898417423734e-16,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "E04",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E04.stl",
+      "sha256": "ae50d953e1ac5cbbe98fc0d2ad8b8c1c4a8cdbf2dad9ce95c132d3851a10d2bb",
+      "dimensions_mm": [
+        32.9880256652832,
+        28.583127975463867,
+        24.544652938842773
+      ],
+      "volume_mm3": 7471.249627944264,
+      "triangles": 51030,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.7053843046066396,
+          -0.0697564737441253,
+          -0.7053843046066398,
+          -1.8129914736005617
+        ],
+        [
+          -0.049325275616132355,
+          0.9975640502598243,
+          -0.04932527561613237,
+          -1.5891986872329626
+        ],
+        [
+          0.7071067811865477,
+          0.0,
+          -0.7071067811865475,
+          -17.038843677637885
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          1.0020539329220224e-08,
+          6.8685282748936e-11,
+          6.297971121690483e-11,
+          2.1992942658815992e-12,
+          8.570112212484085e-15,
+          -5.646886315028669e-21
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 6,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.16687607710213134,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -1.6653345369377348e-16,
+        -1.3877787807814457e-17,
+        -1.0
+      ]
+    },
+    {
+      "name": "E05",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E05.stl",
+      "sha256": "8d2ffc623a413f435f280ecba4031a53a6d454dda517cc1d58e4930d942e9d2e",
+      "dimensions_mm": [
+        37.178306579589844,
+        27.049531936645508,
+        27.8521728515625
+      ],
+      "volume_mm3": 9139.594741120449,
+      "triangles": 51140,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.0697564737441253,
+          -0.7053843046066396,
+          0.7053843046066398,
+          -0.8690263400728515
+        ],
+        [
+          0.9975640502598242,
+          0.049325275616132355,
+          -0.04932527561613237,
+          1.817123406664126
+        ],
+        [
+          0.0,
+          0.7071067811865476,
+          0.7071067811865474,
+          -17.03884401481267
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          9.780400945491575e-09,
+          6.868528272239564e-11,
+          5.696998001769861e-11,
+          4.7184977140090406e-11,
+          3.904319127613039e-12,
+          -1.7050248730075654e-12,
+          8.570220632701334e-15
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.16686840908940118,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -1.6653345369377348e-16,
+        1.3877787807814457e-17,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "E06",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E06.stl",
+      "sha256": "60ea500dba2aeeb8661516aaeea631dc13df6c0027f506055c73bdccda8b776d",
+      "dimensions_mm": [
+        41.001121520996094,
+        28.015836715698242,
+        33.85921859741211
+      ],
+      "volume_mm3": 12063.211561102684,
+      "triangles": 50736,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.7018361144661902,
+          -0.7018361144661901,
+          -0.12186934340514725,
+          1.8000218143164215
+        ],
+        [
+          -0.08617463914053158,
+          -0.08617463914053172,
+          0.992546151641322,
+          -0.19456900031415802
+        ],
+        [
+          -0.7071067811865475,
+          0.7071067811865475,
+          1.1102230246251564e-16,
+          -17.038844014812668
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          9.816053236369056e-09,
+          1.175757951331072e-10,
+          5.974246481929692e-11,
+          5.5393678919721016e-11,
+          4.71849771365611e-11,
+          4.133625050955659e-11,
+          -3.405237070509652e-12,
+          8.57068733572329e-15,
+          4.285092246314459e-15,
+          -6.776263578034403e-21,
+          -4.517509052022935e-21
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.16688591966234287,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -1.1102230246251565e-16,
+        9.71445146547012e-17,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "E07",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E07.stl",
+      "sha256": "905ae5b7f27cf57a8cf866ffed720cc6831054ddeb3705b5077cea2010f8fba8",
+      "dimensions_mm": [
+        26.474430084228516,
+        31.356708526611328,
+        21.30594825744629
+      ],
+      "volume_mm3": 6238.757500088894,
+      "triangles": 51188,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -1.3019824028015137
+        ],
+        [
+          0.0,
+          -0.7071067811865475,
+          -0.7071067811865477,
+          0.8012179965130626
+        ],
+        [
+          0.0,
+          0.7071067811865477,
+          -0.7071067811865475,
+          -17.03884401481267
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          1.0020539329223612e-08,
+          1.7071883139872226e-10,
+          7.911535407089748e-11,
+          6.868528273538347e-11,
+          3.90431913308346e-12,
+          -1.705024871437025e-12,
+          8.570220632701334e-15,
+          -9.03501810404587e-21
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.1668852387816354,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        0.0,
+        -2.220446049250313e-16,
+        -1.0
+      ]
+    },
+    {
+      "name": "E08",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E08.stl",
+      "sha256": "0c4a41554ff801dc7280be01e07354ae9ca50271e958e5cfe9964c01c41a7402",
+      "dimensions_mm": [
+        28.583127975463867,
+        32.98802185058594,
+        24.544652938842773
+      ],
+      "volume_mm3": 7471.2599579184525,
+      "triangles": 51032,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.049325275616132355,
+          -0.9975640502598242,
+          0.04932527561613237,
+          -1.5891986872329626
+        ],
+        [
+          0.7053843046066396,
+          0.0697564737441253,
+          0.7053843046066398,
+          -1.812991843216487
+        ],
+        [
+          -0.7071067811865476,
+          0.0,
+          0.7071067811865474,
+          -17.03884401481267
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          9.816053236375832e-09,
+          6.047490568890758e-11,
+          5.6969980030121756e-11,
+          4.718497713500821e-11,
+          2.1992942564583577e-12,
+          8.572858857987716e-15
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.1668782279585408,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -1.3877787807814457e-17,
+        -1.6653345369377348e-16,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "E09",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E09.stl",
+      "sha256": "9f83def0854c4bf63e23340cd05334bb7d5166fc259bbaa45c1ff4ab2bb545f0",
+      "dimensions_mm": [
+        26.474430084228516,
+        31.356708526611328,
+        21.30594825744629
+      ],
+      "volume_mm3": 6238.762924985086,
+      "triangles": 51240,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          1.3019824028015137
+        ],
+        [
+          0.0,
+          0.7071067811865475,
+          0.7071067811865477,
+          0.8012179965130626
+        ],
+        [
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865475,
+          -17.03884401481267
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          9.816053236353243e-09,
+          1.175757950544037e-10,
+          7.543455936260364e-11,
+          4.718497713839634e-11,
+          -1.413984983550528e-11,
+          -2.949628904602849e-12,
+          8.569722383871483e-15
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.16687725503607448,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        0.0,
+        -2.220446049250313e-16,
+        -1.0
+      ]
+    },
+    {
+      "name": "E10",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E10.stl",
+      "sha256": "2f7b52684bb4c04bbe5a54fe12a2cc161e492f8d016af837db8be1e5274a3c8a",
+      "dimensions_mm": [
+        33.21059799194336,
+        33.28754425048828,
+        30.783187866210938
+      ],
+      "volume_mm3": 10236.00693859213,
+      "triangles": 50968,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.11061587104123721,
+          0.11061587104123703,
+          -0.9876883405951377,
+          1.5050885574918942
+        ],
+        [
+          0.6984011233337103,
+          -0.6984011233337103,
+          -0.1564344650402308,
+          1.264534381167505
+        ],
+        [
+          -0.7071067811865475,
+          -0.7071067811865475,
+          1.1102230246251564e-16,
+          -17.038844014812668
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          9.816053236366796e-09,
+          7.911535402677898e-11,
+          6.047490569155456e-11,
+          4.718497713500821e-11,
+          -3.4052370710743406e-12,
+          8.570690453642745e-15,
+          4.285103753740948e-15,
+          -3.3881317890172014e-21,
+          -1.1293772630057337e-21
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.1668769981577401,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -1.249000902703301e-16,
+        0.0,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "E11",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E11.stl",
+      "sha256": "66993e896006644fe7422a882ec75830ffa50eec033ac3ffc0f0b0ae872b2b5a",
+      "dimensions_mm": [
+        28.27187156677246,
+        39.145015716552734,
+        35.267608642578125
+      ],
+      "volume_mm3": 13001.292667494117,
+      "triangles": 50780,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.0984102434476223,
+          -0.9902680687415704,
+          0.09841024344762232,
+          -0.9980057609627639
+        ],
+        [
+          -0.7002252665996705,
+          0.13917310096006547,
+          0.7002252665996708,
+          -0.36951865335234046
+        ],
+        [
+          -0.7071067811865477,
+          0.0,
+          -0.7071067811865475,
+          -17.03884401481267
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          9.816053236366796e-09,
+          1.1757579523157478e-10,
+          7.637203591976185e-11,
+          7.310562283754524e-11,
+          5.539367893779105e-11,
+          4.718497713500821e-11,
+          -2.9496289043205045e-12,
+          8.572858857987716e-15
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 7,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.16687546057479366,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        2.7755575615628914e-17,
+        1.1102230246251565e-16,
+        -1.0
+      ]
+    },
+    {
+      "name": "E12",
+      "family": "E",
+      "quantity": 1,
+      "file": "stl/puzzle/E12.stl",
+      "sha256": "63782174d49157038cd2a30bc8d499a015cad334a83bf6be991fd4577b131828",
+      "dimensions_mm": [
+        37.178306579589844,
+        27.049531936645508,
+        27.8521728515625
+      ],
+      "volume_mm3": 9139.57974383161,
+      "triangles": 51152,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.0697564737441253,
+          0.7053843046066396,
+          -0.7053843046066398,
+          -0.8690263400728515
+        ],
+        [
+          0.9975640502598242,
+          0.049325275616132355,
+          -0.04932527561613237,
+          -1.8171238823397324
+        ],
+        [
+          0.0,
+          -0.7071067811865476,
+          -0.7071067811865474,
+          -17.03884401481267
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          9.81605323636115e-09,
+          7.31056228194752e-11,
+          6.047490577586964e-11,
+          4.718497713839634e-11,
+          -2.9496289045818936e-12,
+          8.569718352266418e-15
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 7,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.1668754422573041,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -1.6653345369377348e-16,
+        -1.3877787807814457e-17,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "K01",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K01.stl",
+      "sha256": "102e39e27d141d55e1f6953b67b7760ed9d381bf56d4b4839e7a3ade91f4431d",
+      "dimensions_mm": [
+        26.57659912109375,
+        26.18149185180664,
+        17.17757225036621
+      ],
+      "volume_mm3": 4599.282466570792,
+      "triangles": 22484,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.6702980966155433,
+          0.09136290328071708,
+          -0.7364463874428998,
+          0.005582124338959993
+        ],
+        [
+          0.6094030123494673,
+          -0.6340732033294971,
+          0.47600329973526945,
+          -5.602104733526028
+        ],
+        [
+          -0.4234718765313399,
+          -0.7678567527368552,
+          -0.48069488978294433,
+          32.00000073740422
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          -1.1564823173178713e-18
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 320.90002734389935,
+      "first_layer_0_16_mm_area_mm2": 356.2565338164388
+    },
+    {
+      "name": "K02",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K02.stl",
+      "sha256": "acd50dfdec54ac1e40efc328b2b751326242c24b41f0d97fe3c6343429d953cb",
+      "dimensions_mm": [
+        31.50339698791504,
+        32.839561462402344,
+        28.563425064086914
+      ],
+      "volume_mm3": 9799.95088076195,
+      "triangles": 22644,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.01525053723231492,
+          -0.7828086763054466,
+          -0.622075556034024,
+          5.156530654708021
+        ],
+        [
+          0.9706060178037785,
+          0.13786123680627857,
+          -0.19727705793967565,
+          -25.83816579725767
+        ],
+        [
+          0.2401902981329944,
+          -0.6067988593324458,
+          0.7576963540862695,
+          32.00000168257906
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 395.91811189676565,
+      "first_layer_0_16_mm_area_mm2": 433.2382695144708
+    },
+    {
+      "name": "K03",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K03.stl",
+      "sha256": "174033c370d35f514342711947deff256ebb2920cc99dc09d254ee516732f0f9",
+      "dimensions_mm": [
+        24.58954429626465,
+        34.09380340576172,
+        19.825538635253906
+      ],
+      "volume_mm3": 5249.451230516011,
+      "triangles": 22738,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.4211122741046527,
+          0.7684084639803704,
+          0.4818847217766256,
+          -0.21932766586183838
+        ],
+        [
+          0.8746273911107469,
+          -0.20333119976081052,
+          -0.4400947056289569,
+          -13.204657445291872
+        ],
+        [
+          -0.24019029813299433,
+          0.6067988593324458,
+          -0.7576963540862699,
+          32.00000097931942
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 373.46428123573884,
+      "first_layer_0_16_mm_area_mm2": 411.0787360131166
+    },
+    {
+      "name": "K04",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K04.stl",
+      "sha256": "3be4c9dd0711ce3f108821b8656d28622d4646f262c845994d7d881cd179bbaf",
+      "dimensions_mm": [
+        32.742210388183594,
+        31.320878982543945,
+        20.169734954833984
+      ],
+      "volume_mm3": 6236.743041212034,
+      "triangles": 22614,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.4475240350327002,
+          -0.6957286003435078,
+          -0.5618575911493179,
+          -14.460168330862496
+        ],
+        [
+          0.1916821525292363,
+          -0.6883099324249281,
+          0.6996337537075733,
+          -4.211758102586754
+        ],
+        [
+          -0.8734873728164644,
+          0.2054048480178948,
+          0.44139399400188545,
+          32.00000109412469
+        ]
+      ],
+      "cleanup": {
+        "discarded_numerical_component_volumes_mm3": [
+          -1.1564823173178713e-18
+        ],
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 460.93928603509346,
+      "first_layer_0_16_mm_area_mm2": 489.1024049169208
+    },
+    {
+      "name": "K05",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K05.stl",
+      "sha256": "75d72d8b8c4ba69387fdb16f16d7ff21de7886c194016f0878bd9cc7cc646acd",
+      "dimensions_mm": [
+        32.67502975463867,
+        31.370616912841797,
+        20.169734954833984
+      ],
+      "volume_mm3": 6236.734866964609,
+      "triangles": 22646,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.4490679645883051,
+          -0.690108378400098,
+          -0.5675283158068009,
+          14.394507735675095
+        ],
+        [
+          -0.18803662598203652,
+          0.6939447200409646,
+          -0.695041691423298,
+          -4.42502165921697
+        ],
+        [
+          0.873487372816464,
+          -0.20540484801789477,
+          -0.4413939940018861,
+          32.000001094124706
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 460.93810449086516,
+      "first_layer_0_16_mm_area_mm2": 489.1037509968458
+    },
+    {
+      "name": "K06",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K06.stl",
+      "sha256": "0dbe5559c1981dd68eae0d97c18776af90882c250cb46ca1a737df760d8d5029",
+      "dimensions_mm": [
+        34.1535530090332,
+        24.547454833984375,
+        19.825538635253906
+      ],
+      "volume_mm3": 5249.446416169453,
+      "triangles": 22734,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.880489766406241,
+          -0.1924544665017213,
+          -0.4332424835786776,
+          13.331110687514629
+        ],
+        [
+          0.40871309244586984,
+          0.7712045271109216,
+          0.48805449022312397,
+          0.08109234861851533
+        ],
+        [
+          0.2401902981329944,
+          -0.6067988593324458,
+          0.7576963540862695,
+          32.00000097931941
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 373.46446325894476,
+      "first_layer_0_16_mm_area_mm2": 411.0785546539265
+    },
+    {
+      "name": "K07",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K07.stl",
+      "sha256": "40cb64946f8cc397419bb04453b54c0b75636d6b485a45c2c29cc0dba360794d",
+      "dimensions_mm": [
+        28.27569007873535,
+        35.33835220336914,
+        28.563425064086914
+      ],
+      "volume_mm3": 9799.945974632976,
+      "triangles": 22642,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.8746273911107468,
+          0.20333119976081046,
+          0.44009470562895686,
+          -17.945959358931226
+        ],
+        [
+          0.4211122741046527,
+          0.7684084639803704,
+          0.4818847217766256,
+          14.278258083503099
+        ],
+        [
+          -0.24019029813299433,
+          0.6067988593324458,
+          -0.7576963540862699,
+          32.000001682579075
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 395.91811198012357,
+      "first_layer_0_16_mm_area_mm2": 433.2385646576648
+    },
+    {
+      "name": "K08",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K08.stl",
+      "sha256": "0b1a499018bd6fd7e010ca1ef12cccc9a40830120946bdc17db2ad357a42c956",
+      "dimensions_mm": [
+        26.610477447509766,
+        26.136037826538086,
+        17.17757225036621
+      ],
+      "volume_mm3": 4599.277735689585,
+      "triangles": 22508,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.6729153464788186,
+          -0.08863239113544061,
+          0.7343903837298701,
+          -0.050087834179305624
+        ],
+        [
+          0.6065117527800405,
+          -0.6344606422135467,
+          0.4791692678184367,
+          5.582775813173866
+        ],
+        [
+          0.42347187653134,
+          0.7678567527368553,
+          0.4806948897829447,
+          32.00000073740423
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": 320.90002734403976,
+      "first_layer_0_16_mm_area_mm2": 356.2551653659011
+    },
+    {
+      "name": "core",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/puzzle/core.stl",
+      "sha256": "60d97dca12474baeb4727cac03838a0ba454ce2832a937dd13d919e03f0e660c",
+      "dimensions_mm": [
+        35.20000076293945,
+        35.20000076293945,
+        35.20000076293945
+      ],
+      "volume_mm3": 25794.391500086826,
+      "triangles": 19964,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          2.220446049250313e-16,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          2.220446049250313e-16,
+          17.600000381469727
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 193.07839316029418,
+      "description": "5.40 mm terminal seat, 5.85 mm loading entrance"
+    },
+    {
+      "name": "core-seat-5.30",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/optional/core-seat-5.30.stl",
+      "sha256": "f04115401c4b7eeea50ea229b7640d484434a8abd9978f956c078259fc452179",
+      "dimensions_mm": [
+        35.20000076293945,
+        35.20000076293945,
+        35.20000076293945
+      ],
+      "volume_mm3": 25818.31885668248,
+      "triangles": 19988,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          2.220446049250313e-16,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          2.220446049250313e-16,
+          17.600000381469727
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 193.07837218397128,
+      "description": "5.30 mm terminal seat; choose only one core"
+    },
+    {
+      "name": "core-seat-5.50",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/optional/core-seat-5.50.stl",
+      "sha256": "20628491c5b1d414d98c288585faa973cf3280cac8680361cf60c5ec76eee49b",
+      "dimensions_mm": [
+        35.20000076293945,
+        35.20000076293945,
+        35.20000076293945
+      ],
+      "volume_mm3": 25770.24342638178,
+      "triangles": 19980,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          2.220446049250313e-16,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          2.220446049250313e-16,
+          17.600000381469727
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 193.0783385478558,
+      "description": "5.50 mm terminal seat; choose only one core"
+    },
+    {
+      "name": "nut-fit-5.30",
+      "family": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.30.stl",
+      "sha256": "6749f37812ce05d7cf7825eb2f2ff844aa95735f985c06914b9deb3f5adf29b8",
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3928.8908650847266,
+      "triangles": 824,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -7.599999904632568
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 422.92727781679355
+    },
+    {
+      "name": "nut-fit-5.40",
+      "family": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.40.stl",
+      "sha256": "191025b1e57713e2f0105027255b17281a59ce2090f2a9872173da3dc12501d8",
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3924.9029914272564,
+      "triangles": 824,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -7.599999904632568
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 422.92727781679355
+    },
+    {
+      "name": "nut-fit-5.50",
+      "family": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.50.stl",
+      "sha256": "414429396406a07ae64261bbf253ad726e2703629bea7e5487d4cb24b69c9162",
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3920.878314453204,
+      "triangles": 824,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -7.599999904632568
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 422.92727781679355
+    },
+    {
+      "name": "rotor-fit",
+      "family": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/rotor-fit.stl",
+      "sha256": "837b99d401d230c8c9d0be3783a75b20fc6b8583fd21aa68114a78f881ae9b6c",
+      "dimensions_mm": [
+        11.994402885437012,
+        11.994402885437012,
+        13.599998474121094
+      ],
+      "volume_mm3": 603.1733750734461,
+      "triangles": 1664,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.034899496702500865,
+          -0.9993908270190957,
+          0.0,
+          -0.0
+        ],
+        [
+          0.9993908270190957,
+          -0.034899496702500865,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.9999999999999998,
+          -17.70000076293945
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 19.997661193720397
+    },
+    {
+      "name": "assembly-stand",
+      "family": "stand",
+      "quantity": 1,
+      "file": "stl/optional/assembly-stand.stl",
+      "sha256": "b52544b479e67a527d96440ab26f660006940e03c7b623854d969be45e1beeb9",
+      "dimensions_mm": [
+        43.97947692871094,
+        43.97947692871094,
+        72.29999542236328
+      ],
+      "volume_mm3": 7932.955683105613,
+      "triangles": 1920,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -7.749244957389237e-18,
+          -0.9993908270190957,
+          -0.034899496702500865,
+          1.7763568394002505e-15
+        ],
+        [
+          2.219093413511554e-16,
+          -0.034899496702500865,
+          0.9993908270190957,
+          -1.9539925233402755e-14
+        ],
+        [
+          -0.9999999999999998,
+          0.0,
+          2.2204460492503126e-16,
+          89.99999999999999
+        ]
+      ],
+      "cleanup": {
+        "simplification_mm": 0,
+        "coordinate_decimals": 12,
+        "removed_coincident_faces": 0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1447.1148492707857
+    }
+  ],
+  "orientation_options": [
+    {
+      "name": "E01",
+      "file": "print-options/E01-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.30574070633048045,
+          0.3783479932160671,
+          -0.8737135780803188,
+          -20.594089429579284
+        ],
+        [
+          0.8527568177854482,
+          -0.516961123592274,
+          0.07454533127332061,
+          -9.505408412899424
+        ],
+        [
+          -0.42347187653133994,
+          -0.7678567527368553,
+          -0.4806948897829444,
+          32.000001710032606
+        ]
+      ],
+      "bed_face_area_mm2": 836.5582475681956,
+      "first_layer_0_16_mm_area_mm2": 890.2303677408324
+    },
+    {
+      "name": "E02",
+      "file": "print-options/E02-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.8746273911107468,
+          0.20333119976081046,
+          0.44009470562895686,
+          12.355972320225419
+        ],
+        [
+          0.4211122741046527,
+          0.7684084639803704,
+          0.4818847217766256,
+          -19.48718858838686
+        ],
+        [
+          -0.24019029813299433,
+          0.6067988593324458,
+          -0.7576963540862699,
+          32.00000155832748
+        ]
+      ],
+      "bed_face_area_mm2": 633.2451855353249,
+      "first_layer_0_16_mm_area_mm2": 683.0297710108106
+    },
+    {
+      "name": "E03",
+      "file": "print-options/E03-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.41649176232107304,
+          -0.7847520451476315,
+          -0.4590194326554126,
+          -11.03457876304807
+        ],
+        [
+          0.25210002270701565,
+          -0.5847846407416628,
+          0.7710204293686173,
+          -18.307150160226904
+        ],
+        [
+          -0.8734873728164645,
+          0.20540484801789483,
+          0.4413939940018855,
+          32.000001060349476
+        ]
+      ],
+      "bed_face_area_mm2": 748.1797445475555,
+      "first_layer_0_16_mm_area_mm2": 788.8717672160548
+    },
+    {
+      "name": "E04",
+      "file": "print-options/E04-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.47066506892298665,
+          0.12447571018440183,
+          0.8734873728164645,
+          10.467513652013201
+        ],
+        [
+          0.12447571018440183,
+          0.970728925078899,
+          -0.20540484801789483,
+          -10.131698600419462
+        ],
+        [
+          -0.8734873728164645,
+          0.20540484801789483,
+          0.4413939940018855,
+          32.00000228067463
+        ]
+      ],
+      "bed_face_area_mm2": 748.7510508405687,
+      "first_layer_0_16_mm_area_mm2": 788.4879575804046
+    },
+    {
+      "name": "E05",
+      "file": "print-options/E05-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.09902605758367314,
+          0.5666777643263538,
+          -0.8179670845073902,
+          7.8459139468653145
+        ],
+        [
+          0.9004806548207797,
+          -0.2987847363813905,
+          -0.31600992326039756,
+          17.06082597595808
+        ],
+        [
+          -0.4234718765313399,
+          -0.7678567527368552,
+          -0.48069488978294433,
+          32.000001750103856
+        ]
+      ],
+      "bed_face_area_mm2": 827.3526711241709,
+      "first_layer_0_16_mm_area_mm2": 881.8302839919816
+    },
+    {
+      "name": "E06",
+      "file": "print-options/E06-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.4185280256945808,
+          -0.7799707296836075,
+          -0.46527406175824737,
+          10.786785733960464
+        ],
+        [
+          -0.2487048476374916,
+          0.5911467747079118,
+          -0.7672622690540997,
+          -18.264578549451198
+        ],
+        [
+          0.873487372816464,
+          -0.20540484801789477,
+          -0.4413939940018861,
+          32.00000106034946
+        ]
+      ],
+      "bed_face_area_mm2": 748.1797069130668,
+      "first_layer_0_16_mm_area_mm2": 788.8715821380617
+    },
+    {
+      "name": "E07",
+      "file": "print-options/E07-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.9693054940269262,
+          -0.19213138663767426,
+          0.1534027037502954,
+          9.909854469579134
+        ],
+        [
+          0.05249266550671282,
+          -0.7712850799681832,
+          -0.6343215631574204,
+          3.508906645990179
+        ],
+        [
+          0.2401902981329944,
+          -0.6067988593324458,
+          0.7576963540862695,
+          32.00000161651154
+        ]
+      ],
+      "bed_face_area_mm2": 664.613433908312,
+      "first_layer_0_16_mm_area_mm2": 714.4487388557608
+    },
+    {
+      "name": "E08",
+      "file": "print-options/E08-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.46963729176322666,
+          -0.11657779319850299,
+          -0.8751288089865795,
+          10.568850801317549
+        ],
+        [
+          0.12829896225415646,
+          0.9717090441812882,
+          -0.1982950068478627,
+          10.050123893809351
+        ],
+        [
+          0.873487372816464,
+          -0.20540484801789477,
+          -0.4413939940018861,
+          32.00000200360782
+        ]
+      ],
+      "bed_face_area_mm2": 748.6762406761925,
+      "first_layer_0_16_mm_area_mm2": 788.4876431986562
+    },
+    {
+      "name": "E09",
+      "file": "print-options/E09-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.9699503870619488,
+          -0.18121512906084503,
+          0.162349387549929,
+          -9.819122621435044
+        ],
+        [
+          -0.038792619416057064,
+          0.7739226197187313,
+          0.6320909043535882,
+          3.692460679035584
+        ],
+        [
+          -0.2401902981329943,
+          0.6067988593324457,
+          -0.7576963540862698,
+          32.00000161651154
+        ]
+      ],
+      "bed_face_area_mm2": 664.6134339068076,
+      "first_layer_0_16_mm_area_mm2": 714.4486152824596
+    },
+    {
+      "name": "E10",
+      "file": "print-options/E10-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.8514327114918054,
+          -0.5185851096263743,
+          0.07830595044767105,
+          9.439494324087699
+        ],
+        [
+          0.3094089649456481,
+          0.3761189856285018,
+          -0.873384566534725,
+          20.656448955226374
+        ],
+        [
+          0.42347187653134,
+          0.7678567527368553,
+          0.4806948897829447,
+          32.0000017100326
+        ]
+      ],
+      "bed_face_area_mm2": 836.5582475089624,
+      "first_layer_0_16_mm_area_mm2": 890.2302514295145
+    },
+    {
+      "name": "E11",
+      "file": "print-options/E11-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.8656895146085001,
+          -0.21925187829153558,
+          -0.4500114200356844,
+          11.993466995199972
+        ],
+        [
+          0.43919276517229056,
+          0.7640181661311962,
+          0.47263723598743373,
+          19.912976673028517
+        ],
+        [
+          0.24019029813299442,
+          -0.6067988593324459,
+          0.7576963540862696,
+          32.00000137098478
+        ]
+      ],
+      "bed_face_area_mm2": 633.245187229377,
+      "first_layer_0_16_mm_area_mm2": 683.0297137886458
+    },
+    {
+      "name": "E12",
+      "file": "print-options/E12-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.9008986147032363,
+          -0.3012214979724751,
+          -0.31248567196754434,
+          -17.060297628620418
+        ],
+        [
+          -0.09514859858566035,
+          0.5653862541976326,
+          -0.8193199178291437,
+          -7.966223314552783
+        ],
+        [
+          0.42347187653133994,
+          0.7678567527368552,
+          0.48069488978294467,
+          32.0000017617035
+        ]
+      ],
+      "bed_face_area_mm2": 827.3526612689258,
+      "first_layer_0_16_mm_area_mm2": 881.8314596965507
+    },
+    {
+      "name": "K01",
+      "file": "print-options/K01-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.46832319918133875,
+          -0.8133895649302385,
+          0.3450663657488999,
+          1.622921499291829
+        ],
+        [
+          0.6688348434219189,
+          0.07116236596167931,
+          -0.7399972093835985,
+          0.34953842496494403
+        ],
+        [
+          0.5773502691896257,
+          0.5773502691896257,
+          0.5773502691896255,
+          -17.079607913890303
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.0074694024066832565
+    },
+    {
+      "name": "K02",
+      "file": "print-options/K02-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.44469590992954555,
+          -0.8153776007405553,
+          -0.37068169081100955,
+          3.7923450277687456
+        ],
+        [
+          -0.684771651252153,
+          -0.04273212933194689,
+          -0.7275037805840994,
+          -0.5471295163772911
+        ],
+        [
+          0.5773502691896255,
+          0.5773502691896255,
+          -0.577350269189626,
+          -17.079608241844802
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.007468988917512714
+    },
+    {
+      "name": "K03",
+      "file": "print-options/K03-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.42052682721165735,
+          -0.3958453973320033,
+          -0.816372224543661,
+          1.6741597160678863
+        ],
+        [
+          0.6998741703063227,
+          0.714124000491326,
+          0.014249830185003115,
+          -1.253951739804676
+        ],
+        [
+          0.5773502691896258,
+          -0.5773502691896258,
+          0.5773502691896256,
+          -17.079608162903778
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.007468921031516806
+    },
+    {
+      "name": "K04",
+      "file": "print-options/K04-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.04273212933194657,
+          0.7275037805840995,
+          -0.6847716512521526,
+          1.7214171665364653
+        ],
+        [
+          0.8153776007405552,
+          0.37068169081100943,
+          0.44469590992954544,
+          -1.402259671639321
+        ],
+        [
+          0.5773502691896254,
+          -0.5773502691896254,
+          -0.5773502691896258,
+          -17.079608443717042
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.007468898574636285
+    },
+    {
+      "name": "K05",
+      "file": "print-options/K05-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.04273212933194671,
+          -0.7275037805840995,
+          0.684771651252153,
+          1.7214172698271373
+        ],
+        [
+          0.8153776007405552,
+          0.3706816908110098,
+          0.44469590992954566,
+          1.402259432365775
+        ],
+        [
+          -0.5773502691896258,
+          0.5773502691896258,
+          0.5773502691896256,
+          -17.079608613452564
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.007468907491840537
+    },
+    {
+      "name": "K06",
+      "file": "print-options/K06-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.6998741703063225,
+          -0.7141240004913256,
+          -0.014249830185003184,
+          -1.2539514721624139
+        ],
+        [
+          -0.4205268272116576,
+          0.39584539733200347,
+          0.8163722245436604,
+          1.674159677012037
+        ],
+        [
+          -0.5773502691896255,
+          0.5773502691896255,
+          -0.577350269189626,
+          -17.079608126016147
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.007468917306556633
+    },
+    {
+      "name": "K07",
+      "file": "print-options/K07-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.4446959099295458,
+          -0.8153776007405554,
+          -0.3706816908110097,
+          -3.79234490364598
+        ],
+        [
+          0.6847716512521529,
+          0.04273212933194662,
+          0.7275037805840997,
+          -0.5471294886560978
+        ],
+        [
+          -0.5773502691896258,
+          -0.5773502691896258,
+          0.5773502691896256,
+          -17.079608370757462
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.007469060531153593
+    },
+    {
+      "name": "K08",
+      "file": "print-options/K08-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.46832319918133836,
+          -0.8133895649302384,
+          0.34506636574889976,
+          -1.6229210764955102
+        ],
+        [
+          -0.668834843421919,
+          -0.07116236596167946,
+          0.7399972093835979,
+          0.3495381357789915
+        ],
+        [
+          -0.5773502691896254,
+          -0.5773502691896254,
+          -0.5773502691896258,
+          -17.079607808678908
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.007469465207825987
+    }
+  ],
+  "plates": [
+    {
+      "name": "C-01",
+      "file": "plates/C-01.3mf",
+      "objects": [
+        "C01",
+        "C04",
+        "C03",
+        "C06",
+        "C05",
+        "C02"
+      ]
+    },
+    {
+      "name": "E-01",
+      "file": "plates/E-01.3mf",
+      "objects": [
+        "E11",
+        "E10",
+        "E01",
+        "E08",
+        "E07",
+        "E09",
+        "E04",
+        "E02",
+        "E03",
+        "E06",
+        "E05",
+        "E12"
+      ]
+    },
+    {
+      "name": "K-01",
+      "file": "plates/K-01.3mf",
+      "objects": [
+        "K07",
+        "K03",
+        "K02",
+        "K05",
+        "K04",
+        "K01",
+        "K08",
+        "K06"
+      ]
+    },
+    {
+      "name": "E-face-down-01",
+      "file": "plates/E-face-down-01.3mf",
+      "objects": [
+        "E12",
+        "E01",
+        "E10",
+        "E09",
+        "E07",
+        "E05",
+        "E04",
+        "E08",
+        "E03",
+        "E06",
+        "E11",
+        "E02"
+      ]
+    },
+    {
+      "name": "K-radial-down-01",
+      "file": "plates/K-radial-down-01.3mf",
+      "objects": [
+        "K03",
+        "K07",
+        "K02",
+        "K08",
+        "K01",
+        "K05",
+        "K04",
+        "K06"
+      ]
+    },
+    {
+      "name": "core-01",
+      "file": "plates/core-01.3mf",
+      "objects": [
+        "core"
+      ]
+    },
+    {
+      "name": "alternate-cores-01",
+      "file": "plates/alternate-cores-01.3mf",
+      "objects": [
+        "core-seat-5.30",
+        "core-seat-5.50"
+      ]
+    },
+    {
+      "name": "fit-coupons-01",
+      "file": "plates/fit-coupons-01.3mf",
+      "objects": [
+        "nut-fit-5.30",
+        "nut-fit-5.40",
+        "nut-fit-5.50",
+        "rotor-fit"
+      ]
+    },
+    {
+      "name": "stand-01",
+      "file": "plates/stand-01.3mf",
+      "objects": [
+        "assembly-stand"
+      ]
+    }
+  ]
+}

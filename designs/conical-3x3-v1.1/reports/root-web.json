@@ -1,0 +1,132 @@
+{
+  "passed": true,
+  "manifest_sha256": "e75ef7ed4fad157cd994201b009e249a9801c7ffa2297faf09121094073c5da5",
+  "centers": [
+    {
+      "name": "C01",
+      "old_minimum_mm": 0.6494820444715518,
+      "new_minimum_mm": 2.042507931760836,
+      "angle_samples": 720,
+      "well_corner": [
+        4.8,
+        0.0,
+        28.8
+      ],
+      "root_surface_point": [
+        5.214532798428211,
+        -1.278318449660126e-07,
+        26.799999697416727
+      ]
+    },
+    {
+      "name": "C02",
+      "old_minimum_mm": 0.6494821356652656,
+      "new_minimum_mm": 2.0425079427678328,
+      "angle_samples": 720,
+      "well_corner": [
+        2.9391523179536476e-16,
+        4.8,
+        28.8
+      ],
+      "root_surface_point": [
+        -1.3313028395969437e-08,
+        5.214532647710137,
+        26.799999654937004
+      ]
+    },
+    {
+      "name": "C03",
+      "old_minimum_mm": 0.6494819993282117,
+      "new_minimum_mm": 2.0425079919880362,
+      "angle_samples": 720,
+      "well_corner": [
+        -4.8,
+        5.878304635907295e-16,
+        28.8
+      ],
+      "root_surface_point": [
+        -5.214532593591683,
+        6.57360474225717e-08,
+        26.799999593453755
+      ]
+    },
+    {
+      "name": "C04",
+      "old_minimum_mm": 0.6494820813766109,
+      "new_minimum_mm": 2.0425079497816623,
+      "angle_samples": 720,
+      "well_corner": [
+        4.8,
+        0.0,
+        28.8
+      ],
+      "root_surface_point": [
+        5.214532751934461,
+        1.616857426914469e-07,
+        26.7999996693763
+      ]
+    },
+    {
+      "name": "C05",
+      "old_minimum_mm": 0.6494823430299994,
+      "new_minimum_mm": 2.0425083955787824,
+      "angle_samples": 720,
+      "well_corner": [
+        4.8,
+        0.0,
+        28.8
+      ],
+      "root_surface_point": [
+        5.214532787322814,
+        -1.9073182121142708e-08,
+        26.799999221439105
+      ]
+    },
+    {
+      "name": "C06",
+      "old_minimum_mm": 0.6494820012806336,
+      "new_minimum_mm": 2.0425080150360815,
+      "angle_samples": 720,
+      "well_corner": [
+        -4.8,
+        5.878304635907295e-16,
+        28.8
+      ],
+      "root_surface_point": [
+        -5.214532579570616,
+        -1.1373357535547834e-07,
+        26.79999956700976
+      ]
+    }
+  ],
+  "washer_seat_mm": 28.8,
+  "screw_tip_mm": 9.8,
+  "tip_beyond_nut_mm": 1.8499999999999996,
+  "hardware": [
+    {
+      "axis": 0,
+      "minimum_screw_to_cube_face_mm": 2.011127344219723
+    },
+    {
+      "axis": 1,
+      "minimum_screw_to_cube_face_mm": 5.052593611997512
+    },
+    {
+      "axis": 2,
+      "minimum_screw_to_cube_face_mm": 5.353113376923734
+    },
+    {
+      "axis": 3,
+      "minimum_screw_to_cube_face_mm": 2.011127344219723
+    },
+    {
+      "axis": 4,
+      "minimum_screw_to_cube_face_mm": 5.052593611997512
+    },
+    {
+      "axis": 5,
+      "minimum_screw_to_cube_face_mm": 5.353113376923734
+    }
+  ],
+  "scope": "Sampled geometric web distance from the washer-well bottom rim to the exposed stalk-root surface. Material on the shortest segment is checked. This is not a strength or fatigue test."
+}

@@ -1,0 +1,262 @@
+{
+  "camera": {
+    "elevation_deg": 27,
+    "azimuth_deg": -55,
+    "half_extent_mm": 53
+  },
+  "geometry": "Unmodified delivered STL meshes; colors distinguish piece families for illustration.",
+  "parts": [
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/C01.stl",
+      "sha256": "a706be8c964ead8dbad8913c2966de1704be3272ae002fa311263f24a317b0c0"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/C02.stl",
+      "sha256": "e84016caa0dc06e9f9ddcf4ee840ad7f8e1985ddebee6d8bc7104228b99e28fe"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/C03.stl",
+      "sha256": "e028e294a1f178ae177246bf2b1abd3b44d4e0e3caa2e78f1a55ecc843af7566"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/C04.stl",
+      "sha256": "e2c2b030b1d2463e15717ef2b35dad571a380e539213604533518f61a0930a26"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/C05.stl",
+      "sha256": "e0c4b5d2b2c57fc18b9d5e0651c26f0803142480ae71f0e0f542bee9642f8226"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/C06.stl",
+      "sha256": "579f68b4d9f7ee55b8238c92e851a3fb12ea5e3389cdb138e8d258232db76550"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/C07.stl",
+      "sha256": "453f1956ff98b4c8d7e9f326ae5af5cdebfd7117416bf18d190fb55b2a699caf"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/C08.stl",
+      "sha256": "eef52de180223caa21c3008ea6249278738c4b4b8ae7882e7d704a0d63110745"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E01.stl",
+      "sha256": "8c461ab6dbc020a7e0a2409aaf038780e63d009e392770630fdc7bf928fc149c"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E02.stl",
+      "sha256": "ffc21f2f0ee46ea86c388a74821e34c519e9429a9675f6bb5dd5c912eef4da47"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E03.stl",
+      "sha256": "ba80910181947430fd8e74bc73833432298bb445d7ceade03711829e2fd7d097"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E04.stl",
+      "sha256": "3c9945997461da926bd40d59438ea65e057db312becafbeba68fc0d7f9d493d6"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E05.stl",
+      "sha256": "ecdf937bfa49f0f6fe2e7507ecd33ba48b02c1d813a97eb67235c6ab27e146a7"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E06.stl",
+      "sha256": "f688262d9c32fa3719b9856f820873c9c764aaaa972fcd37d5cd7d5cc97ae3eb"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E07.stl",
+      "sha256": "811365d6d01378cf6783fd3435799d139691e7b843acfceade03a3ca6a556a1b"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E08.stl",
+      "sha256": "4494a741ff03fb9e2825dc5c4dbfad48f724ebbcd1bca6d9e8892c47cd22ecf3"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E09.stl",
+      "sha256": "72ffd2a768bca7e026da08037a09580ef75c042bb2d8d9149668fedcbc60a42f"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E10.stl",
+      "sha256": "df1d2508a092053f739e910d4b18cc78268207c04aae86b4007aa98a3c89282f"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E11.stl",
+      "sha256": "5d52f9e5d5d62d89c852bc2239f0cab7dd0dab59d1a82d2eab7b60ce801be44d"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/E12.stl",
+      "sha256": "84b599117d762d96b5fb625bddfacd1589300623f113159ad6f60ef8662dfa0a"
+    },
+    {
+      "file": "designs/redi-v4.3/stl/puzzle/core.stl",
+      "sha256": "bf4d5c9e3c28cd7912db09f18c9c01a7536a45eb8865657a1199034997ffcbb0"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/C01.stl",
+      "sha256": "d8a9ca3520c964840cdc6c7940284e463e6dbae4035169d56c7f51dc39a118bf"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/C02.stl",
+      "sha256": "fc0ab66c20cf98b71ad9a6fabfa0d3ba26e792fa367a851edb544139e8e4402d"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/C03.stl",
+      "sha256": "ea7e14c028284178841fd2ac8f6f42a9025e6efe38ce7155bdd79fa01af28c4b"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/C04.stl",
+      "sha256": "f9f6b21ae0b19829fc2f7648f5ca2197b3fd4b6ef2dde7f8a1865728a1ebce05"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/F01.stl",
+      "sha256": "aa3f0595fc6d9bbf0d3e97392157ddeeb4ffc1a8b3539cf6ef96822f7760aee4"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/F02.stl",
+      "sha256": "786f031793f1cd5374832c1dbc9cce50a09c16c65c1c28c2dacc33471f19d4fa"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/F03.stl",
+      "sha256": "a58691f9807267d9c14c02c34a042dd45a4634b902ce9dfb70ce1ce033853361"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/F04.stl",
+      "sha256": "47543f5763552c46dc1756f8140dec0a348cba8d352942cd639ca9c0d81153d7"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/F05.stl",
+      "sha256": "052f02effeeb251232dbcd62e708983ba1b04a845392d06b73b983c103712add"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/F06.stl",
+      "sha256": "dbc1e72ec58573ceb0d3964990beeb6b9da106cba23b704d15fa751e7fc7be67"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/K01.stl",
+      "sha256": "5d91025822d4786cdd284e1dd7c74728f1f953083f1717bb1e4109efcd116a18"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/K02.stl",
+      "sha256": "764643d8fec2ca4cb05cc0aad9f85a4a4792e2d5cae8d5b96fa9d450aeef1693"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/K03.stl",
+      "sha256": "0559c63e77cba084bbd031f85417a1b19a25139d3ddfb2f9d1d45ec20e0a975d"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/K04.stl",
+      "sha256": "c3d4969678a0d9be6c51fb0e7b79a1f3c53131fa4dd992160454e0a9bebd8c9d"
+    },
+    {
+      "file": "designs/skewb-v1.1/stl/puzzle/core.stl",
+      "sha256": "1cdab1abf622206e755944c0f65ac1fd8f285d928b2b957ef4ef2e716bb00c39"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/C01.stl",
+      "sha256": "d2ecc927dfe0413fd523829663793bd32e1eecbf7c7d5dfc60ca57047493d957"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/C02.stl",
+      "sha256": "07597a6dcbbc4ece62dfab92fbed0ced8280d22674d664d4763e548ad98f38d0"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/C03.stl",
+      "sha256": "ea98a6656cacf8ce0e663ca88b33352478ed1db6b1547c957700cd2b677056c3"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/C04.stl",
+      "sha256": "375ef0171a5283cf7e05890797e69e9769f32fccff03c097d55d44b05822f6c9"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/C05.stl",
+      "sha256": "288b8eb683f3db2c4350933994ae0b8d08b60ce42618dcc62c60672770d68f80"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/C06.stl",
+      "sha256": "4dadd108e17503f9393ff42d7ba6743063640b9c410ec27667fe8c254dfb1094"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E01.stl",
+      "sha256": "024631bb849a1d10c9a5130f2f84a9f1184d949e754da9562eaa40bb69495b0e"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E02.stl",
+      "sha256": "05393a8772715b4caada4d3a2d4fc914b045f81236ff909f74ca6fba1b30a00b"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E03.stl",
+      "sha256": "83786fd820c3117cf12b0136aa42fa4a900ab9c2d606245b566d6c5917b9eb02"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E04.stl",
+      "sha256": "ae50d953e1ac5cbbe98fc0d2ad8b8c1c4a8cdbf2dad9ce95c132d3851a10d2bb"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E05.stl",
+      "sha256": "8d2ffc623a413f435f280ecba4031a53a6d454dda517cc1d58e4930d942e9d2e"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E06.stl",
+      "sha256": "60ea500dba2aeeb8661516aaeea631dc13df6c0027f506055c73bdccda8b776d"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E07.stl",
+      "sha256": "905ae5b7f27cf57a8cf866ffed720cc6831054ddeb3705b5077cea2010f8fba8"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E08.stl",
+      "sha256": "0c4a41554ff801dc7280be01e07354ae9ca50271e958e5cfe9964c01c41a7402"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E09.stl",
+      "sha256": "9f83def0854c4bf63e23340cd05334bb7d5166fc259bbaa45c1ff4ab2bb545f0"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E10.stl",
+      "sha256": "2f7b52684bb4c04bbe5a54fe12a2cc161e492f8d016af837db8be1e5274a3c8a"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E11.stl",
+      "sha256": "66993e896006644fe7422a882ec75830ffa50eec033ac3ffc0f0b0ae872b2b5a"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/E12.stl",
+      "sha256": "63782174d49157038cd2a30bc8d499a015cad334a83bf6be991fd4577b131828"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/K01.stl",
+      "sha256": "102e39e27d141d55e1f6953b67b7760ed9d381bf56d4b4839e7a3ade91f4431d"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/K02.stl",
+      "sha256": "acd50dfdec54ac1e40efc328b2b751326242c24b41f0d97fe3c6343429d953cb"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/K03.stl",
+      "sha256": "174033c370d35f514342711947deff256ebb2920cc99dc09d254ee516732f0f9"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/K04.stl",
+      "sha256": "3be4c9dd0711ce3f108821b8656d28622d4646f262c845994d7d881cd179bbaf"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/K05.stl",
+      "sha256": "75d72d8b8c4ba69387fdb16f16d7ff21de7886c194016f0878bd9cc7cc646acd"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/K06.stl",
+      "sha256": "0dbe5559c1981dd68eae0d97c18776af90882c250cb46ca1a737df760d8d5029"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/K07.stl",
+      "sha256": "40cb64946f8cc397419bb04453b54c0b75636d6b485a45c2c29cc0dba360794d"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/K08.stl",
+      "sha256": "0b1a499018bd6fd7e010ca1ef12cccc9a40830120946bdc17db2ad357a42c956"
+    },
+    {
+      "file": "designs/conical-3x3-v1.1/stl/puzzle/core.stl",
+      "sha256": "60d97dca12474baeb4727cac03838a0ba454ce2832a937dd13d919e03f0e660c"
+    }
+  ]
+}

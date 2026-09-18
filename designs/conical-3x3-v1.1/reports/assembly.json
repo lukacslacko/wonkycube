@@ -1,0 +1,222 @@
+{
+  "manifest_sha256": "e75ef7ed4fad157cd994201b009e249a9801c7ffa2297faf09121094073c5da5",
+  "insert_K01": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_K02": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_K03": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_K04": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_K05": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_K06": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_K07": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_K08": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E01": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E02": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E03": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E04": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E05": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E06": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E07": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E08": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E09": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E10": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E11": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_E12": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_C01": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_C02": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_C03": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_C04": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_C05": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "insert_C06": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ],
+    "installed_hardware_included": true
+  },
+  "stand_withdrawal": {
+    "samples": 79,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "_completion": {
+    "passed": true,
+    "mode": "assembly"
+  }
+}
