@@ -1,0 +1,57 @@
+{
+  "description": "Changes relative to supplied v1 files. The added material from the corrected outer mask affects exactly four solved petals before exterior rim rounding.",
+  "nut_seat_across_flats_mm": {
+    "before": 5.2,
+    "after": 5.25
+  },
+  "tip_changes": [
+    {
+      "name": "E01",
+      "added_before_outer_rounding_mm3": 3.348448976768349e-14
+    },
+    {
+      "name": "E02",
+      "added_before_outer_rounding_mm3": 247.87789643625476
+    },
+    {
+      "name": "E03",
+      "added_before_outer_rounding_mm3": 3.316508928788706e-14
+    },
+    {
+      "name": "E04",
+      "added_before_outer_rounding_mm3": 122.82530719024868
+    },
+    {
+      "name": "E05",
+      "added_before_outer_rounding_mm3": 3.337366735827467e-14
+    },
+    {
+      "name": "E06",
+      "added_before_outer_rounding_mm3": 3.325348717774719e-14
+    },
+    {
+      "name": "E07",
+      "added_before_outer_rounding_mm3": 3.325573478968315e-14
+    },
+    {
+      "name": "E08",
+      "added_before_outer_rounding_mm3": 3.343465401517818e-14
+    },
+    {
+      "name": "E09",
+      "added_before_outer_rounding_mm3": 122.82530719024868
+    },
+    {
+      "name": "E10",
+      "added_before_outer_rounding_mm3": 3.357773889329965e-14
+    },
+    {
+      "name": "E11",
+      "added_before_outer_rounding_mm3": 247.87789643625499
+    },
+    {
+      "name": "E12",
+      "added_before_outer_rounding_mm3": 3.359202862268617e-14
+    }
+  ]
+}

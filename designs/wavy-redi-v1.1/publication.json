@@ -1,0 +1,25 @@
+{
+  "design": "wavy-redi-v1.1",
+  "release_tag": "wavy-redi-v1.1",
+  "license": "MIT",
+  "physical_feedback": "physical-feedback.json",
+  "printed_version": "v1",
+  "revision_physically_tested": false,
+  "changed_puzzle_parts": [
+    "E02",
+    "E04",
+    "E09",
+    "E11",
+    "core"
+  ],
+  "unchanged_puzzle_parts": 16,
+  "manifest_sha256": "d1a154627d63c2d881804c79a5f24c9725aef3f2747529eaba9807654f30c237",
+  "refinements": {
+    "nut_terminal_across_flats_mm": {
+      "before": 5.2,
+      "after": 5.25
+    },
+    "nut_entrance_mm": 5.85,
+    "petal_tip_fix": "Extend the spherical rounding mask before closing it, keeping its entire end cap outside the puzzle bounding sphere."
+  }
+}

@@ -1,4 +1,4 @@
-"""Render the four published puzzles from their unmodified, assembled STL meshes."""
+"""Render the five published puzzles from their unmodified, assembled STL meshes."""
 from pathlib import Path
 import hashlib
 import json
@@ -21,6 +21,8 @@ DESIGNS = [
      {'C': '#86bea6', 'E': '#7bb2d7', 'K': '#e9c96d'}),
     ('pentagonal-prism-v1', 'Pentagonal prism', '60° curved cuts · 32 moving pieces',
      {'C': '#7bb2d7', 'K': '#7bb2d7', 'V': '#e9c96d', 'H': '#e9c96d'}),
+    ('wavy-redi-v1.1', 'Wavy Redi', 'Wavy cuts · 20 moving pieces',
+     {'C': '#63b2ab', 'E': '#edaa69', 'c': '#a7afb8'}),
 ]
 
 
@@ -33,15 +35,19 @@ def main():
     # Match camera and scale so the common 64 mm exterior can be compared directly.
     tile = 900
     row_height = 1050
-    page = Image.new('RGB', (2 * tile, 2190), '#fafaf8')
+    page = Image.new('RGB', (3 * tile, 2190), '#fafaf8')
     draw = ImageDraw.Draw(page)
     provenance = []
     for index, (folder, title, subtitle, colors) in enumerate(DESIGNS):
-        row, column = divmod(index, 2)
+        row = 0 if index < 3 else 1
+        x = index * tile if index < 3 else (index - 3) * tile + tile // 2
         y = row * row_height
         root = ROOT / 'designs' / folder
         manifest = json.loads((root / 'manifest.json').read_text())
-        rotation = np.array(json.loads((root / 'source/chosen_rotation.json').read_text())['cube_to_mechanism_matrix'])
+        rotation_file = root / 'source/chosen_rotation.json'
+        if not rotation_file.exists():
+            rotation_file = root / 'source/selection.json'
+        rotation = np.array(json.loads(rotation_file.read_text())['cube_to_mechanism_matrix'])
         objects = []
         for row in manifest['parts']:
             if not row['file'].startswith('stl/puzzle/'):
@@ -59,14 +65,14 @@ def main():
             provenance.append({'file': path.relative_to(ROOT).as_posix(), 'sha256': digest})
         image = renderer.render(objects, size=tile * 2, extent=53, elev=27, az=-55)
         image = image.resize((tile, tile), Image.Resampling.LANCZOS)
-        page.paste(image, (column * tile, y))
-        center = column * tile + tile / 2
+        page.paste(image, (x, y))
+        center = x + tile / 2
         draw.text((center, y + 910), title, font=font(44, True), anchor='mt', fill='#273847')
         draw.text((center, y + 979), subtitle, font=font(26), anchor='mt', fill='#53616a')
         print('Rendered', title, flush=True)
-    draw.text((900, 2140), 'Four 64 mm cubes · distinct turning axes · actual printable geometry',
+    draw.text((1350, 2140), 'Five 64 mm cubes · distinct turning axes · actual printable geometry',
               font=font(25), anchor='mt', fill='#53616a')
-    destination = ROOT / 'docs/images/four-cubes.png'
+    destination = ROOT / 'docs/images/five-cubes.png'
     page.save(destination, optimize=True)
     destination.with_suffix('.json').write_text(json.dumps({
         'camera': {'elevation_deg': 27, 'azimuth_deg': -55, 'half_extent_mm': 53},

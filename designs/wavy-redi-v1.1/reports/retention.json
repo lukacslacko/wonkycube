@@ -1,0 +1,378 @@
+{
+  "_inputs": {
+    "C01": "401a97e4510888478aa670b9b651ae834a9a2f0337d42f9156f181c157e7cc0d",
+    "C02": "7ac26598b44fb5bc3a0bd6951acc1fad702cc260883c4b9d53424d92921c26e9",
+    "C03": "a99149e3024ccc63b2dad8683d311fc82fc665be7bc40c1bfa0d31ce32c9469a",
+    "C04": "9722267585e88d8f62a2b68ad76e5a708f6430a267fd3a8cd395e0401143a3c4",
+    "C05": "cb0d1efff4b02d28a3b1e13cca2426566db7dd7c463536545454063fc3aaec6b",
+    "C06": "a03ca77f582a3dd6bb8ecf1499a69b2707b01f31d49f075f80b6523159c87243",
+    "C07": "92a7423185de9fc8ae1e557af23361e492bdcbcadd4ef3eab74427da4ac9411e",
+    "C08": "ff3bb63917f4c1dbdb84bbbc41c8c815425e1cafe13b2ee89db464a93cbfae9a",
+    "E01": "c7bdb4df6540b1fe6647adaccb302cb41bb8dc1e84e26a349687c8188f5f5ede",
+    "E02": "da01f730e5bb272b6380de4a08326e9b7daedcba705af176d680d41b7f977786",
+    "E03": "9abf50d7bce57f5be3f2a33ff02264ba02cfb19eaa5d1fbf29c19e0bfded4683",
+    "E04": "7c5ba6dd28d1571a25424398d1c233931b8a2143239a78f038bb431c09e3e42d",
+    "E05": "d651ffb0453d96345698af79c0ac9cba39bc9555d92ff7cbfb99dc52a86bb365",
+    "E06": "6bcd2f85eb2ff713dc432c66a97277b2e7e693faa775db999997ed9455798069",
+    "E07": "da5494fa85777ca3012819268110655159ad37095218b77fad8b1d1c1125ae25",
+    "E08": "cebbe814e7c7382e9735b4e21526b7f80c98d125fb55a3531506c55a0bb4b54e",
+    "E09": "143a155485e779eb14f39352cb9faef0cb129a5be3570afa6f87f0b382d24083",
+    "E10": "897f92afae51fb9bc5d20928e2ec61e33c90acbf5641f948542ee75c5be3d660",
+    "E11": "c827716194bf32012121176490fc90e2f1fbca43267e81dab095b840c5982131",
+    "E12": "bc23881e2b7676a882c94240816b32bcfbb00e8bd924470e6b451b5f9df8f8b5",
+    "core": "5f874ad3fc6681f9a22477f0cd4c146aa3a8c6892f414fc7aa9050aa917f92f4",
+    "nut-fit-5.25": "2e623f337379f4b8e1cae8a1986dbe22fc044b6bfb3617ac382b6cc5d7cc845f"
+  },
+  "principal": [
+    {
+      "corner_lift_mm": 0,
+      "direction": "radial",
+      "first_contact_mm": 0.9,
+      "peak_overlap_mm3": 218.0291598026145
+    },
+    {
+      "corner_lift_mm": 0,
+      "direction": "C07_axis",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 440.3076700865746
+    },
+    {
+      "corner_lift_mm": 0,
+      "direction": "C08_axis",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 437.41328063458553
+    },
+    {
+      "corner_lift_mm": 0.05,
+      "direction": "radial",
+      "first_contact_mm": 1.0,
+      "peak_overlap_mm3": 213.50284826438414
+    },
+    {
+      "corner_lift_mm": 0.05,
+      "direction": "C07_axis",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 439.1684783215936
+    },
+    {
+      "corner_lift_mm": 0.05,
+      "direction": "C08_axis",
+      "first_contact_mm": 0.6000000000000001,
+      "peak_overlap_mm3": 436.6085022655378
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "direction": "radial",
+      "first_contact_mm": 1.0,
+      "peak_overlap_mm3": 209.06798244944068
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "direction": "C07_axis",
+      "first_contact_mm": 0.7000000000000001,
+      "peak_overlap_mm3": 437.96050972997847
+    },
+    {
+      "corner_lift_mm": 0.1,
+      "direction": "C08_axis",
+      "first_contact_mm": 0.7000000000000001,
+      "peak_overlap_mm3": 435.7117252227577
+    }
+  ],
+  "rocking": [
+    {
+      "lift_mm": 0,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": -10,
+      "first_contact_mm": 0.1
+    },
+    {
+      "lift_mm": 0,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": -5,
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "lift_mm": 0,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": 5,
+      "first_contact_mm": 0.30000000000000004
+    },
+    {
+      "lift_mm": 0,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": 10,
+      "first_contact_mm": 0.1
+    },
+    {
+      "lift_mm": 0,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": -10,
+      "first_contact_mm": 0.2
+    },
+    {
+      "lift_mm": 0,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": -5,
+      "first_contact_mm": 0.5
+    },
+    {
+      "lift_mm": 0,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": 5,
+      "first_contact_mm": 0.5
+    },
+    {
+      "lift_mm": 0,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": 10,
+      "first_contact_mm": 0.2
+    },
+    {
+      "lift_mm": 0.05,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": -10,
+      "first_contact_mm": 0.1
+    },
+    {
+      "lift_mm": 0.05,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": -5,
+      "first_contact_mm": 0.2
+    },
+    {
+      "lift_mm": 0.05,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": 5,
+      "first_contact_mm": 0.2
+    },
+    {
+      "lift_mm": 0.05,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": 10,
+      "first_contact_mm": 0.1
+    },
+    {
+      "lift_mm": 0.05,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": -10,
+      "first_contact_mm": 0.1
+    },
+    {
+      "lift_mm": 0.05,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": -5,
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "lift_mm": 0.05,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": 5,
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "lift_mm": 0.05,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": 10,
+      "first_contact_mm": 0.1
+    },
+    {
+      "lift_mm": 0.1,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": -10,
+      "first_contact_mm": 0.1
+    },
+    {
+      "lift_mm": 0.1,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": -5,
+      "first_contact_mm": 0.2
+    },
+    {
+      "lift_mm": 0.1,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": 5,
+      "first_contact_mm": 0.2
+    },
+    {
+      "lift_mm": 0.1,
+      "axis": [
+        0,
+        0,
+        1
+      ],
+      "angle_deg": 10,
+      "first_contact_mm": 0.1
+    },
+    {
+      "lift_mm": 0.1,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": -10,
+      "first_contact_mm": 0.1
+    },
+    {
+      "lift_mm": 0.1,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": -5,
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "lift_mm": 0.1,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": 5,
+      "first_contact_mm": 0.6000000000000001
+    },
+    {
+      "lift_mm": 0.1,
+      "axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "angle_deg": 10,
+      "first_contact_mm": 0.1
+    }
+  ],
+  "all_edges": [
+    {
+      "name": "E01",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E02",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E03",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E04",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E05",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E06",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E07",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E08",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E09",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E10",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E11",
+      "first_radial_contact_mm": 0.9
+    },
+    {
+      "name": "E12",
+      "first_radial_contact_mm": 0.9
+    }
+  ],
+  "_completion": {
+    "passed": true,
+    "seconds": 34.164527893066406
+  }
+}

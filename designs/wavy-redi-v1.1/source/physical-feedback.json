@@ -1,0 +1,46 @@
+{
+  "design": "wavy-redi-v1",
+  "reported_date": "2026-09-23",
+  "reported_by": "László Lukács (project owner)",
+  "report": "It built very well and turns great. Nut slots are just the tiniest bit too tight. Four edge pieces including E11 have their cube-corner tips trimmed.",
+  "scope": "Successful physical assembly and turning of v1. The v1.1 refinements have not yet been physically tested.",
+  "provenance": "Hashes identify the supplied v1 STL set associated with the report. The sliced job was not independently inspected in this turn; exact print settings are not recorded.",
+  "printed_part_sha256": {
+    "stl/puzzle/C01.stl": "401a97e4510888478aa670b9b651ae834a9a2f0337d42f9156f181c157e7cc0d",
+    "stl/puzzle/C02.stl": "7ac26598b44fb5bc3a0bd6951acc1fad702cc260883c4b9d53424d92921c26e9",
+    "stl/puzzle/C03.stl": "a99149e3024ccc63b2dad8683d311fc82fc665be7bc40c1bfa0d31ce32c9469a",
+    "stl/puzzle/C04.stl": "9722267585e88d8f62a2b68ad76e5a708f6430a267fd3a8cd395e0401143a3c4",
+    "stl/puzzle/C05.stl": "cb0d1efff4b02d28a3b1e13cca2426566db7dd7c463536545454063fc3aaec6b",
+    "stl/puzzle/C06.stl": "a03ca77f582a3dd6bb8ecf1499a69b2707b01f31d49f075f80b6523159c87243",
+    "stl/puzzle/C07.stl": "92a7423185de9fc8ae1e557af23361e492bdcbcadd4ef3eab74427da4ac9411e",
+    "stl/puzzle/C08.stl": "ff3bb63917f4c1dbdb84bbbc41c8c815425e1cafe13b2ee89db464a93cbfae9a",
+    "stl/puzzle/E01.stl": "c7bdb4df6540b1fe6647adaccb302cb41bb8dc1e84e26a349687c8188f5f5ede",
+    "stl/puzzle/E02.stl": "36c424faeeacb278b4b97aca2b5342ac1afb713836c8bb271b9c84e4ee0c4549",
+    "stl/puzzle/E03.stl": "9abf50d7bce57f5be3f2a33ff02264ba02cfb19eaa5d1fbf29c19e0bfded4683",
+    "stl/puzzle/E04.stl": "32fd190b4ae1d8f480a9a38016ca590438719f512081cca76f8948cddb02b546",
+    "stl/puzzle/E05.stl": "d651ffb0453d96345698af79c0ac9cba39bc9555d92ff7cbfb99dc52a86bb365",
+    "stl/puzzle/E06.stl": "6bcd2f85eb2ff713dc432c66a97277b2e7e693faa775db999997ed9455798069",
+    "stl/puzzle/E07.stl": "da5494fa85777ca3012819268110655159ad37095218b77fad8b1d1c1125ae25",
+    "stl/puzzle/E08.stl": "cebbe814e7c7382e9735b4e21526b7f80c98d125fb55a3531506c55a0bb4b54e",
+    "stl/puzzle/E09.stl": "5c7c9cf6bd1e1b88aa20ab6c3138a8b4ed837660cc752a13815a9f59ee1bfee3",
+    "stl/puzzle/E10.stl": "897f92afae51fb9bc5d20928e2ec61e33c90acbf5641f948542ee75c5be3d660",
+    "stl/puzzle/E11.stl": "c4a63d73a058f8760f510e59472cabebd4249cc57306c10594492349d1d9190b",
+    "stl/puzzle/E12.stl": "bc23881e2b7676a882c94240816b32bcfbb00e8bd924470e6b451b5f9df8f8b5",
+    "stl/puzzle/core.stl": "685db59705bce309059b71668d2f299e86d6bc2d881359f040eb31b6d54e5268"
+  },
+  "nut_slot_mm": {
+    "terminal_across_flats": 5.2,
+    "entrance_width": 5.85
+  },
+  "revision": {
+    "version": "wavy-redi-v1.1",
+    "terminal_across_flats_mm": 5.25,
+    "corrected_exterior_petal_tips": [
+      "E02",
+      "E04",
+      "E09",
+      "E11"
+    ],
+    "physically_tested": false
+  }
+}
