@@ -1,0 +1,487 @@
+{
+  "manifest_sha256": "e856ee1e76f3a0543497eb7243305d4957d74447ada401a195f3d55697727c3a",
+  "passed": true,
+  "parts": [
+    {
+      "name": "C01",
+      "regularization_removed_mm3": 0.009150818422464794,
+      "regularization_added_mm3": 0.055179270403263384,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 1.970434670640505e-06,
+        "rms_mm": 4.6872950525283266e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 1.8938940536140058e-06,
+        "rms_mm": 4.695694608291669e-07
+      }
+    },
+    {
+      "name": "C02",
+      "regularization_removed_mm3": 0.023025554778066767,
+      "regularization_added_mm3": 0.044722983891523266,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 9.88595573442976e-05,
+        "rms_mm": 1.1912816589761348e-06
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.3258418240021027e-06,
+        "rms_mm": 4.4752455807164257e-07
+      }
+    },
+    {
+      "name": "C03",
+      "regularization_removed_mm3": 0.010714111478851599,
+      "regularization_added_mm3": 0.04419472249664127,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 0.0009654567461970182,
+        "rms_mm": 1.0803706467894843e-05
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 0.0011491792404682323,
+        "rms_mm": 2.0155397394087038e-05
+      }
+    },
+    {
+      "name": "C04",
+      "regularization_removed_mm3": 0.026208649147437257,
+      "regularization_added_mm3": 0.06847215960427508,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 2.6312857741150643e-06,
+        "rms_mm": 4.7239717368302554e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.253862611220091e-06,
+        "rms_mm": 4.6817415175649096e-07
+      }
+    },
+    {
+      "name": "C05",
+      "regularization_removed_mm3": 0.021650044181084013,
+      "regularization_added_mm3": 0.07959233627324268,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 2.189354282707926e-06,
+        "rms_mm": 4.898227318308099e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.1067880014523472e-06,
+        "rms_mm": 4.861259670695371e-07
+      }
+    },
+    {
+      "name": "C06",
+      "regularization_removed_mm3": 0.013577665486396967,
+      "regularization_added_mm3": 0.06302508223238762,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 6.776206661157638e-05,
+        "rms_mm": 9.168273617105151e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.6166855781106584e-06,
+        "rms_mm": 5.161538732977781e-07
+      }
+    },
+    {
+      "name": "C07",
+      "regularization_removed_mm3": 0.017895546803433516,
+      "regularization_added_mm3": 0.07297206164443981,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 2.3382642358405782e-06,
+        "rms_mm": 5.125572329396846e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.1922958785506496e-06,
+        "rms_mm": 5.077397779592355e-07
+      }
+    },
+    {
+      "name": "V01",
+      "regularization_removed_mm3": 0.11026262118758579,
+      "regularization_added_mm3": 0.04996599520028769,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 1.2407224988154617e-05,
+        "rms_mm": 4.6286794513748067e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.6345589118317496e-05,
+        "rms_mm": 5.772724010515737e-07
+      }
+    },
+    {
+      "name": "V02",
+      "regularization_removed_mm3": 0.100664875799024,
+      "regularization_added_mm3": 0.0486499588262778,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 2.0948193379174093e-05,
+        "rms_mm": 5.002145136833792e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 8.278764666087527e-06,
+        "rms_mm": 4.392006341218282e-07
+      }
+    },
+    {
+      "name": "V03",
+      "regularization_removed_mm3": 0.12373617237167456,
+      "regularization_added_mm3": 0.04522638828509907,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 1.2891973335448658e-05,
+        "rms_mm": 5.485007126848058e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 3.4563074363612105e-05,
+        "rms_mm": 8.349850083049292e-07
+      }
+    },
+    {
+      "name": "V04",
+      "regularization_removed_mm3": 0.12705529033208257,
+      "regularization_added_mm3": 0.05862029261958083,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 3.332561232824522e-05,
+        "rms_mm": 7.140965147921248e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 3.1470381845604366e-05,
+        "rms_mm": 7.993693626458493e-07
+      }
+    },
+    {
+      "name": "V05",
+      "regularization_removed_mm3": 0.14694855192736725,
+      "regularization_added_mm3": 0.0493704826364042,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 3.3519109083757234e-05,
+        "rms_mm": 7.182612180398977e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 4.4615022058401627e-05,
+        "rms_mm": 1.0038180833425055e-06
+      }
+    },
+    {
+      "name": "H01",
+      "regularization_removed_mm3": 0.11499604243242964,
+      "regularization_added_mm3": 0.030377237238976302,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 2.1191031774879593e-05,
+        "rms_mm": 4.687534494414291e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 5.849623327926502e-05,
+        "rms_mm": 8.622623772149419e-07
+      }
+    },
+    {
+      "name": "H02",
+      "regularization_removed_mm3": 0.033492658872884634,
+      "regularization_added_mm3": 0.021619085375741143,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 4.590840921245848e-06,
+        "rms_mm": 3.9732535482978117e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.368532687895224e-05,
+        "rms_mm": 5.086564513902967e-07
+      }
+    },
+    {
+      "name": "H03",
+      "regularization_removed_mm3": 0.03343862532250215,
+      "regularization_added_mm3": 0.018095704473751816,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 3.386075909979731e-05,
+        "rms_mm": 5.5836867851472e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 5.873349839043874e-05,
+        "rms_mm": 8.032345534972329e-07
+      }
+    },
+    {
+      "name": "H04",
+      "regularization_removed_mm3": 0.03541062680596571,
+      "regularization_added_mm3": 0.021380243264419084,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 1.8416992241957023e-05,
+        "rms_mm": 5.023555462146172e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 1.384298276552968e-05,
+        "rms_mm": 4.524432095843606e-07
+      }
+    },
+    {
+      "name": "H05",
+      "regularization_removed_mm3": 0.03400208480394387,
+      "regularization_added_mm3": 0.017121619054556454,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 0.00013580549245747076,
+        "rms_mm": 1.6503459017821497e-06
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 3.4318220800773186e-05,
+        "rms_mm": 6.884535308051769e-07
+      }
+    },
+    {
+      "name": "H06",
+      "regularization_removed_mm3": 0.029920362005957712,
+      "regularization_added_mm3": 0.020528036326892422,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 5.830069363029591e-05,
+        "rms_mm": 8.074820264506124e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.6223211845718176e-05,
+        "rms_mm": 6.211550237694172e-07
+      }
+    },
+    {
+      "name": "H07",
+      "regularization_removed_mm3": 0.08213456277931107,
+      "regularization_added_mm3": 0.023304710553513668,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 0.00013519576903643244,
+        "rms_mm": 1.635106562552749e-06
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.0862549315818233e-05,
+        "rms_mm": 6.019268590432451e-07
+      }
+    },
+    {
+      "name": "H08",
+      "regularization_removed_mm3": 0.06361548251812718,
+      "regularization_added_mm3": 0.026547273259711242,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 2.922137298165928e-05,
+        "rms_mm": 5.545620600802084e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 4.440387696566318e-05,
+        "rms_mm": 7.127917478117571e-07
+      }
+    },
+    {
+      "name": "H09",
+      "regularization_removed_mm3": 0.018578630768236317,
+      "regularization_added_mm3": 0.014060012546100625,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 1.4793682452224156e-05,
+        "rms_mm": 4.328055508336956e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 3.41656936429304e-05,
+        "rms_mm": 6.454786913765208e-07
+      }
+    },
+    {
+      "name": "H10",
+      "regularization_removed_mm3": 0.0694768682586604,
+      "regularization_added_mm3": 0.025214525565716232,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 0.0009658097921605042,
+        "rms_mm": 2.0045577065632457e-05
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 0.0010005698836136777,
+        "rms_mm": 2.4639323882673857e-05
+      }
+    },
+    {
+      "name": "K01",
+      "regularization_removed_mm3": 0.02460195435374184,
+      "regularization_added_mm3": 0.010129792484462333,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 1.5104859490560113e-06,
+        "rms_mm": 3.9466680864540913e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 1.6592911109562878e-06,
+        "rms_mm": 3.9583356791821176e-07
+      }
+    },
+    {
+      "name": "K02",
+      "regularization_removed_mm3": 0.0832723099718789,
+      "regularization_added_mm3": 0.015709180411827502,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 3.21644464773463e-06,
+        "rms_mm": 4.4139810239424716e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 1.9080180465782235e-06,
+        "rms_mm": 4.339403804111711e-07
+      }
+    },
+    {
+      "name": "K03",
+      "regularization_removed_mm3": 0.04216864291730781,
+      "regularization_added_mm3": 0.007048881000000107,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 1.960835310791448e-06,
+        "rms_mm": 4.0807103219398856e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 2.1188792386139913e-06,
+        "rms_mm": 4.0802951176982775e-07
+      }
+    },
+    {
+      "name": "K04",
+      "regularization_removed_mm3": 0.025033876844921085,
+      "regularization_added_mm3": 0.01307181077564095,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 2.087862109754303e-06,
+        "rms_mm": 3.9905190685449255e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 4.905043124261702e-06,
+        "rms_mm": 4.018878541164883e-07
+      }
+    },
+    {
+      "name": "K05",
+      "regularization_removed_mm3": 0.07011399910405246,
+      "regularization_added_mm3": 0.014919160620881397,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 2.1074878657750246e-06,
+        "rms_mm": 4.477476610510708e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 1.8316664272612079e-06,
+        "rms_mm": 4.528342498922115e-07
+      }
+    },
+    {
+      "name": "K06",
+      "regularization_removed_mm3": 0.019237830276319656,
+      "regularization_added_mm3": 0.010538911497656706,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 1.5764950195425465e-06,
+        "rms_mm": 3.9732624546779386e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 9.965165100816743e-05,
+        "rms_mm": 1.1957543334524243e-06
+      }
+    },
+    {
+      "name": "K07",
+      "regularization_removed_mm3": 0.02573589384031525,
+      "regularization_added_mm3": 0.011181903818984254,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 4.907632683516114e-05,
+        "rms_mm": 6.925253064454025e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 3.1792528014337236e-06,
+        "rms_mm": 4.244040284212797e-07
+      }
+    },
+    {
+      "name": "K08",
+      "regularization_removed_mm3": 0.09114083630968087,
+      "regularization_added_mm3": 0.010848650212742538,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 2.2097886368601165e-06,
+        "rms_mm": 4.5935010581093214e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 1.826398420016949e-06,
+        "rms_mm": 4.6070182222018604e-07
+      }
+    },
+    {
+      "name": "K09",
+      "regularization_removed_mm3": 0.04275623125856152,
+      "regularization_added_mm3": 0.010822758992999497,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 1.0295087106013243e-05,
+        "rms_mm": 4.252591346727724e-07
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 1.5129642019535766e-05,
+        "rms_mm": 4.4810352762653977e-07
+      }
+    },
+    {
+      "name": "K10",
+      "regularization_removed_mm3": 0.02643041395116434,
+      "regularization_added_mm3": 0.011885903718357328,
+      "regularized_cad_to_print": {
+        "samples": 8000,
+        "maximum_mm": 0.00011013929139687094,
+        "rms_mm": 1.2971080924561124e-06
+      },
+      "print_to_regularized_cad": {
+        "samples": 8000,
+        "maximum_mm": 1.5377736894956606e-05,
+        "rms_mm": 4.390039900199227e-07
+      }
+    }
+  ],
+  "scope": "Bidirectional vertex and face-center samples against the .001 mm normal-error regularized export input, not an exact Hausdorff bound or a vertex-movement bound on CAD regularization. Original-CAD versus print ridge profiles are checked separately."
+}

@@ -1,0 +1,2686 @@
+{
+  "version": "wonky-pentagonal-prism-60-v1",
+  "units": "millimeter",
+  "cube_side_mm": 64.0,
+  "core_seat_af_mm": 5.2,
+  "parts": [
+    {
+      "name": "C01",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C01.stl",
+      "sha256": "18e37f215827a51d863948823721162f3640ea01cdd5e135681618d910504091",
+      "dimensions_mm": [
+        47.27849197387695,
+        21.6509952545166,
+        21.865966796875
+      ],
+      "volume_mm3": 7311.451523359447,
+      "triangles": 23492,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.44280057292836666,
+          -0.1327163015284919,
+          0.8867435006375343,
+          -20.244721610845794
+        ],
+        [
+          0.3190450922504354,
+          0.9475780314363849,
+          -0.017495812357729318,
+          -11.995199009673312
+        ],
+        [
+          -0.837936681214769,
+          0.29065831769922584,
+          0.4619305798786593,
+          32.00000157998326
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 4.999999969612645e-09,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 473.55310988988066,
+      "first_layer_0_16_mm_area_mm2": 544.5933561263869
+    },
+    {
+      "name": "C02",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C02.stl",
+      "sha256": "92cd238b627b36cbc54c126c42d08d3732b569a218969cf8bcf65ff97257b624",
+      "dimensions_mm": [
+        22.741539001464844,
+        37.37282943725586,
+        21.551830291748047
+      ],
+      "volume_mm3": 5737.001616436527,
+      "triangles": 23306,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.851965513645222,
+          -0.5043292901647591,
+          -0.1407363870544622,
+          6.133073342765256
+        ],
+        [
+          -0.1305548635894513,
+          -0.4649107644068031,
+          0.8756788273858299,
+          17.79215129414715
+        ],
+        [
+          -0.507060342713146,
+          -0.7276743421480465,
+          -0.46193057987865965,
+          32.00000139393744
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 361.61833254871635,
+      "first_layer_0_16_mm_area_mm2": 413.64277067880926
+    },
+    {
+      "name": "C03",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C03.stl",
+      "sha256": "78e17306b0df1bf989e477e82a9911a3d3914acd8dc092a9050d7f4d4b96f791",
+      "dimensions_mm": [
+        37.36681365966797,
+        22.72608184814453,
+        21.551897048950195
+      ],
+      "volume_mm3": 5735.9043763673935,
+      "triangles": 23632,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.37888879429250816,
+          0.2993824858400171,
+          -0.87567882738583,
+          -17.788557797239555
+        ],
+        [
+          0.39281726010238976,
+          0.9087837308867873,
+          0.14073638705446298,
+          -6.127963400475247
+        ],
+        [
+          0.837936681214769,
+          -0.2906583176992259,
+          -0.46193057987865976,
+          32.000001464977196
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.001,
+        "local_contact_capsules": 1,
+        "local_contact_added_volume_mm3": 4.786452336702496e-07
+      },
+      "bed_face_area_mm2": 347.2007386221344,
+      "first_layer_0_16_mm_area_mm2": 411.5237581327484
+    },
+    {
+      "name": "C04",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C04.stl",
+      "sha256": "c858715c6a09df5b59c50a1bc9caac2d9f895098da8aff828db0c64e1d90467f",
+      "dimensions_mm": [
+        21.650123596191406,
+        47.2798957824707,
+        21.865999221801758
+      ],
+      "volume_mm3": 7312.763486722306,
+      "triangles": 23300,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.8150852938771652,
+          -0.579076730887296,
+          0.017495812357728836,
+          11.994970436854171
+        ],
+        [
+          0.2802245038407631,
+          0.36764138984109157,
+          -0.886743500637534,
+          20.24338284831794
+        ],
+        [
+          0.5070603427131458,
+          0.7276743421480465,
+          0.4619305798786593,
+          32.0000016035645
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 486.09837272729146,
+      "first_layer_0_16_mm_area_mm2": 546.7698370331298
+    },
+    {
+      "name": "C05",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C05.stl",
+      "sha256": "1c380821fcc659ac1138ea03a6b5ae1393037a9a1de50d8b80d0bf90295e9b36",
+      "dimensions_mm": [
+        37.423336029052734,
+        19.876556396484375,
+        27.566043853759766
+      ],
+      "volume_mm3": 8533.486187210958,
+      "triangles": 24386,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.23396490268867257,
+          0.7200699292817401,
+          0.6532684909392689,
+          26.218542650597662
+        ],
+        [
+          0.9510565162951536,
+          0.3090169943749466,
+          -2.7735057730199893e-16,
+          0.0028754552331671235
+        ],
+        [
+          -0.20187106558991014,
+          0.6212952551980931,
+          -0.75712632944967,
+          32.00000130576122
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 326.4252243572545,
+      "first_layer_0_16_mm_area_mm2": 373.7892960199097
+    },
+    {
+      "name": "C06",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C06.stl",
+      "sha256": "eee4b2bf36345034e8a999fd20274ebef02aa3b38547b6f567fba99cefce177d",
+      "dimensions_mm": [
+        37.26735305786133,
+        37.15321731567383,
+        27.07543182373047
+      ],
+      "volume_mm3": 18037.762862217263,
+      "triangles": 32836,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.4923591034376805,
+          0.7326362009160311,
+          0.4699220258397854,
+          -13.904593566978422
+        ],
+        [
+          0.84665848258884,
+          -0.27791438065645474,
+          -0.4537984253880809,
+          13.401860240042756
+        ],
+        [
+          -0.20187106558991014,
+          0.6212952551980931,
+          -0.75712632944967,
+          32.000001405915924
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 866.2495022707601,
+      "first_layer_0_16_mm_area_mm2": 943.5973050828661
+    },
+    {
+      "name": "C07",
+      "family": "C",
+      "quantity": 1,
+      "file": "stl/puzzle/C07.stl",
+      "sha256": "d4d1a4294329ef1928de4f02a7b46c64c2dd44bd58ad4b1b9e847aa41e1df390",
+      "dimensions_mm": [
+        38.68894577026367,
+        38.166683197021484,
+        25.482858657836914
+      ],
+      "volume_mm3": 18132.735504852913,
+      "triangles": 32832,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.8466584825888406,
+          -0.27791438065645424,
+          -0.4537984253880805,
+          -12.70383658371019
+        ],
+        [
+          0.4923591034376799,
+          0.7326362009160315,
+          0.46992202583978576,
+          13.454930124365406
+        ],
+        [
+          0.20187106558991016,
+          -0.6212952551980931,
+          0.7571263294496701,
+          32.000001423415156
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 914.0858823536076,
+      "first_layer_0_16_mm_area_mm2": 995.7852542339343
+    },
+    {
+      "name": "V01",
+      "family": "V",
+      "quantity": 1,
+      "file": "stl/puzzle/V01.stl",
+      "sha256": "84610bde76283df74df80f4ff789ae70cbfe2f4df7d1f8480873614dffcf78eb",
+      "dimensions_mm": [
+        46.74814224243164,
+        30.867080688476562,
+        30.763683319091797
+      ],
+      "volume_mm3": 14310.87590775552,
+      "triangles": 30460,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.12220742564187122,
+          -0.1682040912007971,
+          0.9781476007338056,
+          3.1495530146896247
+        ],
+        [
+          0.5749407342765972,
+          -0.7913380320007295,
+          -0.2079116908177594,
+          -1.2528245672643656
+        ],
+        [
+          0.8090169943749473,
+          0.587785252292473,
+          1.6653345369377346e-16,
+          -18.3095875132116
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 9.5367431640625e-07,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.3693114627556624,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        1.5265566588595902e-16,
+        0.0,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "V02",
+      "family": "V",
+      "quantity": 1,
+      "file": "stl/puzzle/V02.stl",
+      "sha256": "e53354de3bb17f63d4e8a64a7c4efb8e771e09f6b0cf9aef26f8addfde3a5a0e",
+      "dimensions_mm": [
+        37.063438415527344,
+        37.56658172607422,
+        25.746946334838867
+      ],
+      "volume_mm3": 12706.164631355083,
+      "triangles": 30782,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.08180389626013787,
+          0.11259340383655346,
+          -0.9902680687415704,
+          1.8687463713347725
+        ],
+        [
+          0.5820649666224441,
+          0.8011436965987889,
+          0.1391731009600656,
+          -0.06184769045049343
+        ],
+        [
+          0.8090169943749473,
+          -0.5877852522924732,
+          -1.1102230246251565e-16,
+          -18.309587513211603
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 9.5367431640625e-07,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.369311745181144,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        1.6653345369377348e-16,
+        0.0,
+        -1.0
+      ]
+    },
+    {
+      "name": "V03",
+      "family": "V",
+      "quantity": 1,
+      "file": "stl/puzzle/V03.stl",
+      "sha256": "6288a804ccaa1b58e64bebfdfb181207b84e1e981d29e111c98a64ccab017efe",
+      "dimensions_mm": [
+        39.88672637939453,
+        35.72212600708008,
+        36.291717529296875
+      ],
+      "volume_mm3": 17043.232543468104,
+      "triangles": 30592,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.5302534627033752e-16,
+          -5.994481030271183e-18,
+          1.0000000000000002,
+          -2.7021207809448224
+        ],
+        [
+          0.9510565162951539,
+          0.3090169943749474,
+          -1.333411186175262e-16,
+          -0.0034614382935149735
+        ],
+        [
+          -0.30901699437494734,
+          0.9510565162951538,
+          1.1102230246251565e-16,
+          -18.30958794283676
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 2.1457672119140625e-06,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.3695313709846704,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        5.2988522813292355e-17,
+        0.0,
+        -1.0000000000000002
+      ]
+    },
+    {
+      "name": "V04",
+      "family": "V",
+      "quantity": 1,
+      "file": "stl/puzzle/V04.stl",
+      "sha256": "0f17fe3abb706615cb0c0ef598e280f1253007267fb67a94df7371315d2e2bc2",
+      "dimensions_mm": [
+        46.740089416503906,
+        30.87584114074707,
+        30.764822006225586
+      ],
+      "volume_mm3": 14310.324862803274,
+      "triangles": 30892,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.8866044485531994e-16,
+          -0.20791169081775918,
+          0.9781476007338056,
+          3.1612658125921804
+        ],
+        [
+          1.8039795303912702e-16,
+          0.9781476007338056,
+          0.20791169081775918,
+          1.2572053802454413
+        ],
+        [
+          -0.9999999999999999,
+          1.372311128622116e-16,
+          2.2204460492503128e-16,
+          -18.309587478637688
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 9.5367431640625e-07,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.369312471962587,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        2.171923975633051e-16,
+        4.616566924692462e-17,
+        -0.9999999999999999
+      ]
+    },
+    {
+      "name": "V05",
+      "family": "V",
+      "quantity": 1,
+      "file": "stl/puzzle/V05.stl",
+      "sha256": "f650037e0f72e74fed30252d58d07b43a33d7cc040e7933a364adec93871b292",
+      "dimensions_mm": [
+        37.06171417236328,
+        37.588523864746094,
+        25.75877571105957
+      ],
+      "volume_mm3": 12707.438502838699,
+      "triangles": 30628,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.13236148456107347,
+          0.04300685335652035,
+          -0.9902680687415704,
+          1.8640049817937605
+        ],
+        [
+          0.9418008996556875,
+          -0.30600966222800413,
+          -0.1391731009600653,
+          0.061421650397859295
+        ],
+        [
+          -0.3090169943749476,
+          -0.9510565162951535,
+          1.6653345369377348e-16,
+          -18.309588230926096
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 2.1457672119140625e-06,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 2.3694809108831922,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -1.734723475976807e-16,
+        -1.1102230246251565e-16,
+        -0.9999999999999999
+      ]
+    },
+    {
+      "name": "H01",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H01.stl",
+      "sha256": "8b7797ce09f759363e6368a8e15c2e9f81ff3ae69518cddf6d6e3ad6e289e0d1",
+      "dimensions_mm": [
+        24.159160614013672,
+        24.85439682006836,
+        29.873666763305664
+      ],
+      "volume_mm3": 6431.532267265832,
+      "triangles": 25240,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.7066760308408344,
+          -0.03489949670250114,
+          0.7066760308408346,
+          0.848638379409155
+        ],
+        [
+          0.02467767077833611,
+          -0.9993908270190958,
+          -0.024677670778336117,
+          0.4422972053885825
+        ],
+        [
+          0.7071067811865477,
+          0.0,
+          0.7071067811865475,
+          -20.28233195499499
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.6331464854891071,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -1.6653345369377348e-16,
+        3.469446951953614e-18,
+        -1.0
+      ]
+    },
+    {
+      "name": "H02",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H02.stl",
+      "sha256": "6caa50d9d9e03ff8cebca8d85cf3301448eeccb92e050cc00c7b8052eb871b07",
+      "dimensions_mm": [
+        28.184417724609375,
+        19.361358642578125,
+        21.663997650146484
+      ],
+      "volume_mm3": 3665.724719412965,
+      "triangles": 25306,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.049325275616132355,
+          -0.9975640502598242,
+          0.04932527561613237,
+          2.290641032269156
+        ],
+        [
+          -0.7053843046066396,
+          -0.0697564737441253,
+          -0.7053843046066398,
+          -0.05475120189372351
+        ],
+        [
+          0.7071067811865476,
+          0.0,
+          -0.7071067811865474,
+          -20.28233195499499
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.6331402159841006,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        1.3877787807814457e-17,
+        -1.6653345369377348e-16,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "H03",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H03.stl",
+      "sha256": "c7d3ec24eff78ade23ebeb16366163c2daddfd431f9348c41812858b1e7821a2",
+      "dimensions_mm": [
+        27.937192916870117,
+        19.283447265625,
+        20.805049896240234
+      ],
+      "volume_mm3": 3525.3045217784334,
+      "triangles": 25112,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.9639821388390051,
+          -0.2613531197150128,
+          -0.04932527561613246,
+          2.0870675282265134
+        ],
+        [
+          0.15163338878068394,
+          0.6924162752430746,
+          -0.7053843046066397,
+          0.015793698933131317
+        ],
+        [
+          0.2185080122244106,
+          0.6724985119639573,
+          0.7071067811865474,
+          -20.28233181317136
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.6331437554719606,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        6.938893903907228e-17,
+        1.1102230246251565e-16,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "H04",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H04.stl",
+      "sha256": "7463ac8696e82f4627ddf4ba6b6dfe48057d711c1fbe9b32169e794ed3816691",
+      "dimensions_mm": [
+        25.675922393798828,
+        19.46182632446289,
+        20.813854217529297
+      ],
+      "volume_mm3": 3773.435990765886,
+      "triangles": 25280,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.9639821388390051,
+          -0.26135311971501285,
+          0.04932527561613233,
+          -1.5860495492848976
+        ],
+        [
+          -0.15163338878068408,
+          -0.6924162752430747,
+          -0.7053843046066397,
+          -0.10498329948015783
+        ],
+        [
+          0.21850801222441057,
+          0.6724985119639574,
+          -0.7071067811865475,
+          -20.282331632848095
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.633168100877232,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        0.0,
+        0.0,
+        -0.9999999999999999
+      ]
+    },
+    {
+      "name": "H05",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H05.stl",
+      "sha256": "668a06b77c2e053c85b1c0415e9103f34a29bc3b97ae04b58b2db32f221bfdca",
+      "dimensions_mm": [
+        27.93014144897461,
+        19.28826332092285,
+        20.79018211364746
+      ],
+      "volume_mm3": 3524.573345574094,
+      "triangles": 25120,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.6262584231855514,
+          -0.7780536000652779,
+          -0.0493252756161324,
+          2.0856640333426393
+        ],
+        [
+          0.529666063473402,
+          -0.4710486641730315,
+          0.7053843046066398,
+          -0.018202431946892084
+        ],
+        [
+          -0.5720614028176845,
+          0.41562693777745346,
+          0.7071067811865475,
+          -20.282331705537967
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.6331762288104186,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        1.3877787807814457e-16,
+        -2.220446049250313e-16,
+        -1.0
+      ]
+    },
+    {
+      "name": "H06",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H06.stl",
+      "sha256": "bfdec043eef301ff79d4c89b6c303ed70e4a8592d93a2cdf2b00d4e80c86b25f",
+      "dimensions_mm": [
+        19.46282196044922,
+        25.680150985717773,
+        20.813016891479492
+      ],
+      "volume_mm3": 3773.436674220198,
+      "triangles": 25146,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.529666063473402,
+          0.4710486641730318,
+          0.7053843046066394,
+          0.10548157284808557
+        ],
+        [
+          0.6262584231855515,
+          0.7780536000652778,
+          -0.04932527561613249,
+          1.5855348726946659
+        ],
+        [
+          -0.572061402817684,
+          0.4156269377774533,
+          -0.7071067811865476,
+          -20.282331845612326
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.6331386329516955,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -2.7755575615628914e-16,
+        -9.020562075079397e-17,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "H07",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H07.stl",
+      "sha256": "a28b8c6b5fcd3e9677500cbbe98013922b9947a6dc961bc727fb592fdd07799a",
+      "dimensions_mm": [
+        24.15422821044922,
+        24.86026382446289,
+        29.859086990356445
+      ],
+      "volume_mm3": 6431.348839194179,
+      "triangles": 24922,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.5922263279418293,
+          -0.38713946314936776,
+          -0.7066760308408346,
+          -0.8482589803782989
+        ],
+        [
+          0.5674625343569387,
+          -0.8230293340253166,
+          -0.024677670778335874,
+          0.43751814191430416
+        ],
+        [
+          -0.5720614028176845,
+          -0.41562693777745346,
+          0.7071067811865475,
+          -20.28233184561233
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.633144958734022,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        2.220446049250313e-16,
+        -3.469446951953614e-18,
+        -0.9999999999999999
+      ]
+    },
+    {
+      "name": "H08",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H08.stl",
+      "sha256": "48c1c0cad617e1115faa3c76a22155472e7b4900a6f8cc02306af8650cdb0da4",
+      "dimensions_mm": [
+        28.19542694091797,
+        19.36994743347168,
+        21.664382934570312
+      ],
+      "volume_mm3": 3666.785094463476,
+      "triangles": 25176,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.5464484507341928,
+          -0.8360389392101262,
+          0.0493252756161324,
+          2.2913747636958997
+        ],
+        [
+          -0.6116697165108499,
+          -0.35818031871969713,
+          0.7053843046066398,
+          0.0590448396483918
+        ],
+        [
+          -0.5720614028176845,
+          -0.41562693777745346,
+          -0.7071067811865475,
+          -20.282331705537967
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.6331365461547704,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -2.7755575615628914e-17,
+        2.220446049250313e-16,
+        -0.9999999999999999
+      ]
+    },
+    {
+      "name": "H09",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H09.stl",
+      "sha256": "ddb3d20a17c585837d26b5cc8c1e03121ca22f76e285f20d597d1b89732708dc",
+      "dimensions_mm": [
+        19.118083953857422,
+        23.498390197753906,
+        12.364422798156738
+      ],
+      "volume_mm3": 2428.8267249744267,
+      "triangles": 25256,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.21850801222441063,
+          -0.6724985119639573,
+          -0.7071067811865477,
+          -1.9770986625644582e-07
+        ],
+        [
+          0.9510565162951536,
+          0.30901699437494734,
+          1.618089158744795e-16,
+          -0.00103782300912858
+        ],
+        [
+          0.2185080122244104,
+          -0.6724985119639575,
+          0.7071067811865475,
+          -20.2823316328481
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.6331407187591884,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        1.1102230246251565e-16,
+        -3.1149454824401286e-17,
+        -0.9999999999999999
+      ]
+    },
+    {
+      "name": "H10",
+      "family": "H",
+      "quantity": 1,
+      "file": "stl/puzzle/H10.stl",
+      "sha256": "6c34cccf401355ab29b10d71ff024432c90b5e3099b313fb1ae0e619266d2059",
+      "dimensions_mm": [
+        24.612363815307617,
+        23.146909713745117,
+        25.59180450439453
+      ],
+      "volume_mm3": 5695.749725842095,
+      "triangles": 25024,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.8848432792975514,
+          -0.4420845343286797,
+          0.147015766465198,
+          1.2994801253812618
+        ],
+        [
+          -0.4114688562645929,
+          0.5935545601826824,
+          -0.6916548014802253,
+          -0.2105795913559927
+        ],
+        [
+          0.21850801222441024,
+          -0.672498511963957,
+          -0.7071067811865476,
+          -20.28233181317136
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.001,
+        "local_contact_capsules": 1,
+        "local_contact_added_volume_mm3": -1.7890670278575271e-07
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1.6331377806467424,
+      "print_orientation": "inward-radial-down",
+      "inward_vector_print": [
+        -8.326672684688674e-17,
+        3.885780586188048e-16,
+        -0.9999999999999998
+      ]
+    },
+    {
+      "name": "K01",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K01.stl",
+      "sha256": "4e3be19a5c98d46d84da335543c436235cc8f806f96ad3effe58a79388905665",
+      "dimensions_mm": [
+        16.884286880493164,
+        18.521404266357422,
+        13.410796165466309
+      ],
+      "volume_mm3": 1383.9742748657957,
+      "triangles": 21094,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.8452380994932184,
+          -0.3149056661379583,
+          -0.43174874244090267,
+          -5.179498042606387
+        ],
+        [
+          0.16870792516274757,
+          -0.6093639907424925,
+          0.7747342530014175,
+          -7.289231549972242
+        ],
+        [
+          -0.507060342713146,
+          -0.7276743421480465,
+          -0.46193057987865965,
+          32.000001258597784
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 111.96061172053439,
+      "first_layer_0_16_mm_area_mm2": 125.79769717167058
+    },
+    {
+      "name": "K02",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K02.stl",
+      "sha256": "8723352ed4fcd5c96d195b12813d66f220307506c1d1f2fd5f77968c0532f1a5",
+      "dimensions_mm": [
+        28.768739700317383,
+        16.48785400390625,
+        21.78302764892578
+      ],
+      "volume_mm3": 3354.7580872372896,
+      "triangles": 21524,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.09264483446219123,
+          -0.9098564903575576,
+          0.4044478972645314,
+          26.394127712211592
+        ],
+        [
+          0.5378466816131264,
+          0.29610624665225094,
+          0.789330119640233,
+          1.8993648115481827
+        ],
+        [
+          -0.837936681214769,
+          0.29065831769922584,
+          0.4619305798786593,
+          32.00000100377333
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 146.46761524875373,
+      "first_layer_0_16_mm_area_mm2": 171.38197162549542
+    },
+    {
+      "name": "K03",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K03.stl",
+      "sha256": "a8c2a52e9a7225fed1ae6d9da08915b8a38737ffe2e4186f5b6547aed89ef630",
+      "dimensions_mm": [
+        22.21230697631836,
+        17.091320037841797,
+        15.478775024414062
+      ],
+      "volume_mm3": 1757.9288852515845,
+      "triangles": 21230,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.9737214998636645,
+          -0.04410256889413284,
+          0.22343098290119243,
+          17.656577525645766
+        ],
+        [
+          0.10542539343464108,
+          0.7823344357020685,
+          0.6138715803275767,
+          -0.8411271420696589
+        ],
+        [
+          -0.2018710655899101,
+          0.621295255198093,
+          -0.7571263294496698,
+          32.00000144466958
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 132.87889878628496,
+      "first_layer_0_16_mm_area_mm2": 157.24826349468137
+    },
+    {
+      "name": "K04",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K04.stl",
+      "sha256": "908f4b1f27d7fee8daa139f4279f2e35831baa292b2a1508852783e4a0423a94",
+      "dimensions_mm": [
+        17.917102813720703,
+        17.292985916137695,
+        12.833001136779785
+      ],
+      "volume_mm3": 1339.7355269765055,
+      "triangles": 21290,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.01688943078057677,
+          -0.8597918049781218,
+          0.5103653585622472,
+          -4.00607636019715
+        ],
+        [
+          0.545506063580128,
+          0.4198521102063427,
+          0.7253601451366034,
+          7.105365158717058
+        ],
+        [
+          -0.837936681214769,
+          0.29065831769922584,
+          0.4619305798786593,
+          32.00000125383541
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 101.20434387067039,
+      "first_layer_0_16_mm_area_mm2": 121.54349152331808
+    },
+    {
+      "name": "K05",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K05.stl",
+      "sha256": "0c7d3bd9f7907a88713d8d78a8f3e514c828bcae86447541ded5957217078a43",
+      "dimensions_mm": [
+        16.333345413208008,
+        21.177547454833984,
+        21.297788619995117
+      ],
+      "volume_mm3": 2681.7105287698673,
+      "triangles": 21140,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.1981035371191656,
+          0.6199828319207766,
+          -0.7591944920139828,
+          -0.07781871768574788
+        ],
+        [
+          0.8388353816026732,
+          -0.2934473375290731,
+          -0.4585235682804057,
+          21.444712368712015
+        ],
+        [
+          -0.507060342713146,
+          -0.7276743421480465,
+          -0.46193057987865965,
+          32.00000097419651
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 109.92391662605318,
+      "first_layer_0_16_mm_area_mm2": 124.63303949718465
+    },
+    {
+      "name": "K06",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K06.stl",
+      "sha256": "1e2e4d4a02f6c5134e33c66ec416ba8772e85db38c5b77900ec38de5c0194ae0",
+      "dimensions_mm": [
+        17.635305404663086,
+        16.856117248535156,
+        11.835051536560059
+      ],
+      "volume_mm3": 1205.6725373892732,
+      "triangles": 21348,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.4625112166537097,
+          -0.7418889707488986,
+          -0.4854730986889437,
+          5.740496485405016
+        ],
+        [
+          0.8633258060240636,
+          -0.2521764480467517,
+          -0.437121941457329,
+          5.243352340810466
+        ],
+        [
+          0.20187106558991016,
+          -0.6212952551980931,
+          0.7571263294496701,
+          32.000001168923205
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 91.20756313663928,
+      "first_layer_0_16_mm_area_mm2": 110.93843244715339
+    },
+    {
+      "name": "K07",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K07.stl",
+      "sha256": "5257133a0aeea1c93c6e36609fef0c5dc0411b5e800d2b033ae83c832c8524a6",
+      "dimensions_mm": [
+        17.490798950195312,
+        17.81976318359375,
+        13.17349910736084
+      ],
+      "volume_mm3": 1383.5695426353293,
+      "triangles": 21272,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.18635896326132312,
+          -0.643135154019691,
+          0.7427297694829752,
+          -7.781223746563843
+        ],
+        [
+          -0.5129643799397223,
+          -0.7084454220448634,
+          -0.4847397537821011,
+          -4.9149550851425134
+        ],
+        [
+          0.837936681214769,
+          -0.2906583176992259,
+          -0.46193057987865976,
+          32.00000111181909
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 104.43761034677244,
+      "first_layer_0_16_mm_area_mm2": 125.07393304721602
+    },
+    {
+      "name": "K08",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K08.stl",
+      "sha256": "9c0d545942df9d3dd9ba3fcbefdabb05dc9f5661b76b12bc135c68c0052543d8",
+      "dimensions_mm": [
+        29.104623794555664,
+        16.477426528930664,
+        22.19097900390625
+      ],
+      "volume_mm3": 3354.931260491565,
+      "triangles": 21312,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.6097514722557276,
+          -0.6816340957436563,
+          0.40444789726453084,
+          26.220690601274672
+        ],
+        [
+          0.609173990687061,
+          0.0765833617643903,
+          -0.7893301196402333,
+          -1.9068605461954395
+        ],
+        [
+          0.5070603427131459,
+          0.7276743421480466,
+          0.4619305798786594,
+          32.00000095891697
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 154.10182755732728,
+      "first_layer_0_16_mm_area_mm2": 172.01324950221309
+    },
+    {
+      "name": "K09",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K09.stl",
+      "sha256": "1c06f92007e22e6370ac2b5c565e4e5f0d4fbe77a649a3b825aa349134f690d5",
+      "dimensions_mm": [
+        22.249629974365234,
+        18.098575592041016,
+        16.13378143310547
+      ],
+      "volume_mm3": 1757.9421813664146,
+      "triangles": 21412,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          0.832209366169393,
+          0.51640647143266,
+          0.20187106558991014,
+          17.89000217923955
+        ],
+        [
+          0.51640647143266,
+          -0.5893356956190632,
+          -0.6212952551980931,
+          -0.004331432372928212
+        ],
+        [
+          -0.20187106558991014,
+          0.6212952551980931,
+          -0.75712632944967,
+          32.000000881773296
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 132.81676940849883,
+      "first_layer_0_16_mm_area_mm2": 157.0928467843978
+    },
+    {
+      "name": "K10",
+      "family": "K",
+      "quantity": 1,
+      "file": "stl/puzzle/K10.stl",
+      "sha256": "c4d346b0fcf02cc2df7817786dd4df01c375b3d94d033be97936d2368c63171f",
+      "dimensions_mm": [
+        17.819955825805664,
+        17.536043167114258,
+        13.03872299194336
+      ],
+      "volume_mm3": 1340.1131155985706,
+      "triangles": 21222,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.5421004874570703,
+          -0.14741399463451652,
+          0.8272824038287658,
+          6.915178334407195
+        ],
+        [
+          0.6700872110005036,
+          -0.6698948917295177,
+          0.31972482494836735,
+          -5.44872052772154
+        ],
+        [
+          0.5070603427131459,
+          0.7276743421480466,
+          0.4619305798786594,
+          32.00000108241534
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": 107.40266631854998,
+      "first_layer_0_16_mm_area_mm2": 122.15263812521245
+    },
+    {
+      "name": "core",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/puzzle/core.stl",
+      "sha256": "d91267f689f8a2168c0c0a3452e6d83e131c094fd1399d88bd5ceccc7cf7e364",
+      "dimensions_mm": [
+        39.20000076293945,
+        42.16375732421875,
+        40.73127746582031
+      ],
+      "volume_mm3": 34504.37771835316,
+      "triangles": 29478,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          2.220446049250313e-16,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.055197715759277344
+        ],
+        [
+          -1.0,
+          0.0,
+          2.220446049250313e-16,
+          19.60000038146973
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 212.31467280976597,
+      "description": "5.20 mm terminal seat, 5.85 mm loading entrance"
+    },
+    {
+      "name": "core-seat-5.30",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/optional/core-seat-5.30.stl",
+      "sha256": "ef50fd001ab5b865104cc442e3ee28d81f8bb4832636d77fd810a517609527cf",
+      "dimensions_mm": [
+        39.20000076293945,
+        42.16375732421875,
+        40.73127746582031
+      ],
+      "volume_mm3": 34477.46404485595,
+      "triangles": 29478,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          2.220446049250313e-16,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.055197715759277344
+        ],
+        [
+          -1.0,
+          0.0,
+          2.220446049250313e-16,
+          19.60000038146973
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 212.31467280976597,
+      "description": "5.30 mm terminal seat; choose only one core"
+    },
+    {
+      "name": "core-seat-5.40",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/optional/core-seat-5.40.stl",
+      "sha256": "bf2c533ca1d0abb18e33e7a65db931869aeb27b053a5d12eca95be6c45049bb5",
+      "dimensions_mm": [
+        39.20000076293945,
+        42.16375732421875,
+        40.73127746582031
+      ],
+      "volume_mm3": 34450.29259211585,
+      "triangles": 29500,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          2.220446049250313e-16,
+          0.0,
+          1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.055197715759277344
+        ],
+        [
+          -1.0,
+          0.0,
+          2.220446049250313e-16,
+          19.60000038146973
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 212.31467280976597,
+      "description": "5.40 mm terminal seat; choose only one core"
+    },
+    {
+      "name": "nut-fit-5.20",
+      "family": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.20.stl",
+      "sha256": "8a6badeace032d6f0bffdc69f58e7b78023e517cb67a30c095c3aebaf88d06ac",
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3932.151287034478,
+      "triangles": 824,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -9.600000381469727
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 422.9272777965047
+    },
+    {
+      "name": "nut-fit-5.30",
+      "family": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.30.stl",
+      "sha256": "2378894d758b31d1b287cb07fd2d4e75e8eec42cca527574379f27cbed663bd3",
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3928.3064565701025,
+      "triangles": 824,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -9.600000381469727
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 422.9272777965047
+    },
+    {
+      "name": "nut-fit-5.40",
+      "family": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.40.stl",
+      "sha256": "800c7185b1b749a4be4c9c6c11674d112c7fada56b816e817869e345eb706154",
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3924.424832363877,
+      "triangles": 824,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -9.600000381469727
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 422.9272777965047
+    },
+    {
+      "name": "rotor-fit",
+      "family": "coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/rotor-fit.stl",
+      "sha256": "8d1573842422d207d70486070b8e04189667027d9d91c32601fd7106e9fb4d5b",
+      "dimensions_mm": [
+        11.994402885437012,
+        11.994402885437012,
+        15.599998474121094
+      ],
+      "volume_mm3": 643.1686950545296,
+      "triangles": 1664,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -0.034899496702500865,
+          -0.9993908270190957,
+          0.0,
+          -0.0
+        ],
+        [
+          0.9993908270190957,
+          -0.034899496702500865,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.9999999999999998,
+          -19.70000076293945
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 19.997660922152754
+    },
+    {
+      "name": "assembly-stand",
+      "family": "stand",
+      "quantity": 1,
+      "file": "stl/optional/assembly-stand.stl",
+      "sha256": "f170663ab8c7b21a694adb102bf21e899797101ba174f92ae7040ccfd41b3779",
+      "dimensions_mm": [
+        43.97947692871094,
+        43.97947692871094,
+        70.30000305175781
+      ],
+      "volume_mm3": 7330.2790657027535,
+      "triangles": 1920,
+      "watertight": true,
+      "components": 1,
+      "mechanism_to_print": [
+        [
+          -7.749244957389237e-18,
+          -0.9993908270190957,
+          -0.034899496702500865,
+          1.7763568394002505e-15
+        ],
+        [
+          2.219093413511554e-16,
+          -0.034899496702500865,
+          0.9993908270190957,
+          -1.9539925233402755e-14
+        ],
+        [
+          -0.9999999999999998,
+          0.0,
+          2.2204460492503126e-16,
+          89.99999999999999
+        ]
+      ],
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 1447.114849260161
+    }
+  ],
+  "orientation_options": [
+    {
+      "name": "V01",
+      "file": "print-options/V01-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.8388353816026731,
+          -0.293447337529073,
+          -0.4585235682804058,
+          -15.179187399050699
+        ],
+        [
+          0.19810353711916576,
+          -0.6199828319207767,
+          0.7591944920139828,
+          9.066555050862535
+        ],
+        [
+          -0.507060342713146,
+          -0.7276743421480465,
+          -0.46193057987865965,
+          32.00000157032392
+        ]
+      ],
+      "bed_face_area_mm2": 1000.7188364245148,
+      "first_layer_0_16_mm_area_mm2": 1050.5962324105997
+    },
+    {
+      "name": "V02",
+      "file": "print-options/V02-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.20644804230631023,
+          -0.6146896600624775,
+          0.7612725055065155,
+          -15.549117981930864
+        ],
+        [
+          0.5052141368792746,
+          0.7332628206615494,
+          0.4550651730607363,
+          -1.863834216329499
+        ],
+        [
+          -0.837936681214769,
+          0.29065831769922584,
+          0.4619305798786593,
+          32.000001401404425
+        ]
+      ],
+      "bed_face_area_mm2": 888.5500702456033,
+      "first_layer_0_16_mm_area_mm2": 946.0168666697219
+    },
+    {
+      "name": "V03",
+      "file": "print-options/V03-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.4923591034376799,
+          -0.7326362009160314,
+          -0.46992202583978565,
+          16.033963910080704
+        ],
+        [
+          0.8466584825888405,
+          -0.27791438065645424,
+          -0.4537984253880805,
+          15.432983869813443
+        ],
+        [
+          0.20187106558991016,
+          -0.6212952551980931,
+          0.7571263294496701,
+          32.000002148747946
+        ]
+      ],
+      "bed_face_area_mm2": 713.2310219082484,
+      "first_layer_0_16_mm_area_mm2": 762.0337888953026
+    },
+    {
+      "name": "V04",
+      "file": "print-options/V04-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.5061480618754768,
+          -0.730458949422281,
+          -0.4585235682804066,
+          -15.179712595781297
+        ],
+        [
+          -0.20414763710236178,
+          0.6180189847902361,
+          -0.7591944920139825,
+          -9.069106907584477
+        ],
+        [
+          0.837936681214769,
+          -0.2906583176992259,
+          -0.46193057987865976,
+          32.00000198872549
+        ]
+      ],
+      "bed_face_area_mm2": 989.8018520962197,
+      "first_layer_0_16_mm_area_mm2": 1048.9873854417554
+    },
+    {
+      "name": "V05",
+      "file": "print-options/V05-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.8397278945730432,
+          -0.2962646643511944,
+          -0.45506517306073657,
+          1.8639066407922353
+        ],
+        [
+          -0.19428554224015485,
+          0.6186414958894058,
+          -0.7612725055065153,
+          15.54423619656689
+        ],
+        [
+          0.5070603427131459,
+          0.7276743421480466,
+          0.4619305798786594,
+          32.00000173109551
+        ]
+      ],
+      "bed_face_area_mm2": 905.6783856015586,
+      "first_layer_0_16_mm_area_mm2": 948.2712993968042
+    },
+    {
+      "name": "H01",
+      "file": "print-options/H01-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.36817818203676467,
+          0.6674458516510974,
+          -0.647271860492826,
+          23.6054760074781
+        ],
+        [
+          0.7793167745658565,
+          -0.15813313028315448,
+          -0.6063491386875394,
+          -6.496846639276333
+        ],
+        [
+          -0.5070603427131459,
+          -0.7276743421480464,
+          -0.4619305798786596,
+          32.000001119085915
+        ]
+      ],
+      "bed_face_area_mm2": 313.225821316497,
+      "first_layer_0_16_mm_area_mm2": 337.9857518260622
+    },
+    {
+      "name": "H02",
+      "file": "print-options/H02-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.5197187257800578,
+          0.1665970118229364,
+          0.837936681214769,
+          7.07028639754139
+        ],
+        [
+          0.1665970118229364,
+          0.9422118540986014,
+          -0.29065831769922584,
+          -14.276404426967034
+        ],
+        [
+          -0.837936681214769,
+          0.29065831769922584,
+          0.4619305798786593,
+          32.0000013830891
+        ]
+      ],
+      "bed_face_area_mm2": 368.93351011930645,
+      "first_layer_0_16_mm_area_mm2": 406.44288291356935
+    },
+    {
+      "name": "H03",
+      "file": "print-options/H03-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.0407850244881555,
+          0.5150807002767553,
+          -0.8561708088809779,
+          7.93424398720432
+        ],
+        [
+          0.860945056681974,
+          -0.452970113784359,
+          -0.23149878054334813,
+          12.160129980773151
+        ],
+        [
+          -0.5070603427131459,
+          -0.7276743421480464,
+          -0.4619305798786596,
+          32.00000111735467
+        ]
+      ],
+      "bed_face_area_mm2": 366.1628045584339,
+      "first_layer_0_16_mm_area_mm2": 396.20038099791566
+    },
+    {
+      "name": "H04",
+      "file": "print-options/H04-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.9768076282055546,
+          0.07137878085981224,
+          -0.20187106558991016,
+          -14.962868583530256
+        ],
+        [
+          0.07137878085981224,
+          0.7803187012441154,
+          0.6212952551980931,
+          -2.91830340837886
+        ],
+        [
+          0.20187106558991016,
+          -0.6212952551980931,
+          0.7571263294496701,
+          32.00000177616451
+        ]
+      ],
+      "bed_face_area_mm2": 377.50527911201476,
+      "first_layer_0_16_mm_area_mm2": 415.27159241395026
+    },
+    {
+      "name": "H05",
+      "file": "print-options/H05-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.4302700294671306,
+          -0.8725113273472714,
+          -0.231498780543349,
+          12.157042051263737
+        ],
+        [
+          -0.33575261729007205,
+          0.3927362040899196,
+          -0.8561708088809779,
+          7.934527147216187
+        ],
+        [
+          0.8379366812147689,
+          -0.29065831769922584,
+          -0.4619305798786597,
+          32.000001740375325
+        ]
+      ],
+      "bed_face_area_mm2": 357.96284557973297,
+      "first_layer_0_16_mm_area_mm2": 395.1401428338109
+    },
+    {
+      "name": "H06",
+      "file": "print-options/H06-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.8322093661693927,
+          -0.5164064714326606,
+          -0.2018710655899107,
+          -14.965100220642476
+        ],
+        [
+          0.5164064714326609,
+          -0.5893356956190628,
+          -0.6212952551980929,
+          2.918142449763333
+        ],
+        [
+          0.20187106558991014,
+          -0.621295255198093,
+          0.75712632944967,
+          32.00000164791666
+        ]
+      ],
+      "bed_face_area_mm2": 377.4897081283639,
+      "first_layer_0_16_mm_area_mm2": 415.32875912230077
+    },
+    {
+      "name": "H07",
+      "file": "print-options/H07-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.09445242207848846,
+          -0.7563847424278624,
+          0.6472718604928256,
+          -23.60887120436449
+        ],
+        [
+          -0.5375321927459658,
+          -0.5860032967267272,
+          -0.60634913868754,
+          -6.502452892214638
+        ],
+        [
+          0.837936681214769,
+          -0.2906583176992259,
+          -0.46193057987865976,
+          32.000001735681025
+        ]
+      ],
+      "bed_face_area_mm2": 302.3528790024837,
+      "first_layer_0_16_mm_area_mm2": 337.3005007033225
+    },
+    {
+      "name": "H08",
+      "file": "print-options/H08-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.6700872110005036,
+          -0.6698948917295178,
+          0.3197248249483674,
+          14.7833206561305
+        ],
+        [
+          0.5421004874570704,
+          0.1474139946345165,
+          -0.8272824038287659,
+          -6.662729045103125
+        ],
+        [
+          0.5070603427131459,
+          0.7276743421480466,
+          0.4619305798786594,
+          32.0000012061262
+        ]
+      ],
+      "bed_face_area_mm2": 376.3935205631285,
+      "first_layer_0_16_mm_area_mm2": 408.208943867917
+    },
+    {
+      "name": "H09",
+      "file": "print-options/H09-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.23396490268867257,
+          0.7200699292817401,
+          0.6532684909392689,
+          2.0304209293273616
+        ],
+        [
+          0.9510565162951536,
+          0.3090169943749466,
+          -2.7735057730199893e-16,
+          -0.0010378230091276919
+        ],
+        [
+          -0.20187106558991014,
+          0.6212952551980931,
+          -0.75712632944967,
+          32.00000138146927
+        ]
+      ],
+      "bed_face_area_mm2": 271.4899681263633,
+      "first_layer_0_16_mm_area_mm2": 303.3173864563728
+    },
+    {
+      "name": "H10",
+      "file": "print-options/H10-face-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.19428554224015482,
+          -0.6186414958894058,
+          0.7612725055065153,
+          3.7465490070891247
+        ],
+        [
+          0.8397278945730431,
+          -0.2962646643511944,
+          -0.45506517306073657,
+          -20.686478074569987
+        ],
+        [
+          0.5070603427131458,
+          0.7276743421480465,
+          0.4619305798786593,
+          32.00000126874958
+        ]
+      ],
+      "bed_face_area_mm2": 281.7630264129907,
+      "first_layer_0_16_mm_area_mm2": 303.9457138819809
+    },
+    {
+      "name": "K01",
+      "file": "print-options/K01-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.7214078143292025,
+          -0.3944440642717159,
+          -0.5691964911922535,
+          0.4200896015625979
+        ],
+        [
+          -0.07722672901776656,
+          0.7709824123550487,
+          -0.632156746514981,
+          0.4197974948784653
+        ],
+        [
+          0.6881909602355868,
+          0.4999999999999999,
+          0.5257311121191334,
+          -20.61667894381953
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6769428696257209
+    },
+    {
+      "name": "K02",
+      "file": "print-options/K02-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.2494571110631471,
+          -0.8435055954787124,
+          -0.475677895362115,
+          -0.10293184215571216
+        ],
+        [
+          -0.681296082470793,
+          0.19620986314684247,
+          -0.7052214812481591,
+          -2.3642624506702017
+        ],
+        [
+          0.6881909602355867,
+          0.49999999999999994,
+          -0.5257311121191334,
+          -20.616679280592837
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6771855609356245
+    },
+    {
+      "name": "K03",
+      "file": "print-options/K03-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.7142634368562542,
+          -0.33970220395121187,
+          0.6119069826378685,
+          -0.20294899377587505
+        ],
+        [
+          -0.12736147384634297,
+          -0.7966193649608884,
+          -0.5909117043594568,
+          0.5640240258067952
+        ],
+        [
+          0.6881909602355866,
+          -0.5,
+          0.5257311121191334,
+          -20.616679682929217
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6769497072074905
+    },
+    {
+      "name": "K04",
+      "file": "print-options/K04-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.07722672901776696,
+          -0.7709824123550487,
+          0.6321567465149807,
+          0.4197976313328189
+        ],
+        [
+          -0.7214078143292025,
+          -0.39444406427171547,
+          -0.5691964911922536,
+          -0.4200895196735761
+        ],
+        [
+          0.6881909602355866,
+          -0.5,
+          -0.5257311121191334,
+          -20.616678793333303
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6771792486527547
+    },
+    {
+      "name": "K05",
+      "file": "print-options/K05-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.7204510647999587,
+          -0.5270209058762575,
+          0.4507762504812941,
+          0.01155688816525835
+        ],
+        [
+          0.6417569342563432,
+          -0.2602699897834843,
+          0.7213927985168721,
+          -2.7714097710948327
+        ],
+        [
+          -0.26286555605956674,
+          0.8090169943749475,
+          0.5257311121191335,
+          -20.616679193916326
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6771826420079872
+    },
+    {
+      "name": "K06",
+      "file": "print-options/K06-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.8154795855004305,
+          0.10492092282511,
+          0.5691964911922536,
+          0.4200894009762832
+        ],
+        [
+          0.5156498279545342,
+          0.5783451415599974,
+          0.6321567465149809,
+          0.4197975542950019
+        ],
+        [
+          -0.2628655560595668,
+          0.8090169943749475,
+          -0.5257311121191335,
+          -20.616679688007867
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6769500217215132
+    },
+    {
+      "name": "K07",
+      "file": "print-options/K07-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.35178277783399253,
+          -0.7431448254773942,
+          0.5691964911922534,
+          -0.4200890625391338
+        ],
+        [
+          0.3906943555638099,
+          0.6691306063588581,
+          0.6321567465149809,
+          -0.4197975574544932
+        ],
+        [
+          -0.8506508083520398,
+          1.1673575708729033e-16,
+          0.5257311121191334,
+          -20.61667919609082
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6769455932112554
+    },
+    {
+      "name": "K08",
+      "file": "print-options/K08-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          0.29398510703080266,
+          -0.8290375725550418,
+          -0.47567789536211474,
+          0.41405787109077963
+        ],
+        [
+          -0.435850845007909,
+          -0.5591929034707463,
+          0.7052214812481593,
+          2.7374706983375194
+        ],
+        [
+          -0.85065080835204,
+          1.1673575708729038e-16,
+          -0.5257311121191335,
+          -20.61668003554112
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6769523392830485
+    },
+    {
+      "name": "K09",
+      "file": "print-options/K09-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.8154795855004304,
+          -0.10492092282510998,
+          -0.5691964911922537,
+          0.42008959756200603
+        ],
+        [
+          0.5156498279545341,
+          -0.5783451415599976,
+          -0.6321567465149808,
+          0.4197978311360995
+        ],
+        [
+          -0.26286555605956696,
+          -0.8090169943749473,
+          0.5257311121191335,
+          -20.61667917637188
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6769470602091981
+    },
+    {
+      "name": "K10",
+      "file": "print-options/K10-radial-down.3mf",
+      "mechanism_to_print": [
+        [
+          -0.5980658721421699,
+          0.5642096835337481,
+          -0.5691964911922538,
+          -0.4200891125880162
+        ],
+        [
+          0.7571122189057051,
+          0.164799683917396,
+          -0.632156746514981,
+          -0.4197979944307493
+        ],
+        [
+          -0.26286555605956696,
+          -0.8090169943749477,
+          -0.525731112119133,
+          -20.61667962181246
+        ]
+      ],
+      "bed_face_area_mm2": null,
+      "first_layer_0_16_mm_area_mm2": 0.6771867437698609
+    }
+  ],
+  "plates": [
+    {
+      "name": "C-01",
+      "file": "plates/C-01.3mf",
+      "objects": [
+        "C04",
+        "C07",
+        "C02",
+        "C06",
+        "C03",
+        "C01",
+        "C05"
+      ]
+    },
+    {
+      "name": "V-01",
+      "file": "plates/V-01.3mf",
+      "objects": [
+        "V05",
+        "V02",
+        "V03",
+        "V04",
+        "V01"
+      ]
+    },
+    {
+      "name": "H-01",
+      "file": "plates/H-01.3mf",
+      "objects": [
+        "H06",
+        "H07",
+        "H01",
+        "H09",
+        "H10",
+        "H04",
+        "H08",
+        "H02",
+        "H05",
+        "H03"
+      ]
+    },
+    {
+      "name": "K-01",
+      "file": "plates/K-01.3mf",
+      "objects": [
+        "K05",
+        "K01",
+        "K09",
+        "K07",
+        "K10",
+        "K04",
+        "K03",
+        "K06",
+        "K02",
+        "K08"
+      ]
+    },
+    {
+      "name": "V-face-down-01",
+      "file": "plates/V-face-down-01.3mf",
+      "objects": [
+        "V01",
+        "V04",
+        "V02",
+        "V05",
+        "V03"
+      ]
+    },
+    {
+      "name": "H-face-down-01",
+      "file": "plates/H-face-down-01.3mf",
+      "objects": [
+        "H02",
+        "H03",
+        "H07",
+        "H01",
+        "H09",
+        "H10",
+        "H08",
+        "H05",
+        "H06",
+        "H04"
+      ]
+    },
+    {
+      "name": "K-radial-down-01",
+      "file": "plates/K-radial-down-01.3mf",
+      "objects": [
+        "K05",
+        "K02",
+        "K08",
+        "K06",
+        "K09",
+        "K07",
+        "K10",
+        "K01",
+        "K04",
+        "K03"
+      ]
+    },
+    {
+      "name": "core-01",
+      "file": "plates/core-01.3mf",
+      "objects": [
+        "core"
+      ]
+    },
+    {
+      "name": "alternate-cores-01",
+      "file": "plates/alternate-cores-01.3mf",
+      "objects": [
+        "core-seat-5.30",
+        "core-seat-5.40"
+      ]
+    },
+    {
+      "name": "fit-coupons-01",
+      "file": "plates/fit-coupons-01.3mf",
+      "objects": [
+        "nut-fit-5.20",
+        "nut-fit-5.30",
+        "nut-fit-5.40",
+        "rotor-fit"
+      ]
+    },
+    {
+      "name": "stand-01",
+      "file": "plates/stand-01.3mf",
+      "objects": [
+        "assembly-stand"
+      ]
+    }
+  ]
+}

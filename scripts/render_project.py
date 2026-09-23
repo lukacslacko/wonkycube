@@ -1,4 +1,4 @@
-"""Render the three published puzzles from their unmodified, assembled STL meshes."""
+"""Render the four published puzzles from their unmodified, assembled STL meshes."""
 from pathlib import Path
 import hashlib
 import json
@@ -19,6 +19,8 @@ DESIGNS = [
      {'C': '#a68bcc', 'F': '#e9ba58', 'K': '#65b7b2'}),
     ('conical-3x3-v1.1', 'Conical 3×3', '70° curved cuts · 26 moving pieces',
      {'C': '#86bea6', 'E': '#7bb2d7', 'K': '#e9c96d'}),
+    ('pentagonal-prism-v1', 'Pentagonal prism', '60° curved cuts · 32 moving pieces',
+     {'C': '#7bb2d7', 'K': '#7bb2d7', 'V': '#e9c96d', 'H': '#e9c96d'}),
 ]
 
 
@@ -30,10 +32,13 @@ def font(size, bold=False):
 def main():
     # Match camera and scale so the common 64 mm exterior can be compared directly.
     tile = 900
-    page = Image.new('RGB', (3 * tile, 1110), '#fafaf8')
+    row_height = 1050
+    page = Image.new('RGB', (2 * tile, 2190), '#fafaf8')
     draw = ImageDraw.Draw(page)
     provenance = []
-    for column, (folder, title, subtitle, colors) in enumerate(DESIGNS):
+    for index, (folder, title, subtitle, colors) in enumerate(DESIGNS):
+        row, column = divmod(index, 2)
+        y = row * row_height
         root = ROOT / 'designs' / folder
         manifest = json.loads((root / 'manifest.json').read_text())
         rotation = np.array(json.loads((root / 'source/chosen_rotation.json').read_text())['cube_to_mechanism_matrix'])
@@ -54,14 +59,14 @@ def main():
             provenance.append({'file': path.relative_to(ROOT).as_posix(), 'sha256': digest})
         image = renderer.render(objects, size=tile * 2, extent=53, elev=27, az=-55)
         image = image.resize((tile, tile), Image.Resampling.LANCZOS)
-        page.paste(image, (column * tile, 0))
+        page.paste(image, (column * tile, y))
         center = column * tile + tile / 2
-        draw.text((center, 910), title, font=font(44, True), anchor='mt', fill='#273847')
-        draw.text((center, 979), subtitle, font=font(26), anchor='mt', fill='#53616a')
+        draw.text((center, y + 910), title, font=font(44, True), anchor='mt', fill='#273847')
+        draw.text((center, y + 979), subtitle, font=font(26), anchor='mt', fill='#53616a')
         print('Rendered', title, flush=True)
-    draw.text((1350, 1070), 'Three 64 mm cubes · the same rotated exterior · actual printable geometry',
+    draw.text((900, 2140), 'Four 64 mm cubes · distinct turning axes · actual printable geometry',
               font=font(25), anchor='mt', fill='#53616a')
-    destination = ROOT / 'docs/images/three-cubes.png'
+    destination = ROOT / 'docs/images/four-cubes.png'
     page.save(destination, optimize=True)
     destination.with_suffix('.json').write_text(json.dumps({
         'camera': {'elevation_deg': 27, 'azimuth_deg': -55, 'half_extent_mm': 53},

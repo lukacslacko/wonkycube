@@ -1,0 +1,42 @@
+[
+  {
+    "family": "Cs",
+    "tolerance_mm": 0.001,
+    "before_triangles": 16772,
+    "after_triangles": 16084,
+    "before_volume_mm3": 94737.63243487054,
+    "after_volume_mm3": 94737.65944653822
+  },
+  {
+    "family": "Cp",
+    "tolerance_mm": 0.001,
+    "before_triangles": 25298,
+    "after_triangles": 24226,
+    "before_volume_mm3": 215491.2790463227,
+    "after_volume_mm3": 215491.28737104658
+  },
+  {
+    "family": "V",
+    "tolerance_mm": 0.001,
+    "before_triangles": 29070,
+    "after_triangles": 27870,
+    "before_volume_mm3": 270687.3247682232,
+    "after_volume_mm3": 270687.34949832637
+  },
+  {
+    "family": "H",
+    "tolerance_mm": 0.001,
+    "before_triangles": 24276,
+    "after_triangles": 23384,
+    "before_volume_mm3": 114423.20629685855,
+    "after_volume_mm3": 114423.19319158123
+  },
+  {
+    "family": "K",
+    "tolerance_mm": 0.001,
+    "before_triangles": 22084,
+    "after_triangles": 21220,
+    "before_volume_mm3": 66021.73289205675,
+    "after_volume_mm3": 66021.7316657044
+  }
+]

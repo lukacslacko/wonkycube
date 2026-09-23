@@ -1,6 +1,6 @@
 # Designing printed mechanisms that retain well and move freely
 
-These lessons came from printing and revising the Wonky Redi, Wonky Skewb and Wonky conical 3×3. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [Redi](design.md), [Skewb](../designs/skewb-v1.1/DESIGN.md) and [conical 3×3](../designs/conical-3x3-v1.1/DESIGN.md) references record particular dimensions; the principles below explain how to choose and evaluate such dimensions elsewhere.
+These lessons came from printing and revising the Wonky Redi, Wonky Skewb, Wonky conical 3×3 and Wonky pentagonal prism. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [Redi](design.md), [Skewb](../designs/skewb-v1.1/DESIGN.md), [conical 3×3](../designs/conical-3x3-v1.1/DESIGN.md) and [pentagonal prism](../designs/pentagonal-prism-v1/README.md#mechanism) references record particular dimensions; the principles below explain how to choose and evaluate such dimensions elsewhere.
 
 The successful behavior comes from a combination of features. The print trials changed several features between revisions, so they do not isolate a measured contribution from each radius or clearance.
 
@@ -85,7 +85,7 @@ Two different rounding operations proved useful:
 
 The radius must continue through the part of the ridge that enters the track. Protecting an entire inner zone preserved its smaller radius, leaving a catch-prone transition even though the visible outer ridge looked rounded.
 
-The final intent is a **3 mm circular radius in sections transverse to each radial ridge**. That is a precise construction, not a claim that every principal curvature of a three-dimensional fillet is 3 mm. The circle center follows the stepped track profile; it does not simply extend the outer cone inward. Different opening angles can make equal radii look different.
+The Redi and Skewb use a **3 mm circular radius in sections transverse to each radial ridge**; the 64 mm pentagonal prism uses **2 mm** along the same complete contact path, including the tracks. That is a precise construction, not a claim that every principal curvature of a three-dimensional fillet is 3 mm. The circle center follows the stepped track profile; it does not simply extend the outer cone inward. Different opening angles can make equal radii look different.
 
 Some track sections contain a thin foreground rib, then a void, then the main body. Fitting to the first boundary can put the rounding cutter into the void and leave a smaller-radius strip behind. Determine the actual solid interval that must survive, then verify the exported mesh in sections. A parameter labelled “3 mm” is not evidence that the print file has that radius everywhere.
 
@@ -117,7 +117,7 @@ An asymmetric shell can expose thin spots that a symmetric prototype hides. Insp
 
 Closed-loop retention is only useful if there is an assembly sequence. Model the swept volume of each insertion, the driver and washer access, and the withdrawal of any assembly jig.
 
-The Redi is assembled by placing the edges around the core before installing the corner retainers. The Skewb adds another level of capture: floating K corners are held by F face pieces, which are held by screwed C corners. Its assembly order is therefore **K → F → C**. Both designs use whole pieces with checked insertion paths; one C corridor stays empty until the optional stand is withdrawn. Nothing needs to pass through an already installed flange.
+The Redi is assembled by placing the edges around the core before installing the corner retainers. The Skewb adds another level of capture: floating K corners are held by F face pieces, which are held by screwed C corners. Its assembly order is therefore **K → F → C**. The pentagonal prism uses the same capture hierarchy with two petal families: **K corners → V/H petals → screwed C centers**. Its successful assembly confirms that this arrangement can be built with a one-piece core and integral feet. These designs use whole pieces with checked insertion paths; one C corridor stays empty until the optional stand is withdrawn. Nothing needs to pass through an already installed flange.
 
 A fastener can be visible yet unreachable by the actual tool: include the tubular bit holder, not just the Phillips tip. Likewise, a jig that supports the first step can be trapped by the last step. Explicitly reserve and verify its exit route.
 
@@ -148,6 +148,18 @@ The compact build exposed this distinction: roughly half the nuts spun in their 
 Separate the **loading passage** from the **final torque seat**. Keep the entrance generous, then use a short lead-in to a tighter terminal region around the screw bore. Give the nut flats enough engagement and surrounding material to react torque. A blunt rod can press the nut through the last region without making the entire insertion path an interference fit. Keep the final nut depth and screw alignment fixed when revising an otherwise compatible core.
 
 The Skewb implements this separation with a 5.85 mm loading mouth, a tapered approach to a nominal 5.40 mm terminal seat across flats, and access for a blunt Ø3 mm pressing rod. Fit coupons and 5.30/5.50 mm alternatives accommodate print and nut variation. Its successful whole-puzzle report supports buildability, but does not identify the chosen seat variant or independently establish installation-torque capacity or long-term resistance to spinning. The released **Redi v4.3 core remains unchanged**; its tighter seat is still a proposed follow-up.
+
+The **pentagonal prism provides a successful fit reference**: the owner reported on 2026-09-23 that it assembled very well and its nut-slot sizing was well tuned. Its default core was printed in PLA on the P1S with a 0.4 mm nozzle and 0.16 mm layers, using six walls and 40% gyroid infill. The supplied dimensions are:
+
+| Feature | Nominal CAD dimension |
+|---|---:|
+| Final hex seat and tight channel width | **5.20 mm across flats** |
+| Loading entrance width | **5.85 mm** |
+| Tight channel from the screw-axis center | **3.0 mm** |
+| Taper from tight channel to wide entrance | **3.0 mm** |
+| Slot height for a nominal 4 mm-high nut | **4.25 mm** |
+
+For a nominal 5.5 mm nut, 5.20 mm is 0.30 mm of total CAD interference across the flats, not 0.30 mm on each side. Preserve the easy entrance while tuning only the torque seat; surrounding wall thickness and print orientation also affect the result. Use this as the starting point for similar PLA cores, with the supplied 5.20/5.30/5.40 mm coupons for different printers or hardware. The report supports practical fit at assembly, not a universal shrink allowance or measured long-term torque capacity. The other published cores are unchanged. [Feedback, exact part hashes and print settings](../designs/pentagonal-prism-v1/physical-feedback.json).
 
 Validate with the actual locking nut: push it fully home, drive the screw through the nylon ring, and reverse it. Watch for nut rotation, damaged flats, splitting and progressive loosening over repeated cycles. Check all differently oriented pockets in the real printed core; a single conveniently oriented coupon cannot represent them all. Choose the final interference from those results rather than treating nominal nut dimensions or insertion feel as a torque test.
 
@@ -192,6 +204,12 @@ This illustrates a useful redesign sequence: identify the force path from the re
 The compatible release changes only the six screwed puzzle pieces; the other 21 puzzle STLs keep their exact bytes. Its root check samples 720 positions around each washer-well rim and verifies that the shortest measured segment lies in solid material. This is a targeted geometric measurement, not a universal minimum-wall analysis or a strength calculation. Print orientation, continuous wall paths and local solid layers still affect how the load is carried; sparse infill alone is not a substitute for the connection.
 
 The owner subsequently reported that the reinforced version **printed very well**. That confirms a successful print of the supplied design, while strength, fatigue and a separate turning assessment remain unmeasured in that report. [Feedback and associated supplied-file hashes](../designs/conical-3x3-v1.1/physical-feedback.json). Never turn a thickness ratio into a claimed strength multiplier without mechanical evidence.
+
+## 14. Transfer functions and checks, then retune dimensions
+
+The pentagonal prism retains the roles of flat bearing feet, positive shoulders, enlarged unrounded track cutters and continuous radial rounding, but changes the number and spacing of axes and the move angles. Its seven axes require 180° equatorial and 72° polar moves. Copying the previous puzzle's shoulder coordinates would not by itself establish compatibility: check each new symmetry orbit, the hardware stack and the complete capture/assembly chain.
+
+It keeps the separate 0.03 mm body gap and 0.40 mm track allowance, uses R2 radial fillets, and preserves flat washer lands while rounding the exterior. The observed assembly success supports the combination. It does not isolate the contribution of each parameter or establish turning quality in every state. Keep physical feedback tied to exact print files and record the slicer settings when they are available.
 
 ## A practical diagnosis table
 

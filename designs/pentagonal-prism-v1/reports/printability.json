@@ -1,0 +1,1096 @@
+{
+  "manifest_sha256": "e856ee1e76f3a0543497eb7243305d4957d74447ada401a195f3d55697727c3a",
+  "passed": true,
+  "checks": [
+    {
+      "name": "C01",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 7311.4858304098625,
+              "z_mm": [
+                0.08,
+                21.679999999999996
+              ],
+              "layers": 136
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 7311.71656682568,
+              "z_mm": [
+                0.1,
+                21.700000000000003
+              ],
+              "layers": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C02",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 5736.848217096256,
+              "z_mm": [
+                0.08,
+                21.359999999999996
+              ],
+              "layers": 134
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 5737.1063421849385,
+              "z_mm": [
+                0.1,
+                21.300000000000004
+              ],
+              "layers": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C03",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 5735.842848657541,
+              "z_mm": [
+                0.08,
+                21.359999999999996
+              ],
+              "layers": 134
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 5736.157865903488,
+              "z_mm": [
+                0.1,
+                21.300000000000004
+              ],
+              "layers": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C04",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 7312.701048449077,
+              "z_mm": [
+                0.08,
+                21.679999999999996
+              ],
+              "layers": 136
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 7313.062308128734,
+              "z_mm": [
+                0.1,
+                21.700000000000003
+              ],
+              "layers": 109
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C05",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 8533.246831762812,
+              "z_mm": [
+                0.08,
+                27.439999999999994
+              ],
+              "layers": 172
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 8533.25367432506,
+              "z_mm": [
+                0.1,
+                27.500000000000007
+              ],
+              "layers": 138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C06",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 18036.79850256357,
+              "z_mm": [
+                0.08,
+                26.479999999999997
+              ],
+              "layers": 166
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 18036.928884517063,
+              "z_mm": [
+                0.1,
+                26.500000000000004
+              ],
+              "layers": 133
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "C07",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 18131.712403557303,
+              "z_mm": [
+                0.08,
+                25.039999999999996
+              ],
+              "layers": 157
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 18132.079256575664,
+              "z_mm": [
+                0.1,
+                24.900000000000006
+              ],
+              "layers": 125
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "V01",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 14307.654491017272,
+              "z_mm": [
+                0.24,
+                30.639999999999997
+              ],
+              "layers": 191
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 14308.694340414548,
+              "z_mm": [
+                0.30000000000000004,
+                30.700000000000006
+              ],
+              "layers": 153
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "V02",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 12702.767469927465,
+              "z_mm": [
+                0.24,
+                25.679999999999996
+              ],
+              "layers": 160
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 12703.580531166854,
+              "z_mm": [
+                0.30000000000000004,
+                25.700000000000006
+              ],
+              "layers": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "V03",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 17040.032604699772,
+              "z_mm": [
+                0.24,
+                36.239999999999995
+              ],
+              "layers": 226
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 17041.02881457609,
+              "z_mm": [
+                0.30000000000000004,
+                36.10000000000001
+              ],
+              "layers": 180
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "V04",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 14307.110616278293,
+              "z_mm": [
+                0.24,
+                30.639999999999997
+              ],
+              "layers": 191
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 14308.13067483733,
+              "z_mm": [
+                0.30000000000000004,
+                30.700000000000006
+              ],
+              "layers": 153
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "V05",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 12704.032428295473,
+              "z_mm": [
+                0.24,
+                25.679999999999996
+              ],
+              "layers": 160
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 12704.871066300519,
+              "z_mm": [
+                0.30000000000000004,
+                25.700000000000006
+              ],
+              "layers": 128
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H01",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 6429.834764640073,
+              "z_mm": [
+                0.24,
+                29.679999999999996
+              ],
+              "layers": 185
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 6429.078433143951,
+              "z_mm": [
+                0.30000000000000004,
+                29.700000000000006
+              ],
+              "layers": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H02",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 3664.0668124060044,
+              "z_mm": [
+                0.24,
+                21.519999999999996
+              ],
+              "layers": 134
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 3663.3015392175703,
+              "z_mm": [
+                0.30000000000000004,
+                21.500000000000004
+              ],
+              "layers": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H03",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 3523.6670070672503,
+              "z_mm": [
+                0.24,
+                20.719999999999995
+              ],
+              "layers": 129
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 3522.89012283654,
+              "z_mm": [
+                0.30000000000000004,
+                20.700000000000003
+              ],
+              "layers": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H04",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 3771.7779976830025,
+              "z_mm": [
+                0.24,
+                20.719999999999995
+              ],
+              "layers": 129
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 3770.8839300119575,
+              "z_mm": [
+                0.30000000000000004,
+                20.700000000000003
+              ],
+              "layers": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H05",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 3522.9239975579435,
+              "z_mm": [
+                0.24,
+                20.719999999999995
+              ],
+              "layers": 129
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 3522.1635253253403,
+              "z_mm": [
+                0.30000000000000004,
+                20.700000000000003
+              ],
+              "layers": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H06",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 3771.7768514312525,
+              "z_mm": [
+                0.24,
+                20.719999999999995
+              ],
+              "layers": 129
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 3770.9305806397174,
+              "z_mm": [
+                0.30000000000000004,
+                20.700000000000003
+              ],
+              "layers": 103
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H07",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 6429.686588990047,
+              "z_mm": [
+                0.24,
+                29.679999999999996
+              ],
+              "layers": 185
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 6428.9254210634945,
+              "z_mm": [
+                0.30000000000000004,
+                29.700000000000006
+              ],
+              "layers": 148
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H08",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 3665.116959695893,
+              "z_mm": [
+                0.24,
+                21.519999999999996
+              ],
+              "layers": 134
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 3664.3647213539016,
+              "z_mm": [
+                0.30000000000000004,
+                21.500000000000004
+              ],
+              "layers": 107
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H09",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 2427.416024604878,
+              "z_mm": [
+                0.24,
+                12.239999999999998
+              ],
+              "layers": 76
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 2426.938383118613,
+              "z_mm": [
+                0.30000000000000004,
+                12.300000000000002
+              ],
+              "layers": 61
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H10",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 5694.036564908452,
+              "z_mm": [
+                0.24,
+                25.519999999999996
+              ],
+              "layers": 159
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 5693.23990545501,
+              "z_mm": [
+                0.30000000000000004,
+                25.500000000000004
+              ],
+              "layers": 127
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K01",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 1377.7871259769895,
+              "z_mm": [
+                0.08,
+                13.039999999999997
+              ],
+              "layers": 82
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 1377.6448820622256,
+              "z_mm": [
+                0.1,
+                13.100000000000003
+              ],
+              "layers": 66
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K02",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 3343.210225751192,
+              "z_mm": [
+                0.08,
+                20.879999999999995
+              ],
+              "layers": 131
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 3342.823172633511,
+              "z_mm": [
+                0.1,
+                20.900000000000006
+              ],
+              "layers": 105
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K03",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 1750.8095443407806,
+              "z_mm": [
+                0.08,
+                15.279999999999998
+              ],
+              "layers": 96
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 1750.8469449161996,
+              "z_mm": [
+                0.1,
+                15.300000000000002
+              ],
+              "layers": 77
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K04",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 1333.2450995727079,
+              "z_mm": [
+                0.08,
+                12.719999999999999
+              ],
+              "layers": 80
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 1332.7764891270426,
+              "z_mm": [
+                0.1,
+                12.700000000000003
+              ],
+              "layers": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K05",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 2669.7744762971,
+              "z_mm": [
+                0.08,
+                20.08
+              ],
+              "layers": 126
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 2669.478120356747,
+              "z_mm": [
+                0.1,
+                20.100000000000005
+              ],
+              "layers": 101
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K06",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 1202.3483720853344,
+              "z_mm": [
+                0.08,
+                11.599999999999998
+              ],
+              "layers": 73
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 1202.6397725045979,
+              "z_mm": [
+                0.1,
+                11.700000000000003
+              ],
+              "layers": 59
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K07",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 1377.016989920468,
+              "z_mm": [
+                0.08,
+                13.039999999999997
+              ],
+              "layers": 82
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 1376.7556790521205,
+              "z_mm": [
+                0.1,
+                12.900000000000002
+              ],
+              "layers": 65
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K08",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 3342.991605328576,
+              "z_mm": [
+                0.08,
+                20.879999999999995
+              ],
+              "layers": 131
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 3342.819578078178,
+              "z_mm": [
+                0.1,
+                20.700000000000003
+              ],
+              "layers": 104
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K09",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 1750.6816081814923,
+              "z_mm": [
+                0.08,
+                15.759999999999998
+              ],
+              "layers": 99
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 1750.7956246020565,
+              "z_mm": [
+                0.1,
+                15.700000000000003
+              ],
+              "layers": 79
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "K10",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 1334.0110593251832,
+              "z_mm": [
+                0.08,
+                12.719999999999999
+              ],
+              "layers": 80
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 1333.651310815491,
+              "z_mm": [
+                0.1,
+                12.700000000000003
+              ],
+              "layers": 64
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "core",
+      "tests": [
+        {
+          "layer_height_mm": 0.16,
+          "line_width_mm": 0.42,
+          "components": [
+            {
+              "volume_mm3": 34484.30531155785,
+              "z_mm": [
+                0.08,
+                40.559999999999995
+              ],
+              "layers": 254
+            }
+          ]
+        },
+        {
+          "layer_height_mm": 0.2,
+          "line_width_mm": 0.45,
+          "components": [
+            {
+              "volume_mm3": 34493.63534806179,
+              "z_mm": [
+                0.1,
+                40.50000000000001
+              ],
+              "layers": 203
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "scope": "Fixed-width layer geometry, not Bambu toolpaths or a strength test."
+}
