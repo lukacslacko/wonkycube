@@ -1,0 +1,22 @@
+{
+  "cube_side_mm": 64,
+  "cone_half_angle_deg": 70,
+  "cube_to_mechanism_matrix": [
+    [
+      0.8379366812147688,
+      0.5070603427131458,
+      0.20187106558991016
+    ],
+    [
+      -0.2906583176992258,
+      0.7276743421480465,
+      -0.6212952551980931
+    ],
+    [
+      -0.4619305798786596,
+      0.4619305798786596,
+      0.7571263294496702
+    ]
+  ],
+  "reference": "Same cube orientation as the printed pentagonal prism; triangular D3 axes."
+}

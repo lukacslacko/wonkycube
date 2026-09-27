@@ -1,4 +1,4 @@
-"""Render the five published puzzles from their unmodified, assembled STL meshes."""
+"""Render the six published puzzles from their unmodified, assembled STL meshes."""
 from pathlib import Path
 import hashlib
 import json
@@ -23,6 +23,8 @@ DESIGNS = [
      {'C': '#7bb2d7', 'K': '#7bb2d7', 'V': '#e9c96d', 'H': '#e9c96d'}),
     ('wavy-redi-v1.1', 'Wavy Redi', 'Wavy cuts · 20 moving pieces',
      {'C': '#63b2ab', 'E': '#edaa69', 'c': '#a7afb8'}),
+    ('triangular-prism-v1', 'Triangular prism', '70° curved cuts · 20 moving pieces',
+     {'C': '#7bb2d7', 'K': '#65b7b2', 'V': '#e9c96d', 'H': '#e9c96d'}),
 ]
 
 
@@ -40,7 +42,7 @@ def main():
     provenance = []
     for index, (folder, title, subtitle, colors) in enumerate(DESIGNS):
         row = 0 if index < 3 else 1
-        x = index * tile if index < 3 else (index - 3) * tile + tile // 2
+        x = index * tile if index < 3 else (index - 3) * tile
         y = row * row_height
         root = ROOT / 'designs' / folder
         manifest = json.loads((root / 'manifest.json').read_text())
@@ -70,9 +72,9 @@ def main():
         draw.text((center, y + 910), title, font=font(44, True), anchor='mt', fill='#273847')
         draw.text((center, y + 979), subtitle, font=font(26), anchor='mt', fill='#53616a')
         print('Rendered', title, flush=True)
-    draw.text((1350, 2140), 'Five 64 mm cubes · distinct turning axes · actual printable geometry',
+    draw.text((1350, 2140), 'Six 64 mm cubes · distinct turning axes · actual printable geometry',
               font=font(25), anchor='mt', fill='#53616a')
-    destination = ROOT / 'docs/images/five-cubes.png'
+    destination = ROOT / 'docs/images/six-cubes.png'
     page.save(destination, optimize=True)
     destination.with_suffix('.json').write_text(json.dumps({
         'camera': {'elevation_deg': 27, 'azimuth_deg': -55, 'half_extent_mm': 53},

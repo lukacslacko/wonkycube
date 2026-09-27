@@ -1,0 +1,50 @@
+[
+  {
+    "name": "K01",
+    "removed_volume_mm3": 11.571064807828407,
+    "pair_axis_upper_bound_mm": 9.5,
+    "third_axis_lower_bound_mm": 17.0,
+    "maximum_radial_extent_mm": 31.0,
+    "purpose": "Remove nonprinting terminal webs, retain the broad capture lobes."
+  },
+  {
+    "name": "K02",
+    "removed_volume_mm3": 11.57106143223541,
+    "pair_axis_upper_bound_mm": 9.5,
+    "third_axis_lower_bound_mm": 17.0,
+    "maximum_radial_extent_mm": 31.0,
+    "purpose": "Remove nonprinting terminal webs, retain the broad capture lobes."
+  },
+  {
+    "name": "K03",
+    "removed_volume_mm3": 11.571067852570081,
+    "pair_axis_upper_bound_mm": 9.5,
+    "third_axis_lower_bound_mm": 17.0,
+    "maximum_radial_extent_mm": 31.0,
+    "purpose": "Remove nonprinting terminal webs, retain the broad capture lobes."
+  },
+  {
+    "name": "K04",
+    "removed_volume_mm3": 11.571047244594183,
+    "pair_axis_upper_bound_mm": 9.5,
+    "third_axis_lower_bound_mm": 17.0,
+    "maximum_radial_extent_mm": 31.0,
+    "purpose": "Remove nonprinting terminal webs, retain the broad capture lobes."
+  },
+  {
+    "name": "K05",
+    "removed_volume_mm3": 11.57105097679289,
+    "pair_axis_upper_bound_mm": 9.5,
+    "third_axis_lower_bound_mm": 17.0,
+    "maximum_radial_extent_mm": 31.0,
+    "purpose": "Remove nonprinting terminal webs, retain the broad capture lobes."
+  },
+  {
+    "name": "K06",
+    "removed_volume_mm3": 11.571070916696954,
+    "pair_axis_upper_bound_mm": 9.5,
+    "third_axis_lower_bound_mm": 17.0,
+    "maximum_radial_extent_mm": 31.0,
+    "purpose": "Remove nonprinting terminal webs, retain the broad capture lobes."
+  }
+]

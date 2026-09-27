@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "manifest_sha256": "1c39d820abe64adca95d4377a663e7cc6e24d514d6fd8982a84d6b4eefd613f5",
+  "puzzle_parts": 21,
+  "move_paths": 29,
+  "turn_samples": 909,
+  "max_turn_overlap_mm3": 2.201912278619862e-05,
+  "assembly_paths": 21,
+  "assembly_samples": 1659,
+  "max_assembly_overlap_mm3": 0.0,
+  "min_root_web_mm": 3.919342756248657,
+  "min_screw_head_cube_recess_mm": 0.5782590639163805,
+  "radial_contact_range_mm": [
+    0.35000000000000003,
+    0.45
+  ],
+  "ridge_radius_sections": 3196,
+  "max_ridge_radius_error_mm": 0.02478239507117519
+}

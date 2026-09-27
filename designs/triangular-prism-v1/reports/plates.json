@@ -1,0 +1,145 @@
+{
+  "manifest_sha256": "1c39d820abe64adca95d4377a663e7cc6e24d514d6fd8982a84d6b4eefd613f5",
+  "plates": [
+    {
+      "file": "plates/centers-corners-core-01.3mf",
+      "objects": [
+        "C03",
+        "C01",
+        "core",
+        "C05",
+        "C04",
+        "C02",
+        "K06",
+        "K03",
+        "K04",
+        "K05",
+        "K02",
+        "K01"
+      ],
+      "sha256": "e40d7236fcd6b85115d8f05736f48fbee7f74bfb54dfb47d14be2301148d3a2e"
+    },
+    {
+      "file": "plates/petals-01.3mf",
+      "objects": [
+        "H04",
+        "H06",
+        "H01",
+        "H05",
+        "H03",
+        "H02",
+        "V03",
+        "V02",
+        "V01"
+      ],
+      "sha256": "938b2ff1e5d28d1f22f1ec7c1000af8759aefcabaa36d9430381ab4b6523a260"
+    },
+    {
+      "file": "plates/V-face-down-01.3mf",
+      "objects": [
+        "V03",
+        "V02",
+        "V01"
+      ],
+      "sha256": "a9960b04d5c302806b710fc72477b0309ce51ee962f3cfd81e0d271d2b029263"
+    },
+    {
+      "file": "plates/H-face-down-01.3mf",
+      "objects": [
+        "H04",
+        "H06",
+        "H02",
+        "H05",
+        "H03",
+        "H01"
+      ],
+      "sha256": "b3b27a8f44064158edfcf0badae53c9cc5eec3c7d597e62a9c486a1e68650f7e"
+    },
+    {
+      "file": "plates/K-radial-down-01.3mf",
+      "objects": [
+        "K04",
+        "K01",
+        "K06",
+        "K02",
+        "K03",
+        "K05"
+      ],
+      "sha256": "8d47646fb5c3cdbf93ef7f015621e076613d6da8c6572a5feb27e06046875e1b"
+    },
+    {
+      "file": "plates/alternate-cores-01.3mf",
+      "objects": [
+        "core-seat-5.30",
+        "core-seat-5.40"
+      ],
+      "sha256": "86933a9d2a82cbc4089b071128484fca1aa22532bd1a56bab8b50fa92ede4a0a"
+    },
+    {
+      "file": "plates/fit-coupons-01.3mf",
+      "objects": [
+        "nut-fit-5.20",
+        "nut-fit-5.30",
+        "nut-fit-5.40",
+        "rotor-fit"
+      ],
+      "sha256": "d95c66a98f55d1859b04d0cd25a20b169f84e93658fc060639407a0f5cbf2c95"
+    },
+    {
+      "file": "plates/stand-01.3mf",
+      "objects": [
+        "assembly-stand"
+      ],
+      "sha256": "bd962ef6b3f879487f2866d95394042bc96dc70ca8461eca1248551332b6d703"
+    }
+  ],
+  "orientation_V01": {
+    "max_vertex_distance_mm": 1.7153574486020033e-14
+  },
+  "orientation_V02": {
+    "max_vertex_distance_mm": 2.2061894264123476e-14
+  },
+  "orientation_V03": {
+    "max_vertex_distance_mm": 2.9777166713245526e-14
+  },
+  "orientation_H01": {
+    "max_vertex_distance_mm": 4.399453982900979e-14
+  },
+  "orientation_H02": {
+    "max_vertex_distance_mm": 1.5987211554602254e-14
+  },
+  "orientation_H03": {
+    "max_vertex_distance_mm": 2.935023183045314e-14
+  },
+  "orientation_H04": {
+    "max_vertex_distance_mm": 2.886238236725078e-14
+  },
+  "orientation_H05": {
+    "max_vertex_distance_mm": 3.014577520672848e-14
+  },
+  "orientation_H06": {
+    "max_vertex_distance_mm": 1.4567209187227738e-14
+  },
+  "orientation_K01": {
+    "max_vertex_distance_mm": 8.702335715267317e-15
+  },
+  "orientation_K02": {
+    "max_vertex_distance_mm": 2.4868995751603507e-14
+  },
+  "orientation_K03": {
+    "max_vertex_distance_mm": 1.020439314654103e-14
+  },
+  "orientation_K04": {
+    "max_vertex_distance_mm": 2.6586074758753436e-14
+  },
+  "orientation_K05": {
+    "max_vertex_distance_mm": 1.2821513837182894e-14
+  },
+  "orientation_K06": {
+    "max_vertex_distance_mm": 2.262677015149172e-14
+  },
+  "_completion": {
+    "passed": true,
+    "mode": "plates"
+  }
+}

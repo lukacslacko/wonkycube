@@ -1,8 +1,8 @@
 # Wonkycube
 
-![Redi, Skewb, conical 3×3, pentagonal prism and Wavy Redi: five 64 mm cube shape mods rendered from the printable models](docs/images/five-cubes.png)
+![Redi, Skewb, conical 3×3, pentagonal prism, Wavy Redi and triangular prism: six 64 mm cube shape mods rendered from the printable models](docs/images/six-cubes.png)
 
-Five 3D-printable twisty puzzles with **64 mm cube exteriors**, rotated away from their turning axes. Redi, Skewb, conical 3×3, pentagonal-prism and Wavy Redi designs produce different patterns of cuts and change shape when scrambled. Solve the shape; no stickers are needed.
+Six 3D-printable twisty puzzles with **64 mm cube exteriors**, rotated away from their turning axes. Redi, Skewb, conical 3×3, pentagonal-prism, Wavy Redi and triangular-prism designs produce different patterns of cuts and change shape when scrambled. Solve the shape; no stickers are needed.
 
 ## Choose a cube
 
@@ -13,8 +13,9 @@ Five 3D-printable twisty puzzles with **64 mm cube exteriors**, rotated away fro
 | **Conical 3×3** | Six face axes and 70° conical cuts; curved edges and twenty-six moving pieces | [STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/conical-3x3-v1.1) | [Printing and assembly](designs/conical-3x3-v1.1/README.md) · [Piece map](designs/conical-3x3-v1.1/NEIGHBORS.md) |
 | **Pentagonal prism** | Seven axes and 60° conical cuts; 180° side turns, 72° polar turns and thirty-two moving pieces | [STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/pentagonal-prism-v1) | [Printing and assembly](designs/pentagonal-prism-v1/README.md) · [Piece map](designs/pentagonal-prism-v1/NEIGHBORS.md) |
 | **Wavy Redi** | Eight corner axes, twelve broad petals and six exposed patches of the fixed core | [STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/wavy-redi-v1.1) | [Printing](designs/wavy-redi-v1.1/README.md) · [Assembly and piece map](designs/wavy-redi-v1.1/ASSEMBLY.md) |
+| **Triangular prism** | Five axes and 70° conical cuts; 180° side turns, 120° polar turns and twenty moving pieces | [STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/triangular-prism-v1) | [Printing and assembly](designs/triangular-prism-v1/README.md) · [Piece map](designs/triangular-prism-v1/NEIGHBORS.md) |
 
-All five designs have been printed by the designer. The Wavy Redi built very well and turns great; its published v1.1 makes two small refinements to nut fit and four exterior tips, checked in CAD and awaiting a reprint. Colors in the render distinguish piece families for illustration; the files can be printed in any colors.
+All six designs have been printed by the designer. The 64 mm non-wavy triangular prism printed, assembled and turns well. The Wavy Redi built very well and turns great; its published v1.1 makes two small refinements to nut fit and four exterior tips, checked in CAD and awaiting a reprint. Colors in the render distinguish piece families for illustration; the files can be printed in any colors.
 
 ## Make one
 
@@ -27,6 +28,7 @@ Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 scre
 | Conical 3×3 | 27 | 6 of each |
 | Pentagonal prism | 33 | 7 of each |
 | Wavy Redi | 21 | 8 of each |
+| Triangular prism | 21 | 5 of each |
 
 Development used a **Bambu Lab P1S, 0.4 mm nozzle and PLA**. Print at **100% scale** in millimetres. Each build guide covers orientations, supports, nut-fit coupons and assembly order. The 3MF plates contain geometry, not a printer profile or G-code. Parts belong to their own mechanism and are not interchangeable between the puzzles.
 
@@ -45,5 +47,6 @@ The [mechanism design guide](docs/mechanism-principles.md) explains these choice
 | Conical 3×3 | [Design](designs/conical-3x3-v1.1/DESIGN.md) | [Source](designs/conical-3x3-v1.1/source/README.md) | [Validation](designs/conical-3x3-v1.1/VALIDATION.md) |
 | Pentagonal prism | [Design](designs/pentagonal-prism-v1/README.md#mechanism) | [Source](designs/pentagonal-prism-v1/source/BUILD.md) | [Validation](designs/pentagonal-prism-v1/VALIDATION.md) |
 | Wavy Redi | [Design](designs/wavy-redi-v1.1/README.md#mechanism-choices) | [Source](designs/wavy-redi-v1.1/source/README.md) | [Validation](designs/wavy-redi-v1.1/VALIDATION.md) |
+| Triangular prism | [Design](designs/triangular-prism-v1/README.md#retention-and-fit) | [Source](designs/triangular-prism-v1/source/BUILD.md) | [Validation](designs/triangular-prism-v1/VALIDATION.md) |
 
 Designed and physically iterated by **László Lukács**, with CAD, optimization and documentation developed with **OpenAI Codex**. Source, documentation and original generated models are available under the [MIT license](LICENSE).
