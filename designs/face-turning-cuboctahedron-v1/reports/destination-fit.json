@@ -1,0 +1,58 @@
+[
+  {
+    "axis": 0,
+    "maximum_symmetric_difference_mm3": 0.37138999216627383
+  },
+  {
+    "axis": 1,
+    "maximum_symmetric_difference_mm3": 0.3713899921662397
+  },
+  {
+    "axis": 2,
+    "maximum_symmetric_difference_mm3": 0.37138999216623314
+  },
+  {
+    "axis": 3,
+    "maximum_symmetric_difference_mm3": 0.37138999216629154
+  },
+  {
+    "axis": 4,
+    "maximum_symmetric_difference_mm3": 0.3713899921662126
+  },
+  {
+    "axis": 5,
+    "maximum_symmetric_difference_mm3": 0.3713899921662638
+  },
+  {
+    "axis": 6,
+    "maximum_symmetric_difference_mm3": 0.37138999216626734
+  },
+  {
+    "axis": 7,
+    "maximum_symmetric_difference_mm3": 0.3713899921662275
+  },
+  {
+    "axis": 8,
+    "maximum_symmetric_difference_mm3": 0.29320633327917855
+  },
+  {
+    "axis": 9,
+    "maximum_symmetric_difference_mm3": 0.2932063332791898
+  },
+  {
+    "axis": 10,
+    "maximum_symmetric_difference_mm3": 0.2932063226677927
+  },
+  {
+    "axis": 11,
+    "maximum_symmetric_difference_mm3": 0.2932063226677968
+  },
+  {
+    "axis": 12,
+    "maximum_symmetric_difference_mm3": 0.29320633327393264
+  },
+  {
+    "axis": 13,
+    "maximum_symmetric_difference_mm3": 0.2932063332739227
+  }
+]

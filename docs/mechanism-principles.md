@@ -1,6 +1,6 @@
 # Designing printed mechanisms that retain well and move freely
 
-These lessons came from printing and revising the Wonky Redi, Wonky Skewb, Wonky conical 3×3, Wonky pentagonal prism, Wavy Redi and Wonky triangular prism. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [Redi](design.md), [Skewb](../designs/skewb-v1.1/DESIGN.md), [conical 3×3](../designs/conical-3x3-v1.1/DESIGN.md), [pentagonal prism](../designs/pentagonal-prism-v1/README.md#mechanism), [Wavy Redi](../designs/wavy-redi-v1.1/README.md#mechanism-choices) and [triangular prism](../designs/triangular-prism-v1/README.md#retention-and-fit) references record particular dimensions; the principles below explain how to choose and evaluate such dimensions elsewhere.
+These lessons came from printing and revising the Wonky Redi, Wonky Skewb, Wonky conical 3×3, Wonky pentagonal prism, Wavy Redi, Wonky triangular prism and face-turning cuboctahedron. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [Redi](design.md), [Skewb](../designs/skewb-v1.1/DESIGN.md), [conical 3×3](../designs/conical-3x3-v1.1/DESIGN.md), [pentagonal prism](../designs/pentagonal-prism-v1/README.md#mechanism), [Wavy Redi](../designs/wavy-redi-v1.1/README.md#mechanism-choices) and [triangular prism](../designs/triangular-prism-v1/README.md#retention-and-fit) references record particular dimensions; the principles below explain how to choose and evaluate such dimensions elsewhere.
 
 The successful behavior comes from a combination of features. The print trials changed several features between revisions, so they do not isolate a measured contribution from each radius or clearance.
 
@@ -229,12 +229,21 @@ The owner reported that the Wavy Redi **built very well and turns great**. It us
 
 **Retune press fits by small total increments.** The 5.20 mm nut seat that fitted well in the prism was slightly too tight in the wavy core. The owner suggested angled layers as a possible cause; this was not isolated experimentally. The correction is 5.25 mm across flats, only 0.025 mm more space per side, preserving the 5.85 mm loading entrance and surrounding geometry. This is a proposed fit refinement, not another physically proven dimension. Keep physical feedback attached to the exact supplied files and distinguish a working mechanism from an unprinted adjustment.
 
+## 16. Give the hand a useful way to drive each turn
+
+The natural **face-turning cuboctahedron printed and assembled well**, but its owner reports that **the square faces are not very easy to turn**. This separates mechanical buildability from handling: a collision-free, retained mechanism can still offer poor purchase for the fingers. The report does not isolate grip from friction, support finish or screw adjustment. [Physical feedback and supplied files](../designs/face-turning-cuboctahedron-v1/physical-feedback.json).
+
+Evaluate each turning axis from the user's hand, as well as from the CAD model. Look for a surface that can be grasped to apply torque, enough room to hold the stationary body, and useful leverage throughout the turn. Increasing internal clearance is not automatically the right response to a difficult-to-grasp exterior.
+
+The cuboctahedron's dual, a **vertex-turning rhombic dodecahedron**, preserves the fourteen face-normal directions as vertex directions. Its projecting vertices could provide a shape to grasp around every turning axis, including the six fourfold axes associated with the square faces. This is a proposed future exterior, not an implemented or tested improvement. A different outer body still needs its own wall-thickness, hardware-access, grip and motion checks.
+
 ## A practical diagnosis table
 
 | Symptom | Inspect first | Design response to evaluate |
 |---|---|---|
 | Pulls out while aligned | Remaining capture land and escape direction | More positive shoulder; avoid a ramp |
 | Pops only when turning | Intermediate overlap, rocking and retainer lift | Rework intersecting paths; reduce excess axial play |
+| Mechanism assembles but a face is hard to drive by hand | Available grip and leverage, separately from friction and screw tension | Consider a grippable projection or a dual exterior; test handling before changing track fit |
 | Drags throughout a turn | Bearing pressure, track allowance, support residue | Separate fastening friction from sliding interference |
 | Catches when changing axes | Ridge/track-mouth contact and transition bands | Continuous local rounding; expanded unrounded sweep |
 | Turns freely but feels unstable | Axial and diametral freedom | Tighten the appropriate constraint without closing every gap |

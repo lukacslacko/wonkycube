@@ -1,0 +1,94 @@
+{
+  "triangle_half_angle_degrees": 35.264389682754654,
+  "square_half_angle_degrees": 45.0,
+  "square_face_spacing_mm": 64,
+  "conical_body_gap_mm": 0.06,
+  "additional_track_cutter_expansion_mm": 0.4,
+  "radial_ridge_radius_mm": 2,
+  "internal_profiles_rho_z_mm": {
+    "T": [
+      [
+        0,
+        0
+      ],
+      [
+        11.165898064891055,
+        21
+      ],
+      [
+        17.0,
+        21
+      ],
+      [
+        17.0,
+        23.6
+      ],
+      [
+        11.1,
+        23.6
+      ],
+      [
+        17.819090885900994,
+        25.2
+      ],
+      [
+        70.71067811865474,
+        100
+      ],
+      [
+        0,
+        100
+      ]
+    ],
+    "S": [
+      [
+        0,
+        0
+      ],
+      [
+        14.219398402422257,
+        18.2
+      ],
+      [
+        21.0,
+        18.2
+      ],
+      [
+        21.0,
+        20.8
+      ],
+      [
+        14.8,
+        20.8
+      ],
+      [
+        22.0,
+        22.0
+      ],
+      [
+        100,
+        100
+      ],
+      [
+        0,
+        100
+      ]
+    ]
+  },
+  "core_radius_mm": 21.2,
+  "moving_inner_radius_mm": 21.7,
+  "core_bearing_flat_mm": 19.6,
+  "bearing_foot_plane_mm": 19.7,
+  "bearing_foot_radius_mm": 3.1,
+  "triangle_stem_top_mm": 32.0,
+  "stem_sweep_radial_clearance_mm": 0.4,
+  "screw_bore_diameter_mm": 3.6,
+  "washer_well_diameter_mm": 7.6,
+  "washer_seats_mm": {
+    "T": 32.0,
+    "S": 27.3
+  },
+  "nut_seat_across_flats_mm": 5.25,
+  "nut_entrance_mm": 5.85,
+  "nut_roof_coordinate_mm": 17.65
+}

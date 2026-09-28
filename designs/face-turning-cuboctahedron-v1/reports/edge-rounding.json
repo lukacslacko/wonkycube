@@ -1,0 +1,17 @@
+[
+  {
+    "family": "T",
+    "rounding_mm": 0.45,
+    "removed_volume_mm3": 88.42355252888092
+  },
+  {
+    "family": "S",
+    "rounding_mm": 0.45,
+    "removed_volume_mm3": 132.2727103541647
+  },
+  {
+    "family": "P",
+    "rounding_mm": 0.55,
+    "removed_volume_mm3": 33.93628523249117
+  }
+]

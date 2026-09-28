@@ -1,0 +1,1182 @@
+[
+  {
+    "axis": 0,
+    "angle_degrees": 0.0,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.42177144244951
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.3701913990396812
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.11801313298856826
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.2969068667363631
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.2549614492702097
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.2602730025967424
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.7112306180985751
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.4068989525174104
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.7218043684779875
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 1.3166392854952227
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.7617906248116515
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.04174137040479772
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.7397792935191716
+      }
+    ]
+  },
+  {
+    "axis": 0,
+    "angle_degrees": 0.0,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.04604289477245646
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.20533745824114716
+      },
+      {
+        "distance_mm": 0.8,
+        "intersection_mm3": 0.124500271829923
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.4268350306079731
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.24403807393248755
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.0826692146920036
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.5434230299251084
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 1.087752465733763
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.0920278726086572
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.4863564522138835
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.6629823491713052
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.23605322536895337
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.687549219213961
+      }
+    ]
+  },
+  {
+    "axis": 0,
+    "angle_degrees": 30.0,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.4217714424495035
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.714983001019478
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.26842026066850994
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.1816918710683119
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.27089349882893105
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.11217103907194177
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.36420627950940176
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.7866206773482896
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.04513958589019837
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.43205811906059716
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.6866956758232124
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.052767477129112596
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.3618372470717629
+      }
+    ]
+  },
+  {
+    "axis": 0,
+    "angle_degrees": 30.0,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.046042894772450146
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.5476712551188399
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.08755518266557315
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.10495553964136761
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.20570756015621278
+      },
+      {
+        "distance_mm": 0.8,
+        "intersection_mm3": 0.11733527735908308
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.20036250820347024
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.715028627593667
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.010280316710422992
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.6694378050627328
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.1055876508390332
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.17117253895764964
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 1.0237001509658354
+      }
+    ]
+  },
+  {
+    "axis": 0,
+    "angle_degrees": 60.0,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.4217714424495114
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.7905553283329492
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.20536012820170726
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.1401660075973412
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.10592062608219636
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.1628272821835876
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.035979539313153876
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 3.4625211289846702
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.01347928230996049
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.6034633681945971
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.847063476518523
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.24238089021932982
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.21463215115102902
+      }
+    ]
+  },
+  {
+    "axis": 0,
+    "angle_degrees": 60.0,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.04604289477246005
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.6350776049603526
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.08087358090624455
+      },
+      {
+        "distance_mm": 0.8,
+        "intersection_mm3": 0.016313466404347204
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.11111319121545087
+      },
+      {
+        "distance_mm": 0.8,
+        "intersection_mm3": 0.36454603400743557
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.27469689371264877
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.9296007924449347
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.06270180223258724
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.6171159538462734
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.09712753543844155
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.6326060270378177
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.13553591823849942
+      }
+    ]
+  },
+  {
+    "axis": 0,
+    "angle_degrees": 90.0,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.42177144244950887
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.37064366495018597
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.711043795186041
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.25989034560129926
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.08655744322857248
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.3262288862659728
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.11844567596299095
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.39486754283355047
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.7527018111990023
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.041323884895123196
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.23204985307116152
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.9824045527832919
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.021044910789433737
+      }
+    ]
+  },
+  {
+    "axis": 0,
+    "angle_degrees": 90.0,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.046042894772448224
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.2057684785571738
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.5431660182195199
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.08236409795390456
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.050354135843522864
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.09154049270211012
+      },
+      {
+        "distance_mm": 0.8,
+        "intersection_mm3": 0.12458531087640397
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 1.0746090466379974
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.7013655269607797
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.23557401135624365
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.9141459548270376
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.6735880902586373
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.18411435985913616
+      }
+    ]
+  },
+  {
+    "axis": 0,
+    "angle_degrees": 120.0,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.4217714424495123
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.06599026584338306
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.5612700576725879
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.560959916507097
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.06582441012142505
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.12486225952067985
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.12455790909882071
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.09200890947633647
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.5687864694043057
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.5829633189734518
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.0919369896562736
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 1.129237667715255
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 1.1250470915569217
+      }
+    ]
+  },
+  {
+    "axis": 0,
+    "angle_degrees": 120.0,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.04604289477245702
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.14215777129908452
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.37852008445173124
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.3780752680216027
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.1416938221970774
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.19461570992557206
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.19485878919045121
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.023566002809318143
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.22160523894409068
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.2339043056467717
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.023233218932894078
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.2008018363409856
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.1972239472730424
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 0.0,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.42177144244951
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.3701913990396812
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.11801313298856826
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.2969068667363631
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.2549614492702097
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.2602730025967424
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.7112306180985751
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.4068989525174104
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.7218043684779875
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 1.3166392854952227
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.7617906248116515
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.04174137040479772
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.7397792935191716
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 0.0,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.04604289477245646
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.20533745824114716
+      },
+      {
+        "distance_mm": 0.8,
+        "intersection_mm3": 0.124500271829923
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.4268350306079731
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.24403807393248755
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.0826692146920036
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.5434230299251084
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 1.087752465733763
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.0920278726086572
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.4863564522138835
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.6629823491713052
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.23605322536895337
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.687549219213961
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 22.5,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.2359935110780514
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.3027093818442245
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.010350616322586648
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.32355674674371093
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.2742000487327736
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.15077746956313032
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.31318063688924386
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.100883055466323
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.08283337168101389
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.8329810748042774
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 1.2946781664236562
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.48798192829548603
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.5194111504125901
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 22.5,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.0357828598694399
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.21355154278561697
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.047342624883513
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.32737096595904086
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.3987216040569261
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.013063901065638074
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.21738387824337826
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.2893216816906236
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.01592519659498649
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.7652001264508883
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.455303204021956
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.020974487275669685
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 1.0483531870469198
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 45.0,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.024254363884375782
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.024787772092383868
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.0445212011643501
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.22314734467249028
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.40888332228820984
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.2234811292410734
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.04447684359875885
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.4983342451663915
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.0389168180029144
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.026870459808476466
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 1.4020434131037487
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.02547234915003852
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.03888692698996742
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 45.0,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.9,
+        "intersection_mm3": 0.06973436760294915
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.017757398554186038
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.035222843056313125
+      },
+      {
+        "distance_mm": 0.8,
+        "intersection_mm3": 0.09616838672963075
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.05601256193220557
+      },
+      {
+        "distance_mm": 0.8,
+        "intersection_mm3": 0.09574669121970907
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.035184520066313306
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.49086490250181464
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.04030894716415881
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.47945719218238747
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.5054614190249427
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.47671601419344384
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.04027770314742163
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 67.5,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.235744311012455
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.3023578572802951
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.3127423101894288
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.15067404426203185
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.2740838314933108
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.32390747761146865
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.010596768102253861
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.1040432358141423
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.5236761255622476
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.49066873126239363
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 1.298376704011533
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.8288866343069746
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.08308097460774902
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 67.5,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.035909175639175624
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.21324020879235303
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.21696301001370755
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.01261861566790473
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.39842268826481014
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.32656576779620716
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.04759708547352312
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.28501949223476414
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 1.0533528589139949
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.02242702303015005
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.458032697449937
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.7615765632837785
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.015915963376885545
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 90.0,
+    "center_lift_mm": 0,
+    "contacts": [
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.42177144244950504
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.3706436649501947
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.7110437951860448
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.2598903456012913
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.2546933205502841
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.29690053851847603
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.11844567596298891
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.39486754283364384
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.7527018111988157
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.041323884895113565
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 0.7659294105740859
+      },
+      {
+        "distance_mm": 0.2,
+        "intersection_mm3": 1.3135352658452737
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.7189767982619264
+      }
+    ]
+  },
+  {
+    "axis": 8,
+    "angle_degrees": 90.0,
+    "center_lift_mm": 0.1,
+    "contacts": [
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.046042894772457356
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.20576847855716401
+      },
+      {
+        "distance_mm": 0.5,
+        "intersection_mm3": 0.5431660182195173
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.08236409795389309
+      },
+      {
+        "distance_mm": 0.7000000000000001,
+        "intersection_mm3": 0.24438376874112966
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.4273913735839222
+      },
+      {
+        "distance_mm": 0.8,
+        "intersection_mm3": 0.1247599215159308
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 1.0746090466381273
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 0.7013655269604722
+      },
+      {
+        "distance_mm": 0.6000000000000001,
+        "intersection_mm3": 0.2355740113562406
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 1.6664827642426534
+      },
+      {
+        "distance_mm": 0.30000000000000004,
+        "intersection_mm3": 2.4835000525005544
+      },
+      {
+        "distance_mm": 0.4,
+        "intersection_mm3": 0.09006233687607929
+      }
+    ]
+  }
+]

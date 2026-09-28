@@ -1,0 +1,41 @@
+[
+  {
+    "family": "T",
+    "outward_path_direction": [
+      -0.5773502691896258,
+      -0.5773502691896258,
+      -0.5773502691896258
+    ],
+    "maximum_translation_mm": 60,
+    "worst": [
+      0,
+      0
+    ]
+  },
+  {
+    "family": "S",
+    "outward_path_direction": [
+      -1.0,
+      -0.0,
+      -0.0
+    ],
+    "maximum_translation_mm": 60,
+    "worst": [
+      0,
+      0
+    ]
+  },
+  {
+    "family": "P",
+    "outward_path_direction": [
+      -0.8880738339771151,
+      -0.32505758367186816,
+      -0.32505758367186816
+    ],
+    "maximum_translation_mm": 60,
+    "worst": [
+      0,
+      0
+    ]
+  }
+]

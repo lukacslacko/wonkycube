@@ -1,0 +1,54 @@
+[
+  {
+    "center": "T01",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "T02",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "T03",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "T04",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "T05",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "T06",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "T07",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "T08",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "S02",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "S03",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "S04",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "S05",
+    "maximum_collision_mm3": 0.0
+  },
+  {
+    "center": "S06",
+    "maximum_collision_mm3": 0.0
+  }
+]

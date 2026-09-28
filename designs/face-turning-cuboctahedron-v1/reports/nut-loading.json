@@ -1,0 +1,72 @@
+[
+  {
+    "axis": 0,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 4.571905830082498e-06
+  },
+  {
+    "axis": 1,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 1.0373187650798905e-05
+  },
+  {
+    "axis": 2,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 9.057059370774081e-06
+  },
+  {
+    "axis": 3,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 9.200297955716518e-06
+  },
+  {
+    "axis": 4,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 3.7253194933003397e-06
+  },
+  {
+    "axis": 5,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 7.242426864987582e-06
+  },
+  {
+    "axis": 6,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 7.0320019621314696e-06
+  },
+  {
+    "axis": 7,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 7.728428759629424e-06
+  },
+  {
+    "axis": 8,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 7.86164036672917e-06
+  },
+  {
+    "axis": 9,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 9.911199466854328e-06
+  },
+  {
+    "axis": 10,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 1.1339136943533752e-05
+  },
+  {
+    "axis": 11,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 8.184952888139028e-06
+  },
+  {
+    "axis": 12,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 5.184209693636944e-06
+  },
+  {
+    "axis": 13,
+    "test_nut_across_flats_mm": 5.15,
+    "maximum_collision_mm3": 5.002442538643221e-06
+  }
+]

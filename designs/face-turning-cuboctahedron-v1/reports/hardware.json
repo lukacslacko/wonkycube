@@ -1,0 +1,8 @@
+{
+  "pairs": 91,
+  "maximum_collision_mm3": 0.0,
+  "washer_outer_diameter_mm": 7,
+  "washer_thickness_mm": 0.5,
+  "screw": "DIN912 M3x20",
+  "nut": "DIN985 M3"
+}

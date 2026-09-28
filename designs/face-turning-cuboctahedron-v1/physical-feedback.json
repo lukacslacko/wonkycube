@@ -1,0 +1,32 @@
+{
+  "design": "face-turning-cuboctahedron-single-cut-v1",
+  "reported_date": "2026-09-28",
+  "reported_by": "László Lukács (project owner)",
+  "physically_printed": true,
+  "physically_assembled": true,
+  "report": "The face-turning cuboctahedron printed and built well. The square faces are not very easy to turn.",
+  "future_shape_proposal": "The dual body, a vertex-turning rhombic dodecahedron, may offer better grip around each turning axis. This is a proposed future shape, not a designed or tested replacement.",
+  "scope": "Successful physical printing and assembly, with a qualitative square-face turning difficulty. No measured turning torque, isolated cause, wear or endurance result was reported.",
+  "provenance": "The owner identified the face-turning cuboctahedron. Hashes identify the supplied v1 puzzle STLs associated with that report; the exact slicer input files and optional core selection were not independently verified.",
+  "hardware": {
+    "screw": "14 x DIN912 M3x20",
+    "washer": "14 x 7 mm OD x 0.5 mm thick, M3 clearance",
+    "nut": "14 x DIN985 M3"
+  },
+  "print_settings": {
+    "prior_setup": "Bambu Lab P1S, 0.4 mm nozzle; PLA used for previous builds.",
+    "material_for_this_print": null,
+    "layer_height_mm": null,
+    "walls": null,
+    "infill": null,
+    "supports": null,
+    "core_variant": null
+  },
+  "manifest_sha256": "c132efbf7b2326120e7577fa7573482b4bd73155ad186eb241997812004d433f",
+  "supplied_puzzle_stl_sha256": {
+    "stl/puzzle/triangle-center-print-8.stl": "84c721be02d6f851dbc5cd97871074412a3ff3eb7c5c18203ec23e3775b9d6f2",
+    "stl/puzzle/square-center-print-6.stl": "a1a28ed5989da47b774eced533fbe6fe1c1854a2937faec44a26efbd454f3609",
+    "stl/puzzle/petal-print-24.stl": "ced8bd2d093bf910e29c2241a7c1d516be6b1f49721bf4aeb0427b0fb315cb97",
+    "stl/puzzle/core.stl": "2424250181e27338f25ef90b7bbe66e7d5ba9beca6b5c5e347a9555a172ab8cc"
+  }
+}

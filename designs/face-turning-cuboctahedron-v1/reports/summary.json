@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "delivery_meshes_reloaded": true,
+  "surface_pieces": 38,
+  "printed_puzzle_parts": 39,
+  "axes_checked": 14,
+  "turn_sample_step_degrees": 3,
+  "washer_root_webs_checked": true,
+  "assembly_order": [
+    "24 petals",
+    "8 triangle centers and 6 square centers"
+  ],
+  "scope": "Finite rigid CAD checks and layer-connectivity model. Physical print, torque, wear and elastic popping untested."
+}

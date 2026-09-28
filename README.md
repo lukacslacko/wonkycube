@@ -4,7 +4,7 @@
 
 Six 3D-printable twisty puzzles with **64 mm cube exteriors**, rotated away from their turning axes. Redi, Skewb, conical 3×3, pentagonal-prism, Wavy Redi and triangular-prism designs produce different patterns of cuts and change shape when scrambled. Solve the shape; no stickers are needed.
 
-## Choose a cube
+## Cube shape mods
 
 | Puzzle | What makes it different | Download | Build guide |
 |---|---|---|---|
@@ -15,11 +15,21 @@ Six 3D-printable twisty puzzles with **64 mm cube exteriors**, rotated away from
 | **Wavy Redi** | Eight corner axes, twelve broad petals and six exposed patches of the fixed core | [STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/wavy-redi-v1.1) | [Printing](designs/wavy-redi-v1.1/README.md) · [Assembly and piece map](designs/wavy-redi-v1.1/ASSEMBLY.md) |
 | **Triangular prism** | Five axes and 70° conical cuts; 180° side turns, 120° polar turns and twenty moving pieces | [STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/triangular-prism-v1) | [Printing and assembly](designs/triangular-prism-v1/README.md) · [Piece map](designs/triangular-prism-v1/NEIGHBORS.md) |
 
-All six designs have been printed by the designer. The 64 mm non-wavy triangular prism printed, assembled and turns well. The Wavy Redi built very well and turns great; its published v1.1 makes two small refinements to nut fit and four exterior tips, checked in CAD and awaiting a reprint. Colors in the render distinguish piece families for illustration; the files can be printed in any colors.
+All six cube shape mods have been printed by the designer. The 64 mm non-wavy triangular prism printed, assembled and turns well. The Wavy Redi built very well and turns great; its published v1.1 makes two small refinements to nut fit and four exterior tips, checked in CAD and awaiting a reprint. Colors in the render distinguish piece families for illustration; the files can be printed in any colors.
+
+## Face-turning cuboctahedron
+
+![Natural face-turning cuboctahedron, rendered from the supplied printable models](designs/face-turning-cuboctahedron-v1/images/solved-two-sides.png)
+
+A naturally aligned **64 mm cuboctahedron** with eight triangular centers, six square centers and twenty-four interchangeable petals. Triangle faces turn 120° and square faces 90°. Paint the fourteen exterior faces with colors or symbols for solving.
+
+**Printed and assembled well; the square faces are not very easy to turn.** A possible future alternative is the dual body, a **vertex-turning rhombic dodecahedron**, so each axis has a projecting shape to grasp. That grip improvement is a proposal, not a tested replacement.
+
+[Download STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/face-turning-cuboctahedron-v1) · [Build guide](designs/face-turning-cuboctahedron-v1/README.md) · [Piece map](designs/face-turning-cuboctahedron-v1/NEIGHBORS.md) · [Build feedback](designs/face-turning-cuboctahedron-v1/physical-feedback.json)
 
 ## Make one
 
-Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 screws**, **9 × 1 mm washers with M3 clearance holes**, and **DIN985 M3 locknuts**. No glue or separate hidden printed carriers are needed.
+Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 screws** and **DIN985 M3 locknuts**. The six cube shape mods use **9 × 1 mm washers**; the face-turning cuboctahedron uses **7 × 0.5 mm washers**, all with M3 clearance holes. No glue or separate hidden printed carriers are needed.
 
 | Puzzle | Printed puzzle parts, including core | Screws / washers / nuts |
 |---|---:|---:|
@@ -29,6 +39,7 @@ Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 scre
 | Pentagonal prism | 33 | 7 of each |
 | Wavy Redi | 21 | 8 of each |
 | Triangular prism | 21 | 5 of each |
+| Face-turning cuboctahedron | 39 | 14 of each; **7 × 0.5 mm washers** |
 
 Development used a **Bambu Lab P1S, 0.4 mm nozzle and PLA**. Print at **100% scale** in millimetres. Each build guide covers orientations, supports, nut-fit coupons and assembly order. The 3MF plates contain geometry, not a printer profile or G-code. Parts belong to their own mechanism and are not interchangeable between the puzzles.
 
@@ -48,5 +59,6 @@ The [mechanism design guide](docs/mechanism-principles.md) explains these choice
 | Pentagonal prism | [Design](designs/pentagonal-prism-v1/README.md#mechanism) | [Source](designs/pentagonal-prism-v1/source/BUILD.md) | [Validation](designs/pentagonal-prism-v1/VALIDATION.md) |
 | Wavy Redi | [Design](designs/wavy-redi-v1.1/README.md#mechanism-choices) | [Source](designs/wavy-redi-v1.1/source/README.md) | [Validation](designs/wavy-redi-v1.1/VALIDATION.md) |
 | Triangular prism | [Design](designs/triangular-prism-v1/README.md#retention-and-fit) | [Source](designs/triangular-prism-v1/source/BUILD.md) | [Validation](designs/triangular-prism-v1/VALIDATION.md) |
+| Face-turning cuboctahedron | [Design](designs/face-turning-cuboctahedron-v1/README.md#mechanism) | [Source](designs/face-turning-cuboctahedron-v1/source/BUILD.md) | [Validation and build feedback](designs/face-turning-cuboctahedron-v1/VALIDATION.md) |
 
 Designed and physically iterated by **László Lukács**, with CAD, optimization and documentation developed with **OpenAI Codex**. Source, documentation and original generated models are available under the [MIT license](LICENSE).
