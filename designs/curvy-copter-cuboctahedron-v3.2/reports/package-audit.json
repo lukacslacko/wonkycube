@@ -1,0 +1,358 @@
+{
+  "total_full_set": {
+    "C": 12,
+    "P": 24,
+    "K": 8,
+    "core": 1
+  },
+  "plates": [
+    {
+      "file": "plates/P-01.3mf",
+      "objects": [
+        {
+          "name": "P01",
+          "family": "P"
+        },
+        {
+          "name": "P02",
+          "family": "P"
+        },
+        {
+          "name": "P03",
+          "family": "P"
+        },
+        {
+          "name": "P04",
+          "family": "P"
+        },
+        {
+          "name": "P05",
+          "family": "P"
+        },
+        {
+          "name": "P06",
+          "family": "P"
+        },
+        {
+          "name": "P07",
+          "family": "P"
+        },
+        {
+          "name": "P08",
+          "family": "P"
+        },
+        {
+          "name": "P09",
+          "family": "P"
+        },
+        {
+          "name": "P10",
+          "family": "P"
+        },
+        {
+          "name": "P11",
+          "family": "P"
+        },
+        {
+          "name": "P12",
+          "family": "P"
+        },
+        {
+          "name": "P13",
+          "family": "P"
+        },
+        {
+          "name": "P14",
+          "family": "P"
+        },
+        {
+          "name": "P15",
+          "family": "P"
+        },
+        {
+          "name": "P16",
+          "family": "P"
+        },
+        {
+          "name": "P17",
+          "family": "P"
+        },
+        {
+          "name": "P18",
+          "family": "P"
+        },
+        {
+          "name": "P19",
+          "family": "P"
+        },
+        {
+          "name": "P20",
+          "family": "P"
+        },
+        {
+          "name": "P21",
+          "family": "P"
+        },
+        {
+          "name": "P22",
+          "family": "P"
+        },
+        {
+          "name": "P23",
+          "family": "P"
+        },
+        {
+          "name": "P24",
+          "family": "P"
+        }
+      ],
+      "exact_stl_geometry": true,
+      "inside_256mm_bed": true,
+      "overlapping_xy_bounding_boxes": false
+    },
+    {
+      "file": "plates/C-01.3mf",
+      "objects": [
+        {
+          "name": "core",
+          "family": "core"
+        },
+        {
+          "name": "C01",
+          "family": "C"
+        },
+        {
+          "name": "C02",
+          "family": "C"
+        },
+        {
+          "name": "C03",
+          "family": "C"
+        },
+        {
+          "name": "C04",
+          "family": "C"
+        },
+        {
+          "name": "C05",
+          "family": "C"
+        },
+        {
+          "name": "C06",
+          "family": "C"
+        },
+        {
+          "name": "C07",
+          "family": "C"
+        },
+        {
+          "name": "C08",
+          "family": "C"
+        },
+        {
+          "name": "C09",
+          "family": "C"
+        },
+        {
+          "name": "C10",
+          "family": "C"
+        },
+        {
+          "name": "C11",
+          "family": "C"
+        },
+        {
+          "name": "C12",
+          "family": "C"
+        }
+      ],
+      "exact_stl_geometry": true,
+      "inside_256mm_bed": true,
+      "overlapping_xy_bounding_boxes": false
+    },
+    {
+      "file": "plates/K-01.3mf",
+      "objects": [
+        {
+          "name": "K01",
+          "family": "K"
+        },
+        {
+          "name": "K02",
+          "family": "K"
+        },
+        {
+          "name": "K03",
+          "family": "K"
+        },
+        {
+          "name": "K04",
+          "family": "K"
+        },
+        {
+          "name": "K05",
+          "family": "K"
+        },
+        {
+          "name": "K06",
+          "family": "K"
+        },
+        {
+          "name": "K07",
+          "family": "K"
+        },
+        {
+          "name": "K08",
+          "family": "K"
+        }
+      ],
+      "exact_stl_geometry": true,
+      "inside_256mm_bed": true,
+      "overlapping_xy_bounding_boxes": false
+    },
+    {
+      "file": "start-here/retention-test-7-pieces.3mf",
+      "objects": [
+        {
+          "name": "C01",
+          "family": "C"
+        },
+        {
+          "name": "C02",
+          "family": "C"
+        },
+        {
+          "name": "C05",
+          "family": "C"
+        },
+        {
+          "name": "K01",
+          "family": "K"
+        },
+        {
+          "name": "P01",
+          "family": "P"
+        },
+        {
+          "name": "P05",
+          "family": "P"
+        },
+        {
+          "name": "P06",
+          "family": "P"
+        }
+      ],
+      "exact_stl_geometry": true,
+      "inside_256mm_bed": true,
+      "overlapping_xy_bounding_boxes": false
+    },
+    {
+      "file": "start-here/upgrade-test-6-pieces.3mf",
+      "objects": [
+        {
+          "name": "C01",
+          "family": "C"
+        },
+        {
+          "name": "C02",
+          "family": "C"
+        },
+        {
+          "name": "C05",
+          "family": "C"
+        },
+        {
+          "name": "P01",
+          "family": "P"
+        },
+        {
+          "name": "P05",
+          "family": "P"
+        },
+        {
+          "name": "P06",
+          "family": "P"
+        }
+      ],
+      "exact_stl_geometry": true,
+      "inside_256mm_bed": true,
+      "overlapping_xy_bounding_boxes": false
+    },
+    {
+      "file": "start-here/centers-only-test-3-pieces.3mf",
+      "objects": [
+        {
+          "name": "C01",
+          "family": "C"
+        },
+        {
+          "name": "C02",
+          "family": "C"
+        },
+        {
+          "name": "C05",
+          "family": "C"
+        }
+      ],
+      "exact_stl_geometry": true,
+      "inside_256mm_bed": true,
+      "overlapping_xy_bounding_boxes": false
+    },
+    {
+      "file": "start-here/centers-only-full-12-pieces.3mf",
+      "objects": [
+        {
+          "name": "C01",
+          "family": "C"
+        },
+        {
+          "name": "C02",
+          "family": "C"
+        },
+        {
+          "name": "C03",
+          "family": "C"
+        },
+        {
+          "name": "C04",
+          "family": "C"
+        },
+        {
+          "name": "C05",
+          "family": "C"
+        },
+        {
+          "name": "C06",
+          "family": "C"
+        },
+        {
+          "name": "C07",
+          "family": "C"
+        },
+        {
+          "name": "C08",
+          "family": "C"
+        },
+        {
+          "name": "C09",
+          "family": "C"
+        },
+        {
+          "name": "C10",
+          "family": "C"
+        },
+        {
+          "name": "C11",
+          "family": "C"
+        },
+        {
+          "name": "C12",
+          "family": "C"
+        }
+      ],
+      "exact_stl_geometry": true,
+      "inside_256mm_bed": true,
+      "overlapping_xy_bounding_boxes": false
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Designing printed mechanisms that retain well and move freely
 
-These lessons came from printing and revising the Wonky Redi, Wonky Skewb, Wonky conical 3×3, Wonky pentagonal prism, Wavy Redi, Wonky triangular prism and face-turning cuboctahedron. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [Redi](design.md), [Skewb](../designs/skewb-v1.1/DESIGN.md), [conical 3×3](../designs/conical-3x3-v1.1/DESIGN.md), [pentagonal prism](../designs/pentagonal-prism-v1/README.md#mechanism), [Wavy Redi](../designs/wavy-redi-v1.1/README.md#mechanism-choices) and [triangular prism](../designs/triangular-prism-v1/README.md#retention-and-fit) references record particular dimensions; the principles below explain how to choose and evaluate such dimensions elsewhere.
+These lessons came from printing and revising the Wonky Redi, Wonky Skewb, Wonky conical 3×3, Wonky pentagonal prism, Wavy Redi, Wonky triangular prism, face-turning cuboctahedron and Curvy Copter cuboctahedron. They apply more broadly to captive sliders, rotating shells and mechanisms with intersecting motion paths. The [Redi](design.md), [Skewb](../designs/skewb-v1.1/DESIGN.md), [conical 3×3](../designs/conical-3x3-v1.1/DESIGN.md), [pentagonal prism](../designs/pentagonal-prism-v1/README.md#mechanism), [Wavy Redi](../designs/wavy-redi-v1.1/README.md#mechanism-choices) and [triangular prism](../designs/triangular-prism-v1/README.md#retention-and-fit) references record particular dimensions; the principles below explain how to choose and evaluate such dimensions elsewhere.
 
 The successful behavior comes from a combination of features. The print trials changed several features between revisions, so they do not isolate a measured contribution from each radius or clearance.
 
@@ -16,7 +16,7 @@ A useful interface has an explicit answer to each of these questions:
 | Support inward force | Flat annular bearing pad | Screw has to carry bending that a bearing could support |
 | Limit outward movement | Washer, screw and seat | Loose adjustment becomes separation |
 | Prevent an anchored nut turning | Seated hex flats with adequate engagement | Locknut spins before the screw can advance |
-| Retain a sliding piece | Overlapping shoulder with a useful flat land | A sloped lip becomes an escape ramp |
+| Retain a sliding piece | Overlapping bearing land opposing withdrawal, flat or spherical as appropriate | A sloped lip becomes an escape ramp |
 | Permit intended motion | Swept track with positive allowance | Local interference despite an apparently generous gap elsewhere |
 | Help entry under small misalignment | Rounded ends and ridges | A sharp tip meets a sharp track mouth |
 
@@ -254,3 +254,21 @@ The cuboctahedron's dual, a **vertex-turning rhombic dodecahedron**, preserves t
 | Nut stays in during handling but spins under a driver | Grip ribs versus torque-bearing walls | Treat handling retention and antirotation as separate requirements |
 
 The reusable rule is to preserve firm constraints in unwanted directions while making the intended paths forgiving. Capture lands, bearings, clearances and rounded entrances cooperate; none can substitute for all the others.
+
+## 17. Use spherical shoulders for radial capture, and round the intended edge
+
+The **Curvy Copter cuboctahedron printed and built very well**, reported on 2026-09-29. Its working spherical-shell design followed an earlier mechanism in which the screwed pieces stayed attached but the floating shell fell apart. The successful full build supports the revised combination of retaining geometry, size, clearances and rounding; it does not isolate a single cause or establish endurance. [Physical feedback and associated supplied files](../designs/curvy-copter-cuboctahedron-v3.2/physical-feedback.json).
+
+**Make the bearing face oppose the escape direction.** A concentric spherical surface has a normal along the local radial direction, so an overlapping spherical shoulder can directly block outward lift. Here the nominal shell radii are R28.5 and R33.5, with a 40° hidden neck returning to 45° exterior cuts. The centers retain petals, and petals retain floating corners. Spherical shells still need angular overlap: roundness alone cannot retain a foot that fits through the opening.
+
+**Check the whole support chain.** Retention checks limited to an isolated part against perfectly fixed neighbors can miss a shell that opens collectively. In this design the CAD checks credit only inner feet, test petals against the screwed centers with 0.15 mm center lift, and test corners against petals displaced outward 0.8 mm. A legal jumbling walk and limited rocking paths add coverage. These are finite obstruction checks, not an exhaustive escape proof or a force test.
+
+**Specify rounding by its view and sweep direction.** The desired center-flange correction was R1.2 rounding of the outline seen radially, swept through the thickness, approximately cylindrical with the cylinder axis radial. An additional whole-body ball rounding had instead rolled over the spherical bearing rims and reduced their area. Restoring those rims while rounding the outline preserves about 169 mm² of inner spherical bearing face per center. This separates entry relief at the ends from the area providing retention.
+
+![Radial outline rounding preserves the spherical bearing lands](../designs/curvy-copter-cuboctahedron-v3.2/images/v3.2-flange-outline.png)
+
+**Carry radial fillets through the exterior.** Petal tips beside the floating corners initially stayed sharp because the fillet ended about half a millimeter below the surface. Fitting R2 against an extended, unclipped reference and carrying it through the outside removes that terminal sharp corner. Inspect the exterior intersection as well as the hidden track: a correctly rounded internal ridge can still end in a sharp exposed tip.
+
+**Allow for the actual supported surface.** Supported center flanges and petal grooves seized on local roughness during test prints. The petal groove was widened by 0.20 mm overall, split equally between its two spherical walls. The resulting nominal gap is 0.43 mm at each center–petal bearing face, or 0.86 mm total radial groove/flange clearance, while the main conical gap remains 0.08 mm and corner–petal bearing gap 0.33 mm. These are dimensions for this mechanism, not a universal layer-height rule. Remove support nubs and keep paint out of the tracks.
+
+**Distinguish a demonstrated assembly from a computed path.** No assembly-relief cuts were made for the spherical version, preserving its shoulders; the owner successfully interlocked the full shell with screwed centers absent or loose. That is useful physical evidence even though a complete CAD insertion sequence was not established. Keep the original numerical result and the later physical report separately rather than changing an uncomputed-path flag to “proved.”

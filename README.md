@@ -27,9 +27,19 @@ A naturally aligned **64 mm cuboctahedron** with eight triangular centers, six s
 
 [Download STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/face-turning-cuboctahedron-v1) · [Build guide](designs/face-turning-cuboctahedron-v1/README.md) · [Piece map](designs/face-turning-cuboctahedron-v1/NEIGHBORS.md) · [Build feedback](designs/face-turning-cuboctahedron-v1/physical-feedback.json)
 
+## Curvy Copter cuboctahedron
+
+![Natural vertex-turning cuboctahedron with Curvy Copter cuts](designs/curvy-copter-cuboctahedron-v3.2/images/solved-two-sides.png)
+
+A naturally aligned **72 mm vertex-turning cuboctahedron** with twelve screwed centers, twenty-four petals and eight floating corners. It has 45° conical cuts, ordinary 180° turns and jumbling moves at suitable partial alignments. Paint the exterior faces with colors or symbols for solving.
+
+**Printed and built very well.** Spherical-shell shoulders retain petals under the screwed centers and corners under the petals. The published v3.2 includes wider petal grooves, tip rounding through the exterior surface and R1.2 rounding of the center-flange outline while preserving its bearing faces. The original vertex-turning cuboctahedron core can be reused.
+
+[Download STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/curvy-copter-cuboctahedron-v3.2) · [Build guide](designs/curvy-copter-cuboctahedron-v3.2/README.md) · [Piece map](designs/curvy-copter-cuboctahedron-v3.2/NEIGHBORS.md) · [Build feedback](designs/curvy-copter-cuboctahedron-v3.2/physical-feedback.json)
+
 ## Make one
 
-Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 screws** and **DIN985 M3 locknuts**. The six cube shape mods use **9 × 1 mm washers**; the face-turning cuboctahedron uses **7 × 0.5 mm washers**, all with M3 clearance holes. No glue or separate hidden printed carriers are needed.
+Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 screws** and **DIN985 M3 locknuts**. The six cube shape mods and Curvy Copter cuboctahedron use **9 × 1 mm washers**; the face-turning cuboctahedron uses **7 × 0.5 mm washers**, all with M3 clearance holes. No glue or separate hidden printed carriers are needed.
 
 | Puzzle | Printed puzzle parts, including core | Screws / washers / nuts |
 |---|---:|---:|
@@ -40,14 +50,15 @@ Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 scre
 | Wavy Redi | 21 | 8 of each |
 | Triangular prism | 21 | 5 of each |
 | Face-turning cuboctahedron | 39 | 14 of each; **7 × 0.5 mm washers** |
+| Curvy Copter cuboctahedron | 45 | 12 of each; **9 × 1 mm washers** |
 
-Development used a **Bambu Lab P1S, 0.4 mm nozzle and PLA**. Print at **100% scale** in millimetres. Each build guide covers orientations, supports, nut-fit coupons and assembly order. The 3MF plates contain geometry, not a printer profile or G-code. Parts belong to their own mechanism and are not interchangeable between the puzzles.
+Development used a **Bambu Lab P1S, 0.4 mm nozzle and PLA**. Print at **100% scale** in millimetres. Each build guide covers orientations, supports, nut-fit coupons and assembly guidance. The 3MF plates contain geometry, not a printer profile or G-code. Parts belong to their own mechanism and are not interchangeable between the puzzles.
 
 **Redi nut fit:** its supplied core can let some nuts spin during installation. Read the [nut-seat fit note](docs/design.md#known-core-issue-and-next-change) before printing that core. The Skewb, conical 3×3 and pentagonal prism use a wide loading entrance and a tighter final nut seat, with fit alternatives supplied. The pentagonal prism's **5.20 mm final seat / 5.85 mm entrance** fitted well. The same seat was slightly tight in the Wavy Redi print, so its v1.1 core uses **5.25 mm** with the same entrance. Orientation and printing affect fit; check the coupon before reprinting a core.
 
 ## Design and modify
 
-Flat retaining shoulders keep pieces captive; wider swept tracks and continuous rounded ridges help them pass one another. Screw adjustment controls bearing pressure separately from track clearance.
+Flat or spherical retaining shoulders oppose unwanted withdrawal; wider tracks and continuous rounded ridges help pieces pass one another. Screw adjustment controls bearing pressure separately from track clearance.
 
 The [mechanism design guide](docs/mechanism-principles.md) explains these choices, including nut retention, printable flange tips, assembly paths and strong connections around washer wells.
 
@@ -60,5 +71,6 @@ The [mechanism design guide](docs/mechanism-principles.md) explains these choice
 | Wavy Redi | [Design](designs/wavy-redi-v1.1/README.md#mechanism-choices) | [Source](designs/wavy-redi-v1.1/source/README.md) | [Validation](designs/wavy-redi-v1.1/VALIDATION.md) |
 | Triangular prism | [Design](designs/triangular-prism-v1/README.md#retention-and-fit) | [Source](designs/triangular-prism-v1/source/BUILD.md) | [Validation](designs/triangular-prism-v1/VALIDATION.md) |
 | Face-turning cuboctahedron | [Design](designs/face-turning-cuboctahedron-v1/README.md#mechanism) | [Source](designs/face-turning-cuboctahedron-v1/source/BUILD.md) | [Validation and build feedback](designs/face-turning-cuboctahedron-v1/VALIDATION.md) |
+| Curvy Copter cuboctahedron | [Design](designs/curvy-copter-cuboctahedron-v3.2/README.md#mechanism) | [Source](designs/curvy-copter-cuboctahedron-v3.2/source/BUILD.md) | [Validation and build feedback](designs/curvy-copter-cuboctahedron-v3.2/VALIDATION.md) |
 
 Designed and physically iterated by **László Lukács**, with CAD, optimization and documentation developed with **OpenAI Codex**. Source, documentation and original generated models are available under the [MIT license](LICENSE).

@@ -1,0 +1,34 @@
+{
+  "old_core_file": "stl/puzzle/core.stl",
+  "old_core_sha256": "20edef8821b149a3828f44a00fe1b1fb14356b80f2e19657cc34d6badc4bf668",
+  "old_core_static_overlap_mm3": 0.0,
+  "old_core_reusable": true,
+  "outer_pieces_mixable_with_v1": false,
+  "patch_radial_checks": [
+    {
+      "name": "P01",
+      "first_contact_mm": 0.5,
+      "maximum_intersection_mm3": 142.04830637403262,
+      "peak_at_mm": 4.3
+    },
+    {
+      "name": "K01",
+      "first_contact_mm": 0.4,
+      "maximum_intersection_mm3": 151.02847965622774,
+      "peak_at_mm": 4.800000000000001
+    },
+    {
+      "name": "P05",
+      "first_contact_mm": 0.5,
+      "maximum_intersection_mm3": 142.04051706281152,
+      "peak_at_mm": 4.3
+    },
+    {
+      "name": "P06",
+      "first_contact_mm": 0.5,
+      "maximum_intersection_mm3": 142.04592360769783,
+      "peak_at_mm": 4.3
+    }
+  ],
+  "explanation": "Foot plane, axial bore, washer seat and all twelve axes unchanged. Moving shells remain outside the same 21.7 mm cavity. Each axial foot stays beyond its own fixed core pad throughout its spin."
+}

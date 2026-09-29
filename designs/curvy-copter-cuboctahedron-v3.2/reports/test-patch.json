@@ -1,0 +1,15 @@
+{
+  "names": [
+    "P01",
+    "C01",
+    "C02",
+    "K01",
+    "P05",
+    "P06",
+    "C05"
+  ],
+  "actual_puzzle_parts": true,
+  "reuses_old_core": true,
+  "quantity": 7,
+  "bed_inside_256mm": true
+}

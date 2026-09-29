@@ -1,0 +1,2362 @@
+{
+  "seed": 2709,
+  "completed_steps": 48,
+  "passed": true,
+  "checks": [
+    {
+      "step": 1,
+      "axis": 2,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P18",
+        "P19",
+        "C12",
+        "K07",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 12,
+      "samples": 7,
+      "maximum_collision_mm3": 6.8767774467736686e-06
+    },
+    {
+      "step": 2,
+      "axis": 7,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "C03",
+        "K02",
+        "K03",
+        "P08",
+        "P09"
+      ],
+      "legal_axis_count": 10,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777452648651e-06
+    },
+    {
+      "step": 3,
+      "axis": 0,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P14",
+        "P15",
+        "C10",
+        "K05",
+        "K06",
+        "P21",
+        "P22"
+      ],
+      "legal_axis_count": 9,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777542062246e-06
+    },
+    {
+      "step": 4,
+      "axis": 5,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 9,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777448401414e-06
+    },
+    {
+      "step": 5,
+      "axis": 6,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P14",
+        "P16",
+        "P17",
+        "P18",
+        "C11",
+        "K05",
+        "K07"
+      ],
+      "legal_axis_count": 7,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777536501426e-06
+    },
+    {
+      "step": 6,
+      "axis": 7,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "C03",
+        "K02",
+        "K03",
+        "P08",
+        "P09"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777327846231e-06
+    },
+    {
+      "step": 7,
+      "axis": 10,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P03",
+        "K03",
+        "P07",
+        "C06",
+        "P18",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 7,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777445956622e-06
+    },
+    {
+      "step": 8,
+      "axis": 5,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593354947742e-06
+    },
+    {
+      "step": 9,
+      "axis": 7,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "C03",
+        "K02",
+        "P08",
+        "P09",
+        "P18",
+        "K07"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.8767773330165855e-06
+    },
+    {
+      "step": 10,
+      "axis": 10,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P03",
+        "K03",
+        "P07",
+        "P09",
+        "C06",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777330047915e-06
+    },
+    {
+      "step": 11,
+      "axis": 5,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593254249101e-06
+    },
+    {
+      "step": 12,
+      "axis": 6,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P07",
+        "P14",
+        "P16",
+        "P17",
+        "C11",
+        "K05"
+      ],
+      "legal_axis_count": 7,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777536983665e-06
+    },
+    {
+      "step": 13,
+      "axis": 5,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593266549613e-06
+    },
+    {
+      "step": 14,
+      "axis": 2,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593359445541e-06
+    },
+    {
+      "step": 15,
+      "axis": 5,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593257597123e-06
+    },
+    {
+      "step": 16,
+      "axis": 2,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876756457949655e-06
+    },
+    {
+      "step": 17,
+      "axis": 7,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P02",
+        "C03",
+        "K02",
+        "P08",
+        "P18",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 6.8765933553646825e-06
+    },
+    {
+      "step": 18,
+      "axis": 2,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876756457432609e-06
+    },
+    {
+      "step": 19,
+      "axis": 10,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 6.8767773030756505e-06
+    },
+    {
+      "step": 20,
+      "axis": 5,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593378309584e-06
+    },
+    {
+      "step": 21,
+      "axis": 10,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.87659317393149e-06
+    },
+    {
+      "step": 22,
+      "axis": 2,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876756270192825e-06
+    },
+    {
+      "step": 23,
+      "axis": 5,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593367127455e-06
+    },
+    {
+      "step": 24,
+      "axis": 2,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876771236498938e-06
+    },
+    {
+      "step": 25,
+      "axis": 5,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593159523629e-06
+    },
+    {
+      "step": 26,
+      "axis": 10,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593030449395e-06
+    },
+    {
+      "step": 27,
+      "axis": 2,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.875190927869813e-06
+    },
+    {
+      "step": 28,
+      "axis": 5,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593255949609e-06
+    },
+    {
+      "step": 29,
+      "axis": 10,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593030483439e-06
+    },
+    {
+      "step": 30,
+      "axis": 2,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876523417169593e-06
+    },
+    {
+      "step": 31,
+      "axis": 5,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593246871548e-06
+    },
+    {
+      "step": 32,
+      "axis": 10,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876592904975155e-06
+    },
+    {
+      "step": 33,
+      "axis": 2,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876523310306211e-06
+    },
+    {
+      "step": 34,
+      "axis": 5,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593116715834e-06
+    },
+    {
+      "step": 35,
+      "axis": 2,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.8767710623494504e-06
+    },
+    {
+      "step": 36,
+      "axis": 5,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777072496444e-06
+    },
+    {
+      "step": 37,
+      "axis": 8,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P04",
+        "K04",
+        "P06",
+        "C05",
+        "P13",
+        "K06",
+        "P22"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777444625583e-06
+    },
+    {
+      "step": 38,
+      "axis": 10,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876592906533673e-06
+    },
+    {
+      "step": 39,
+      "axis": 3,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "C04",
+        "K01",
+        "P05",
+        "P10",
+        "P11",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777444012033e-06
+    },
+    {
+      "step": 40,
+      "axis": 10,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876592859148702e-06
+    },
+    {
+      "step": 41,
+      "axis": 8,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P04",
+        "K04",
+        "P06",
+        "C05",
+        "P13",
+        "K06",
+        "P22"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777249729529e-06
+    },
+    {
+      "step": 42,
+      "axis": 2,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876756008320191e-06
+    },
+    {
+      "step": 43,
+      "axis": 8,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P04",
+        "K04",
+        "P06",
+        "C05",
+        "P13",
+        "K06",
+        "P22"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777363472762e-06
+    },
+    {
+      "step": 44,
+      "axis": 2,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876592597333111e-06
+    },
+    {
+      "step": 45,
+      "axis": 3,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "C04",
+        "K01",
+        "P05",
+        "P10",
+        "P11",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593354817561e-06
+    },
+    {
+      "step": 46,
+      "axis": 2,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876592680310417e-06
+    },
+    {
+      "step": 47,
+      "axis": 8,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P04",
+        "K04",
+        "P06",
+        "C05",
+        "P13",
+        "K06",
+        "P22"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876777376683868e-06
+    },
+    {
+      "step": 48,
+      "axis": 3,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "C04",
+        "K01",
+        "P05",
+        "P10",
+        "P11",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 6.876593225979498e-06
+    }
+  ],
+  "radial_extraction_probes": [
+    {
+      "after_step": 8,
+      "name": "P01",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.64174216001626
+    },
+    {
+      "after_step": 8,
+      "name": "P02",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551937
+    },
+    {
+      "after_step": 8,
+      "name": "P03",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.962249452734
+    },
+    {
+      "after_step": 8,
+      "name": "P04",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 110.34240303917039
+    },
+    {
+      "after_step": 8,
+      "name": "K01",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909124
+    },
+    {
+      "after_step": 8,
+      "name": "K02",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 120.35145832727007
+    },
+    {
+      "after_step": 8,
+      "name": "K03",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24764189733813
+    },
+    {
+      "after_step": 8,
+      "name": "K04",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24861097811099
+    },
+    {
+      "after_step": 8,
+      "name": "P05",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 110.33413040876538
+    },
+    {
+      "after_step": 8,
+      "name": "P06",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551977
+    },
+    {
+      "after_step": 8,
+      "name": "P07",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.76585951521514
+    },
+    {
+      "after_step": 8,
+      "name": "P08",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551937
+    },
+    {
+      "after_step": 8,
+      "name": "P09",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03939713383107
+    },
+    {
+      "after_step": 8,
+      "name": "P10",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551977
+    },
+    {
+      "after_step": 8,
+      "name": "P11",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03939713383144
+    },
+    {
+      "after_step": 8,
+      "name": "P12",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.63802428517647
+    },
+    {
+      "after_step": 8,
+      "name": "P13",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 8,
+      "name": "P14",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.039397133832
+    },
+    {
+      "after_step": 8,
+      "name": "P15",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566552003
+    },
+    {
+      "after_step": 8,
+      "name": "P16",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.74485582717364
+    },
+    {
+      "after_step": 8,
+      "name": "P17",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03707325738765
+    },
+    {
+      "after_step": 8,
+      "name": "P18",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.7627598094927
+    },
+    {
+      "after_step": 8,
+      "name": "P19",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98713743117884
+    },
+    {
+      "after_step": 8,
+      "name": "P20",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 8,
+      "name": "K05",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909134
+    },
+    {
+      "after_step": 8,
+      "name": "K06",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 120.35145832727032
+    },
+    {
+      "after_step": 8,
+      "name": "K07",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909095
+    },
+    {
+      "after_step": 8,
+      "name": "K08",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.2476418973385
+    },
+    {
+      "after_step": 8,
+      "name": "P21",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.97290334752223
+    },
+    {
+      "after_step": 8,
+      "name": "P22",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04474954196382
+    },
+    {
+      "after_step": 8,
+      "name": "P23",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98946130762275
+    },
+    {
+      "after_step": 8,
+      "name": "P24",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.75339404420832
+    },
+    {
+      "after_step": 16,
+      "name": "P01",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98634996798751
+    },
+    {
+      "after_step": 16,
+      "name": "P02",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.75339404420801
+    },
+    {
+      "after_step": 16,
+      "name": "P03",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03939713383068
+    },
+    {
+      "after_step": 16,
+      "name": "P04",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.75339404420798
+    },
+    {
+      "after_step": 16,
+      "name": "K01",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909116
+    },
+    {
+      "after_step": 16,
+      "name": "K02",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24861097811089
+    },
+    {
+      "after_step": 16,
+      "name": "K03",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909062
+    },
+    {
+      "after_step": 16,
+      "name": "K04",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24861097811086
+    },
+    {
+      "after_step": 16,
+      "name": "P05",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.74485582717307
+    },
+    {
+      "after_step": 16,
+      "name": "P06",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551977
+    },
+    {
+      "after_step": 16,
+      "name": "P07",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96760186086604
+    },
+    {
+      "after_step": 16,
+      "name": "P08",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.9871374311785
+    },
+    {
+      "after_step": 16,
+      "name": "P09",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03707325738705
+    },
+    {
+      "after_step": 16,
+      "name": "P10",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551977
+    },
+    {
+      "after_step": 16,
+      "name": "P11",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03939713383144
+    },
+    {
+      "after_step": 16,
+      "name": "P12",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98713743117833
+    },
+    {
+      "after_step": 16,
+      "name": "P13",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 16,
+      "name": "P14",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.76585951521567
+    },
+    {
+      "after_step": 16,
+      "name": "P15",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566552003
+    },
+    {
+      "after_step": 16,
+      "name": "P16",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96224945273488
+    },
+    {
+      "after_step": 16,
+      "name": "P17",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 100.41066457526752
+    },
+    {
+      "after_step": 16,
+      "name": "P18",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.9863499679873
+    },
+    {
+      "after_step": 16,
+      "name": "P19",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 77.6276381269329
+    },
+    {
+      "after_step": 16,
+      "name": "P20",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 16,
+      "name": "K05",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909123
+    },
+    {
+      "after_step": 16,
+      "name": "K06",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 120.35145832727032
+    },
+    {
+      "after_step": 16,
+      "name": "K07",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24861097811126
+    },
+    {
+      "after_step": 16,
+      "name": "K08",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24764189733844
+    },
+    {
+      "after_step": 16,
+      "name": "P21",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.75020823530556
+    },
+    {
+      "after_step": 16,
+      "name": "P22",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04474954196382
+    },
+    {
+      "after_step": 16,
+      "name": "P23",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 111.99306630313382
+    },
+    {
+      "after_step": 16,
+      "name": "P24",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.76640503144696
+    },
+    {
+      "after_step": 24,
+      "name": "P01",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.64174216001625
+    },
+    {
+      "after_step": 24,
+      "name": "P02",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 102.69810580986706
+    },
+    {
+      "after_step": 24,
+      "name": "P03",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 65.50993054347028
+    },
+    {
+      "after_step": 24,
+      "name": "P04",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 110.34240303917024
+    },
+    {
+      "after_step": 24,
+      "name": "K01",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909122
+    },
+    {
+      "after_step": 24,
+      "name": "K02",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 40.14479454817901
+    },
+    {
+      "after_step": 24,
+      "name": "K03",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909029
+    },
+    {
+      "after_step": 24,
+      "name": "K04",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.2486109781109
+    },
+    {
+      "after_step": 24,
+      "name": "P05",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 110.33413040876533
+    },
+    {
+      "after_step": 24,
+      "name": "P06",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551977
+    },
+    {
+      "after_step": 24,
+      "name": "P07",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96760186086604
+    },
+    {
+      "after_step": 24,
+      "name": "P08",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.9840260915439
+    },
+    {
+      "after_step": 24,
+      "name": "P09",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 126.27188889512848
+    },
+    {
+      "after_step": 24,
+      "name": "P10",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551977
+    },
+    {
+      "after_step": 24,
+      "name": "P11",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03939713383144
+    },
+    {
+      "after_step": 24,
+      "name": "P12",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.63802428517639
+    },
+    {
+      "after_step": 24,
+      "name": "P13",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 24,
+      "name": "P14",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 108.04173684686161
+    },
+    {
+      "after_step": 24,
+      "name": "P15",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566552003
+    },
+    {
+      "after_step": 24,
+      "name": "P16",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96224945273487
+    },
+    {
+      "after_step": 24,
+      "name": "P17",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 100.40659507969181
+    },
+    {
+      "after_step": 24,
+      "name": "P18",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98946130762235
+    },
+    {
+      "after_step": 24,
+      "name": "P19",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 126.44399333053398
+    },
+    {
+      "after_step": 24,
+      "name": "P20",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 24,
+      "name": "K05",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 40.10284734915944
+    },
+    {
+      "after_step": 24,
+      "name": "K06",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 120.35145832727032
+    },
+    {
+      "after_step": 24,
+      "name": "K07",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24861097811143
+    },
+    {
+      "after_step": 24,
+      "name": "K08",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24764189733814
+    },
+    {
+      "after_step": 24,
+      "name": "P21",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.75020823530564
+    },
+    {
+      "after_step": 24,
+      "name": "P22",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04474954196382
+    },
+    {
+      "after_step": 24,
+      "name": "P23",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 116.02902095182097
+    },
+    {
+      "after_step": 24,
+      "name": "P24",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.32062687360863
+    },
+    {
+      "after_step": 32,
+      "name": "P01",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.6417421600161
+    },
+    {
+      "after_step": 32,
+      "name": "P02",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 84.47450401745962
+    },
+    {
+      "after_step": 32,
+      "name": "P03",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 126.12868313609057
+    },
+    {
+      "after_step": 32,
+      "name": "P04",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 110.34240303917007
+    },
+    {
+      "after_step": 32,
+      "name": "K01",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909122
+    },
+    {
+      "after_step": 32,
+      "name": "K02",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 40.14479454817901
+    },
+    {
+      "after_step": 32,
+      "name": "K03",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909052
+    },
+    {
+      "after_step": 32,
+      "name": "K04",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.2486109781109
+    },
+    {
+      "after_step": 32,
+      "name": "P05",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 110.33413040876515
+    },
+    {
+      "after_step": 32,
+      "name": "P06",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551977
+    },
+    {
+      "after_step": 32,
+      "name": "P07",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96760186086604
+    },
+    {
+      "after_step": 32,
+      "name": "P08",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.9840260915439
+    },
+    {
+      "after_step": 32,
+      "name": "P09",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.11938978521829
+    },
+    {
+      "after_step": 32,
+      "name": "P10",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551977
+    },
+    {
+      "after_step": 32,
+      "name": "P11",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03939713383144
+    },
+    {
+      "after_step": 32,
+      "name": "P12",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.63802428517633
+    },
+    {
+      "after_step": 32,
+      "name": "P13",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 32,
+      "name": "P14",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 86.42758146771224
+    },
+    {
+      "after_step": 32,
+      "name": "P15",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566552003
+    },
+    {
+      "after_step": 32,
+      "name": "P16",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96224945273488
+    },
+    {
+      "after_step": 32,
+      "name": "P17",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 126.85357123524753
+    },
+    {
+      "after_step": 32,
+      "name": "P18",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98946130762235
+    },
+    {
+      "after_step": 32,
+      "name": "P19",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 130.7373726947109
+    },
+    {
+      "after_step": 32,
+      "name": "P20",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 32,
+      "name": "K05",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 40.10284734915932
+    },
+    {
+      "after_step": 32,
+      "name": "K06",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 120.35145832727032
+    },
+    {
+      "after_step": 32,
+      "name": "K07",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24861097811143
+    },
+    {
+      "after_step": 32,
+      "name": "K08",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 113.20694120942676
+    },
+    {
+      "after_step": 32,
+      "name": "P21",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.75020823530564
+    },
+    {
+      "after_step": 32,
+      "name": "P22",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04474954196382
+    },
+    {
+      "after_step": 32,
+      "name": "P23",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 116.02437673059443
+    },
+    {
+      "after_step": 32,
+      "name": "P24",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 126.85892364337924
+    },
+    {
+      "after_step": 40,
+      "name": "P01",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03939713383005
+    },
+    {
+      "after_step": 40,
+      "name": "P02",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 84.47450401745958
+    },
+    {
+      "after_step": 40,
+      "name": "P03",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 126.12868313609054
+    },
+    {
+      "after_step": 40,
+      "name": "P04",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.76043593304766
+    },
+    {
+      "after_step": 40,
+      "name": "K01",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.2486109781102
+    },
+    {
+      "after_step": 40,
+      "name": "K02",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 40.144794548179
+    },
+    {
+      "after_step": 40,
+      "name": "K03",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909035
+    },
+    {
+      "after_step": 40,
+      "name": "K04",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24764189733777
+    },
+    {
+      "after_step": 40,
+      "name": "P05",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.12068743469268
+    },
+    {
+      "after_step": 40,
+      "name": "P06",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.97290334752229
+    },
+    {
+      "after_step": 40,
+      "name": "P07",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96760186086604
+    },
+    {
+      "after_step": 40,
+      "name": "P08",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.9840260915439
+    },
+    {
+      "after_step": 40,
+      "name": "P09",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.11938978521815
+    },
+    {
+      "after_step": 40,
+      "name": "P10",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98713743117884
+    },
+    {
+      "after_step": 40,
+      "name": "P11",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.74485582717355
+    },
+    {
+      "after_step": 40,
+      "name": "P12",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551866
+    },
+    {
+      "after_step": 40,
+      "name": "P13",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96755093938995
+    },
+    {
+      "after_step": 40,
+      "name": "P14",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 86.42758146771219
+    },
+    {
+      "after_step": 40,
+      "name": "P15",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566552003
+    },
+    {
+      "after_step": 40,
+      "name": "P16",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96224945273487
+    },
+    {
+      "after_step": 40,
+      "name": "P17",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 100.41066457526676
+    },
+    {
+      "after_step": 40,
+      "name": "P18",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98946130762235
+    },
+    {
+      "after_step": 40,
+      "name": "P19",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 77.62763812693237
+    },
+    {
+      "after_step": 40,
+      "name": "P20",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 40,
+      "name": "K05",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 40.10284734915936
+    },
+    {
+      "after_step": 40,
+      "name": "K06",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909113
+    },
+    {
+      "after_step": 40,
+      "name": "K07",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24861097811139
+    },
+    {
+      "after_step": 40,
+      "name": "K08",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24764189733807
+    },
+    {
+      "after_step": 40,
+      "name": "P21",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 126.13299788874913
+    },
+    {
+      "after_step": 40,
+      "name": "P22",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.76275980949279
+    },
+    {
+      "after_step": 40,
+      "name": "P23",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 111.99306630313261
+    },
+    {
+      "after_step": 40,
+      "name": "P24",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.76640503144516
+    },
+    {
+      "after_step": 48,
+      "name": "P01",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.03939713383005
+    },
+    {
+      "after_step": 48,
+      "name": "P02",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 84.47450401745958
+    },
+    {
+      "after_step": 48,
+      "name": "P03",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 126.12868313609054
+    },
+    {
+      "after_step": 48,
+      "name": "P04",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.9840260915422
+    },
+    {
+      "after_step": 48,
+      "name": "K01",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24861097811011
+    },
+    {
+      "after_step": 48,
+      "name": "K02",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 40.144794548179
+    },
+    {
+      "after_step": 48,
+      "name": "K03",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 120.35145832726808
+    },
+    {
+      "after_step": 48,
+      "name": "K04",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24764189733763
+    },
+    {
+      "after_step": 48,
+      "name": "P05",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98946130762089
+    },
+    {
+      "after_step": 48,
+      "name": "P06",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.75339404420774
+    },
+    {
+      "after_step": 48,
+      "name": "P07",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96760186086604
+    },
+    {
+      "after_step": 48,
+      "name": "P08",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.9840260915439
+    },
+    {
+      "after_step": 48,
+      "name": "P09",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.11938978521815
+    },
+    {
+      "after_step": 48,
+      "name": "P10",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 91.11832427159439
+    },
+    {
+      "after_step": 48,
+      "name": "P11",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 126.12772522883135
+    },
+    {
+      "after_step": 48,
+      "name": "P12",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566551866
+    },
+    {
+      "after_step": 48,
+      "name": "P13",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.74804163607547
+    },
+    {
+      "after_step": 48,
+      "name": "P14",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 86.42758146771219
+    },
+    {
+      "after_step": 48,
+      "name": "P15",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.04242566552003
+    },
+    {
+      "after_step": 48,
+      "name": "P16",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.96224945273487
+    },
+    {
+      "after_step": 48,
+      "name": "P17",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.037073257385
+    },
+    {
+      "after_step": 48,
+      "name": "P18",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98946130762235
+    },
+    {
+      "after_step": 48,
+      "name": "P19",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98713743117656
+    },
+    {
+      "after_step": 48,
+      "name": "P20",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 131.0370732573876
+    },
+    {
+      "after_step": 48,
+      "name": "K05",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 40.10284734915936
+    },
+    {
+      "after_step": 48,
+      "name": "K06",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.20666377909102
+    },
+    {
+      "after_step": 48,
+      "name": "K07",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24861097811143
+    },
+    {
+      "after_step": 48,
+      "name": "K08",
+      "support_family": "P",
+      "support_outward_displacement_mm": 0.8,
+      "radial_contact_mm": 1.5,
+      "maximum_intersection_mm3": 80.24764189733799
+    },
+    {
+      "after_step": 48,
+      "name": "P21",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.75020823530551
+    },
+    {
+      "after_step": 48,
+      "name": "P22",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98634996798737
+    },
+    {
+      "after_step": 48,
+      "name": "P23",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 125.98946130762045
+    },
+    {
+      "after_step": 48,
+      "name": "P24",
+      "support_family": "C",
+      "support_outward_displacement_mm": 0.15,
+      "radial_contact_mm": 1.0,
+      "maximum_intersection_mm3": 107.75339404420667
+    }
+  ],
+  "scope": "One finite legal jumbling walk; sampled rigid extraction, not exhaustive state-space or escape-path coverage."
+}

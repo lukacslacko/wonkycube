@@ -1,0 +1,43 @@
+{
+  "name": "corner-print-8",
+  "family": "K",
+  "quantity": 8,
+  "file": "stl/puzzle/corner-print-8.stl",
+  "sha256": "bbe320b6d00d9865c6ca8b056fa959949339cf94f712a417a7845b7e4604f6d8",
+  "mechanism_to_print": [
+    [
+      0.4082482904638628,
+      -0.8164965809277259,
+      -0.4082482904638628,
+      1.8705227174439822
+    ],
+    [
+      -0.7071067811865475,
+      -1.622704860489121e-16,
+      -0.7071067811865471,
+      -0.00031896734954184325
+    ],
+    [
+      0.5773502691896255,
+      0.5773502691896255,
+      -0.577350269189626,
+      41.5692204828613
+    ]
+  ],
+  "dimensions_mm": [
+    17.775638580322266,
+    19.05613899230957,
+    20.522808074951172
+  ],
+  "volume_mm3": 2159.4688484963276,
+  "triangles": 8238,
+  "watertight": true,
+  "components": 1,
+  "cleanup": {
+    "slit_weld_displacement_bound_mm": 0.0,
+    "coordinate_decimals": 8,
+    "local_contact_envelope_mm": 0.0,
+    "local_contact_capsules": 0,
+    "local_contact_added_volume_mm3": 0.0
+  }
+}

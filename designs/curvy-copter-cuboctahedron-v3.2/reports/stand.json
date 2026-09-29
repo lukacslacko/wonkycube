@@ -1,0 +1,5 @@
+{
+  "replaces": "C01",
+  "axial_withdrawal_mm": 85,
+  "maximum_collision_mm3": 0
+}

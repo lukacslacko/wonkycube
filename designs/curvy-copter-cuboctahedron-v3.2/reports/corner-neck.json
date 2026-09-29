@@ -1,0 +1,1512 @@
+{
+  "minimum_centered_solid_diameter_mm": 4.627114758902587,
+  "minimum_connected_cross_section_mm2": 20.26980319011892,
+  "sampling_mm": 0.05,
+  "range_mm": [
+    23,
+    38
+  ],
+  "records": [
+    {
+      "radial_station_mm": 23.0,
+      "connected_center_area_mm2": 65.57069783373946,
+      "centered_inscribed_radius_mm": 3.902485771661323
+    },
+    {
+      "radial_station_mm": 23.05,
+      "connected_center_area_mm2": 65.8771346140254,
+      "centered_inscribed_radius_mm": 3.9110637462566316
+    },
+    {
+      "radial_station_mm": 23.1,
+      "connected_center_area_mm2": 66.18424649178162,
+      "centered_inscribed_radius_mm": 3.919641720039902
+    },
+    {
+      "radial_station_mm": 23.150000000000002,
+      "connected_center_area_mm2": 66.49203353377754,
+      "centered_inscribed_radius_mm": 3.9282196945938903
+    },
+    {
+      "radial_station_mm": 23.200000000000003,
+      "connected_center_area_mm2": 66.80049568674634,
+      "centered_inscribed_radius_mm": 3.9367976705490824
+    },
+    {
+      "radial_station_mm": 23.250000000000004,
+      "connected_center_area_mm2": 67.10963296968406,
+      "centered_inscribed_radius_mm": 3.9453756491451157
+    },
+    {
+      "radial_station_mm": 23.300000000000004,
+      "connected_center_area_mm2": 67.41944539013936,
+      "centered_inscribed_radius_mm": 3.953953625229813
+    },
+    {
+      "radial_station_mm": 23.350000000000005,
+      "connected_center_area_mm2": 67.72993292516162,
+      "centered_inscribed_radius_mm": 3.962531599855032
+    },
+    {
+      "radial_station_mm": 23.400000000000006,
+      "connected_center_area_mm2": 68.04109559746774,
+      "centered_inscribed_radius_mm": 3.9711095761700625
+    },
+    {
+      "radial_station_mm": 23.450000000000006,
+      "connected_center_area_mm2": 68.35293340480524,
+      "centered_inscribed_radius_mm": 3.979687547936429
+    },
+    {
+      "radial_station_mm": 23.500000000000007,
+      "connected_center_area_mm2": 68.66544634938897,
+      "centered_inscribed_radius_mm": 3.988265527716417
+    },
+    {
+      "radial_station_mm": 23.550000000000008,
+      "connected_center_area_mm2": 68.97863441251026,
+      "centered_inscribed_radius_mm": 3.9968435022936437
+    },
+    {
+      "radial_station_mm": 23.60000000000001,
+      "connected_center_area_mm2": 69.29249743601129,
+      "centered_inscribed_radius_mm": 4.005421478792015
+    },
+    {
+      "radial_station_mm": 23.65000000000001,
+      "connected_center_area_mm2": 69.60700689060117,
+      "centered_inscribed_radius_mm": 4.013999453437652
+    },
+    {
+      "radial_station_mm": 23.70000000000001,
+      "connected_center_area_mm2": 69.92218697146544,
+      "centered_inscribed_radius_mm": 4.022577430097063
+    },
+    {
+      "radial_station_mm": 23.75000000000001,
+      "connected_center_area_mm2": 70.23804049338659,
+      "centered_inscribed_radius_mm": 4.031155404292301
+    },
+    {
+      "radial_station_mm": 23.80000000000001,
+      "connected_center_area_mm2": 70.55456744748767,
+      "centered_inscribed_radius_mm": 4.03973338094844
+    },
+    {
+      "radial_station_mm": 23.850000000000012,
+      "connected_center_area_mm2": 70.87176782273235,
+      "centered_inscribed_radius_mm": 4.048311355559122
+    },
+    {
+      "radial_station_mm": 23.900000000000013,
+      "connected_center_area_mm2": 71.18964163682595,
+      "centered_inscribed_radius_mm": 4.056889332350616
+    },
+    {
+      "radial_station_mm": 23.950000000000014,
+      "connected_center_area_mm2": 71.50818888353608,
+      "centered_inscribed_radius_mm": 4.065467309695077
+    },
+    {
+      "radial_station_mm": 24.000000000000014,
+      "connected_center_area_mm2": 71.82740954183174,
+      "centered_inscribed_radius_mm": 4.074045286546528
+    },
+    {
+      "radial_station_mm": 24.050000000000015,
+      "connected_center_area_mm2": 72.14730363853597,
+      "centered_inscribed_radius_mm": 4.082623261192286
+    },
+    {
+      "radial_station_mm": 24.100000000000016,
+      "connected_center_area_mm2": 72.46787117690549,
+      "centered_inscribed_radius_mm": 4.091201234263031
+    },
+    {
+      "radial_station_mm": 24.150000000000016,
+      "connected_center_area_mm2": 72.78911214588476,
+      "centered_inscribed_radius_mm": 4.099779208896901
+    },
+    {
+      "radial_station_mm": 24.200000000000017,
+      "connected_center_area_mm2": 73.11102653227074,
+      "centered_inscribed_radius_mm": 4.108357188320738
+    },
+    {
+      "radial_station_mm": 24.250000000000018,
+      "connected_center_area_mm2": 73.43361435656696,
+      "centered_inscribed_radius_mm": 4.116935162945
+    },
+    {
+      "radial_station_mm": 24.30000000000002,
+      "connected_center_area_mm2": 73.75687562219463,
+      "centered_inscribed_radius_mm": 4.125513140000877
+    },
+    {
+      "radial_station_mm": 24.35000000000002,
+      "connected_center_area_mm2": 74.08081030341214,
+      "centered_inscribed_radius_mm": 4.134091113308624
+    },
+    {
+      "radial_station_mm": 24.40000000000002,
+      "connected_center_area_mm2": 74.4054184329568,
+      "centered_inscribed_radius_mm": 4.142669090474956
+    },
+    {
+      "radial_station_mm": 24.45000000000002,
+      "connected_center_area_mm2": 74.73069997927803,
+      "centered_inscribed_radius_mm": 4.151247063173422
+    },
+    {
+      "radial_station_mm": 24.50000000000002,
+      "connected_center_area_mm2": 75.05665495539593,
+      "centered_inscribed_radius_mm": 4.159825040336885
+    },
+    {
+      "radial_station_mm": 24.550000000000022,
+      "connected_center_area_mm2": 75.38328336337673,
+      "centered_inscribed_radius_mm": 4.168403015002157
+    },
+    {
+      "radial_station_mm": 24.600000000000023,
+      "connected_center_area_mm2": 75.71058520278395,
+      "centered_inscribed_radius_mm": 4.176980992239147
+    },
+    {
+      "radial_station_mm": 24.650000000000023,
+      "connected_center_area_mm2": 76.03856048155355,
+      "centered_inscribed_radius_mm": 4.185558966931341
+    },
+    {
+      "radial_station_mm": 24.700000000000024,
+      "connected_center_area_mm2": 76.3672091808694,
+      "centered_inscribed_radius_mm": 4.19413694624782
+    },
+    {
+      "radial_station_mm": 24.750000000000025,
+      "connected_center_area_mm2": 76.69653131423905,
+      "centered_inscribed_radius_mm": 4.202714920930886
+    },
+    {
+      "radial_station_mm": 24.800000000000026,
+      "connected_center_area_mm2": 77.0265268849672,
+      "centered_inscribed_radius_mm": 4.211292893806691
+    },
+    {
+      "radial_station_mm": 24.850000000000026,
+      "connected_center_area_mm2": 77.35719588242956,
+      "centered_inscribed_radius_mm": 4.219870868481947
+    },
+    {
+      "radial_station_mm": 24.900000000000027,
+      "connected_center_area_mm2": 77.68853832119437,
+      "centered_inscribed_radius_mm": 4.22844884584297
+    },
+    {
+      "radial_station_mm": 24.950000000000028,
+      "connected_center_area_mm2": 78.02055417052095,
+      "centered_inscribed_radius_mm": 4.237026822400014
+    },
+    {
+      "radial_station_mm": 25.00000000000003,
+      "connected_center_area_mm2": 78.35324346097741,
+      "centered_inscribed_radius_mm": 4.245604799787944
+    },
+    {
+      "radial_station_mm": 25.05000000000003,
+      "connected_center_area_mm2": 78.68660617762103,
+      "centered_inscribed_radius_mm": 4.254182774477662
+    },
+    {
+      "radial_station_mm": 25.10000000000003,
+      "connected_center_area_mm2": 79.02064232972018,
+      "centered_inscribed_radius_mm": 4.2627607472909625
+    },
+    {
+      "radial_station_mm": 25.15000000000003,
+      "connected_center_area_mm2": 79.35535192206328,
+      "centered_inscribed_radius_mm": 4.27133872372815
+    },
+    {
+      "radial_station_mm": 25.20000000000003,
+      "connected_center_area_mm2": 79.69073492179622,
+      "centered_inscribed_radius_mm": 4.27991670116665
+    },
+    {
+      "radial_station_mm": 25.250000000000032,
+      "connected_center_area_mm2": 80.0267913713659,
+      "centered_inscribed_radius_mm": 4.288494675844266
+    },
+    {
+      "radial_station_mm": 25.300000000000033,
+      "connected_center_area_mm2": 80.36352124945014,
+      "centered_inscribed_radius_mm": 4.2970726533296775
+    },
+    {
+      "radial_station_mm": 25.350000000000033,
+      "connected_center_area_mm2": 80.7009245502649,
+      "centered_inscribed_radius_mm": 4.305650628024906
+    },
+    {
+      "radial_station_mm": 25.400000000000034,
+      "connected_center_area_mm2": 81.03900129377895,
+      "centered_inscribed_radius_mm": 4.314228607191806
+    },
+    {
+      "radial_station_mm": 25.450000000000035,
+      "connected_center_area_mm2": 81.3777514540827,
+      "centered_inscribed_radius_mm": 4.3228065799372715
+    },
+    {
+      "radial_station_mm": 25.500000000000036,
+      "connected_center_area_mm2": 81.71717505207951,
+      "centered_inscribed_radius_mm": 4.331384554620361
+    },
+    {
+      "radial_station_mm": 25.550000000000036,
+      "connected_center_area_mm2": 82.05727174380293,
+      "centered_inscribed_radius_mm": 4.339962532174214
+    },
+    {
+      "radial_station_mm": 25.600000000000037,
+      "connected_center_area_mm2": 82.39804050394488,
+      "centered_inscribed_radius_mm": 4.348540506872643
+    },
+    {
+      "radial_station_mm": 25.650000000000038,
+      "connected_center_area_mm2": 82.73947957011109,
+      "centered_inscribed_radius_mm": 4.3571184860016094
+    },
+    {
+      "radial_station_mm": 25.70000000000004,
+      "connected_center_area_mm2": 83.08158949212107,
+      "centered_inscribed_radius_mm": 4.3656964606952915
+    },
+    {
+      "radial_station_mm": 25.75000000000004,
+      "connected_center_area_mm2": 83.42437144035894,
+      "centered_inscribed_radius_mm": 4.3742744383042265
+    },
+    {
+      "radial_station_mm": 25.80000000000004,
+      "connected_center_area_mm2": 83.76782546343266,
+      "centered_inscribed_radius_mm": 4.3828524080884215
+    },
+    {
+      "radial_station_mm": 25.85000000000004,
+      "connected_center_area_mm2": 84.11195155907268,
+      "centered_inscribed_radius_mm": 4.391430385713983
+    },
+    {
+      "radial_station_mm": 25.90000000000004,
+      "connected_center_area_mm2": 84.45674965345489,
+      "centered_inscribed_radius_mm": 4.400008361865202
+    },
+    {
+      "radial_station_mm": 25.950000000000042,
+      "connected_center_area_mm2": 84.80221822722488,
+      "centered_inscribed_radius_mm": 4.408586339506855
+    },
+    {
+      "radial_station_mm": 26.000000000000043,
+      "connected_center_area_mm2": 85.14835713961078,
+      "centered_inscribed_radius_mm": 4.417164314205346
+    },
+    {
+      "radial_station_mm": 26.050000000000043,
+      "connected_center_area_mm2": 85.49516762908448,
+      "centered_inscribed_radius_mm": 4.425742291878245
+    },
+    {
+      "radial_station_mm": 26.100000000000044,
+      "connected_center_area_mm2": 85.8426519546776,
+      "centered_inscribed_radius_mm": 4.434320261567833
+    },
+    {
+      "radial_station_mm": 26.150000000000045,
+      "connected_center_area_mm2": 86.19081299897695,
+      "centered_inscribed_radius_mm": 4.442898240625313
+    },
+    {
+      "radial_station_mm": 26.200000000000045,
+      "connected_center_area_mm2": 86.5331506633803,
+      "centered_inscribed_radius_mm": 4.451476215316863
+    },
+    {
+      "radial_station_mm": 26.250000000000046,
+      "connected_center_area_mm2": 86.86162702188209,
+      "centered_inscribed_radius_mm": 4.460054193018065
+    },
+    {
+      "radial_station_mm": 26.300000000000047,
+      "connected_center_area_mm2": 87.18235077423934,
+      "centered_inscribed_radius_mm": 4.468632167720658
+    },
+    {
+      "radial_station_mm": 26.350000000000048,
+      "connected_center_area_mm2": 87.49737536330373,
+      "centered_inscribed_radius_mm": 4.477210145449043
+    },
+    {
+      "radial_station_mm": 26.40000000000005,
+      "connected_center_area_mm2": 87.80782183750819,
+      "centered_inscribed_radius_mm": 4.485788121462093
+    },
+    {
+      "radial_station_mm": 26.45000000000005,
+      "connected_center_area_mm2": 88.11393097679664,
+      "centered_inscribed_radius_mm": 4.494366094084529
+    },
+    {
+      "radial_station_mm": 26.50000000000005,
+      "connected_center_area_mm2": 88.41630021888973,
+      "centered_inscribed_radius_mm": 4.502944068781002
+    },
+    {
+      "radial_station_mm": 26.55000000000005,
+      "connected_center_area_mm2": 88.71571431469114,
+      "centered_inscribed_radius_mm": 4.511522046534109
+    },
+    {
+      "radial_station_mm": 26.60000000000005,
+      "connected_center_area_mm2": 89.01241817301101,
+      "centered_inscribed_radius_mm": 4.52010002248986
+    },
+    {
+      "radial_station_mm": 26.650000000000052,
+      "connected_center_area_mm2": 89.3064063793054,
+      "centered_inscribed_radius_mm": 4.528678000254814
+    },
+    {
+      "radial_station_mm": 26.700000000000053,
+      "connected_center_area_mm2": 89.59783834101512,
+      "centered_inscribed_radius_mm": 4.537255974958097
+    },
+    {
+      "radial_station_mm": 26.750000000000053,
+      "connected_center_area_mm2": 89.88686339989191,
+      "centered_inscribed_radius_mm": 4.545833952746108
+    },
+    {
+      "radial_station_mm": 26.800000000000054,
+      "connected_center_area_mm2": 90.17382145262819,
+      "centered_inscribed_radius_mm": 4.554411922255374
+    },
+    {
+      "radial_station_mm": 26.850000000000055,
+      "connected_center_area_mm2": 90.45878026550834,
+      "centered_inscribed_radius_mm": 4.562989901246023
+    },
+    {
+      "radial_station_mm": 26.900000000000055,
+      "connected_center_area_mm2": 90.7419132740811,
+      "centered_inscribed_radius_mm": 4.571567875242845
+    },
+    {
+      "radial_station_mm": 26.950000000000056,
+      "connected_center_area_mm2": 91.0232823501273,
+      "centered_inscribed_radius_mm": 4.5801458530583945
+    },
+    {
+      "radial_station_mm": 27.000000000000057,
+      "connected_center_area_mm2": 91.30296709188447,
+      "centered_inscribed_radius_mm": 4.58872382777128
+    },
+    {
+      "radial_station_mm": 27.050000000000058,
+      "connected_center_area_mm2": 91.58098983491408,
+      "centered_inscribed_radius_mm": 4.597301805607034
+    },
+    {
+      "radial_station_mm": 27.10000000000006,
+      "connected_center_area_mm2": 91.85746660774139,
+      "centered_inscribed_radius_mm": 4.605879776200926
+    },
+    {
+      "radial_station_mm": 27.15000000000006,
+      "connected_center_area_mm2": 92.13247370324518,
+      "centered_inscribed_radius_mm": 4.614457754036128
+    },
+    {
+      "radial_station_mm": 27.20000000000006,
+      "connected_center_area_mm2": 92.40601518932452,
+      "centered_inscribed_radius_mm": 4.623035728744126
+    },
+    {
+      "radial_station_mm": 27.25000000000006,
+      "connected_center_area_mm2": 92.66554144341613,
+      "centered_inscribed_radius_mm": 4.631613706598299
+    },
+    {
+      "radial_station_mm": 27.30000000000006,
+      "connected_center_area_mm2": 92.90400294904077,
+      "centered_inscribed_radius_mm": 4.640191681313496
+    },
+    {
+      "radial_station_mm": 27.350000000000062,
+      "connected_center_area_mm2": 93.12551294664942,
+      "centered_inscribed_radius_mm": 4.648769660277743
+    },
+    {
+      "radial_station_mm": 27.400000000000063,
+      "connected_center_area_mm2": 93.34596494313952,
+      "centered_inscribed_radius_mm": 4.657347634990653
+    },
+    {
+      "radial_station_mm": 27.450000000000063,
+      "connected_center_area_mm2": 93.51502370029718,
+      "centered_inscribed_radius_mm": 4.665925607539676
+    },
+    {
+      "radial_station_mm": 27.500000000000064,
+      "connected_center_area_mm2": 93.57043432549516,
+      "centered_inscribed_radius_mm": 4.674503582250481
+    },
+    {
+      "radial_station_mm": 27.550000000000065,
+      "connected_center_area_mm2": 93.2682263037647,
+      "centered_inscribed_radius_mm": 4.683081560139207
+    },
+    {
+      "radial_station_mm": 27.600000000000065,
+      "connected_center_area_mm2": 92.0464735236276,
+      "centered_inscribed_radius_mm": 4.69029330544524
+    },
+    {
+      "radial_station_mm": 27.650000000000066,
+      "connected_center_area_mm2": 90.53550633651427,
+      "centered_inscribed_radius_mm": 4.696135704281544
+    },
+    {
+      "radial_station_mm": 27.700000000000067,
+      "connected_center_area_mm2": 88.77250856804166,
+      "centered_inscribed_radius_mm": 4.70218056729872
+    },
+    {
+      "radial_station_mm": 27.750000000000068,
+      "connected_center_area_mm2": 86.95507204610213,
+      "centered_inscribed_radius_mm": 4.7052495290842895
+    },
+    {
+      "radial_station_mm": 27.800000000000068,
+      "connected_center_area_mm2": 84.63181689472384,
+      "centered_inscribed_radius_mm": 4.686502623449783
+    },
+    {
+      "radial_station_mm": 27.85000000000007,
+      "connected_center_area_mm2": 82.10805773973011,
+      "centered_inscribed_radius_mm": 4.6685113066779245
+    },
+    {
+      "radial_station_mm": 27.90000000000007,
+      "connected_center_area_mm2": 79.35640355794827,
+      "centered_inscribed_radius_mm": 4.648810974987641
+    },
+    {
+      "radial_station_mm": 27.95000000000007,
+      "connected_center_area_mm2": 76.32843394375757,
+      "centered_inscribed_radius_mm": 4.628545839838575
+    },
+    {
+      "radial_station_mm": 28.00000000000007,
+      "connected_center_area_mm2": 72.77167627141824,
+      "centered_inscribed_radius_mm": 4.57123362723844
+    },
+    {
+      "radial_station_mm": 28.05000000000007,
+      "connected_center_area_mm2": 68.4058637234014,
+      "centered_inscribed_radius_mm": 4.5134950822811115
+    },
+    {
+      "radial_station_mm": 28.100000000000072,
+      "connected_center_area_mm2": 62.5812945515228,
+      "centered_inscribed_radius_mm": 4.363201350136773
+    },
+    {
+      "radial_station_mm": 28.150000000000073,
+      "connected_center_area_mm2": 54.59907605337192,
+      "centered_inscribed_radius_mm": 4.143497768744657
+    },
+    {
+      "radial_station_mm": 28.200000000000074,
+      "connected_center_area_mm2": 45.937794232574106,
+      "centered_inscribed_radius_mm": 3.7990085223697507
+    },
+    {
+      "radial_station_mm": 28.250000000000075,
+      "connected_center_area_mm2": 37.813688658900595,
+      "centered_inscribed_radius_mm": 3.410869915272639
+    },
+    {
+      "radial_station_mm": 28.300000000000075,
+      "connected_center_area_mm2": 30.64453301816843,
+      "centered_inscribed_radius_mm": 2.9522923383338697
+    },
+    {
+      "radial_station_mm": 28.350000000000076,
+      "connected_center_area_mm2": 25.57081308201904,
+      "centered_inscribed_radius_mm": 2.4850135230197594
+    },
+    {
+      "radial_station_mm": 28.400000000000077,
+      "connected_center_area_mm2": 24.16710494003101,
+      "centered_inscribed_radius_mm": 2.3135573794512934
+    },
+    {
+      "radial_station_mm": 28.450000000000077,
+      "connected_center_area_mm2": 23.542580979589466,
+      "centered_inscribed_radius_mm": 2.3175447002578218
+    },
+    {
+      "radial_station_mm": 28.500000000000078,
+      "connected_center_area_mm2": 22.790793077618698,
+      "centered_inscribed_radius_mm": 2.3216455340631335
+    },
+    {
+      "radial_station_mm": 28.55000000000008,
+      "connected_center_area_mm2": 21.989942238752846,
+      "centered_inscribed_radius_mm": 2.3258537417652074
+    },
+    {
+      "radial_station_mm": 28.60000000000008,
+      "connected_center_area_mm2": 21.177772465765138,
+      "centered_inscribed_radius_mm": 2.330061944946501
+    },
+    {
+      "radial_station_mm": 28.65000000000008,
+      "connected_center_area_mm2": 20.470065647939943,
+      "centered_inscribed_radius_mm": 2.33426781216383
+    },
+    {
+      "radial_station_mm": 28.70000000000008,
+      "connected_center_area_mm2": 20.322434803266553,
+      "centered_inscribed_radius_mm": 2.3384094909368187
+    },
+    {
+      "radial_station_mm": 28.75000000000008,
+      "connected_center_area_mm2": 20.26980319011892,
+      "centered_inscribed_radius_mm": 2.3425511798390453
+    },
+    {
+      "radial_station_mm": 28.800000000000082,
+      "connected_center_area_mm2": 20.303669326081216,
+      "centered_inscribed_radius_mm": 2.3177671149895414
+    },
+    {
+      "radial_station_mm": 28.850000000000083,
+      "connected_center_area_mm2": 20.38364901722172,
+      "centered_inscribed_radius_mm": 2.342034626859564
+    },
+    {
+      "radial_station_mm": 28.900000000000084,
+      "connected_center_area_mm2": 20.48041182422277,
+      "centered_inscribed_radius_mm": 2.3549762298534813
+    },
+    {
+      "radial_station_mm": 28.950000000000085,
+      "connected_center_area_mm2": 20.577426702752845,
+      "centered_inscribed_radius_mm": 2.35911791259986
+    },
+    {
+      "radial_station_mm": 29.000000000000085,
+      "connected_center_area_mm2": 20.674651936277854,
+      "centered_inscribed_radius_mm": 2.363259595149452
+    },
+    {
+      "radial_station_mm": 29.050000000000086,
+      "connected_center_area_mm2": 20.772087482891394,
+      "centered_inscribed_radius_mm": 2.3674012800592177
+    },
+    {
+      "radial_station_mm": 29.100000000000087,
+      "connected_center_area_mm2": 20.869733388182716,
+      "centered_inscribed_radius_mm": 2.37154296260747
+    },
+    {
+      "radial_station_mm": 29.150000000000087,
+      "connected_center_area_mm2": 20.967589472535366,
+      "centered_inscribed_radius_mm": 2.375684645371848
+    },
+    {
+      "radial_station_mm": 29.200000000000088,
+      "connected_center_area_mm2": 21.065650615432578,
+      "centered_inscribed_radius_mm": 2.3798263340537162
+    },
+    {
+      "radial_station_mm": 29.25000000000009,
+      "connected_center_area_mm2": 21.16391429211417,
+      "centered_inscribed_radius_mm": 2.38396801281663
+    },
+    {
+      "radial_station_mm": 29.30000000000009,
+      "connected_center_area_mm2": 21.262380537269184,
+      "centered_inscribed_radius_mm": 2.388109695372374
+    },
+    {
+      "radial_station_mm": 29.35000000000009,
+      "connected_center_area_mm2": 21.3610493408777,
+      "centered_inscribed_radius_mm": 2.392251384264863
+    },
+    {
+      "radial_station_mm": 29.40000000000009,
+      "connected_center_area_mm2": 21.459920694881834,
+      "centered_inscribed_radius_mm": 2.3963930634366286
+    },
+    {
+      "radial_station_mm": 29.45000000000009,
+      "connected_center_area_mm2": 21.558994608989018,
+      "centered_inscribed_radius_mm": 2.400534745585718
+    },
+    {
+      "radial_station_mm": 29.500000000000092,
+      "connected_center_area_mm2": 21.658271078251772,
+      "centered_inscribed_radius_mm": 2.404676434475435
+    },
+    {
+      "radial_station_mm": 29.550000000000093,
+      "connected_center_area_mm2": 21.75775011392345,
+      "centered_inscribed_radius_mm": 2.4088181170404663
+    },
+    {
+      "radial_station_mm": 29.600000000000094,
+      "connected_center_area_mm2": 21.85743168887015,
+      "centered_inscribed_radius_mm": 2.412959795798647
+    },
+    {
+      "radial_station_mm": 29.650000000000095,
+      "connected_center_area_mm2": 21.957315827890742,
+      "centered_inscribed_radius_mm": 2.4171014844395295
+    },
+    {
+      "radial_station_mm": 29.700000000000095,
+      "connected_center_area_mm2": 22.057402533776816,
+      "centered_inscribed_radius_mm": 2.421243167256016
+    },
+    {
+      "radial_station_mm": 29.750000000000096,
+      "connected_center_area_mm2": 22.157691775077264,
+      "centered_inscribed_radius_mm": 2.425384846467587
+    },
+    {
+      "radial_station_mm": 29.800000000000097,
+      "connected_center_area_mm2": 22.25740761250424,
+      "centered_inscribed_radius_mm": 2.4295265346371737
+    },
+    {
+      "radial_station_mm": 29.850000000000097,
+      "connected_center_area_mm2": 22.35659026694588,
+      "centered_inscribed_radius_mm": 2.4336682172098403
+    },
+    {
+      "radial_station_mm": 29.900000000000098,
+      "connected_center_area_mm2": 22.455575684275686,
+      "centered_inscribed_radius_mm": 2.4378098967015287
+    },
+    {
+      "radial_station_mm": 29.9500000000001,
+      "connected_center_area_mm2": 22.554480287257437,
+      "centered_inscribed_radius_mm": 2.441951585319241
+    },
+    {
+      "radial_station_mm": 30.0000000000001,
+      "connected_center_area_mm2": 22.65338577902757,
+      "centered_inscribed_radius_mm": 2.4460932674119067
+    },
+    {
+      "radial_station_mm": 30.0500000000001,
+      "connected_center_area_mm2": 22.75244669435909,
+      "centered_inscribed_radius_mm": 2.450234949995459
+    },
+    {
+      "radial_station_mm": 30.1000000000001,
+      "connected_center_area_mm2": 22.851676559200058,
+      "centered_inscribed_radius_mm": 2.4543766355376837
+    },
+    {
+      "radial_station_mm": 30.1500000000001,
+      "connected_center_area_mm2": 22.95107535570579,
+      "centered_inscribed_radius_mm": 2.4585183181321253
+    },
+    {
+      "radial_station_mm": 30.200000000000102,
+      "connected_center_area_mm2": 23.050643104701482,
+      "centered_inscribed_radius_mm": 2.46266000020322
+    },
+    {
+      "radial_station_mm": 30.250000000000103,
+      "connected_center_area_mm2": 23.150379798782485,
+      "centered_inscribed_radius_mm": 2.4668016854574213
+    },
+    {
+      "radial_station_mm": 30.300000000000104,
+      "connected_center_area_mm2": 23.25028544043271,
+      "centered_inscribed_radius_mm": 2.4709433683588222
+    },
+    {
+      "radial_station_mm": 30.350000000000104,
+      "connected_center_area_mm2": 23.350360018920696,
+      "centered_inscribed_radius_mm": 2.4750850504099136
+    },
+    {
+      "radial_station_mm": 30.400000000000105,
+      "connected_center_area_mm2": 23.450603871252234,
+      "centered_inscribed_radius_mm": 2.4792267389606524
+    },
+    {
+      "radial_station_mm": 30.450000000000106,
+      "connected_center_area_mm2": 23.55101768435353,
+      "centered_inscribed_radius_mm": 2.483368418586342
+    },
+    {
+      "radial_station_mm": 30.500000000000107,
+      "connected_center_area_mm2": 23.651601521438806,
+      "centered_inscribed_radius_mm": 2.487510101204659
+    },
+    {
+      "radial_station_mm": 30.550000000000107,
+      "connected_center_area_mm2": 23.75235535682637,
+      "centered_inscribed_radius_mm": 2.491651789142526
+    },
+    {
+      "radial_station_mm": 30.600000000000108,
+      "connected_center_area_mm2": 23.853279201470254,
+      "centered_inscribed_radius_mm": 2.4957934684748313
+    },
+    {
+      "radial_station_mm": 30.65000000000011,
+      "connected_center_area_mm2": 23.954373061331015,
+      "centered_inscribed_radius_mm": 2.499935151443941
+    },
+    {
+      "radial_station_mm": 30.70000000000011,
+      "connected_center_area_mm2": 24.055636920348192,
+      "centered_inscribed_radius_mm": 2.504076839957482
+    },
+    {
+      "radial_station_mm": 30.75000000000011,
+      "connected_center_area_mm2": 24.15707078817808,
+      "centered_inscribed_radius_mm": 2.5082185186833845
+    },
+    {
+      "radial_station_mm": 30.80000000000011,
+      "connected_center_area_mm2": 24.258674661267516,
+      "centered_inscribed_radius_mm": 2.5123602013170325
+    },
+    {
+      "radial_station_mm": 30.85000000000011,
+      "connected_center_area_mm2": 24.360448546304347,
+      "centered_inscribed_radius_mm": 2.5165018901713094
+    },
+    {
+      "radial_station_mm": 30.900000000000112,
+      "connected_center_area_mm2": 24.46239244044127,
+      "centered_inscribed_radius_mm": 2.520643572815398
+    },
+    {
+      "radial_station_mm": 30.950000000000113,
+      "connected_center_area_mm2": 24.564506331619878,
+      "centered_inscribed_radius_mm": 2.524785251537019
+    },
+    {
+      "radial_station_mm": 31.000000000000114,
+      "connected_center_area_mm2": 24.66679024082833,
+      "centered_inscribed_radius_mm": 2.5289269399826018
+    },
+    {
+      "radial_station_mm": 31.050000000000114,
+      "connected_center_area_mm2": 24.769244153450085,
+      "centered_inscribed_radius_mm": 2.533068623042597
+    },
+    {
+      "radial_station_mm": 31.100000000000115,
+      "connected_center_area_mm2": 24.87186806768736,
+      "centered_inscribed_radius_mm": 2.537210301757185
+    },
+    {
+      "radial_station_mm": 31.150000000000116,
+      "connected_center_area_mm2": 24.9746619934336,
+      "centered_inscribed_radius_mm": 2.541351990166202
+    },
+    {
+      "radial_station_mm": 31.200000000000117,
+      "connected_center_area_mm2": 25.077625925513672,
+      "centered_inscribed_radius_mm": 2.5454936728296036
+    },
+    {
+      "radial_station_mm": 31.250000000000117,
+      "connected_center_area_mm2": 25.18075987505082,
+      "centered_inscribed_radius_mm": 2.5496353559565343
+    },
+    {
+      "radial_station_mm": 31.300000000000118,
+      "connected_center_area_mm2": 25.28406381737452,
+      "centered_inscribed_radius_mm": 2.5537770403447997
+    },
+    {
+      "radial_station_mm": 31.35000000000012,
+      "connected_center_area_mm2": 25.387537782017947,
+      "centered_inscribed_radius_mm": 2.5579187230247844
+    },
+    {
+      "radial_station_mm": 31.40000000000012,
+      "connected_center_area_mm2": 25.491181736242115,
+      "centered_inscribed_radius_mm": 2.562060405717598
+    },
+    {
+      "radial_station_mm": 31.45000000000012,
+      "connected_center_area_mm2": 25.5949957182146,
+      "centered_inscribed_radius_mm": 2.5662020914214656
+    },
+    {
+      "radial_station_mm": 31.50000000000012,
+      "connected_center_area_mm2": 25.69897968946942,
+      "centered_inscribed_radius_mm": 2.570343773216264
+    },
+    {
+      "radial_station_mm": 31.55000000000012,
+      "connected_center_area_mm2": 25.803133670959163,
+      "centered_inscribed_radius_mm": 2.5744854559301875
+    },
+    {
+      "radial_station_mm": 31.600000000000122,
+      "connected_center_area_mm2": 25.90745767105131,
+      "centered_inscribed_radius_mm": 2.578627144736373
+    },
+    {
+      "radial_station_mm": 31.650000000000123,
+      "connected_center_area_mm2": 26.011951672491254,
+      "centered_inscribed_radius_mm": 2.5827688244172124
+    },
+    {
+      "radial_station_mm": 31.700000000000124,
+      "connected_center_area_mm2": 26.116615685595026,
+      "centered_inscribed_radius_mm": 2.5869105061417166
+    },
+    {
+      "radial_station_mm": 31.750000000000124,
+      "connected_center_area_mm2": 26.221449693472664,
+      "centered_inscribed_radius_mm": 2.591052194334346
+    },
+    {
+      "radial_station_mm": 31.800000000000125,
+      "connected_center_area_mm2": 26.32645372272834,
+      "centered_inscribed_radius_mm": 2.595193874698539
+    },
+    {
+      "radial_station_mm": 31.850000000000126,
+      "connected_center_area_mm2": 26.431627741931358,
+      "centered_inscribed_radius_mm": 2.599335556351874
+    },
+    {
+      "radial_station_mm": 31.900000000000126,
+      "connected_center_area_mm2": 26.536971786239032,
+      "centered_inscribed_radius_mm": 2.603477244464001
+    },
+    {
+      "radial_station_mm": 31.950000000000127,
+      "connected_center_area_mm2": 26.642485819027648,
+      "centered_inscribed_radius_mm": 2.607618924306713
+    },
+    {
+      "radial_station_mm": 32.00000000000013,
+      "connected_center_area_mm2": 26.748169881026325,
+      "centered_inscribed_radius_mm": 2.611760607842255
+    },
+    {
+      "radial_station_mm": 32.050000000000125,
+      "connected_center_area_mm2": 26.854023938492368,
+      "centered_inscribed_radius_mm": 2.6159022945738766
+    },
+    {
+      "radial_station_mm": 32.10000000000013,
+      "connected_center_area_mm2": 26.960048008158875,
+      "centered_inscribed_radius_mm": 2.620043977383179
+    },
+    {
+      "radial_station_mm": 32.150000000000134,
+      "connected_center_area_mm2": 27.066242081547415,
+      "centered_inscribed_radius_mm": 2.6241856574078675
+    },
+    {
+      "radial_station_mm": 32.20000000000013,
+      "connected_center_area_mm2": 27.17260615370524,
+      "centered_inscribed_radius_mm": 2.6283273461619
+    },
+    {
+      "radial_station_mm": 32.25000000000013,
+      "connected_center_area_mm2": 27.279140249484445,
+      "centered_inscribed_radius_mm": 2.6324690275102944
+    },
+    {
+      "radial_station_mm": 32.30000000000013,
+      "connected_center_area_mm2": 27.385844338469084,
+      "centered_inscribed_radius_mm": 2.6366107077013106
+    },
+    {
+      "radial_station_mm": 32.350000000000136,
+      "connected_center_area_mm2": 27.49271845509642,
+      "centered_inscribed_radius_mm": 2.640752395469285
+    },
+    {
+      "radial_station_mm": 32.400000000000134,
+      "connected_center_area_mm2": 27.599762555530816,
+      "centered_inscribed_radius_mm": 2.6448940794280023
+    },
+    {
+      "radial_station_mm": 32.45000000000013,
+      "connected_center_area_mm2": 27.706976681335,
+      "centered_inscribed_radius_mm": 2.649035760570732
+    },
+    {
+      "radial_station_mm": 32.500000000000135,
+      "connected_center_area_mm2": 27.814360800562337,
+      "centered_inscribed_radius_mm": 2.6531774455872643
+    },
+    {
+      "radial_station_mm": 32.55000000000014,
+      "connected_center_area_mm2": 27.921914938638754,
+      "centered_inscribed_radius_mm": 2.657319129816824
+    },
+    {
+      "radial_station_mm": 32.600000000000136,
+      "connected_center_area_mm2": 28.029639085479275,
+      "centered_inscribed_radius_mm": 2.6614608130064203
+    },
+    {
+      "radial_station_mm": 32.650000000000134,
+      "connected_center_area_mm2": 28.13753323397857,
+      "centered_inscribed_radius_mm": 2.665602495664947
+    },
+    {
+      "radial_station_mm": 32.70000000000014,
+      "connected_center_area_mm2": 28.245597389833765,
+      "centered_inscribed_radius_mm": 2.6697441788226204
+    },
+    {
+      "radial_station_mm": 32.75000000000014,
+      "connected_center_area_mm2": 28.353831540158463,
+      "centered_inscribed_radius_mm": 2.673885863664034
+    },
+    {
+      "radial_station_mm": 32.80000000000014,
+      "connected_center_area_mm2": 28.462235707508494,
+      "centered_inscribed_radius_mm": 2.6780275475842537
+    },
+    {
+      "radial_station_mm": 32.850000000000136,
+      "connected_center_area_mm2": 28.57080987592466,
+      "centered_inscribed_radius_mm": 2.682169229011018
+    },
+    {
+      "radial_station_mm": 32.90000000000014,
+      "connected_center_area_mm2": 28.679554078712652,
+      "centered_inscribed_radius_mm": 2.686310912533365
+    },
+    {
+      "radial_station_mm": 32.950000000000145,
+      "connected_center_area_mm2": 28.788468264459866,
+      "centered_inscribed_radius_mm": 2.690452600984401
+    },
+    {
+      "radial_station_mm": 33.00000000000014,
+      "connected_center_area_mm2": 28.897552464375934,
+      "centered_inscribed_radius_mm": 2.69457354851252
+    },
+    {
+      "radial_station_mm": 33.05000000000014,
+      "connected_center_area_mm2": 29.006806664508055,
+      "centered_inscribed_radius_mm": 2.698643009261666
+    },
+    {
+      "radial_station_mm": 33.10000000000014,
+      "connected_center_area_mm2": 29.116230880154074,
+      "centered_inscribed_radius_mm": 2.7027138997860294
+    },
+    {
+      "radial_station_mm": 33.15000000000015,
+      "connected_center_area_mm2": 29.247306373030455,
+      "centered_inscribed_radius_mm": 2.706785685169201
+    },
+    {
+      "radial_station_mm": 33.200000000000145,
+      "connected_center_area_mm2": 29.593353168043034,
+      "centered_inscribed_radius_mm": 2.710905071906958
+    },
+    {
+      "radial_station_mm": 33.25000000000014,
+      "connected_center_area_mm2": 30.523089788169848,
+      "centered_inscribed_radius_mm": 2.71509587858572
+    },
+    {
+      "radial_station_mm": 33.300000000000146,
+      "connected_center_area_mm2": 125.21653465331852,
+      "centered_inscribed_radius_mm": 2.7193072167481853
+    },
+    {
+      "radial_station_mm": 33.35000000000015,
+      "connected_center_area_mm2": 134.83005493677987,
+      "centered_inscribed_radius_mm": 2.72351856126008
+    },
+    {
+      "radial_station_mm": 33.40000000000015,
+      "connected_center_area_mm2": 141.86473198391738,
+      "centered_inscribed_radius_mm": 2.7285195485960285
+    },
+    {
+      "radial_station_mm": 33.450000000000145,
+      "connected_center_area_mm2": 143.93278658665244,
+      "centered_inscribed_radius_mm": 5.689652629698605
+    },
+    {
+      "radial_station_mm": 33.50000000000015,
+      "connected_center_area_mm2": 144.41341007071375,
+      "centered_inscribed_radius_mm": 5.70377207345769
+    },
+    {
+      "radial_station_mm": 33.55000000000015,
+      "connected_center_area_mm2": 144.85874936119308,
+      "centered_inscribed_radius_mm": 5.7123500000099225
+    },
+    {
+      "radial_station_mm": 33.60000000000015,
+      "connected_center_area_mm2": 145.30475779138393,
+      "centered_inscribed_radius_mm": 5.720927922114701
+    },
+    {
+      "radial_station_mm": 33.65000000000015,
+      "connected_center_area_mm2": 145.75143537713936,
+      "centered_inscribed_radius_mm": 5.729505841011081
+    },
+    {
+      "radial_station_mm": 33.70000000000015,
+      "connected_center_area_mm2": 146.1987821558408,
+      "centered_inscribed_radius_mm": 5.738083767532257
+    },
+    {
+      "radial_station_mm": 33.750000000000156,
+      "connected_center_area_mm2": 146.64679807249178,
+      "centered_inscribed_radius_mm": 5.746661689649642
+    },
+    {
+      "radial_station_mm": 33.80000000000015,
+      "connected_center_area_mm2": 147.09548318957596,
+      "centered_inscribed_radius_mm": 5.755239610756265
+    },
+    {
+      "radial_station_mm": 33.85000000000015,
+      "connected_center_area_mm2": 147.5448374477829,
+      "centered_inscribed_radius_mm": 5.763817535671669
+    },
+    {
+      "radial_station_mm": 33.900000000000155,
+      "connected_center_area_mm2": 147.99486088150684,
+      "centered_inscribed_radius_mm": 5.772395456772667
+    },
+    {
+      "radial_station_mm": 33.95000000000016,
+      "connected_center_area_mm2": 148.44555350238923,
+      "centered_inscribed_radius_mm": 5.780973378908268
+    },
+    {
+      "radial_station_mm": 34.000000000000156,
+      "connected_center_area_mm2": 148.89691525995326,
+      "centered_inscribed_radius_mm": 5.78955130322196
+    },
+    {
+      "radial_station_mm": 34.05000000000015,
+      "connected_center_area_mm2": 149.3489461854652,
+      "centered_inscribed_radius_mm": 5.798129224312766
+    },
+    {
+      "radial_station_mm": 34.10000000000016,
+      "connected_center_area_mm2": 149.80164628926383,
+      "centered_inscribed_radius_mm": 5.806707146462404
+    },
+    {
+      "radial_station_mm": 34.15000000000016,
+      "connected_center_area_mm2": 150.2550155664638,
+      "centered_inscribed_radius_mm": 5.815285072874244
+    },
+    {
+      "radial_station_mm": 34.20000000000016,
+      "connected_center_area_mm2": 150.70905397649975,
+      "centered_inscribed_radius_mm": 5.823862991860658
+    },
+    {
+      "radial_station_mm": 34.250000000000156,
+      "connected_center_area_mm2": 151.16376160559037,
+      "centered_inscribed_radius_mm": 5.832440912932661
+    },
+    {
+      "radial_station_mm": 34.30000000000016,
+      "connected_center_area_mm2": 151.61913837572743,
+      "centered_inscribed_radius_mm": 5.841018841054836
+    },
+    {
+      "radial_station_mm": 34.350000000000165,
+      "connected_center_area_mm2": 152.0751843217399,
+      "centered_inscribed_radius_mm": 5.849596758966964
+    },
+    {
+      "radial_station_mm": 34.40000000000016,
+      "connected_center_area_mm2": 152.5318994091356,
+      "centered_inscribed_radius_mm": 5.858174681143085
+    },
+    {
+      "radial_station_mm": 34.45000000000016,
+      "connected_center_area_mm2": 152.989283700106,
+      "centered_inscribed_radius_mm": 5.866752608604168
+    },
+    {
+      "radial_station_mm": 34.50000000000016,
+      "connected_center_area_mm2": 153.44733714468254,
+      "centered_inscribed_radius_mm": 5.875330526520874
+    },
+    {
+      "radial_station_mm": 34.55000000000017,
+      "connected_center_area_mm2": 153.90605975116827,
+      "centered_inscribed_radius_mm": 5.883908448713046
+    },
+    {
+      "radial_station_mm": 34.600000000000165,
+      "connected_center_area_mm2": 154.36545150444783,
+      "centered_inscribed_radius_mm": 5.892486375005429
+    },
+    {
+      "radial_station_mm": 34.65000000000016,
+      "connected_center_area_mm2": 154.82551246818232,
+      "centered_inscribed_radius_mm": 5.901064297198364
+    },
+    {
+      "radial_station_mm": 34.700000000000166,
+      "connected_center_area_mm2": 155.28624254731602,
+      "centered_inscribed_radius_mm": 5.90964221511634
+    },
+    {
+      "radial_station_mm": 34.75000000000017,
+      "connected_center_area_mm2": 155.74764183106893,
+      "centered_inscribed_radius_mm": 5.91822014254299
+    },
+    {
+      "radial_station_mm": 34.80000000000017,
+      "connected_center_area_mm2": 156.2097102834091,
+      "centered_inscribed_radius_mm": 5.926798065464661
+    },
+    {
+      "radial_station_mm": 34.850000000000165,
+      "connected_center_area_mm2": 156.67244787693426,
+      "centered_inscribed_radius_mm": 5.935375983393853
+    },
+    {
+      "radial_station_mm": 34.90000000000017,
+      "connected_center_area_mm2": 157.13585469327492,
+      "centered_inscribed_radius_mm": 5.943953910813367
+    },
+    {
+      "radial_station_mm": 34.95000000000017,
+      "connected_center_area_mm2": 157.59993063419486,
+      "centered_inscribed_radius_mm": 5.952531831818941
+    },
+    {
+      "radial_station_mm": 35.00000000000017,
+      "connected_center_area_mm2": 158.0646756199199,
+      "centered_inscribed_radius_mm": 5.961109750982394
+    },
+    {
+      "radial_station_mm": 35.05000000000017,
+      "connected_center_area_mm2": 158.53008903535542,
+      "centered_inscribed_radius_mm": 5.969687677137536
+    },
+    {
+      "radial_station_mm": 35.10000000000017,
+      "connected_center_area_mm2": 158.99617076888478,
+      "centered_inscribed_radius_mm": 5.978265599379581
+    },
+    {
+      "radial_station_mm": 35.150000000000176,
+      "connected_center_area_mm2": 159.46292086041248,
+      "centered_inscribed_radius_mm": 5.986843521633452
+    },
+    {
+      "radial_station_mm": 35.20000000000017,
+      "connected_center_area_mm2": 159.93033925615626,
+      "centered_inscribed_radius_mm": 5.99542143957023
+    },
+    {
+      "radial_station_mm": 35.25000000000017,
+      "connected_center_area_mm2": 160.3984260116725,
+      "centered_inscribed_radius_mm": 6.00399936695049
+    },
+    {
+      "radial_station_mm": 35.300000000000175,
+      "connected_center_area_mm2": 160.8671810710885,
+      "centered_inscribed_radius_mm": 6.012577288694089
+    },
+    {
+      "radial_station_mm": 35.35000000000018,
+      "connected_center_area_mm2": 161.3366044898117,
+      "centered_inscribed_radius_mm": 6.021155207953655
+    },
+    {
+      "radial_station_mm": 35.400000000000176,
+      "connected_center_area_mm2": 161.80669624653666,
+      "centered_inscribed_radius_mm": 6.029733133991812
+    },
+    {
+      "radial_station_mm": 35.45000000000017,
+      "connected_center_area_mm2": 162.2774563105922,
+      "centered_inscribed_radius_mm": 6.038311056282351
+    },
+    {
+      "radial_station_mm": 35.50000000000018,
+      "connected_center_area_mm2": 162.74888471778758,
+      "centered_inscribed_radius_mm": 6.046888975586671
+    },
+    {
+      "radial_station_mm": 35.55000000000018,
+      "connected_center_area_mm2": 163.22098145079872,
+      "centered_inscribed_radius_mm": 6.055466901570001
+    },
+    {
+      "radial_station_mm": 35.60000000000018,
+      "connected_center_area_mm2": 163.6937465285553,
+      "centered_inscribed_radius_mm": 6.064044823883065
+    },
+    {
+      "radial_station_mm": 35.650000000000176,
+      "connected_center_area_mm2": 164.16717992714774,
+      "centered_inscribed_radius_mm": 6.072622744810143
+    },
+    {
+      "radial_station_mm": 35.70000000000018,
+      "connected_center_area_mm2": 164.64128166554679,
+      "centered_inscribed_radius_mm": 6.0812006691603075
+    },
+    {
+      "radial_station_mm": 35.750000000000185,
+      "connected_center_area_mm2": 165.11605172610825,
+      "centered_inscribed_radius_mm": 6.089778590918352
+    },
+    {
+      "radial_station_mm": 35.80000000000018,
+      "connected_center_area_mm2": 165.59149014638652,
+      "centered_inscribed_radius_mm": 6.09835651326455
+    },
+    {
+      "radial_station_mm": 35.85000000000018,
+      "connected_center_area_mm2": 166.06759686667235,
+      "centered_inscribed_radius_mm": 6.106934436172968
+    },
+    {
+      "radial_station_mm": 35.90000000000018,
+      "connected_center_area_mm2": 166.54437195045188,
+      "centered_inscribed_radius_mm": 6.115512358529273
+    },
+    {
+      "radial_station_mm": 35.95000000000019,
+      "connected_center_area_mm2": 167.02181536771445,
+      "centered_inscribed_radius_mm": 6.124090280901503
+    },
+    {
+      "radial_station_mm": 36.000000000000185,
+      "connected_center_area_mm2": 167.4999271049095,
+      "centered_inscribed_radius_mm": 6.132668203772085
+    },
+    {
+      "radial_station_mm": 36.05000000000018,
+      "connected_center_area_mm2": 167.9787071549359,
+      "centered_inscribed_radius_mm": 6.141246126155126
+    },
+    {
+      "radial_station_mm": 36.100000000000186,
+      "connected_center_area_mm2": 168.45815555162,
+      "centered_inscribed_radius_mm": 6.149824047018904
+    },
+    {
+      "radial_station_mm": 36.15000000000019,
+      "connected_center_area_mm2": 168.9382722932399,
+      "centered_inscribed_radius_mm": 6.158401974270562
+    },
+    {
+      "radial_station_mm": 36.20000000000019,
+      "connected_center_area_mm2": 169.4190573429472,
+      "centered_inscribed_radius_mm": 6.166979892227434
+    },
+    {
+      "radial_station_mm": 36.250000000000185,
+      "connected_center_area_mm2": 169.90051076350343,
+      "centered_inscribed_radius_mm": 6.17555781558368
+    },
+    {
+      "radial_station_mm": 36.30000000000019,
+      "connected_center_area_mm2": 170.382632485623,
+      "centered_inscribed_radius_mm": 6.18413574282359
+    },
+    {
+      "radial_station_mm": 36.35000000000019,
+      "connected_center_area_mm2": 170.8654225397451,
+      "centered_inscribed_radius_mm": 6.192713660799563
+    },
+    {
+      "radial_station_mm": 36.40000000000019,
+      "connected_center_area_mm2": 171.34888093594822,
+      "centered_inscribed_radius_mm": 6.201291583253514
+    },
+    {
+      "radial_station_mm": 36.45000000000019,
+      "connected_center_area_mm2": 171.8330076737445,
+      "centered_inscribed_radius_mm": 6.209869508810155
+    },
+    {
+      "radial_station_mm": 36.50000000000019,
+      "connected_center_area_mm2": 172.31780274268593,
+      "centered_inscribed_radius_mm": 6.218447428456309
+    },
+    {
+      "radial_station_mm": 36.550000000000196,
+      "connected_center_area_mm2": 172.8032661146268,
+      "centered_inscribed_radius_mm": 6.227025349244429
+    },
+    {
+      "radial_station_mm": 36.60000000000019,
+      "connected_center_area_mm2": 173.2893978399343,
+      "centered_inscribed_radius_mm": 6.235603276417126
+    },
+    {
+      "radial_station_mm": 36.65000000000019,
+      "connected_center_area_mm2": 173.77619791789562,
+      "centered_inscribed_radius_mm": 6.2441811989065625
+    },
+    {
+      "radial_station_mm": 36.700000000000195,
+      "connected_center_area_mm2": 174.26366630667667,
+      "centered_inscribed_radius_mm": 6.252759117943023
+    },
+    {
+      "radial_station_mm": 36.7500000000002,
+      "connected_center_area_mm2": 174.7518030352827,
+      "centered_inscribed_radius_mm": 6.26133704510154
+    },
+    {
+      "radial_station_mm": 36.800000000000196,
+      "connected_center_area_mm2": 175.24060808960095,
+      "centered_inscribed_radius_mm": 6.269914965835508
+    },
+    {
+      "radial_station_mm": 36.85000000000019,
+      "connected_center_area_mm2": 175.7300814692463,
+      "centered_inscribed_radius_mm": 6.278492885654231
+    },
+    {
+      "radial_station_mm": 36.9000000000002,
+      "connected_center_area_mm2": 176.2202231945949,
+      "centered_inscribed_radius_mm": 6.287070810934046
+    },
+    {
+      "radial_station_mm": 36.9500000000002,
+      "connected_center_area_mm2": 176.71103325092568,
+      "centered_inscribed_radius_mm": 6.295648733489688
+    },
+    {
+      "radial_station_mm": 37.0000000000002,
+      "connected_center_area_mm2": 177.20251163513433,
+      "centered_inscribed_radius_mm": 6.30422665149232
+    },
+    {
+      "radial_station_mm": 37.050000000000196,
+      "connected_center_area_mm2": 177.69465837016614,
+      "centered_inscribed_radius_mm": 6.31280457856854
+    },
+    {
+      "radial_station_mm": 37.1000000000002,
+      "connected_center_area_mm2": 178.18747338596916,
+      "centered_inscribed_radius_mm": 6.3213825011660685
+    },
+    {
+      "radial_station_mm": 37.150000000000205,
+      "connected_center_area_mm2": 178.68095679298438,
+      "centered_inscribed_radius_mm": 6.3299604218148575
+    },
+    {
+      "radial_station_mm": 37.2000000000002,
+      "connected_center_area_mm2": 179.17510852271096,
+      "centered_inscribed_radius_mm": 6.338538347415292
+    },
+    {
+      "radial_station_mm": 37.2500000000002,
+      "connected_center_area_mm2": 179.66992857654006,
+      "centered_inscribed_radius_mm": 6.347116268044411
+    },
+    {
+      "radial_station_mm": 37.3000000000002,
+      "connected_center_area_mm2": 180.16541695930783,
+      "centered_inscribed_radius_mm": 6.3556941907052495
+    },
+    {
+      "radial_station_mm": 37.35000000000021,
+      "connected_center_area_mm2": 180.66157368043005,
+      "centered_inscribed_radius_mm": 6.364272113057659
+    },
+    {
+      "radial_station_mm": 37.400000000000205,
+      "connected_center_area_mm2": 181.15839872117027,
+      "centered_inscribed_radius_mm": 6.372850035738085
+    },
+    {
+      "radial_station_mm": 37.4500000000002,
+      "connected_center_area_mm2": 181.655892108862,
+      "centered_inscribed_radius_mm": 6.3814279584501055
+    },
+    {
+      "radial_station_mm": 37.500000000000206,
+      "connected_center_area_mm2": 182.15405383553127,
+      "centered_inscribed_radius_mm": 6.390005880726649
+    },
+    {
+      "radial_station_mm": 37.55000000000021,
+      "connected_center_area_mm2": 182.65288387163346,
+      "centered_inscribed_radius_mm": 6.398583803460211
+    },
+    {
+      "radial_station_mm": 37.60000000000021,
+      "connected_center_area_mm2": 183.15238224283382,
+      "centered_inscribed_radius_mm": 6.407161723982081
+    },
+    {
+      "radial_station_mm": 37.650000000000205,
+      "connected_center_area_mm2": 183.65254898127196,
+      "centered_inscribed_radius_mm": 6.415739650874758
+    },
+    {
+      "radial_station_mm": 37.70000000000021,
+      "connected_center_area_mm2": 184.15338401280925,
+      "centered_inscribed_radius_mm": 6.424317570275887
+    },
+    {
+      "radial_station_mm": 37.75000000000021,
+      "connected_center_area_mm2": 184.6548873692719,
+      "centered_inscribed_radius_mm": 6.432895493090782
+    },
+    {
+      "radial_station_mm": 37.80000000000021,
+      "connected_center_area_mm2": 185.15705909037592,
+      "centered_inscribed_radius_mm": 6.441473419958064
+    },
+    {
+      "radial_station_mm": 37.85000000000021,
+      "connected_center_area_mm2": 185.65989915290987,
+      "centered_inscribed_radius_mm": 6.450051338021243
+    },
+    {
+      "radial_station_mm": 37.90000000000021,
+      "connected_center_area_mm2": 186.16340682451983,
+      "centered_inscribed_radius_mm": 6.458629260902818
+    },
+    {
+      "radial_station_mm": 37.950000000000216,
+      "connected_center_area_mm2": 186.66758145710213,
+      "centered_inscribed_radius_mm": 6.467207181316666
+    }
+  ],
+  "scope": "Minimum sampled centered solid disk and connected neck cross-section, not a material strength rating."
+}

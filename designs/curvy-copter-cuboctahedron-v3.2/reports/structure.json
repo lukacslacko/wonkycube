@@ -1,0 +1,13 @@
+{
+  "center_washer_rim_minimum_external_web_mm": 3.8199997288799903,
+  "samples": 720,
+  "foot_outer_diameter_mm": 6.2,
+  "rotating_bore_diameter_mm": 3.6,
+  "foot_annular_wall_mm": 1.3,
+  "nut_roof_thickness_mm": 1.9500000000000028,
+  "washer_seat_mm": 31.0,
+  "screw_tip_axis_coordinate_mm": 12.0,
+  "nylon_ring_exit_axis_coordinate_mm": 13.649999999999999,
+  "screw_projection_beyond_nut_mm": 1.6499999999999986,
+  "scope": "Geometric dimensions, not force or fatigue ratings."
+}

@@ -1,0 +1,31 @@
+{
+  "design": "curvy-copter-cuboctahedron-v3.2",
+  "reported_date": "2026-09-29",
+  "reported_by": "László Lukács (project owner)",
+  "physically_printed": true,
+  "physically_assembled": true,
+  "report": "The cuboctahedron curvy copter shape mod printed and built very well.",
+  "scope": "Successful full print and assembly. No separate turning-quality, torque, endurance or exhaustive jumbling assessment was reported in this confirmation.",
+  "provenance": "Associated with the supplied spherical v3.2 set, the final delivered Curvy Copter cuboctahedron revision. Exact slicer input files, settings and optional/reused core selection were not independently verified. Earlier spherical test pieces were reported to work well with the old core.",
+  "hardware": {
+    "screw": "12 x DIN912 M3x20",
+    "washer": "12 x 9 mm OD x 1 mm thick, M3 clearance",
+    "nut": "12 x DIN985 M3"
+  },
+  "print_settings": {
+    "prior_setup": "Bambu Lab P1S, 0.4 mm nozzle; 0.20 mm layer height reported during this design refinement.",
+    "material_for_this_print": null,
+    "layer_height_for_final_print_mm": null,
+    "walls": null,
+    "infill": null,
+    "supports": null,
+    "core_variant": null
+  },
+  "manifest_sha256": "055a81086a67bceddf3aca167c03f057b541f177575a943ead69626a8b1e14eb",
+  "supplied_puzzle_stl_sha256": {
+    "stl/puzzle/axial-center-print-12.stl": "3022411c59d95cbf9f4aa6b68488db21e39ae5a7a78875fb947c078178ddc4a7",
+    "stl/puzzle/petal-print-24.stl": "4beb62b53dd5475817c165c4192dd468a889b703379b5d775338cb983cad8880",
+    "stl/puzzle/corner-print-8.stl": "bbe320b6d00d9865c6ca8b056fa959949339cf94f712a417a7845b7e4604f6d8",
+    "stl/puzzle/core.stl": "f3d32eef77d72cba87b043bab0b4d52e3c6b77adf714a2f27485d50782e93a8e"
+  }
+}

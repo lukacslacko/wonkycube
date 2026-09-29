@@ -1,0 +1,98 @@
+[
+  {
+    "axis": 0,
+    "sample_step_degrees": 3,
+    "worst": [
+      180,
+      6.876777540399264e-06
+    ]
+  },
+  {
+    "axis": 1,
+    "sample_step_degrees": 3,
+    "worst": [
+      120,
+      6.876777545413424e-06
+    ]
+  },
+  {
+    "axis": 2,
+    "sample_step_degrees": 3,
+    "worst": [
+      120,
+      6.87677754989726e-06
+    ]
+  },
+  {
+    "axis": 3,
+    "sample_step_degrees": 3,
+    "worst": [
+      120,
+      6.876777542175655e-06
+    ]
+  },
+  {
+    "axis": 4,
+    "sample_step_degrees": 3,
+    "worst": [
+      180,
+      6.8767775404480984e-06
+    ]
+  },
+  {
+    "axis": 5,
+    "sample_step_degrees": 3,
+    "worst": [
+      180,
+      6.876777538343543e-06
+    ]
+  },
+  {
+    "axis": 6,
+    "sample_step_degrees": 3,
+    "worst": [
+      180,
+      6.876777538500102e-06
+    ]
+  },
+  {
+    "axis": 7,
+    "sample_step_degrees": 3,
+    "worst": [
+      180,
+      6.87677753914627e-06
+    ]
+  },
+  {
+    "axis": 8,
+    "sample_step_degrees": 3,
+    "worst": [
+      120,
+      6.876777542182253e-06
+    ]
+  },
+  {
+    "axis": 9,
+    "sample_step_degrees": 3,
+    "worst": [
+      120,
+      6.876777546659222e-06
+    ]
+  },
+  {
+    "axis": 10,
+    "sample_step_degrees": 3,
+    "worst": [
+      120,
+      6.876777542848456e-06
+    ]
+  },
+  {
+    "axis": 11,
+    "sample_step_degrees": 3,
+    "worst": [
+      120,
+      6.876777544460975e-06
+    ]
+  }
+]

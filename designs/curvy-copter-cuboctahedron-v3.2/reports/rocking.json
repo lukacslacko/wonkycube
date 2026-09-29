@@ -1,0 +1,213 @@
+{
+  "checks": [
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_lift_mm": 0.15,
+      "pivot_radius_mm": 24.0,
+      "rotation_axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "radial_step_mm": 0.25,
+      "angular_step_degrees": 2,
+      "radial_range_mm": [
+        -0.5,
+        7.5
+      ],
+      "angle_range_degrees": [
+        -20,
+        20
+      ],
+      "visited_configurations": 20,
+      "reachable_configurations": 9,
+      "maximum_reachable_radial_offset_mm": 0.5,
+      "maximum_reachable_tilt_degrees": 2,
+      "escape_found": false
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_lift_mm": 0.15,
+      "pivot_radius_mm": 32.0,
+      "rotation_axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "radial_step_mm": 0.25,
+      "angular_step_degrees": 2,
+      "radial_range_mm": [
+        -0.5,
+        7.5
+      ],
+      "angle_range_degrees": [
+        -20,
+        20
+      ],
+      "visited_configurations": 19,
+      "reachable_configurations": 8,
+      "maximum_reachable_radial_offset_mm": 0.5,
+      "maximum_reachable_tilt_degrees": 2,
+      "escape_found": false
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_lift_mm": 0.15,
+      "pivot_radius_mm": 24.0,
+      "rotation_axis": [
+        0.5773502691896256,
+        0.5773502691896256,
+        0.5773502691896256
+      ],
+      "radial_step_mm": 0.25,
+      "angular_step_degrees": 2,
+      "radial_range_mm": [
+        -0.5,
+        7.5
+      ],
+      "angle_range_degrees": [
+        -20,
+        20
+      ],
+      "visited_configurations": 30,
+      "reachable_configurations": 15,
+      "maximum_reachable_radial_offset_mm": 0.5,
+      "maximum_reachable_tilt_degrees": 6,
+      "escape_found": false
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_lift_mm": 0.15,
+      "pivot_radius_mm": 32.0,
+      "rotation_axis": [
+        0.5773502691896256,
+        0.5773502691896256,
+        0.5773502691896256
+      ],
+      "radial_step_mm": 0.25,
+      "angular_step_degrees": 2,
+      "radial_range_mm": [
+        -0.5,
+        7.5
+      ],
+      "angle_range_degrees": [
+        -20,
+        20
+      ],
+      "visited_configurations": 22,
+      "reachable_configurations": 11,
+      "maximum_reachable_radial_offset_mm": 0.5,
+      "maximum_reachable_tilt_degrees": 2,
+      "escape_found": false
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_lift_mm": 0.8,
+      "pivot_radius_mm": 24.0,
+      "rotation_axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "radial_step_mm": 0.25,
+      "angular_step_degrees": 2,
+      "radial_range_mm": [
+        -0.5,
+        7.5
+      ],
+      "angle_range_degrees": [
+        -20,
+        20
+      ],
+      "visited_configurations": 60,
+      "reachable_configurations": 38,
+      "maximum_reachable_radial_offset_mm": 1.0,
+      "maximum_reachable_tilt_degrees": 10,
+      "escape_found": false
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_lift_mm": 0.8,
+      "pivot_radius_mm": 32.0,
+      "rotation_axis": [
+        0.7071067811865475,
+        -0.7071067811865475,
+        0.0
+      ],
+      "radial_step_mm": 0.25,
+      "angular_step_degrees": 2,
+      "radial_range_mm": [
+        -0.5,
+        7.5
+      ],
+      "angle_range_degrees": [
+        -20,
+        20
+      ],
+      "visited_configurations": 38,
+      "reachable_configurations": 22,
+      "maximum_reachable_radial_offset_mm": 1.0,
+      "maximum_reachable_tilt_degrees": 6,
+      "escape_found": false
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_lift_mm": 0.8,
+      "pivot_radius_mm": 24.0,
+      "rotation_axis": [
+        0.40824829046386296,
+        0.40824829046386296,
+        0.8164965809277259
+      ],
+      "radial_step_mm": 0.25,
+      "angular_step_degrees": 2,
+      "radial_range_mm": [
+        -0.5,
+        7.5
+      ],
+      "angle_range_degrees": [
+        -20,
+        20
+      ],
+      "visited_configurations": 56,
+      "reachable_configurations": 35,
+      "maximum_reachable_radial_offset_mm": 1.0,
+      "maximum_reachable_tilt_degrees": 8,
+      "escape_found": false
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_lift_mm": 0.8,
+      "pivot_radius_mm": 32.0,
+      "rotation_axis": [
+        0.40824829046386296,
+        0.40824829046386296,
+        0.8164965809277259
+      ],
+      "radial_step_mm": 0.25,
+      "angular_step_degrees": 2,
+      "radial_range_mm": [
+        -0.5,
+        7.5
+      ],
+      "angle_range_degrees": [
+        -20,
+        20
+      ],
+      "visited_configurations": 32,
+      "reachable_configurations": 17,
+      "maximum_reachable_radial_offset_mm": 1.0,
+      "maximum_reachable_tilt_degrees": 2,
+      "escape_found": false
+    }
+  ],
+  "scope": "Eight restricted configuration-space searches. No arbitrary tangential translations, no elastic deformation, and no exhaustive escape proof."
+}
