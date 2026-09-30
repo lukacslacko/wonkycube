@@ -1,0 +1,301 @@
+{
+  "core-5.25": {
+    "max_radius_mm": 19.200001867944934,
+    "max_pad_coordinates_mm": [
+      17.60000000000001,
+      17.600001029903442,
+      17.600001029903442,
+      17.60000082651774
+    ],
+    "material_added_mm3": 21.32325616510201,
+    "material_removed_mm3": 0.0011216252899113445,
+    "change_outside_nut_pockets_mm3": 0.002250819136230352,
+    "nut_roof_thickness_mm": 1.950000000000001,
+    "ports": [
+      {
+        "axis": 1,
+        "gauge_af_mm": 5.15,
+        "loading_max_overlap_mm3": 0.0,
+        "nominal_nut_seated_press_interference_mm3": 6.278683091014502,
+        "twist_obstruction_mm3": [
+          6.278683091014502,
+          6.2067184084131,
+          6.709704470902303,
+          7.947457701627605,
+          8.396131439785867
+        ],
+        "missing_pad_mm3": 2.9248868516256153e-08
+      },
+      {
+        "axis": 2,
+        "gauge_af_mm": 5.15,
+        "loading_max_overlap_mm3": 0.0,
+        "nominal_nut_seated_press_interference_mm3": 6.2786821804528055,
+        "twist_obstruction_mm3": [
+          6.2786821804528055,
+          6.206717573039999,
+          6.709703681068781,
+          7.947456994763894,
+          8.396130753658143
+        ],
+        "missing_pad_mm3": 3.182511410005942e-06
+      },
+      {
+        "axis": 3,
+        "gauge_af_mm": 5.15,
+        "loading_max_overlap_mm3": 0.0,
+        "nominal_nut_seated_press_interference_mm3": 6.278688370225192,
+        "twist_obstruction_mm3": [
+          6.278688370225192,
+          6.206723755978212,
+          6.7097083185757365,
+          7.9474608765108785,
+          8.396134515463153
+        ],
+        "missing_pad_mm3": 3.743779981514143e-06
+      },
+      {
+        "axis": 4,
+        "gauge_af_mm": 5.15,
+        "loading_max_overlap_mm3": 0.0,
+        "nominal_nut_seated_press_interference_mm3": 6.278685551978517,
+        "twist_obstruction_mm3": [
+          6.278685551978517,
+          6.20672072063127,
+          6.709706116523134,
+          7.947459041993117,
+          8.396132722589009
+        ],
+        "missing_pad_mm3": 2.0041334447203602e-06
+      }
+    ]
+  },
+  "core-5.20": {
+    "max_radius_mm": 19.200001867944934,
+    "max_pad_coordinates_mm": [
+      17.60000000000001,
+      17.600001029903442,
+      17.600001029903442,
+      17.60000082651774
+    ],
+    "material_added_mm3": 28.994487631497698,
+    "material_removed_mm3": 0.0011267907160078842,
+    "change_outside_nut_pockets_mm3": 0.002252828330432667,
+    "nut_roof_thickness_mm": 1.950000000000001,
+    "ports": [
+      {
+        "axis": 1,
+        "gauge_af_mm": 5.1000000000000005,
+        "loading_max_overlap_mm3": 0.0,
+        "nominal_nut_seated_press_interference_mm3": 7.517102789079214,
+        "twist_obstruction_mm3": [
+          7.517102789079214,
+          7.433642751847948,
+          7.67695394622578,
+          8.758444442993966,
+          9.176147273079462
+        ],
+        "missing_pad_mm3": 2.92488683353322e-08
+      },
+      {
+        "axis": 2,
+        "gauge_af_mm": 5.1000000000000005,
+        "loading_max_overlap_mm3": 0.0,
+        "nominal_nut_seated_press_interference_mm3": 7.517095821403996,
+        "twist_obstruction_mm3": [
+          7.517095821403996,
+          7.433635601751321,
+          7.676948316262205,
+          8.758439827543096,
+          9.176142786045716
+        ],
+        "missing_pad_mm3": 3.182511410005942e-06
+      },
+      {
+        "axis": 3,
+        "gauge_af_mm": 5.1000000000000005,
+        "loading_max_overlap_mm3": 0.0,
+        "nominal_nut_seated_press_interference_mm3": 7.517107531186664,
+        "twist_obstruction_mm3": [
+          7.517107531186664,
+          7.433647377080863,
+          7.676957993088114,
+          8.758447975937107,
+          9.17615073534543
+        ],
+        "missing_pad_mm3": 3.743779981514143e-06
+      },
+      {
+        "axis": 4,
+        "gauge_af_mm": 5.1000000000000005,
+        "loading_max_overlap_mm3": 0.0,
+        "nominal_nut_seated_press_interference_mm3": 7.517102296568146,
+        "twist_obstruction_mm3": [
+          7.517102296568146,
+          7.433641933342714,
+          7.676953633505097,
+          8.758444213666605,
+          9.176147072224486
+        ],
+        "missing_pad_mm3": 2.0041334447203602e-06
+      }
+    ]
+  },
+  "outer_compatibility": {
+    "version": "wonky-double-ivy-44deg-72mm-layered-v7",
+    "manifest_sha256": "75fec75d206665515867db344d9863c92604ba0374c2e5186203ead96b2bd39b",
+    "pieces": [
+      {
+        "name": "C01",
+        "minimum_axial_coordinate_mm": 17.699999008859272,
+        "nominal_pad_clearance_mm": 0.09999900885927104
+      },
+      {
+        "name": "C02",
+        "minimum_axial_coordinate_mm": 17.699998770498674,
+        "nominal_pad_clearance_mm": 0.09999877049867223
+      },
+      {
+        "name": "C03",
+        "minimum_axial_coordinate_mm": 17.69999885777041,
+        "nominal_pad_clearance_mm": 0.09999885777040873
+      },
+      {
+        "name": "C04",
+        "minimum_axial_coordinate_mm": 17.699998925540786,
+        "nominal_pad_clearance_mm": 0.09999892554078471
+      },
+      {
+        "name": "W01",
+        "minimum_radial_distance_mm": 19.388088763093194,
+        "nominal_sphere_clearance_mm": 0.18808876309319444
+      },
+      {
+        "name": "W02",
+        "minimum_radial_distance_mm": 19.38808876182412,
+        "nominal_sphere_clearance_mm": 0.18808876182412249
+      },
+      {
+        "name": "W03",
+        "minimum_radial_distance_mm": 19.388088766183664,
+        "nominal_sphere_clearance_mm": 0.18808876618366455
+      },
+      {
+        "name": "W04",
+        "minimum_radial_distance_mm": 19.3880887655729,
+        "nominal_sphere_clearance_mm": 0.18808876557289977
+      },
+      {
+        "name": "W05",
+        "minimum_radial_distance_mm": 19.388513315628504,
+        "nominal_sphere_clearance_mm": 0.18851331562850504
+      },
+      {
+        "name": "W06",
+        "minimum_radial_distance_mm": 19.38808875893878,
+        "nominal_sphere_clearance_mm": 0.18808875893877897
+      },
+      {
+        "name": "W07",
+        "minimum_radial_distance_mm": 19.388088762177475,
+        "nominal_sphere_clearance_mm": 0.1880887621774754
+      },
+      {
+        "name": "W08",
+        "minimum_radial_distance_mm": 19.38808877136521,
+        "nominal_sphere_clearance_mm": 0.18808877136521218
+      },
+      {
+        "name": "W09",
+        "minimum_radial_distance_mm": 19.388088764544094,
+        "nominal_sphere_clearance_mm": 0.1880887645440943
+      },
+      {
+        "name": "W10",
+        "minimum_radial_distance_mm": 19.388088770614885,
+        "nominal_sphere_clearance_mm": 0.18808877061488616
+      },
+      {
+        "name": "W11",
+        "minimum_radial_distance_mm": 19.388513333697816,
+        "nominal_sphere_clearance_mm": 0.18851333369781642
+      },
+      {
+        "name": "W12",
+        "minimum_radial_distance_mm": 19.38851330880898,
+        "nominal_sphere_clearance_mm": 0.18851330880898232
+      },
+      {
+        "name": "E01",
+        "minimum_radial_distance_mm": 19.389400899457797,
+        "nominal_sphere_clearance_mm": 0.18940089945779803
+      },
+      {
+        "name": "E02",
+        "minimum_radial_distance_mm": 19.3894008774053,
+        "nominal_sphere_clearance_mm": 0.18940087740530132
+      },
+      {
+        "name": "E03",
+        "minimum_radial_distance_mm": 19.38940088666933,
+        "nominal_sphere_clearance_mm": 0.18940088666932908
+      },
+      {
+        "name": "E04",
+        "minimum_radial_distance_mm": 19.389400879133266,
+        "nominal_sphere_clearance_mm": 0.18940087913326664
+      },
+      {
+        "name": "E05",
+        "minimum_radial_distance_mm": 19.389401223175593,
+        "nominal_sphere_clearance_mm": 0.1894012231755937
+      },
+      {
+        "name": "E06",
+        "minimum_radial_distance_mm": 19.389400878212708,
+        "nominal_sphere_clearance_mm": 0.1894008782127088
+      },
+      {
+        "name": "F01",
+        "minimum_radial_distance_mm": 19.485163421510833,
+        "nominal_sphere_clearance_mm": 0.28516342151083407
+      },
+      {
+        "name": "F02",
+        "minimum_radial_distance_mm": 19.485163423185455,
+        "nominal_sphere_clearance_mm": 0.2851634231854554
+      },
+      {
+        "name": "F03",
+        "minimum_radial_distance_mm": 19.48516343571773,
+        "nominal_sphere_clearance_mm": 0.28516343571773106
+      },
+      {
+        "name": "F04",
+        "minimum_radial_distance_mm": 19.485163415301503,
+        "nominal_sphere_clearance_mm": 0.28516341530150413
+      }
+    ],
+    "scope": "Actual STL sphere/plane separation bounds; floating parts stay beyond core R19.2 under centered rotations. Screwed centers stay beyond their own pad planes during axial rotation. Outward radial insertion preserves those bounds."
+  },
+  "passed": true,
+  "plates": [
+    {
+      "file": "plates/core-nut-seat-5.20.3mf",
+      "objects": 1,
+      "exact_stl_geometry": true
+    },
+    {
+      "file": "plates/core-nut-seat-5.25.3mf",
+      "objects": 1,
+      "exact_stl_geometry": true
+    },
+    {
+      "file": "plates/nut-fit-coupons.3mf",
+      "objects": 2,
+      "exact_stl_geometry": true
+    }
+  ],
+  "manifest_sha256": "03d93238345e703f25d3dadcdcb943b6f4836f39a18781302f4f94adbf8214c8",
+  "scope": "Finite nut loading and interference checks plus geometric outer clearance bounds. Press fits require real print/hardware testing; not a torque or endurance measurement."
+}

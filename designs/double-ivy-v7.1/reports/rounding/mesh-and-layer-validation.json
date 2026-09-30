@@ -1,0 +1,258 @@
+[
+  {
+    "name": "C01",
+    "watertight": true,
+    "mesh_components": 1,
+    "layer_height_mm": 0.2,
+    "line_width_mm": 0.45,
+    "layer_components": [
+      {
+        "volume_mm3": 21492.253528671896,
+        "z_mm": [
+          0.1,
+          35.70000000000001
+        ],
+        "layers": 179,
+        "bounds_mm": [
+          [
+            -21.102747969329357,
+            -16.611148975789547,
+            0.0
+          ],
+          [
+            21.101060807704926,
+            16.607510045170784,
+            35.80000000000001
+          ]
+        ]
+      }
+    ],
+    "layer_disconnected_volume_mm3": 0,
+    "protected_inner_symmetric_difference_mm3": -0.0008499888081481499,
+    "added_volume_mm3": -0.0004179200858546612
+  },
+  {
+    "name": "C02",
+    "watertight": true,
+    "mesh_components": 1,
+    "layer_height_mm": 0.2,
+    "line_width_mm": 0.45,
+    "layer_components": [
+      {
+        "volume_mm3": 15791.638322136185,
+        "z_mm": [
+          0.1,
+          22.300000000000004
+        ],
+        "layers": 112,
+        "bounds_mm": [
+          [
+            -23.621178068220615,
+            -25.346945628523827,
+            0.0
+          ],
+          [
+            23.610632307827473,
+            25.350760526955128,
+            22.400000000000006
+          ]
+        ]
+      }
+    ],
+    "layer_disconnected_volume_mm3": 0,
+    "protected_inner_symmetric_difference_mm3": -0.0008344924816109594,
+    "added_volume_mm3": -0.0004062574946881672
+  },
+  {
+    "name": "C03",
+    "watertight": true,
+    "mesh_components": 1,
+    "layer_height_mm": 0.2,
+    "line_width_mm": 0.45,
+    "layer_components": [
+      {
+        "volume_mm3": 16555.83259873813,
+        "z_mm": [
+          0.1,
+          26.700000000000006
+        ],
+        "layers": 134,
+        "bounds_mm": [
+          [
+            -19.86807045340538,
+            -26.78268937766552,
+            0.0
+          ],
+          [
+            19.868006877601147,
+            26.253344602882862,
+            26.800000000000008
+          ]
+        ]
+      }
+    ],
+    "layer_disconnected_volume_mm3": 0,
+    "protected_inner_symmetric_difference_mm3": -0.000841727642680883,
+    "added_volume_mm3": -0.0004091185385561352
+  },
+  {
+    "name": "C04",
+    "watertight": true,
+    "mesh_components": 1,
+    "layer_height_mm": 0.2,
+    "line_width_mm": 0.45,
+    "layer_components": [
+      {
+        "volume_mm3": 13295.627704037195,
+        "z_mm": [
+          0.1,
+          20.700000000000003
+        ],
+        "layers": 104,
+        "bounds_mm": [
+          [
+            -26.186725668609142,
+            -24.258314847946167,
+            0.0
+          ],
+          [
+            26.134759232401848,
+            24.257106728851795,
+            20.800000000000004
+          ]
+        ]
+      }
+    ],
+    "layer_disconnected_volume_mm3": 0,
+    "protected_inner_symmetric_difference_mm3": -0.0008238036866517786,
+    "added_volume_mm3": -0.00040029452496466553
+  },
+  {
+    "name": "F01",
+    "watertight": true,
+    "mesh_components": 1,
+    "layer_height_mm": 0.2,
+    "line_width_mm": 0.45,
+    "layer_components": [
+      {
+        "volume_mm3": 11084.187813936058,
+        "z_mm": [
+          0.30000000000000004,
+          42.900000000000006
+        ],
+        "layers": 214,
+        "bounds_mm": [
+          [
+            -15.905373692512512,
+            -14.750614240765572,
+            0.20000000000000004
+          ],
+          [
+            15.897949509322643,
+            14.128000050783157,
+            43.00000000000001
+          ]
+        ]
+      }
+    ],
+    "layer_disconnected_volume_mm3": 0,
+    "protected_inner_symmetric_difference_mm3": -1.118222906282184e-05,
+    "added_volume_mm3": 2.4900509744100308e-06
+  },
+  {
+    "name": "F02",
+    "watertight": true,
+    "mesh_components": 1,
+    "layer_height_mm": 0.2,
+    "line_width_mm": 0.45,
+    "layer_components": [
+      {
+        "volume_mm3": 5016.862929882973,
+        "z_mm": [
+          0.30000000000000004,
+          27.100000000000005
+        ],
+        "layers": 135,
+        "bounds_mm": [
+          [
+            -14.523404903709888,
+            -14.93068615347147,
+            0.20000000000000004
+          ],
+          [
+            14.84394671022892,
+            14.831410497426987,
+            27.200000000000006
+          ]
+        ]
+      }
+    ],
+    "layer_disconnected_volume_mm3": 0,
+    "protected_inner_symmetric_difference_mm3": -1.9445461903359864e-05,
+    "added_volume_mm3": -4.5419590612924664e-06
+  },
+  {
+    "name": "F03",
+    "watertight": true,
+    "mesh_components": 1,
+    "layer_height_mm": 0.2,
+    "line_width_mm": 0.45,
+    "layer_components": [
+      {
+        "volume_mm3": 6184.357547938497,
+        "z_mm": [
+          0.30000000000000004,
+          30.900000000000006
+        ],
+        "layers": 154,
+        "bounds_mm": [
+          [
+            -13.81439883261919,
+            -14.64149521291256,
+            0.20000000000000004
+          ],
+          [
+            14.365885391831398,
+            14.831863030791283,
+            31.000000000000007
+          ]
+        ]
+      }
+    ],
+    "layer_disconnected_volume_mm3": 0,
+    "protected_inner_symmetric_difference_mm3": -6.407390242852502e-05,
+    "added_volume_mm3": -2.7496730643011803e-05
+  },
+  {
+    "name": "F04",
+    "watertight": true,
+    "mesh_components": 1,
+    "layer_height_mm": 0.2,
+    "line_width_mm": 0.45,
+    "layer_components": [
+      {
+        "volume_mm3": 4150.769715385234,
+        "z_mm": [
+          0.30000000000000004,
+          24.500000000000004
+        ],
+        "layers": 122,
+        "bounds_mm": [
+          [
+            -13.863218396902084,
+            -13.584648847579956,
+            0.20000000000000004
+          ],
+          [
+            13.941139161586761,
+            14.583793669939041,
+            24.600000000000005
+          ]
+        ]
+      }
+    ],
+    "layer_disconnected_volume_mm3": 0,
+    "protected_inner_symmetric_difference_mm3": -2.0024309695525067e-05,
+    "added_volume_mm3": -4.092174778980012e-06
+  }
+]

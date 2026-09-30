@@ -1,0 +1,205 @@
+{
+  "manifest_sha256": "75fec75d206665515867db344d9863c92604ba0374c2e5186203ead96b2bd39b",
+  "scope": "Finite rigid geometry checks; no physical force, friction or endurance measurement.",
+  "insert_F01": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_F02": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_F03": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_F04": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_E01": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_E02": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_E03": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_E04": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_E05": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_E06": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_W01": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.0002959496153919323
+    ]
+  },
+  "insert_W02": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.0003385765779919587
+    ]
+  },
+  "insert_W03": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.00029455111047869595
+    ]
+  },
+  "insert_W04": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.0003402151999110728
+    ]
+  },
+  "insert_W05": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.00029590150194669715
+    ]
+  },
+  "insert_W06": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.0003188019004739735
+    ]
+  },
+  "insert_W07": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.0002959164866693749
+    ]
+  },
+  "insert_W08": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.0003385732253524156
+    ]
+  },
+  "insert_W09": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.0002941110177541701
+    ]
+  },
+  "insert_W10": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.0003207853432574301
+    ]
+  },
+  "insert_W11": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.00029706956123448625
+    ]
+  },
+  "insert_W12": {
+    "samples": 129,
+    "worst": [
+      7.4,
+      0.0003302389129593036
+    ]
+  },
+  "insert_C01": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_C02": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_C03": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "insert_C04": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "stand_withdrawal": {
+    "samples": 129,
+    "worst": [
+      0.0,
+      0.0
+    ]
+  },
+  "order": [
+    "F01-F04",
+    "E01-E06",
+    "W01-W12",
+    "C02-C04",
+    "remove stand if used",
+    "C01"
+  ],
+  "_completion": {
+    "passed": true,
+    "mode": "assembly"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "all_meshes_watertight_single_component": true,
+  "new_prints": 26,
+  "core_exactly_reused": true,
+  "optional_stand_reused": true,
+  "plates": [
+    {
+      "name": "C-01",
+      "objects": [
+        "C03",
+        "C02",
+        "C04",
+        "C01"
+      ],
+      "geometry_identical_to_stl": true,
+      "inside_256mm_bed": true
+    },
+    {
+      "name": "W-01",
+      "objects": [
+        "W12",
+        "W04",
+        "W11",
+        "W07",
+        "W05",
+        "W08",
+        "W02",
+        "W03",
+        "W10",
+        "W06",
+        "W01",
+        "W09"
+      ],
+      "geometry_identical_to_stl": true,
+      "inside_256mm_bed": true
+    },
+    {
+      "name": "E-01",
+      "objects": [
+        "E03",
+        "E06",
+        "E05",
+        "E01",
+        "E04",
+        "E02"
+      ],
+      "geometry_identical_to_stl": true,
+      "inside_256mm_bed": true
+    },
+    {
+      "name": "F-01",
+      "objects": [
+        "F03",
+        "F02",
+        "F01",
+        "F04"
+      ],
+      "geometry_identical_to_stl": true,
+      "inside_256mm_bed": true
+    }
+  ],
+  "manifest_sha256": "75fec75d206665515867db344d9863c92604ba0374c2e5186203ead96b2bd39b"
+}

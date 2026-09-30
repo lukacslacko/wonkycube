@@ -1,0 +1,17 @@
+{
+  "parts": 8,
+  "reproducible_STLs": [
+    "C01",
+    "C02",
+    "C03",
+    "C04",
+    "F01",
+    "F02",
+    "F03",
+    "F04"
+  ],
+  "corrected_motion_poses": 520,
+  "max_detected_intersection_mm3": 0.0,
+  "physical_test_performed": false,
+  "underlying_seizure_cause_established": false
+}

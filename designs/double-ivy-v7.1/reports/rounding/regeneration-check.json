@@ -1,0 +1,50 @@
+[
+  {
+    "name": "C01",
+    "symmetric_difference_abs_mm3": 0.000870473934568626,
+    "bounds_difference_mm": 0.0,
+    "identical_stl_bytes": false
+  },
+  {
+    "name": "C02",
+    "symmetric_difference_abs_mm3": 0.0008345640369330098,
+    "bounds_difference_mm": 0.0,
+    "identical_stl_bytes": false
+  },
+  {
+    "name": "C03",
+    "symmetric_difference_abs_mm3": 0.0009354398769231815,
+    "bounds_difference_mm": 0.0,
+    "identical_stl_bytes": false
+  },
+  {
+    "name": "C04",
+    "symmetric_difference_abs_mm3": 0.0008449786493787369,
+    "bounds_difference_mm": 0.0,
+    "identical_stl_bytes": false
+  },
+  {
+    "name": "F01",
+    "symmetric_difference_abs_mm3": 3.4328700614569446e-05,
+    "bounds_difference_mm": 0.0,
+    "identical_stl_bytes": false
+  },
+  {
+    "name": "F02",
+    "symmetric_difference_abs_mm3": 8.676357460810206e-05,
+    "bounds_difference_mm": 0.0,
+    "identical_stl_bytes": false
+  },
+  {
+    "name": "F03",
+    "symmetric_difference_abs_mm3": 6.011925769193001e-05,
+    "bounds_difference_mm": 0.0,
+    "identical_stl_bytes": false
+  },
+  {
+    "name": "F04",
+    "symmetric_difference_abs_mm3": 8.938548284729323e-05,
+    "bounds_difference_mm": 0.0,
+    "identical_stl_bytes": false
+  }
+]

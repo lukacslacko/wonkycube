@@ -1,0 +1,177 @@
+{
+  "support": [
+    {
+      "axis": 0,
+      "depth": 1,
+      "positions": 369,
+      "worst": {
+        "name": "W01",
+        "angle_degrees": 0,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 1.3648446973990351,
+        "overlap_at_0_4_mm3": 5.8964926157160225
+      },
+      "min_overlap_at_0_25_mm3": 0.25392752693019366,
+      "weakest": {
+        "name": "W04",
+        "angle_degrees": 21,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 0.25392752693019366,
+        "overlap_at_0_4_mm3": 1.2168112217207585
+      }
+    },
+    {
+      "axis": 0,
+      "depth": 2,
+      "positions": 123,
+      "worst": {
+        "name": "W01",
+        "angle_degrees": 0,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 1.3648446973990351,
+        "overlap_at_0_4_mm3": 5.8964926157160225
+      },
+      "min_overlap_at_0_25_mm3": 0.6109453589723384,
+      "weakest": {
+        "name": "W02",
+        "angle_degrees": 30,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 0.6109453589723384,
+        "overlap_at_0_4_mm3": 2.5847134910581664
+      }
+    },
+    {
+      "axis": 1,
+      "depth": 1,
+      "positions": 369,
+      "worst": {
+        "name": "W01",
+        "angle_degrees": 0,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 1.3648446973990351,
+        "overlap_at_0_4_mm3": 5.8964926157160225
+      },
+      "min_overlap_at_0_25_mm3": 0.2540081630356964,
+      "weakest": {
+        "name": "W01",
+        "angle_degrees": 99,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 0.2540081630356964,
+        "overlap_at_0_4_mm3": 1.2168142042557826
+      }
+    },
+    {
+      "axis": 1,
+      "depth": 2,
+      "positions": 123,
+      "worst": {
+        "name": "W04",
+        "angle_degrees": 0,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 1.2734050352893933,
+        "overlap_at_0_4_mm3": 5.413032925738487
+      },
+      "min_overlap_at_0_25_mm3": 0.6109419594575507,
+      "weakest": {
+        "name": "W05",
+        "angle_degrees": 90,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 0.6109419594575507,
+        "overlap_at_0_4_mm3": 2.5847124049964703
+      }
+    },
+    {
+      "axis": 2,
+      "depth": 1,
+      "positions": 369,
+      "worst": {
+        "name": "W02",
+        "angle_degrees": 0,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 1.2737705176613743,
+        "overlap_at_0_4_mm3": 5.413339303873934
+      },
+      "min_overlap_at_0_25_mm3": 0.25400875682936086,
+      "weakest": {
+        "name": "W12",
+        "angle_degrees": 99,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 0.25400875682936086,
+        "overlap_at_0_4_mm3": 1.2168149972216866
+      }
+    },
+    {
+      "axis": 2,
+      "depth": 2,
+      "positions": 123,
+      "worst": {
+        "name": "W07",
+        "angle_degrees": 0,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 1.36484568224635,
+        "overlap_at_0_4_mm3": 5.896493593043763
+      },
+      "min_overlap_at_0_25_mm3": 0.610943747265753,
+      "weakest": {
+        "name": "W08",
+        "angle_degrees": 90,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 0.610943747265753,
+        "overlap_at_0_4_mm3": 2.5847140640049773
+      }
+    },
+    {
+      "axis": 3,
+      "depth": 1,
+      "positions": 369,
+      "worst": {
+        "name": "W03",
+        "angle_degrees": 0,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 1.364843901577824,
+        "overlap_at_0_4_mm3": 5.896491778780233
+      },
+      "min_overlap_at_0_25_mm3": 0.25392876657798585,
+      "weakest": {
+        "name": "W09",
+        "angle_degrees": 21,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 0.25392876657798585,
+        "overlap_at_0_4_mm3": 1.2168122150875387
+      }
+    },
+    {
+      "axis": 3,
+      "depth": 2,
+      "positions": 123,
+      "worst": {
+        "name": "W10",
+        "angle_degrees": 0,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 1.364845300012401,
+        "overlap_at_0_4_mm3": 5.896493168073251
+      },
+      "min_overlap_at_0_25_mm3": 0.6109441118584192,
+      "weakest": {
+        "name": "W11",
+        "angle_degrees": 30,
+        "first_contact_mm": 0.25,
+        "overlap_at_0_25_mm3": 0.6109441118584192,
+        "overlap_at_0_4_mm3": 2.5847120086744444
+      }
+    }
+  ],
+  "strength": {
+    "W": {
+      "erosion_radius_mm": 0.6,
+      "connected_near_core_volume_mm3": 13.274021931534257,
+      "connected_outer_attachment_volume_mm3": 203.8763296655592
+    },
+    "E": {
+      "erosion_radius_mm": 0.6,
+      "connected_near_core_volume_mm3": 34.06200510768085,
+      "connected_outer_attachment_volume_mm3": 310.2304987491061
+    }
+  },
+  "scope": "Finite tests of guide pads against the exact original core, including its nut-slot openings. Non-retaining pads; actual capture remains at the four ordered layers. Morphological neck probe is not a force/fatigue simulation."
+}

@@ -1,0 +1,91 @@
+[
+  {
+    "name": "core",
+    "family": "core",
+    "quantity": 1,
+    "file": "reused/core.stl",
+    "sha256": "1cdab1abf622206e755944c0f65ac1fd8f285d928b2b957ef4ef2e716bb00c39",
+    "dimensions_mm": [
+      38.34896469116211,
+      38.3941535949707,
+      36.723114013671875
+    ],
+    "volume_mm3": 26437.425123836292,
+    "triangles": 21040,
+    "watertight": true,
+    "components": 1,
+    "mechanism_to_print": [
+      [
+        0.39584539733200325,
+        -0.8163722245436608,
+        -0.4205268272116572,
+        0.02500231570370559
+      ],
+      [
+        -0.7141240004913257,
+        0.014249830185002874,
+        -0.6998741703063224,
+        -0.0
+      ],
+      [
+        0.5773502691896254,
+        0.5773502691896254,
+        -0.5773502691896258,
+        17.600000510017306
+      ]
+    ],
+    "cleanup": {
+      "simplification_mm": 0,
+      "coordinate_decimals": 12,
+      "removed_coincident_faces": 0
+    },
+    "bed_face_area_mm2": null,
+    "first_layer_0_16_mm_area_mm2": 192.9964541137529,
+    "description": "5.40 mm terminal seat, 5.85 mm loading entrance",
+    "action": "REUSE EXISTING PRINT"
+  },
+  {
+    "name": "assembly-stand",
+    "family": "stand",
+    "quantity": 1,
+    "file": "reused/assembly-stand.stl",
+    "sha256": "5668f6b190ed0c9fecebeeac59b2eff9a29839ab13532457ffaedbdd8d58dd57",
+    "dimensions_mm": [
+      43.9794807434082,
+      43.9794807434082,
+      72.30000305175781
+    ],
+    "volume_mm3": 7932.956907210032,
+    "triangles": 1920,
+    "watertight": true,
+    "components": 1,
+    "mechanism_to_print": [
+      [
+        0.7808195635687417,
+        -0.5971477968208888,
+        0.18367176674785288,
+        1.7763568394002505e-15
+      ],
+      [
+        -0.23872049726612524,
+        -0.5568493291893463,
+        -0.795569826455471,
+        1.5174289949015929e-06
+      ],
+      [
+        0.5773502691896254,
+        0.5773502691896254,
+        -0.5773502691896258,
+        90.00000347774728
+      ]
+    ],
+    "cleanup": {
+      "simplification_mm": 0,
+      "coordinate_decimals": 12,
+      "removed_coincident_faces": 0
+    },
+    "bed_face_area_mm2": null,
+    "first_layer_0_16_mm_area_mm2": 1447.1148823158153,
+    "action": "REUSE EXISTING PRINT"
+  }
+]

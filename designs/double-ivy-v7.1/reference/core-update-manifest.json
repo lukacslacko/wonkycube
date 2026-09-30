@@ -1,0 +1,181 @@
+{
+  "version": "double-ivy-original-core-current-nut-seats-v1",
+  "units": "millimeter",
+  "recommended": "stl/core-nut-seat-5.25.stl",
+  "core_radius_mm": 19.2,
+  "axle_pad_distance_mm": 17.6,
+  "nut_roof_mm": 15.65,
+  "nut_slot_height_mm": 4.25,
+  "nut_entry_af_mm": 5.85,
+  "tight_channel_length_mm": 3.0,
+  "lead_in_length_mm": 3.0,
+  "screw_bore_diameter_mm": 3.4,
+  "axes": [
+    [
+      -0.5773502691896258,
+      -0.5773502691896258,
+      0.5773502691896258
+    ],
+    [
+      -0.5773502691896258,
+      0.5773502691896258,
+      -0.5773502691896258
+    ],
+    [
+      0.5773502691896258,
+      -0.5773502691896258,
+      -0.5773502691896258
+    ],
+    [
+      0.5773502691896258,
+      0.5773502691896258,
+      0.5773502691896258
+    ]
+  ],
+  "compatible_outer_packages": [
+    "double-Ivy original one-piece-core versions",
+    "spherical v6 64 mm",
+    "layered spherical v7 72 mm"
+  ],
+  "hardware": "4 DIN912 M3x20, 4 DIN985 M3, 4 washers 9 mm OD x 1 mm",
+  "parts": [
+    {
+      "file": "stl/core-nut-seat-5.25.stl",
+      "sha256": "a07526fd5b650efef24d2de35303b7c0fbf2fb4c3eb52b89089dc7421aa4a13f",
+      "mechanism_to_print": [
+        [
+          0.21132486540518694,
+          -0.7886751345948129,
+          -0.5773502691896255,
+          -1.7763568394002505e-15
+        ],
+        [
+          -0.7886751345948129,
+          0.21132486540518694,
+          -0.5773502691896255,
+          -1.7763568394002505e-15
+        ],
+        [
+          0.5773502691896255,
+          0.5773502691896255,
+          -0.577350269189626,
+          17.60000000000001
+        ]
+      ],
+      "dimensions_mm": [
+        38.3994255065918,
+        38.3994255065918,
+        36.72311019897461
+      ],
+      "volume_mm3": 26458.747258376097,
+      "watertight": true,
+      "components": 1,
+      "kind": "core",
+      "nut_seat_af_mm": 5.25,
+      "recommended": true
+    },
+    {
+      "file": "stl/nut-fit-5.25.stl",
+      "sha256": "fba1c214d67c30de77118194afdce3c974d32e1f5b38a3bc36a40de16f8bd752",
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -7.600000000000001
+        ]
+      ],
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3930.233456587271,
+      "watertight": true,
+      "components": 1,
+      "kind": "coupon",
+      "nut_seat_af_mm": 5.25
+    },
+    {
+      "file": "stl/core-nut-seat-5.20.stl",
+      "sha256": "a6f8f6d644db492b6f308f82b11619b8d24859f6f870b222f985422410d3f16f",
+      "mechanism_to_print": [
+        [
+          0.21132486540518694,
+          -0.7886751345948129,
+          -0.5773502691896255,
+          -1.7763568394002505e-15
+        ],
+        [
+          -0.7886751345948129,
+          0.21132486540518694,
+          -0.5773502691896255,
+          -1.7763568394002505e-15
+        ],
+        [
+          0.5773502691896255,
+          0.5773502691896255,
+          -0.577350269189626,
+          17.60000000000001
+        ]
+      ],
+      "dimensions_mm": [
+        38.3994255065918,
+        38.3994255065918,
+        36.72311019897461
+      ],
+      "volume_mm3": 26466.418484677066,
+      "watertight": true,
+      "components": 1,
+      "kind": "core",
+      "nut_seat_af_mm": 5.2,
+      "recommended": false
+    },
+    {
+      "file": "stl/nut-fit-5.20.stl",
+      "sha256": "366666d08b712b6afdffff0afed1a4bd17a4c563bb847844fd7ce59462fb1822",
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -7.600000000000001
+        ]
+      ],
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3932.1512704830725,
+      "watertight": true,
+      "components": 1,
+      "kind": "coupon",
+      "nut_seat_af_mm": 5.2
+    }
+  ]
+}

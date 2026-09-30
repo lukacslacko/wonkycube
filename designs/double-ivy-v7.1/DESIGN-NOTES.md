@@ -1,0 +1,15 @@
+# Why separate radial layers
+
+Four radially ordered part families make three distinct retaining interfaces. The innermost floating-center feet are supported near the core and captured by edge shoulders above them. Edge feet are captured by wings above, and wing feet by the screwed-center flanges above those. The screwed-center stems cross inward through the stack to reach the core. E and W additionally have non-retaining bearing webs reaching the core; their retaining feet stay at the specified higher levels.
+
+This order gives a simple, checked assembly sequence and makes each load-bearing face easy to identify. It also provides larger wing feet at a greater radius. It does not by itself eliminate play: the three track clearances and the screw lift can still add together. Capture, guidance and friction remain separate questions.
+
+The integral E/W webs address inward rocking separately. Their concave R19.4 surface runs around the old R19.2 spherical core with 0.20 mm nominal clearance. A 10 mm diameter starting web is trimmed by the legal turn boundaries into the actual smaller shapes. These smooth webs do not hook into the core and require no core tracks, extra pieces or new assembly step. They were checked throughout both turn types against the actual old core, including its nut-slot openings; sampled inward displacement of 0.25 mm met the core at every tested pose. This is a geometric backstop check, not a prediction of deflection under force.
+
+A higher flange needs a passage during other turns. The deep-cut boundary is therefore built with both a low and a high spherical track. Unused upper shoulders are removed from the edge pieces, while receiving passages remain where moving flanges need them. Family-specific floors remove unused inner wings/centers. Every change is checked against both shallow and deep turns rather than assuming that a solved cross-section establishes motion.
+
+Straight insertion can require a clearance extending farther outward than the flange itself. A larger exterior shell and modest flange overlaps keep those passages underneath the cube surface. The released combination uses 72 mm, a 49° middle neck and an 81° high neck; the initial 68 mm arrangement cut through some outside surfaces. Captured feet were preserved while opening the backs of receiving grooves.
+
+The main dimensions of the original hardware stack can stay fixed even when the retaining flange moves outward. Here the original core pad, screw seat and screw length are retained with a wider integral stem under each screwed center. This saves the embedded nuts and avoids needing a new core.
+
+The physical build stayed captive and solid, with smooth shallow turns. Two deep axes initially bound strongly but improved with repeated movement; the owner now reports that it turns quite well. This confirms useful hand feel after bedding-in without establishing the cause of the early binding. The published outer-ridge correction is separately CAD-checked and remains unprinted. A positive pull-out obstruction in CAD alone establishes neither low friction nor satisfactory hand feel.

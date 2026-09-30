@@ -37,9 +37,19 @@ A naturally aligned **72 mm vertex-turning cuboctahedron** with twelve screwed c
 
 [Download STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/curvy-copter-cuboctahedron-v3.2) · [Build guide](designs/curvy-copter-cuboctahedron-v3.2/README.md) · [Piece map](designs/curvy-copter-cuboctahedron-v3.2/NEIGHBORS.md) · [Build feedback](designs/curvy-copter-cuboctahedron-v3.2/physical-feedback.json)
 
+## Double Ivy
+
+![Double Ivy: a rotated cube with shallow and deep corner turns](designs/double-ivy-v7.1/images/overview.png)
+
+A **72 mm rotated cube** with four tetrahedral axes, shallow 44° and deep 84.97° cuts, and twenty-six moving pieces. Four spherical retaining layers hold floating centers under edges, edges under wings, and wings under screwed centers.
+
+**Printed, assembled and turns quite well after working it in.** Two deep turns initially bound and improved with repeated turning. The supplied v7.1 adds a checked outer-ridge rounding correction, which has not yet been reprinted. It includes the compatible tighter nut-seat core for new builds.
+
+[Download STLs, plates and source](https://github.com/lukacslacko/wonkycube/releases/tag/double-ivy-v7.1) · [Build guide](designs/double-ivy-v7.1/README.md) · [Assembly and neighbors](designs/double-ivy-v7.1/ASSEMBLY.md) · [Build feedback](designs/double-ivy-v7.1/physical-feedback.json)
+
 ## Make one
 
-Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 screws** and **DIN985 M3 locknuts**. The six cube shape mods and Curvy Copter cuboctahedron use **9 × 1 mm washers**; the face-turning cuboctahedron uses **7 × 0.5 mm washers**, all with M3 clearance holes. No glue or separate hidden printed carriers are needed.
+Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 screws** and **DIN985 M3 locknuts**. The six 64 mm cube shape mods, Double Ivy and Curvy Copter cuboctahedron use **9 × 1 mm washers**; the face-turning cuboctahedron uses **7 × 0.5 mm washers**, all with M3 clearance holes. No glue or separate hidden printed carriers are needed.
 
 | Puzzle | Printed puzzle parts, including core | Screws / washers / nuts |
 |---|---:|---:|
@@ -51,6 +61,7 @@ Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 scre
 | Triangular prism | 21 | 5 of each |
 | Face-turning cuboctahedron | 39 | 14 of each; **7 × 0.5 mm washers** |
 | Curvy Copter cuboctahedron | 45 | 12 of each; **9 × 1 mm washers** |
+| Double Ivy | 27 | 4 of each; **9 × 1 mm washers** |
 
 Development used a **Bambu Lab P1S, 0.4 mm nozzle and PLA**. Print at **100% scale** in millimetres. Each build guide covers orientations, supports, nut-fit coupons and assembly guidance. The 3MF plates contain geometry, not a printer profile or G-code. Parts belong to their own mechanism and are not interchangeable between the puzzles.
 
@@ -72,5 +83,6 @@ The [mechanism design guide](docs/mechanism-principles.md) explains these choice
 | Triangular prism | [Design](designs/triangular-prism-v1/README.md#retention-and-fit) | [Source](designs/triangular-prism-v1/source/BUILD.md) | [Validation](designs/triangular-prism-v1/VALIDATION.md) |
 | Face-turning cuboctahedron | [Design](designs/face-turning-cuboctahedron-v1/README.md#mechanism) | [Source](designs/face-turning-cuboctahedron-v1/source/BUILD.md) | [Validation and build feedback](designs/face-turning-cuboctahedron-v1/VALIDATION.md) |
 | Curvy Copter cuboctahedron | [Design](designs/curvy-copter-cuboctahedron-v3.2/README.md#mechanism) | [Source](designs/curvy-copter-cuboctahedron-v3.2/source/BUILD.md) | [Validation and build feedback](designs/curvy-copter-cuboctahedron-v3.2/VALIDATION.md) |
+| Double Ivy | [Design](designs/double-ivy-v7.1/DESIGN-NOTES.md) | [Source](designs/double-ivy-v7.1/BUILD.md) | [Validation and feedback](designs/double-ivy-v7.1/VALIDATION.md) |
 
 Designed and physically iterated by **László Lukács**, with CAD, optimization and documentation developed with **OpenAI Codex**. Source, documentation and original generated models are available under the [MIT license](LICENSE).

@@ -1,0 +1,14 @@
+{
+  "manifest_sha256": "75fec75d206665515867db344d9863c92604ba0374c2e5186203ead96b2bd39b",
+  "status": "geometry_checks_passed_unprinted",
+  "new_parts": 26,
+  "core_reused": true,
+  "cube_mm": 72,
+  "bearing_web_inner_radius_mm": 19.4,
+  "motion_poses": 536,
+  "assembly_poses": 3483,
+  "midturn_foot_checks": 572,
+  "layer_connectivity_checks": 52,
+  "core_bearing_poses": 1968,
+  "notes": "Guide and neck reports use canonical CAD geometries; exported-STL checks identify the manifest hash."
+}

@@ -1,0 +1,39 @@
+{
+  "C": {
+    "erosion_radius_mm": 0.6,
+    "connected_remaining_inner_foot_volume_mm3": 17.385765122384555,
+    "connected_remaining_outer_body_volume_mm3": 386.456017134001,
+    "component_volumes_mm3": [
+      2620.043171417786,
+      1.734723475976807e-17,
+      -5.082197683525802e-20,
+      -3.4415839569654717e-18,
+      -3.4897757426877174e-18
+    ]
+  },
+  "W": {
+    "erosion_radius_mm": 0.6,
+    "connected_remaining_inner_foot_volume_mm3": 488.2016360674229,
+    "connected_remaining_outer_body_volume_mm3": 110.975058459508,
+    "component_volumes_mm3": [
+      1185.9543620740142
+    ]
+  },
+  "E": {
+    "erosion_radius_mm": 0.6,
+    "connected_remaining_inner_foot_volume_mm3": 594.9660325813343,
+    "connected_remaining_outer_body_volume_mm3": 293.2711834822716,
+    "component_volumes_mm3": [
+      3180.5029318857305
+    ]
+  },
+  "F": {
+    "erosion_radius_mm": 0.6,
+    "connected_remaining_inner_foot_volume_mm3": 172.7890818795521,
+    "connected_remaining_outer_body_volume_mm3": 143.69908230934826,
+    "component_volumes_mm3": [
+      1249.8601218957228
+    ]
+  },
+  "scope": "Common mechanism region below R33.2, eroded by a 0.6 mm radius ball. The retained foot and outer body remain in the same component, indicating a connected path with about 1.2 mm local thickness (nominal faceted probe). This is not FEA or an endurance/strength guarantee."
+}

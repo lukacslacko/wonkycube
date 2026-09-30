@@ -1,0 +1,2998 @@
+{
+  "manifest_sha256": "75fec75d206665515867db344d9863c92604ba0374c2e5186203ead96b2bd39b",
+  "scope": "Finite rigid geometry checks; no physical force, friction or endurance measurement.",
+  "capture_1_0": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5384615360443
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788921
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282105
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139137
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111778
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982513
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333044
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_10": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604434
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788924
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282105
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 76.03186249066184
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 76.03413052555325
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 76.03089244057898
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2691358311177
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982505
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333038
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 92.63638093308995
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 92.16091483299692
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 92.30395882537718
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_20": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604425
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788916
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282097
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.30000000000000004,
+        "peak_obstruction_mm3": 63.52609366125732
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 63.52648244831105
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 63.52641536314164
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2691358311178
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982513
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333047
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 160.89645921576118
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 160.8937517344461
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 160.89372209718778
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 80.2664855012478
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 79.79545341247464
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 79.93919950087033
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_30": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604431
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5412788078892
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282108
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 50.09585834572883
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 50.09444399062525
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 50.09714713824191
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139137
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111778
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982516
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333047
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 166.24944100661295
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 166.24649949575294
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 166.2467375061201
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 68.66469777439208
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 68.20585911611087
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 68.35000091887365
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_40": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5384615360443
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788921
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282107
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 36.33150148806521
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 36.32737316232989
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 36.3315686004862
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2691358311178
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982516
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333047
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.54550487572558
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.54166424023222
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.54282461967625
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37132991208483
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.374090177105
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37278360622636
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_50": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5384615360443
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788923
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282107
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 22.9073901477168
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 22.90364438687674
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 22.905138782716634
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111772
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2665570798251
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333047
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.0745473474067
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.0707157296915
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.07167489417415
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37132991208487
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37410208698812
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37278360622639
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_60": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5384615360442
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788907
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282091
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 20.267124319613767
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 20.265962610578267
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 20.26872488956928
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111764
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982496
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2658436033303
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 167.21515033415733
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 167.21147787557084
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 167.21179871780595
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37132991208487
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.3741020869881
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.3727836062264
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_70": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604432
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788924
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282107
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 22.905983078516588
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 22.90133457240409
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 22.902007957919636
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111778
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982516
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2658436033305
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.0771887239106
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.0734791675901
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.07373175523418
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37132991208487
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37408250009948
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37278360622642
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_80": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604435
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788926
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282111
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 36.332098681170585
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 36.324426674516886
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 36.3252861806743
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111786
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2665570798252
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333052
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.551666608264
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.54789437868223
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 168.5481500848776
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37132991208483
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37410208698817
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 66.37278360622636
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_90": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604431
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788924
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282102
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 50.09951639696509
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 50.08906781344434
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 50.09144710791278
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139137
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111775
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982513
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333044
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 166.25164060663622
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 166.24758568985797
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 166.24834219310483
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 68.24765443087574
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 68.56170871430407
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 68.11064888355737
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_100": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604427
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788923
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282101
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 63.52911616688899
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 63.51980150205012
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 63.51867604297333
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2691358311178
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982513
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333047
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 160.89795386255588
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 160.8937029026855
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 160.89434915003415
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 79.91012865610472
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 80.24205866768158
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 79.77468227881818
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_110": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604432
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788923
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5328466728211
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 76.03501747619713
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 76.02672844889393
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 76.02820782877455
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111764
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982502
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333032
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 92.31779331992709
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 92.64430319926926
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 92.17408041058067
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_1_120": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604424
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788916
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282097
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54321986743808
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53650764824829
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5362885894505
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139137
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111772
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982508
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2658436033304
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56182841009289
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.55903307394743
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.55701523165187
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_0": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5384615360443
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788921
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282105
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139137
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26913583111778
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26655707982513
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26584360333044
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_10": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604434
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788924
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282105
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 155.66581562953033
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 155.66407109305717
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 155.66225949759942
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_20": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604425
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788916
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282097
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 151.5721646151523
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 151.5690627700387
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 151.56970893758987
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_30": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604431
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5412788078892
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282108
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139137
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 150.72713329540127
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 150.72031065843004
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 150.72494760382384
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_40": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5384615360443
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788921
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282107
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 149.32783564944324
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 149.32471518556517
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 149.32592629008542
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_50": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5384615360443
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788923
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282107
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 148.54629777735343
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 148.54211199951334
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 148.5440989421036
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_60": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5384615360442
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788907
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282091
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697211
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 148.52394850185178
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 148.5192906899355
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 148.52237493407426
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_70": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604432
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788924
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282107
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 148.55126769152767
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 148.54615392980165
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 148.550738677235
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_80": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604435
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788926
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282111
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 149.32680826858115
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 149.32317529799187
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 149.3268019461347
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_90": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604431
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788924
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282102
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139137
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 150.72468886052278
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 150.71975758328736
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 150.7247365960822
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_100": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604427
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788923
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282101
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 151.57696064284764
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 151.57452906142075
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 151.57713885274842
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_110": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604432
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788923
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5328466728211
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139136
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 155.66927373282402
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 155.66842589174405
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 155.66922341274434
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "capture_2_120": {
+    "pieces": {
+      "W01": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53846153604424
+      },
+      "W02": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54127880788916
+      },
+      "W03": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53284667282097
+      },
+      "W04": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53770485556261
+      },
+      "W05": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53326766850951
+      },
+      "W06": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54480690358656
+      },
+      "W07": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.54358690912817
+      },
+      "W08": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5360491144773
+      },
+      "W09": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53719786142433
+      },
+      "W10": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53473027697213
+      },
+      "W11": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.5417628725112
+      },
+      "W12": {
+        "holder_family": "C",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 84.53734002139137
+      },
+      "E01": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26789061184127
+      },
+      "E02": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26625973001444
+      },
+      "E03": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2673865080443
+      },
+      "E04": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.27038444212303
+      },
+      "E05": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.26701629881927
+      },
+      "E06": {
+        "holder_family": "W",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 156.2668519851295
+      },
+      "F01": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5619784454021
+      },
+      "F02": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5615045388401
+      },
+      "F03": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.56028445758233
+      },
+      "F04": {
+        "holder_family": "E",
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 99.5560886983271
+      }
+    },
+    "all_feet_captured_by_intended_family": true
+  },
+  "_completion": {
+    "passed": true,
+    "mode": "midturn"
+  }
+}

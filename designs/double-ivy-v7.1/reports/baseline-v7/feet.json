@@ -1,0 +1,492 @@
+{
+  "manifest_sha256": "75fec75d206665515867db344d9863c92604ba0374c2e5186203ead96b2bd39b",
+  "scope": "Isolated retaining feet against displaced supporting family; no exterior surfaces counted. Finite geometric obstruction, not a force prediction.",
+  "W01": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6129154225716,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.45223808677032
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.70616691467134
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.9713742165036
+      }
+    ]
+  },
+  "W02": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.608707282784,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.45216896382802
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.70639743616063
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.97153258806918
+      }
+    ]
+  },
+  "W03": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6109852529755,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.44377265431552
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.69783455949334
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.96277813889346
+      }
+    ]
+  },
+  "W04": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6132564939062,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.45234985855288
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.70593917705716
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.97094598106584
+      }
+    ]
+  },
+  "W05": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6183055129648,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.444793675779
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.6987246589851
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.96371958177755
+      }
+    ]
+  },
+  "W06": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6093047025502,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.45712861453424
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.71125498898473
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.97656433055815
+      }
+    ]
+  },
+  "W07": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6210522811552,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.45561777499748
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.70950485023712
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.97464288536626
+      }
+    ]
+  },
+  "W08": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.615346058146,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.44818778765232
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.70202876078271
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.96692840981986
+      }
+    ]
+  },
+  "W09": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6079888357647,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.45054902795181
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.70452086744365
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.96962191575824
+      }
+    ]
+  },
+  "W10": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6086698338368,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.44585374462989
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.6998959385767
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.9647788229864
+      }
+    ]
+  },
+  "W11": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6098328823016,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.45287682099546
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.70686157558181
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.97187576518328
+      }
+    ]
+  },
+  "W12": {
+    "foot_radius_mm": 28.8,
+    "foot_volume_mm3": 1141.6144446931526,
+    "held_by": "C",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 96.45180627077042
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 91.7053858312548
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 86.97042021071027
+      }
+    ]
+  },
+  "E01": {
+    "foot_radius_mm": 25.55,
+    "foot_volume_mm3": 1416.3240829920844,
+    "held_by": "W",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 241.10794133638703
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 220.33156262378935
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.7000000000000001,
+        "peak_obstruction_mm3": 200.06379344852894
+      }
+    ]
+  },
+  "E02": {
+    "foot_radius_mm": 25.55,
+    "foot_volume_mm3": 1416.322870109892,
+    "held_by": "W",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 241.10440937778927
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 220.32817229008774
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.7000000000000001,
+        "peak_obstruction_mm3": 200.0605188093622
+      }
+    ]
+  },
+  "E03": {
+    "foot_radius_mm": 25.55,
+    "foot_volume_mm3": 1416.3303250866327,
+    "held_by": "W",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 241.10326672191675
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 220.3271436803807
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.7000000000000001,
+        "peak_obstruction_mm3": 200.05956791199324
+      }
+    ]
+  },
+  "E04": {
+    "foot_radius_mm": 25.55,
+    "foot_volume_mm3": 1416.3273119538094,
+    "held_by": "W",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 241.110451451121
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 220.33384314976163
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.7000000000000001,
+        "peak_obstruction_mm3": 200.06586873937624
+      }
+    ]
+  },
+  "E05": {
+    "foot_radius_mm": 25.55,
+    "foot_volume_mm3": 1416.3236703837501,
+    "held_by": "W",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 241.10271446875274
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 220.32632461272317
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.7000000000000001,
+        "peak_obstruction_mm3": 200.05861085793845
+      }
+    ]
+  },
+  "E06": {
+    "foot_radius_mm": 25.55,
+    "foot_volume_mm3": 1416.326565291211,
+    "held_by": "W",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 241.10248634577349
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 220.32617496259257
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.7000000000000001,
+        "peak_obstruction_mm3": 200.05868389837138
+      }
+    ]
+  },
+  "F01": {
+    "foot_radius_mm": 22.4,
+    "foot_volume_mm3": 371.8577000958474,
+    "held_by": "E",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 136.2041252917574
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 125.88892109286148
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 115.6884537924344
+      }
+    ]
+  },
+  "F02": {
+    "foot_radius_mm": 22.4,
+    "foot_volume_mm3": 371.8605634526047,
+    "held_by": "E",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 136.20344899228374
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 125.88827556613904
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 115.68782943389651
+      }
+    ]
+  },
+  "F03": {
+    "foot_radius_mm": 22.4,
+    "foot_volume_mm3": 371.8569673175312,
+    "held_by": "E",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 136.19974560276634
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 125.88456377332929
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 115.6839579723168
+      }
+    ]
+  },
+  "F04": {
+    "foot_radius_mm": 22.4,
+    "foot_volume_mm3": 371.85336497038816,
+    "held_by": "E",
+    "pulls": [
+      {
+        "support_outward_shift_mm": 0,
+        "first_contact_mm": 0.4,
+        "peak_obstruction_mm3": 136.19535753235553
+      },
+      {
+        "support_outward_shift_mm": 0.15,
+        "first_contact_mm": 0.5,
+        "peak_obstruction_mm3": 125.88039856982559
+      },
+      {
+        "support_outward_shift_mm": 0.3,
+        "first_contact_mm": 0.6000000000000001,
+        "peak_obstruction_mm3": 115.67969406252769
+      }
+    ]
+  },
+  "_completion": {
+    "passed": true,
+    "mode": "feet"
+  }
+}

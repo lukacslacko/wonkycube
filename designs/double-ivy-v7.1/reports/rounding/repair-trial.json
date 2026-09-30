@@ -1,0 +1,50 @@
+[
+  {
+    "name": "C01",
+    "removed_mm3": 2.30896779184205,
+    "removed_below_R32_mm3": -0.00042500104297514064,
+    "components": 1
+  },
+  {
+    "name": "C02",
+    "removed_mm3": 5.52601985017203,
+    "removed_below_R32_mm3": -0.0004172500457917815,
+    "components": 1
+  },
+  {
+    "name": "C03",
+    "removed_mm3": 11.245769477633678,
+    "removed_below_R32_mm3": -0.0004219964028591352,
+    "components": 1
+  },
+  {
+    "name": "C04",
+    "removed_mm3": 9.079891181739233,
+    "removed_below_R32_mm3": -0.00041348913410948677,
+    "components": 1
+  },
+  {
+    "name": "F01",
+    "removed_mm3": 25.3539684539066,
+    "removed_below_R32_mm3": -5.863917032212459e-06,
+    "components": 1
+  },
+  {
+    "name": "F02",
+    "removed_mm3": 25.392034587794857,
+    "removed_below_R32_mm3": -1.2613079114037803e-05,
+    "components": 1
+  },
+  {
+    "name": "F03",
+    "removed_mm3": 24.477905241413016,
+    "removed_below_R32_mm3": -3.215966042691764e-05,
+    "components": 1
+  },
+  {
+    "name": "F04",
+    "removed_mm3": 22.291522226863147,
+    "removed_below_R32_mm3": -1.3744941017019567e-05,
+    "components": 1
+  }
+]
