@@ -65,7 +65,7 @@ Each puzzle uses a printed core, integral retaining feet, **DIN912 M3 × 20 scre
 
 Development used a **Bambu Lab P1S, 0.4 mm nozzle and PLA**. Print at **100% scale** in millimetres. Each build guide covers orientations, supports, nut-fit coupons and assembly guidance. The 3MF plates contain geometry, not a printer profile or G-code. Parts belong to their own mechanism and are not interchangeable between the puzzles.
 
-**Redi nut fit:** its supplied core can let some nuts spin during installation. Read the [nut-seat fit note](docs/design.md#known-core-issue-and-next-change) before printing that core. The Skewb, conical 3×3 and pentagonal prism use a wide loading entrance and a tighter final nut seat, with fit alternatives supplied. The pentagonal prism's **5.20 mm final seat / 5.85 mm entrance** fitted well. The same seat was slightly tight in the Wavy Redi print, so its v1.1 core uses **5.25 mm** with the same entrance. Orientation and printing affect fit; check the coupon before reprinting a core.
+**Captive nut design:** use the self-contained [DIN985 M3 nut-slot specification](docs/design.md#captive-din985-m3-nut-slot-specification) when designing a part: **5.25 mm terminal seat / 5.85 mm entrance**. The guide defines the taper, axial capture, print orientation and installation-torque fit check. The supplied Redi v4.3 core can let some nuts spin during installation; consult its fit dimensions before printing it.
 
 ## Design and modify
 

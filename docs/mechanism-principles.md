@@ -141,29 +141,15 @@ Numerical export deserves its own checks. Very small Boolean slivers can collaps
 
 ## 10. Design captive nuts for installation torque, not just handling retention
 
-A captive locknut has three distinct requirements: a path to insert it, axial capture once installed, and resistance to screw torque. A roof can satisfy axial capture while leaving the nut free to rotate. Small ribs that stop a nut falling out during handling do not necessarily supply enough torque resistance.
+A captive locknut needs an accessible insertion path, axial capture, and resistance to screw torque. Give these functions distinct geometry: an easy-loading entrance, a retaining roof, and a short press-fit seat supported by substantial walls.
 
-The compact build exposed this distinction: roughly half the nuts spun in their seats as the M3 screws engaged the DIN985 nylon rings. The owner otherwise liked the puzzle. The evidence identifies a local anchorage problem; it does not call for changing the successful sliding pieces.
+For DIN985 M3 nuts in FDM PLA, use a **5.25 mm across-flats terminal seat**, a **5.85 mm entrance**, a **3.0 mm tight run measured from the screw-axis center**, a **3.0 mm taper**, and **4.25 mm cavity height**. The [self-contained nut-slot specification](design.md#captive-din985-m3-nut-slot-specification) gives the exact local coordinates, polygon, bore, roof and pressing-tool requirements for implementation in another CAD project.
 
-Separate the **loading passage** from the **final torque seat**. Keep the entrance generous, then use a short lead-in to a tighter terminal region around the screw bore. Give the nut flats enough engagement and surrounding material to react torque. A blunt rod can press the nut through the last region without making the entire insertion path an interference fit. Keep the final nut depth and screw alignment fixed when revising an otherwise compatible core.
+**5.25 mm is the owner-confirmed good seat size.** The reference printer setup is a Bambu Lab P1S with a 0.4 mm nozzle and PLA. A nominal 5.50 mm nut has 0.25 mm total interference at this seat size, or 0.125 mm per opposing flat. Keep that distinction explicit in CAD parameters.
 
-The Skewb implements this separation with a 5.85 mm loading mouth, a tapered approach to a nominal 5.40 mm terminal seat across flats, and access for a blunt Ø3 mm pressing rod. Fit coupons and 5.30/5.50 mm alternatives accommodate print and nut variation. Its successful whole-puzzle report supports buildability, but does not identify the chosen seat variant or independently establish installation-torque capacity or long-term resistance to spinning. The released **Redi v4.3 core remains unchanged**; its tighter seat is still a proposed follow-up.
+Press the nut squarely into the terminal seat with a blunt tool. Validate by driving the actual screw through the nylon ring and backing it out repeatedly: the nut must stay aligned without spinning, splitting the pocket or progressively loosening. Match coupon orientation and surrounding material to the real part, and check all differently oriented pockets. Tune the seat in 0.05 mm total increments while keeping the loading entrance wide. A roof or small handling rib alone does not establish antirotation capacity.
 
-The **pentagonal prism provides a successful fit reference**: the owner reported on 2026-09-23 that it assembled very well and its nut-slot sizing was well tuned. Its default core was printed in PLA on the P1S with a 0.4 mm nozzle and 0.16 mm layers, using six walls and 40% gyroid infill. The supplied dimensions are:
-
-| Feature | Nominal CAD dimension |
-|---|---:|
-| Final hex seat and tight channel width | **5.20 mm across flats** |
-| Loading entrance width | **5.85 mm** |
-| Tight channel from the screw-axis center | **3.0 mm** |
-| Taper from tight channel to wide entrance | **3.0 mm** |
-| Slot height for a nominal 4 mm-high nut | **4.25 mm** |
-
-For a nominal 5.5 mm nut, 5.20 mm is 0.30 mm of total CAD interference across the flats, not 0.30 mm on each side. Preserve the easy entrance while tuning only the torque seat; surrounding wall thickness and print orientation also affect the result. Use this as the starting point for similar PLA cores, with the supplied 5.20/5.30/5.40 mm coupons for different printers or hardware. The report supports practical fit at assembly, not a universal shrink allowance or measured long-term torque capacity. The other published cores are unchanged. [Feedback, exact part hashes and print settings](../designs/pentagonal-prism-v1/physical-feedback.json).
-
-Validate with the actual locking nut: push it fully home, drive the screw through the nylon ring, and reverse it. Watch for nut rotation, damaged flats, splitting and progressive loosening over repeated cycles. Check all differently oriented pockets in the real printed core; a single conveniently oriented coupon cannot represent them all. Choose the final interference from those results rather than treating nominal nut dimensions or insertion feel as a torque test.
-
-Keep screw-thread locking separate from bearing adjustment too. The rotating piece needs shank clearance, and the washer/foot need enough axial freedom. The nylon ring produces driver resistance before the bearing clamps, so tune by the rotating part's feel rather than assuming all resistance at the tool is clamp load. Long-term adjustment stability remains a separate wear/settling observation.
+Keep thread locking separate from bearing adjustment. A rotating part needs clearance around the screw shank and suitable axial freedom at its washer and bearing. The nylon ring produces driver resistance before a bearing clamps, so adjust by the rotating part's feel. Fit tests establish practical assembly behavior, not a universal shrink allowance or measured long-term torque rating.
 
 ## 11. Choose print orientation for the working surfaces
 
@@ -227,7 +213,7 @@ The owner reported that the Wavy Redi **built very well and turns great**. It us
 
 **A tool's rim beyond the part is insufficient: its cap must also clear it.** The original spherical rounding mask ended in a triangle fan. Although the rim was outside the cube's circumradius, the fan bowed inward and clipped four cube-corner tips. Extend the tool before closing it, then bound the entire cap outside the part's swept envelope. Check the eight intended cube vertices on the finished exports as a regression test, while allowing the intentional gentle exterior rounding. This caught a defect that watertightness, retention and collision checks could not detect.
 
-**Retune press fits by small total increments.** The 5.20 mm nut seat that fitted well in the prism was slightly too tight in the wavy core. The owner suggested angled layers as a possible cause; this was not isolated experimentally. The correction is 5.25 mm across flats, only 0.025 mm more space per side, preserving the 5.85 mm loading entrance and surrounding geometry. This is a proposed fit refinement, not another physically proven dimension. Keep physical feedback attached to the exact supplied files and distinguish a working mechanism from an unprinted adjustment.
+**Specify press fits as total across-flats dimensions.** Use a 5.25 mm terminal seat and a 5.85 mm loading entrance for the DIN985 M3 pocket described in the [nut-slot specification](design.md#captive-din985-m3-nut-slot-specification). A 0.05 mm total dimensional adjustment changes clearance by 0.025 mm per side. Print the coupon in the actual pocket orientation and check installation torque with the actual hardware.
 
 ## 16. Give the hand a useful way to drive each turn
 

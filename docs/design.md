@@ -1,5 +1,7 @@
 # Redi design reference
 
+For reusable hardware geometry, see the self-contained [captive DIN985 M3 nut-slot specification](#captive-din985-m3-nut-slot-specification): **5.25 mm terminal seat and 5.85 mm entrance**. It includes exact CAD construction and fit checks for another project.
+
 For the newer, owner-tested Skewb with trimmed flange tips, see its [design reference](../designs/skewb-v1.1/DESIGN.md) and [print files](../designs/skewb-v1.1). This page records the separate Redi design.
 
 The current **v4.3** design is a 64 mm Redi-equivalent puzzle: eight screw-mounted
@@ -90,35 +92,116 @@ nut occupies axial coordinates 11.65–15.65, leaving 3.35 mm of screw past its 
 face. The eight screw envelopes clear each other, so shorter screws are not needed.
 
 The nut loads sideways beneath a 1.95 mm roof, metal face toward the screw and
-nylon end toward the center. The default pocket is 5.60 across flats; optional
-5.50 and 5.70 variants and coupons are supplied. Existing small ribs aid insertion
-retention but have not provided reliable resistance to screw torque in the build.
+nylon end toward the center. The reusable specification below defines the
+recommended pocket for new CAD. The [Redi source](../designs/redi-v4.3/source/README.md)
+records the geometry of its supplied print files.
 
 ![Compact hardware dimensions](../designs/redi-v4.3/images/hardware-dimensions.png)
 
-## Known core issue and next change
+## Captive DIN985 M3 nut-slot specification
 
-**Observed:** roughly half the installed nuts rotate in their seats as the screw
-passes through the DIN985 nylon locking ring. This is a nut-to-core antirotation
-failure; the report does not indicate a problem with the other pieces. A retaining
-roof that blocks axial withdrawal does not establish torsional holding capacity.
+### Recommended dimensions
 
-**Proposed core-only change, not implemented in this release:**
+For a side-loaded **DIN985 M3 nylon locknut in an FDM PLA part**, start with a
+**5.25 mm across-flats terminal seat and a 5.85 mm wide loading entrance**.
+Keep the entrance wide: only the short region next to the screw axis should
+grip the nut tightly.
 
-- Keep the mouth and most of the loading passage easy to insert through.
-- Narrow the terminal seat around the screw bore, with a short lead-in and enough
-  flat engagement to prevent the nut turning. Press the nut through this final
-  region with a blunt metal rod; avoid making the whole slot a long interference fit.
-- Preserve the nut's final depth, screw alignment, roof, bearing flats and core
-  envelope, keeping the printed C and E pieces compatible.
-- Select the final interference using real nuts and printed coupons. Check that
-  each fully seated nut survives screw insertion through the nylon ring and removal
-  without spinning or splitting the pocket; repeat the check in all eight core
-  slots. No final narrowed dimension or torque rating has yet been established.
+This recipe assumes a nominal **5.50 mm across-flats, 4.00 mm high nut**. Measure
+the actual hardware before adapting it to another nut type or size. All values
+below are **CAD dimensions in millimetres**, not measured printed dimensions.
 
-The optional 5.50/5.70 cores change the existing pocket width; neither is claimed
-to implement this separate entrance/seat fit or to resolve the reported defect.
-This release publishes the tested assembly geometry with the limitation visible.
+| Parameter | Value | Meaning |
+|---|---:|---|
+| `seat_af` | **5.25** | Recommended size, across opposite flats of the final hex seat |
+| `entry_width` | **5.85** | Width of the accessible side-loading passage |
+| `tight_run` | **3.00** | Distance from the screw-axis center to the start of the widening taper |
+| `taper_run` | **3.00** | Length of the taper along the insertion path |
+| `slot_height` | **4.25** | Cavity height along the screw axis for the nominal 4.00-high nut |
+| `bore_diameter` | **3.40** | Clearance hole through the stationary host, coaxial with the nut |
+| Screw-side retaining roof | **About 2.00** | Solid material above the nut cavity; 1.95 is the reference geometry |
+
+At `seat_af = 5.25`, a nominal 5.50 mm nut has **0.25 mm total interference**,
+or **0.125 mm per opposing flat**. This deliberately tight fit depends on the
+printed plastic yielding locally. Do not add a normal sliding-fit clearance
+to the terminal seat.
+
+**5.25 mm is the owner-confirmed good seat size.** Use it as the nominal CAD
+value when transferring this pocket to another project. The reference printer
+setup is a Bambu Lab P1S, 0.4 mm nozzle and PLA. Validate the pocket in its actual
+print orientation; this empirical fit does not imply a measured torque rating.
+
+### Exact pocket construction for a CAD agent
+
+Use a local coordinate system with the **screw axis along Z** and the **loading
+opening toward +X**. The nut slides from the opening toward the origin, in the
+**-X direction**. Its final threaded-hole center is at `x = y = 0`.
+
+1. Make a regular hexagon centered on the origin in XY. Put vertices on the
+   +X and -X directions, so two opposing flats lie at `y = +/- seat_af/2`.
+   Its **circumradius is `seat_af / sqrt(3)`**, not `seat_af/2`.
+2. Union that hexagon with the channel polygon below. Its width is `seat_af`
+   from **x = 0 to 3**, increases linearly to `entry_width` from **x = 3 to 6**,
+   and stays at `entry_width` from **x = 6 to the outside of the host part**.
+   The 3 mm tight run is measured from the screw axis, not from the mouth or
+   from the edge of the hexagon.
+3. Extrude this union by `slot_height` along Z. Subtract it from the host so
+   that a solid roof remains on the screw-entry side. Subtract a coaxial
+   `bore_diameter` hole through the required screw path.
+4. Keep the pocket's sidewalls continuously connected to substantial host
+   material. The roof carries axial load; the tight flats and their supporting
+   walls react installation torque. Small handling ribs are optional and do
+   not establish torque capacity. About 2 mm of roof is a starting geometry,
+   not a universal strength limit; check the load path and layer orientation.
+5. Provide a straight, accessible pushing path through the loading mouth for
+   a blunt tool, approximately 3 mm in diameter. The final seat must be reachable
+   without using the screw to force a misaligned nut into position.
+
+```text
+h = seat_af / 2
+e = entry_width / 2
+L = a distance beyond the outer surface, with L > 6
+
+hex_vertices[k] = (seat_af / sqrt(3)) * (cos(k*pi/3), sin(k*pi/3))
+                 for k = 0, 1, 2, 3, 4, 5
+
+channel = [(0,-h), (3,-h), (6,-e), (L,-e),
+           (L, e), (6, e), (3, h), (0, h)]
+
+pocket = extrude(union(hexagon(hex_vertices), polygon(channel)), 4.25)
+```
+
+Choose the pocket's axial position from the new project's screw stack. The
+nut's **metal face points toward the screw entry and retaining roof**; its
+**nylon locking end points away from the screw entry**. Verify that the chosen
+screw reaches through the nylon locking section without bottoming out or
+colliding with other screws. For a rotating part, provide separate clearance
+around the screw shank; **3.60 mm** is the reference rotating bore. Keep hardware
+holes and interference dimensions independent of the overall model scale.
+
+### Print, insert and tune
+
+- Print at **100% scale**. Use the intended material, layer height and wall
+  settings. Six walls and 40% gyroid infill are a useful starting point for a
+  small PLA host; inspect the actual pocket roof and wall toolpaths.
+- Print a **5.25 mm coupon** with the pocket at the same inclination to
+  the layers as the intended part. Include the same roof, taper and supporting
+  walls. Check every substantially different pocket orientation in the part.
+- Remove accessible support residue and burrs. Slide the nut into the wide
+  mouth, keep its flats aligned, then press it squarely into the terminal seat
+  with a blunt metal tool. It should seat fully, with its hole aligned to the
+  bore, without cracking or splitting the host.
+- Test with the actual M3 screw: drive it through the **nylon locking ring**,
+  then back it out, and repeat. Accept the fit only if the nut does not rotate
+  or progressively loosen. Insertion resistance alone is not the acceptance
+  test.
+- If the nut rotates, reduce only `seat_af` by **0.05 mm total across flats**.
+  If it cannot seat or damages the part, increase `seat_af` by **0.05 mm total**.
+  That is **0.025 mm per side**. Keep the 5.85 mm mouth and taper length fixed;
+  check the surrounding material if the walls flex or split.
+
+Implementation references: [pocket and coupon code](../designs/curvy-copter-cuboctahedron-v3.2/source/hardware.py)
+and [5.25 mm parameter definition](../designs/curvy-copter-cuboctahedron-v3.2/source/design.py).
 
 ## Printing and assembly
 
