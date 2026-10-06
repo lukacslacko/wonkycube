@@ -29,14 +29,14 @@ def package():
  out=DEST.parent/(DEST.name+'.zip')
  with zipfile.ZipFile(out,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
   for p in sorted(DEST.rglob('*')):
-   if p.is_file():z.write(p,DEST.name+'/'+p.relative_to(DEST).as_posix())
+   if p.is_file() and p.name!='.DS_Store' and '__pycache__' not in p.parts:z.write(p,DEST.name+'/'+p.relative_to(DEST).as_posix())
  with zipfile.ZipFile(out) as z:assert z.testzip() is None
  print('PACKAGED',out,round(out.stat().st_size/1e6,2),'MB',flush=True)
  addon=DEST.parent/'rhombic-dodecahedron-v5.1-printable-inlays-2mm.zip'
  root=DEST/'inlays/printable'
  with zipfile.ZipFile(addon,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
   for p in sorted(root.rglob('*')):
-   if p.is_file():z.write(p,'rhombic-dodecahedron-v5.1-printable-inlays-2mm/'+p.relative_to(root).as_posix())
+   if p.is_file() and p.name!='.DS_Store' and '__pycache__' not in p.parts:z.write(p,'rhombic-dodecahedron-v5.1-printable-inlays-2mm/'+p.relative_to(root).as_posix())
  with zipfile.ZipFile(addon) as z:assert z.testzip() is None
  print('PRINTABLE INLAY DOWNLOAD',addon,round(addon.stat().st_size/1e6,2),'MB',flush=True)
 if __name__=='__main__':package()

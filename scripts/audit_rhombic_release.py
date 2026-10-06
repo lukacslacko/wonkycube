@@ -43,7 +43,7 @@ def main():
  entries={}
  for line in (DESIGN/'SHA256SUMS.txt').read_text().splitlines():
   sha,name=line.split('  ',1);assert digest(DESIGN/name)==sha,name;entries[name]=sha
- actual={p.relative_to(DESIGN).as_posix() for p in DESIGN.rglob('*') if p.is_file() and p.name!='SHA256SUMS.txt' and '__pycache__' not in p.parts}
+ actual={p.relative_to(DESIGN).as_posix() for p in DESIGN.rglob('*') if p.is_file() and p.name not in ['SHA256SUMS.txt','.DS_Store'] and '__pycache__' not in p.parts}
  assert actual==set(entries)
  readme=(ROOT/'README.md').read_text()
  assert 'face-turning-cuboctahedron' not in readme and 'Face-turning cuboctahedron' not in readme

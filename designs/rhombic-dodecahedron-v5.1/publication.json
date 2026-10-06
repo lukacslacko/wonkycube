@@ -284,7 +284,7 @@
     "reference/DO-NOT-PRINT-solved.3mf": "9f31469c52d3603b947e17135f700969156695199935ec2b770750431b4952e4"
   },
   "geometry_source_sha256": {
-    "source/package.py": "8d4d64898b1cf8a03331e74886c7c47785d640bb7189a609379b563ad96dcef0",
+    "source/package.py": "202075e703a461f8b18927d13879960c0e66536f29e1ba6257c556c025af0962",
     "source/build.py": "611dc17d65f58def991dc4c83776ef9056b68f8e0296def09d49e7b74afe6643",
     "source/section_connectivity.py": "6abf93b296883cb78ed16b3caa80ba17113b533042435ad30c1db15b10d4234b",
     "source/inlays.py": "2648024296dea50c2b472893722b423eeda1e3a5e1447e87a50f5c840379c1c9",
@@ -296,7 +296,7 @@
     "source/checks.py": "ec474e7a1955c655b97fbb45d54d95d61e3b6ed5be635513602bd36a97a18958",
     "source/mesh_io.py": "1477ea325f339c719d88bb22c42aaf63272bba97542d7416d01af2dc94472656",
     "source/design.py": "842a6cf748d4a4b565d71dc010bda42681b8170c3d57959d8f96b7cb2410b51b",
-    "source/supplements.py": "65716f716d13d48af2da72867ca18b18f946bc877f770702fa087121a33702aa",
+    "source/supplements.py": "a6d14206a93f2d2854a700a118dd2dd6819cb39e57e4a1c995925e10833f8de3",
     "source/export.py": "e7e0834c37dbcf94fd9d6e23e3dd11bd3ea39eada2bc9168b6631c6af35799cc",
     "source/spherical_report.py": "7f5725ca1ed7d5258983eb324385cd80b7df0060ee5978e9bff55a30855a5bea",
     "source/cutting.py": "653e45b57f84748ba96ef66883e319cdb30d8be970271a479ef28d792a88a77e",

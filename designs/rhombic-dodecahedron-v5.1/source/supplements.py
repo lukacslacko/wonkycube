@@ -47,7 +47,7 @@ def run():
  if license_path.exists():shutil.copy2(license_path,DEST/'LICENSE')
  # The source template previews images one directory above itself.
  (DEST/'README.md').write_text((HERE/'ASSEMBLY.md').read_text().replace('(../images/', '(images/').replace('(../physical-feedback.json)', '(physical-feedback.json)').replace('(../VALIDATION.md)', '(VALIDATION.md)'))
- files=[p for p in sorted(DEST.rglob('*')) if p.is_file() and p.name!='SHA256SUMS.txt']
+ files=[p for p in sorted(DEST.rglob('*')) if p.is_file() and p.name not in ['SHA256SUMS.txt','.DS_Store'] and '__pycache__' not in p.parts]
  (DEST/'SHA256SUMS.txt').write_text(''.join(hashlib.sha256(p.read_bytes()).hexdigest()+'  '+p.relative_to(DEST).as_posix()+'\n' for p in files))
  print('SUPPLEMENTS COMPLETE',flush=True)
 if __name__=='__main__':run()
