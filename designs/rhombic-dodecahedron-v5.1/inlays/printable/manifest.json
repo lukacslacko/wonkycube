@@ -1,0 +1,1171 @@
+{
+  "thickness_mm": 2.0,
+  "clearance_per_side_mm": 0.0,
+  "total_inlays": 96,
+  "faces": [
+    {
+      "face": "F01",
+      "pieces": [
+        "P02",
+        "P03",
+        "P14",
+        "P15",
+        "S03",
+        "S05",
+        "T01",
+        "T05"
+      ],
+      "stl": "faces/F01.stl",
+      "plate_3mf": "faces/F01.3mf",
+      "individuals": [
+        {
+          "piece": "P02",
+          "file": "individual/F01/F01-P02.stl",
+          "xy_center_in_face_mm": [
+            -10.45249381288886,
+            10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P03",
+          "file": "individual/F01/F01-P03.stl",
+          "xy_center_in_face_mm": [
+            -10.45024137943983,
+            -10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P14",
+          "file": "individual/F01/F01-P14.stl",
+          "xy_center_in_face_mm": [
+            10.45024137943983,
+            10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P15",
+          "file": "individual/F01/F01-P15.stl",
+          "xy_center_in_face_mm": [
+            10.45249381288886,
+            -10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "S03",
+          "file": "individual/F01/F01-S03.stl",
+          "xy_center_in_face_mm": [
+            0.0003555119037628174,
+            21.87086993828416
+          ],
+          "template": "S-F05",
+          "contour_readback_error_mm": 4.373984763041999e-07
+        },
+        {
+          "piece": "S05",
+          "file": "individual/F01/F01-S05.stl",
+          "xy_center_in_face_mm": [
+            -0.0003555119037628174,
+            -21.87086993828416
+          ],
+          "template": "S-F06",
+          "contour_readback_error_mm": 4.373984781554929e-07
+        },
+        {
+          "piece": "T01",
+          "file": "individual/F01/F01-T01.stl",
+          "xy_center_in_face_mm": [
+            -17.88065777719021,
+            0.0010867603123188019
+          ],
+          "template": "T-F01",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        },
+        {
+          "piece": "T05",
+          "file": "individual/F01/F01-T05.stl",
+          "xy_center_in_face_mm": [
+            17.88065777719021,
+            -0.0010867603123188019
+          ],
+          "template": "T-F01",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        }
+      ]
+    },
+    {
+      "face": "F02",
+      "pieces": [
+        "P05",
+        "P06",
+        "P17",
+        "P18",
+        "S03",
+        "S06",
+        "T02",
+        "T06"
+      ],
+      "stl": "faces/F02.stl",
+      "plate_3mf": "faces/F02.3mf",
+      "individuals": [
+        {
+          "piece": "P05",
+          "file": "individual/F02/F02-P05.stl",
+          "xy_center_in_face_mm": [
+            -10.45024137943983,
+            -10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P06",
+          "file": "individual/F02/F02-P06.stl",
+          "xy_center_in_face_mm": [
+            -10.45249381288886,
+            10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P17",
+          "file": "individual/F02/F02-P17.stl",
+          "xy_center_in_face_mm": [
+            10.45249381288886,
+            -10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P18",
+          "file": "individual/F02/F02-P18.stl",
+          "xy_center_in_face_mm": [
+            10.45024137943983,
+            10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "S03",
+          "file": "individual/F02/F02-S03.stl",
+          "xy_center_in_face_mm": [
+            -0.0003555119037628174,
+            -21.87086993828416
+          ],
+          "template": "S-F06",
+          "contour_readback_error_mm": 4.373984781554929e-07
+        },
+        {
+          "piece": "S06",
+          "file": "individual/F02/F02-S06.stl",
+          "xy_center_in_face_mm": [
+            0.0003555119037628174,
+            21.87086993828416
+          ],
+          "template": "S-F05",
+          "contour_readback_error_mm": 4.373984763041999e-07
+        },
+        {
+          "piece": "T02",
+          "file": "individual/F02/F02-T02.stl",
+          "xy_center_in_face_mm": [
+            -17.88065777719021,
+            0.0010867603123188019
+          ],
+          "template": "T-F01",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        },
+        {
+          "piece": "T06",
+          "file": "individual/F02/F02-T06.stl",
+          "xy_center_in_face_mm": [
+            17.88065777719021,
+            -0.0010867603123188019
+          ],
+          "template": "T-F01",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        }
+      ]
+    },
+    {
+      "face": "F03",
+      "pieces": [
+        "P08",
+        "P09",
+        "P20",
+        "P21",
+        "S04",
+        "S05",
+        "T03",
+        "T07"
+      ],
+      "stl": "faces/F03.stl",
+      "plate_3mf": "faces/F03.3mf",
+      "individuals": [
+        {
+          "piece": "P08",
+          "file": "individual/F03/F03-P08.stl",
+          "xy_center_in_face_mm": [
+            10.45024137943983,
+            10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P09",
+          "file": "individual/F03/F03-P09.stl",
+          "xy_center_in_face_mm": [
+            10.45249381288886,
+            -10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P20",
+          "file": "individual/F03/F03-P20.stl",
+          "xy_center_in_face_mm": [
+            -10.45249381288886,
+            10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P21",
+          "file": "individual/F03/F03-P21.stl",
+          "xy_center_in_face_mm": [
+            -10.45024137943983,
+            -10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "S04",
+          "file": "individual/F03/F03-S04.stl",
+          "xy_center_in_face_mm": [
+            0.0003555119037628174,
+            21.87086993828416
+          ],
+          "template": "S-F06",
+          "contour_readback_error_mm": 4.373984781554929e-07
+        },
+        {
+          "piece": "S05",
+          "file": "individual/F03/F03-S05.stl",
+          "xy_center_in_face_mm": [
+            -0.0003555119037628174,
+            -21.87086993828416
+          ],
+          "template": "S-F05",
+          "contour_readback_error_mm": 4.373984763041999e-07
+        },
+        {
+          "piece": "T03",
+          "file": "individual/F03/F03-T03.stl",
+          "xy_center_in_face_mm": [
+            17.88065777719021,
+            -0.0010867603123188019
+          ],
+          "template": "T-F01",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        },
+        {
+          "piece": "T07",
+          "file": "individual/F03/F03-T07.stl",
+          "xy_center_in_face_mm": [
+            -17.88065777719021,
+            0.0010867603123188019
+          ],
+          "template": "T-F01",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        }
+      ]
+    },
+    {
+      "face": "F04",
+      "pieces": [
+        "P11",
+        "P12",
+        "P23",
+        "P24",
+        "S04",
+        "S06",
+        "T04",
+        "T08"
+      ],
+      "stl": "faces/F04.stl",
+      "plate_3mf": "faces/F04.3mf",
+      "individuals": [
+        {
+          "piece": "P11",
+          "file": "individual/F04/F04-P11.stl",
+          "xy_center_in_face_mm": [
+            10.45249381288886,
+            -10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P12",
+          "file": "individual/F04/F04-P12.stl",
+          "xy_center_in_face_mm": [
+            10.45024137943983,
+            10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P23",
+          "file": "individual/F04/F04-P23.stl",
+          "xy_center_in_face_mm": [
+            -10.45024137943983,
+            -10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P24",
+          "file": "individual/F04/F04-P24.stl",
+          "xy_center_in_face_mm": [
+            -10.45249381288886,
+            10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "S04",
+          "file": "individual/F04/F04-S04.stl",
+          "xy_center_in_face_mm": [
+            -0.0003555119037628174,
+            -21.87086993828416
+          ],
+          "template": "S-F05",
+          "contour_readback_error_mm": 4.373984763041999e-07
+        },
+        {
+          "piece": "S06",
+          "file": "individual/F04/F04-S06.stl",
+          "xy_center_in_face_mm": [
+            0.0003555119037628174,
+            21.87086993828416
+          ],
+          "template": "S-F06",
+          "contour_readback_error_mm": 4.373984781554929e-07
+        },
+        {
+          "piece": "T04",
+          "file": "individual/F04/F04-T04.stl",
+          "xy_center_in_face_mm": [
+            17.88065777719021,
+            -0.0010867603123188019
+          ],
+          "template": "T-F01",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        },
+        {
+          "piece": "T08",
+          "file": "individual/F04/F04-T08.stl",
+          "xy_center_in_face_mm": [
+            -17.88065777719021,
+            0.0010867603123188019
+          ],
+          "template": "T-F01",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        }
+      ]
+    },
+    {
+      "face": "F05",
+      "pieces": [
+        "P01",
+        "P03",
+        "P07",
+        "P09",
+        "S01",
+        "S05",
+        "T01",
+        "T03"
+      ],
+      "stl": "faces/F05.stl",
+      "plate_3mf": "faces/F05.3mf",
+      "individuals": [
+        {
+          "piece": "P01",
+          "file": "individual/F05/F05-P01.stl",
+          "xy_center_in_face_mm": [
+            10.45024137943983,
+            10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P03",
+          "file": "individual/F05/F05-P03.stl",
+          "xy_center_in_face_mm": [
+            10.45249381288886,
+            -10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P07",
+          "file": "individual/F05/F05-P07.stl",
+          "xy_center_in_face_mm": [
+            -10.45249381288886,
+            10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P09",
+          "file": "individual/F05/F05-P09.stl",
+          "xy_center_in_face_mm": [
+            -10.45024137943983,
+            -10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "S01",
+          "file": "individual/F05/F05-S01.stl",
+          "xy_center_in_face_mm": [
+            0.0003555119037628174,
+            21.87086993828416
+          ],
+          "template": "S-F06",
+          "contour_readback_error_mm": 4.373984781554929e-07
+        },
+        {
+          "piece": "S05",
+          "file": "individual/F05/F05-S05.stl",
+          "xy_center_in_face_mm": [
+            -0.0003555119037628174,
+            -21.87086993828416
+          ],
+          "template": "S-F10",
+          "contour_readback_error_mm": 4.373984744438787e-07
+        },
+        {
+          "piece": "T01",
+          "file": "individual/F05/F05-T01.stl",
+          "xy_center_in_face_mm": [
+            17.88065777719021,
+            -0.0010867603123188019
+          ],
+          "template": "T-F05",
+          "contour_readback_error_mm": 2.2404621063211246e-07
+        },
+        {
+          "piece": "T03",
+          "file": "individual/F05/F05-T03.stl",
+          "xy_center_in_face_mm": [
+            -17.88065777719021,
+            0.0010867603123188019
+          ],
+          "template": "T-F09",
+          "contour_readback_error_mm": 2.240462089650794e-07
+        }
+      ]
+    },
+    {
+      "face": "F06",
+      "pieces": [
+        "P04",
+        "P06",
+        "P10",
+        "P12",
+        "S01",
+        "S06",
+        "T02",
+        "T04"
+      ],
+      "stl": "faces/F06.stl",
+      "plate_3mf": "faces/F06.3mf",
+      "individuals": [
+        {
+          "piece": "P04",
+          "file": "individual/F06/F06-P04.stl",
+          "xy_center_in_face_mm": [
+            10.45249381288886,
+            -10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P06",
+          "file": "individual/F06/F06-P06.stl",
+          "xy_center_in_face_mm": [
+            10.45024137943983,
+            10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P10",
+          "file": "individual/F06/F06-P10.stl",
+          "xy_center_in_face_mm": [
+            -10.45024137943983,
+            -10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P12",
+          "file": "individual/F06/F06-P12.stl",
+          "xy_center_in_face_mm": [
+            -10.45249381288886,
+            10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "S01",
+          "file": "individual/F06/F06-S01.stl",
+          "xy_center_in_face_mm": [
+            -0.0003555119037628174,
+            -21.87086993828416
+          ],
+          "template": "S-F05",
+          "contour_readback_error_mm": 4.373984763041999e-07
+        },
+        {
+          "piece": "S06",
+          "file": "individual/F06/F06-S06.stl",
+          "xy_center_in_face_mm": [
+            0.0003555119037628174,
+            21.87086993828416
+          ],
+          "template": "S-F10",
+          "contour_readback_error_mm": 4.373984744438787e-07
+        },
+        {
+          "piece": "T02",
+          "file": "individual/F06/F06-T02.stl",
+          "xy_center_in_face_mm": [
+            17.88065777719021,
+            -0.0010867603123188019
+          ],
+          "template": "T-F09",
+          "contour_readback_error_mm": 2.240462089650794e-07
+        },
+        {
+          "piece": "T04",
+          "file": "individual/F06/F06-T04.stl",
+          "xy_center_in_face_mm": [
+            -17.88065777719021,
+            0.0010867603123188019
+          ],
+          "template": "T-F05",
+          "contour_readback_error_mm": 2.2404621063211246e-07
+        }
+      ]
+    },
+    {
+      "face": "F07",
+      "pieces": [
+        "P13",
+        "P15",
+        "P19",
+        "P21",
+        "S02",
+        "S05",
+        "T05",
+        "T07"
+      ],
+      "stl": "faces/F07.stl",
+      "plate_3mf": "faces/F07.3mf",
+      "individuals": [
+        {
+          "piece": "P13",
+          "file": "individual/F07/F07-P13.stl",
+          "xy_center_in_face_mm": [
+            -10.45249381288886,
+            10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P15",
+          "file": "individual/F07/F07-P15.stl",
+          "xy_center_in_face_mm": [
+            -10.45024137943983,
+            -10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P19",
+          "file": "individual/F07/F07-P19.stl",
+          "xy_center_in_face_mm": [
+            10.45024137943983,
+            10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P21",
+          "file": "individual/F07/F07-P21.stl",
+          "xy_center_in_face_mm": [
+            10.45249381288886,
+            -10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "S02",
+          "file": "individual/F07/F07-S02.stl",
+          "xy_center_in_face_mm": [
+            0.0003555119037628174,
+            21.87086993828416
+          ],
+          "template": "S-F05",
+          "contour_readback_error_mm": 4.373984763041999e-07
+        },
+        {
+          "piece": "S05",
+          "file": "individual/F07/F07-S05.stl",
+          "xy_center_in_face_mm": [
+            -0.0003555119037628174,
+            -21.87086993828416
+          ],
+          "template": "S-F09",
+          "contour_readback_error_mm": 4.373984744438787e-07
+        },
+        {
+          "piece": "T05",
+          "file": "individual/F07/F07-T05.stl",
+          "xy_center_in_face_mm": [
+            -17.88065777719021,
+            0.0010867603123188019
+          ],
+          "template": "T-F09",
+          "contour_readback_error_mm": 2.240462089650794e-07
+        },
+        {
+          "piece": "T07",
+          "file": "individual/F07/F07-T07.stl",
+          "xy_center_in_face_mm": [
+            17.88065777719021,
+            -0.0010867603123188019
+          ],
+          "template": "T-F05",
+          "contour_readback_error_mm": 2.2404621063211246e-07
+        }
+      ]
+    },
+    {
+      "face": "F08",
+      "pieces": [
+        "P16",
+        "P18",
+        "P22",
+        "P24",
+        "S02",
+        "S06",
+        "T06",
+        "T08"
+      ],
+      "stl": "faces/F08.stl",
+      "plate_3mf": "faces/F08.3mf",
+      "individuals": [
+        {
+          "piece": "P16",
+          "file": "individual/F08/F08-P16.stl",
+          "xy_center_in_face_mm": [
+            -10.45024137943983,
+            -10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "P18",
+          "file": "individual/F08/F08-P18.stl",
+          "xy_center_in_face_mm": [
+            -10.45249381288886,
+            10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P22",
+          "file": "individual/F08/F08-P22.stl",
+          "xy_center_in_face_mm": [
+            10.45249381288886,
+            -10.597032979130745
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416551232122e-07
+        },
+        {
+          "piece": "P24",
+          "file": "individual/F08/F08-P24.stl",
+          "xy_center_in_face_mm": [
+            10.45024137943983,
+            10.592064678668976
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754438599245e-07
+        },
+        {
+          "piece": "S02",
+          "file": "individual/F08/F08-S02.stl",
+          "xy_center_in_face_mm": [
+            -0.0003555119037628174,
+            -21.87086993828416
+          ],
+          "template": "S-F06",
+          "contour_readback_error_mm": 4.373984781554929e-07
+        },
+        {
+          "piece": "S06",
+          "file": "individual/F08/F08-S06.stl",
+          "xy_center_in_face_mm": [
+            0.0003555119037628174,
+            21.87086993828416
+          ],
+          "template": "S-F09",
+          "contour_readback_error_mm": 4.373984744438787e-07
+        },
+        {
+          "piece": "T06",
+          "file": "individual/F08/F08-T06.stl",
+          "xy_center_in_face_mm": [
+            -17.88065777719021,
+            0.0010867603123188019
+          ],
+          "template": "T-F05",
+          "contour_readback_error_mm": 2.2404621063211246e-07
+        },
+        {
+          "piece": "T08",
+          "file": "individual/F08/F08-T08.stl",
+          "xy_center_in_face_mm": [
+            17.88065777719021,
+            -0.0010867603123188019
+          ],
+          "template": "T-F09",
+          "contour_readback_error_mm": 2.240462089650794e-07
+        }
+      ]
+    },
+    {
+      "face": "F09",
+      "pieces": [
+        "P01",
+        "P02",
+        "P04",
+        "P05",
+        "S01",
+        "S03",
+        "T01",
+        "T02"
+      ],
+      "stl": "faces/F09.stl",
+      "plate_3mf": "faces/F09.3mf",
+      "individuals": [
+        {
+          "piece": "P01",
+          "file": "individual/F09/F09-P01.stl",
+          "xy_center_in_face_mm": [
+            -10.597032979130745,
+            -10.45249381288886
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416549043829e-07
+        },
+        {
+          "piece": "P02",
+          "file": "individual/F09/F09-P02.stl",
+          "xy_center_in_face_mm": [
+            10.592064678668976,
+            -10.45024137943983
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754432699117e-07
+        },
+        {
+          "piece": "P04",
+          "file": "individual/F09/F09-P04.stl",
+          "xy_center_in_face_mm": [
+            -10.592064678668976,
+            10.45024137943983
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754432699117e-07
+        },
+        {
+          "piece": "P05",
+          "file": "individual/F09/F09-P05.stl",
+          "xy_center_in_face_mm": [
+            10.597032979130745,
+            10.45249381288886
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416549043829e-07
+        },
+        {
+          "piece": "S01",
+          "file": "individual/F09/F09-S01.stl",
+          "xy_center_in_face_mm": [
+            -21.87086993828416,
+            0.0003555119037628174
+          ],
+          "template": "S-F10",
+          "contour_readback_error_mm": 4.373984725835574e-07
+        },
+        {
+          "piece": "S03",
+          "file": "individual/F09/F09-S03.stl",
+          "xy_center_in_face_mm": [
+            21.87086993828416,
+            -0.0003555119037628174
+          ],
+          "template": "S-F10",
+          "contour_readback_error_mm": 4.373984725835574e-07
+        },
+        {
+          "piece": "T01",
+          "file": "individual/F09/F09-T01.stl",
+          "xy_center_in_face_mm": [
+            -0.0010867603123188019,
+            -17.88065777719021
+          ],
+          "template": "T-F09",
+          "contour_readback_error_mm": 2.2404620813156286e-07
+        },
+        {
+          "piece": "T02",
+          "file": "individual/F09/F09-T02.stl",
+          "xy_center_in_face_mm": [
+            0.0010867603123188019,
+            17.88065777719021
+          ],
+          "template": "T-F05",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        }
+      ]
+    },
+    {
+      "face": "F10",
+      "pieces": [
+        "P07",
+        "P08",
+        "P10",
+        "P11",
+        "S01",
+        "S04",
+        "T03",
+        "T04"
+      ],
+      "stl": "faces/F10.stl",
+      "plate_3mf": "faces/F10.3mf",
+      "individuals": [
+        {
+          "piece": "P07",
+          "file": "individual/F10/F10-P07.stl",
+          "xy_center_in_face_mm": [
+            10.592064678668976,
+            -10.45024137943983
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754432699117e-07
+        },
+        {
+          "piece": "P08",
+          "file": "individual/F10/F10-P08.stl",
+          "xy_center_in_face_mm": [
+            -10.597032979130745,
+            -10.45249381288886
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416549043829e-07
+        },
+        {
+          "piece": "P10",
+          "file": "individual/F10/F10-P10.stl",
+          "xy_center_in_face_mm": [
+            10.597032979130745,
+            10.45249381288886
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416549043829e-07
+        },
+        {
+          "piece": "P11",
+          "file": "individual/F10/F10-P11.stl",
+          "xy_center_in_face_mm": [
+            -10.592064678668976,
+            10.45024137943983
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754432699117e-07
+        },
+        {
+          "piece": "S01",
+          "file": "individual/F10/F10-S01.stl",
+          "xy_center_in_face_mm": [
+            21.87086993828416,
+            -0.0003555119037628174
+          ],
+          "template": "S-F09",
+          "contour_readback_error_mm": 4.373984725835574e-07
+        },
+        {
+          "piece": "S04",
+          "file": "individual/F10/F10-S04.stl",
+          "xy_center_in_face_mm": [
+            -21.87086993828416,
+            0.0003555119037628174
+          ],
+          "template": "S-F10",
+          "contour_readback_error_mm": 4.373984725835574e-07
+        },
+        {
+          "piece": "T03",
+          "file": "individual/F10/F10-T03.stl",
+          "xy_center_in_face_mm": [
+            -0.0010867603123188019,
+            -17.88065777719021
+          ],
+          "template": "T-F05",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        },
+        {
+          "piece": "T04",
+          "file": "individual/F10/F10-T04.stl",
+          "xy_center_in_face_mm": [
+            0.0010867603123188019,
+            17.88065777719021
+          ],
+          "template": "T-F09",
+          "contour_readback_error_mm": 2.2404620813156286e-07
+        }
+      ]
+    },
+    {
+      "face": "F11",
+      "pieces": [
+        "P13",
+        "P14",
+        "P16",
+        "P17",
+        "S02",
+        "S03",
+        "T05",
+        "T06"
+      ],
+      "stl": "faces/F11.stl",
+      "plate_3mf": "faces/F11.3mf",
+      "individuals": [
+        {
+          "piece": "P13",
+          "file": "individual/F11/F11-P13.stl",
+          "xy_center_in_face_mm": [
+            10.592064678668976,
+            -10.45024137943983
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754432699117e-07
+        },
+        {
+          "piece": "P14",
+          "file": "individual/F11/F11-P14.stl",
+          "xy_center_in_face_mm": [
+            -10.597032979130745,
+            -10.45249381288886
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416549043829e-07
+        },
+        {
+          "piece": "P16",
+          "file": "individual/F11/F11-P16.stl",
+          "xy_center_in_face_mm": [
+            10.597032979130745,
+            10.45249381288886
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416549043829e-07
+        },
+        {
+          "piece": "P17",
+          "file": "individual/F11/F11-P17.stl",
+          "xy_center_in_face_mm": [
+            -10.592064678668976,
+            10.45024137943983
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754432699117e-07
+        },
+        {
+          "piece": "S02",
+          "file": "individual/F11/F11-S02.stl",
+          "xy_center_in_face_mm": [
+            21.87086993828416,
+            -0.0003555119037628174
+          ],
+          "template": "S-F10",
+          "contour_readback_error_mm": 4.373984725835574e-07
+        },
+        {
+          "piece": "S03",
+          "file": "individual/F11/F11-S03.stl",
+          "xy_center_in_face_mm": [
+            -21.87086993828416,
+            0.0003555119037628174
+          ],
+          "template": "S-F09",
+          "contour_readback_error_mm": 4.373984725835574e-07
+        },
+        {
+          "piece": "T05",
+          "file": "individual/F11/F11-T05.stl",
+          "xy_center_in_face_mm": [
+            -0.0010867603123188019,
+            -17.88065777719021
+          ],
+          "template": "T-F05",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        },
+        {
+          "piece": "T06",
+          "file": "individual/F11/F11-T06.stl",
+          "xy_center_in_face_mm": [
+            0.0010867603123188019,
+            17.88065777719021
+          ],
+          "template": "T-F09",
+          "contour_readback_error_mm": 2.2404620813156286e-07
+        }
+      ]
+    },
+    {
+      "face": "F12",
+      "pieces": [
+        "P19",
+        "P20",
+        "P22",
+        "P23",
+        "S02",
+        "S04",
+        "T07",
+        "T08"
+      ],
+      "stl": "faces/F12.stl",
+      "plate_3mf": "faces/F12.3mf",
+      "individuals": [
+        {
+          "piece": "P19",
+          "file": "individual/F12/F12-P19.stl",
+          "xy_center_in_face_mm": [
+            -10.597032979130745,
+            -10.45249381288886
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416549043829e-07
+        },
+        {
+          "piece": "P20",
+          "file": "individual/F12/F12-P20.stl",
+          "xy_center_in_face_mm": [
+            10.592064678668976,
+            -10.45024137943983
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754432699117e-07
+        },
+        {
+          "piece": "P22",
+          "file": "individual/F12/F12-P22.stl",
+          "xy_center_in_face_mm": [
+            -10.592064678668976,
+            10.45024137943983
+          ],
+          "template": "P-F05",
+          "contour_readback_error_mm": 4.596754432699117e-07
+        },
+        {
+          "piece": "P23",
+          "file": "individual/F12/F12-P23.stl",
+          "xy_center_in_face_mm": [
+            10.597032979130745,
+            10.45249381288886
+          ],
+          "template": "P-F09",
+          "contour_readback_error_mm": 4.939416549043829e-07
+        },
+        {
+          "piece": "S02",
+          "file": "individual/F12/F12-S02.stl",
+          "xy_center_in_face_mm": [
+            -21.87086993828416,
+            0.0003555119037628174
+          ],
+          "template": "S-F09",
+          "contour_readback_error_mm": 4.373984725835574e-07
+        },
+        {
+          "piece": "S04",
+          "file": "individual/F12/F12-S04.stl",
+          "xy_center_in_face_mm": [
+            21.87086993828416,
+            -0.0003555119037628174
+          ],
+          "template": "S-F09",
+          "contour_readback_error_mm": 4.373984725835574e-07
+        },
+        {
+          "piece": "T07",
+          "file": "individual/F12/F12-T07.stl",
+          "xy_center_in_face_mm": [
+            -0.0010867603123188019,
+            -17.88065777719021
+          ],
+          "template": "T-F09",
+          "contour_readback_error_mm": 2.2404620813156286e-07
+        },
+        {
+          "piece": "T08",
+          "file": "individual/F12/F12-T08.stl",
+          "xy_center_in_face_mm": [
+            0.0010867603123188019,
+            17.88065777719021
+          ],
+          "template": "T-F05",
+          "contour_readback_error_mm": 2.2404620979859593e-07
+        }
+      ]
+    }
+  ]
+}

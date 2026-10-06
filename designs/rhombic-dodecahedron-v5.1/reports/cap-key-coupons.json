@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "rigid_clearance_per_side_mm": 0.12,
+  "rib_interference_mm": 0.04,
+  "receiver_depth_mm": 1.8,
+  "files": [
+    {
+      "file": "stl/fit-coupons/threefold-key-socket.stl",
+      "sha256": "e55934a3af366ebd343ed6cff2d30aeeb5127b9a1eee936347ab12c1e45b1dea",
+      "family": "T",
+      "role": "socket",
+      "quantity": 1
+    },
+    {
+      "file": "stl/fit-coupons/threefold-key-peg.stl",
+      "sha256": "d27c3b09b55901483b34faf230ee9bccf61857c71fe1d9696f3dc8a3168eeddf",
+      "family": "T",
+      "role": "peg",
+      "quantity": 1
+    },
+    {
+      "file": "stl/fit-coupons/fourfold-key-socket.stl",
+      "sha256": "c11435e9740e011adc40a33c2116538597e91a720d04d594161dae16f44a8ec8",
+      "family": "S",
+      "role": "socket",
+      "quantity": 1
+    },
+    {
+      "file": "stl/fit-coupons/fourfold-key-peg.stl",
+      "sha256": "ff54c3361eac569ca48896749030ba10b0f4fb7bb9ba45be69b849b814c1decc",
+      "family": "S",
+      "role": "peg",
+      "quantity": 1
+    }
+  ],
+  "notes": "Print without supports at final layer height. Push the ribbed end of each 7 mm peg into its matching socket. A small hand force should seat it; it should resist falling out and remain removable. This tests the local key fit, not the complete plug fit or gripping force."
+}

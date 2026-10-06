@@ -1,0 +1,849 @@
+[
+  {
+    "file": "inlays/printable/faces/F01.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.8105935797976,
+    "sha256": "5e3faaecb3ed28896f5eec69b3e1ab405b0a2b2f68eadd3f7495b0aa50b5fffb"
+  },
+  {
+    "file": "inlays/printable/faces/F02.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.810593579798,
+    "sha256": "eb13f33dac05d1d05e0a8a1ef9c404b0f8afff89188dc6d7f7f7570d7a8a0a8c"
+  },
+  {
+    "file": "inlays/printable/faces/F03.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.8105935797976,
+    "sha256": "981ad83cac9eaf4ef3310b303fc26f7b8daceb8392b34467b7c507f26a7dcfaf"
+  },
+  {
+    "file": "inlays/printable/faces/F04.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.810593579798,
+    "sha256": "a5592a3a7aa08f661af225c8473ee71bfed8c1a2fcef0908b3a3ca77cb13512d"
+  },
+  {
+    "file": "inlays/printable/faces/F05.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.8105935797976,
+    "sha256": "981ad83cac9eaf4ef3310b303fc26f7b8daceb8392b34467b7c507f26a7dcfaf"
+  },
+  {
+    "file": "inlays/printable/faces/F06.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.810593579798,
+    "sha256": "a5592a3a7aa08f661af225c8473ee71bfed8c1a2fcef0908b3a3ca77cb13512d"
+  },
+  {
+    "file": "inlays/printable/faces/F07.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.8105935797976,
+    "sha256": "5e3faaecb3ed28896f5eec69b3e1ab405b0a2b2f68eadd3f7495b0aa50b5fffb"
+  },
+  {
+    "file": "inlays/printable/faces/F08.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.810593579798,
+    "sha256": "eb13f33dac05d1d05e0a8a1ef9c404b0f8afff89188dc6d7f7f7570d7a8a0a8c"
+  },
+  {
+    "file": "inlays/printable/faces/F09.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.8105935797976,
+    "sha256": "420a4c4b1b4a81dfcd405645df9b2343bcaa8db7ffa55015269fd47acb5ff1ca"
+  },
+  {
+    "file": "inlays/printable/faces/F10.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.8105935797976,
+    "sha256": "2d9d9bce18a812a951934dfd06cc5e5899dd378311c2922e95f5378be3573352"
+  },
+  {
+    "file": "inlays/printable/faces/F11.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.8105935797976,
+    "sha256": "2d9d9bce18a812a951934dfd06cc5e5899dd378311c2922e95f5378be3573352"
+  },
+  {
+    "file": "inlays/printable/faces/F12.stl",
+    "watertight": true,
+    "components": 8,
+    "volume_mm3": 2434.8105935797976,
+    "sha256": "420a4c4b1b4a81dfcd405645df9b2343bcaa8db7ffa55015269fd47acb5ff1ca"
+  },
+  {
+    "file": "inlays/printable/individual/F01/F01-P02.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "3978c076b2d568eb1fb25827b95ced69f2af12adf5d1844ad210b51493f5cdbc"
+  },
+  {
+    "file": "inlays/printable/individual/F01/F01-P03.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "27a6e6df2d9e30f82c4a68dfe39fabf5c2c433560ad158850517c0cfb215f024"
+  },
+  {
+    "file": "inlays/printable/individual/F01/F01-P14.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "0e6069fb39569a4f48f27505ad938b4dd053490aff10b43c31cba648b24d3226"
+  },
+  {
+    "file": "inlays/printable/individual/F01/F01-P15.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "c36aced7a61bc18e522e8e351bb9411cfe9f6cda455a6943ce466eae529a4aec"
+  },
+  {
+    "file": "inlays/printable/individual/F01/F01-S03.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "c6b369e2d5ece3ee7105a613279320b425d73161994d7dff672a1a15868be422"
+  },
+  {
+    "file": "inlays/printable/individual/F01/F01-S05.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "9c43aa1407ba490d8ed5c2060ae1e97e9048a5495abbf0f705dbf729ba7309ed"
+  },
+  {
+    "file": "inlays/printable/individual/F01/F01-T01.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "45a2e8b0855a5ec7295963f7665af2585d09dad1e3c7c8a486c09755a5c73d9f"
+  },
+  {
+    "file": "inlays/printable/individual/F01/F01-T05.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "d14f57e799cfac4bcccf8bbd79a8bad03ed75ea8f98084dcd3aafabbef359420"
+  },
+  {
+    "file": "inlays/printable/individual/F02/F02-P05.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "27a6e6df2d9e30f82c4a68dfe39fabf5c2c433560ad158850517c0cfb215f024"
+  },
+  {
+    "file": "inlays/printable/individual/F02/F02-P06.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "3978c076b2d568eb1fb25827b95ced69f2af12adf5d1844ad210b51493f5cdbc"
+  },
+  {
+    "file": "inlays/printable/individual/F02/F02-P17.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "c36aced7a61bc18e522e8e351bb9411cfe9f6cda455a6943ce466eae529a4aec"
+  },
+  {
+    "file": "inlays/printable/individual/F02/F02-P18.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "0e6069fb39569a4f48f27505ad938b4dd053490aff10b43c31cba648b24d3226"
+  },
+  {
+    "file": "inlays/printable/individual/F02/F02-S03.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "9c43aa1407ba490d8ed5c2060ae1e97e9048a5495abbf0f705dbf729ba7309ed"
+  },
+  {
+    "file": "inlays/printable/individual/F02/F02-S06.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "c6b369e2d5ece3ee7105a613279320b425d73161994d7dff672a1a15868be422"
+  },
+  {
+    "file": "inlays/printable/individual/F02/F02-T02.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "45a2e8b0855a5ec7295963f7665af2585d09dad1e3c7c8a486c09755a5c73d9f"
+  },
+  {
+    "file": "inlays/printable/individual/F02/F02-T06.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "d14f57e799cfac4bcccf8bbd79a8bad03ed75ea8f98084dcd3aafabbef359420"
+  },
+  {
+    "file": "inlays/printable/individual/F03/F03-P08.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "0e6069fb39569a4f48f27505ad938b4dd053490aff10b43c31cba648b24d3226"
+  },
+  {
+    "file": "inlays/printable/individual/F03/F03-P09.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "c36aced7a61bc18e522e8e351bb9411cfe9f6cda455a6943ce466eae529a4aec"
+  },
+  {
+    "file": "inlays/printable/individual/F03/F03-P20.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "3978c076b2d568eb1fb25827b95ced69f2af12adf5d1844ad210b51493f5cdbc"
+  },
+  {
+    "file": "inlays/printable/individual/F03/F03-P21.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "27a6e6df2d9e30f82c4a68dfe39fabf5c2c433560ad158850517c0cfb215f024"
+  },
+  {
+    "file": "inlays/printable/individual/F03/F03-S04.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "c6b369e2d5ece3ee7105a613279320b425d73161994d7dff672a1a15868be422"
+  },
+  {
+    "file": "inlays/printable/individual/F03/F03-S05.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "9c43aa1407ba490d8ed5c2060ae1e97e9048a5495abbf0f705dbf729ba7309ed"
+  },
+  {
+    "file": "inlays/printable/individual/F03/F03-T03.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "d14f57e799cfac4bcccf8bbd79a8bad03ed75ea8f98084dcd3aafabbef359420"
+  },
+  {
+    "file": "inlays/printable/individual/F03/F03-T07.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "45a2e8b0855a5ec7295963f7665af2585d09dad1e3c7c8a486c09755a5c73d9f"
+  },
+  {
+    "file": "inlays/printable/individual/F04/F04-P11.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "c36aced7a61bc18e522e8e351bb9411cfe9f6cda455a6943ce466eae529a4aec"
+  },
+  {
+    "file": "inlays/printable/individual/F04/F04-P12.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "0e6069fb39569a4f48f27505ad938b4dd053490aff10b43c31cba648b24d3226"
+  },
+  {
+    "file": "inlays/printable/individual/F04/F04-P23.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "27a6e6df2d9e30f82c4a68dfe39fabf5c2c433560ad158850517c0cfb215f024"
+  },
+  {
+    "file": "inlays/printable/individual/F04/F04-P24.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "3978c076b2d568eb1fb25827b95ced69f2af12adf5d1844ad210b51493f5cdbc"
+  },
+  {
+    "file": "inlays/printable/individual/F04/F04-S04.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "9c43aa1407ba490d8ed5c2060ae1e97e9048a5495abbf0f705dbf729ba7309ed"
+  },
+  {
+    "file": "inlays/printable/individual/F04/F04-S06.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "c6b369e2d5ece3ee7105a613279320b425d73161994d7dff672a1a15868be422"
+  },
+  {
+    "file": "inlays/printable/individual/F04/F04-T04.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "d14f57e799cfac4bcccf8bbd79a8bad03ed75ea8f98084dcd3aafabbef359420"
+  },
+  {
+    "file": "inlays/printable/individual/F04/F04-T08.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "45a2e8b0855a5ec7295963f7665af2585d09dad1e3c7c8a486c09755a5c73d9f"
+  },
+  {
+    "file": "inlays/printable/individual/F05/F05-P01.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "0e6069fb39569a4f48f27505ad938b4dd053490aff10b43c31cba648b24d3226"
+  },
+  {
+    "file": "inlays/printable/individual/F05/F05-P03.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "c36aced7a61bc18e522e8e351bb9411cfe9f6cda455a6943ce466eae529a4aec"
+  },
+  {
+    "file": "inlays/printable/individual/F05/F05-P07.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "3978c076b2d568eb1fb25827b95ced69f2af12adf5d1844ad210b51493f5cdbc"
+  },
+  {
+    "file": "inlays/printable/individual/F05/F05-P09.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "27a6e6df2d9e30f82c4a68dfe39fabf5c2c433560ad158850517c0cfb215f024"
+  },
+  {
+    "file": "inlays/printable/individual/F05/F05-S01.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "c6b369e2d5ece3ee7105a613279320b425d73161994d7dff672a1a15868be422"
+  },
+  {
+    "file": "inlays/printable/individual/F05/F05-S05.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "9c43aa1407ba490d8ed5c2060ae1e97e9048a5495abbf0f705dbf729ba7309ed"
+  },
+  {
+    "file": "inlays/printable/individual/F05/F05-T01.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "d14f57e799cfac4bcccf8bbd79a8bad03ed75ea8f98084dcd3aafabbef359420"
+  },
+  {
+    "file": "inlays/printable/individual/F05/F05-T03.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "45a2e8b0855a5ec7295963f7665af2585d09dad1e3c7c8a486c09755a5c73d9f"
+  },
+  {
+    "file": "inlays/printable/individual/F06/F06-P04.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "c36aced7a61bc18e522e8e351bb9411cfe9f6cda455a6943ce466eae529a4aec"
+  },
+  {
+    "file": "inlays/printable/individual/F06/F06-P06.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "0e6069fb39569a4f48f27505ad938b4dd053490aff10b43c31cba648b24d3226"
+  },
+  {
+    "file": "inlays/printable/individual/F06/F06-P10.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "27a6e6df2d9e30f82c4a68dfe39fabf5c2c433560ad158850517c0cfb215f024"
+  },
+  {
+    "file": "inlays/printable/individual/F06/F06-P12.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "3978c076b2d568eb1fb25827b95ced69f2af12adf5d1844ad210b51493f5cdbc"
+  },
+  {
+    "file": "inlays/printable/individual/F06/F06-S01.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "9c43aa1407ba490d8ed5c2060ae1e97e9048a5495abbf0f705dbf729ba7309ed"
+  },
+  {
+    "file": "inlays/printable/individual/F06/F06-S06.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "c6b369e2d5ece3ee7105a613279320b425d73161994d7dff672a1a15868be422"
+  },
+  {
+    "file": "inlays/printable/individual/F06/F06-T02.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "d14f57e799cfac4bcccf8bbd79a8bad03ed75ea8f98084dcd3aafabbef359420"
+  },
+  {
+    "file": "inlays/printable/individual/F06/F06-T04.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "45a2e8b0855a5ec7295963f7665af2585d09dad1e3c7c8a486c09755a5c73d9f"
+  },
+  {
+    "file": "inlays/printable/individual/F07/F07-P13.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "3978c076b2d568eb1fb25827b95ced69f2af12adf5d1844ad210b51493f5cdbc"
+  },
+  {
+    "file": "inlays/printable/individual/F07/F07-P15.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "27a6e6df2d9e30f82c4a68dfe39fabf5c2c433560ad158850517c0cfb215f024"
+  },
+  {
+    "file": "inlays/printable/individual/F07/F07-P19.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "0e6069fb39569a4f48f27505ad938b4dd053490aff10b43c31cba648b24d3226"
+  },
+  {
+    "file": "inlays/printable/individual/F07/F07-P21.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "c36aced7a61bc18e522e8e351bb9411cfe9f6cda455a6943ce466eae529a4aec"
+  },
+  {
+    "file": "inlays/printable/individual/F07/F07-S02.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "c6b369e2d5ece3ee7105a613279320b425d73161994d7dff672a1a15868be422"
+  },
+  {
+    "file": "inlays/printable/individual/F07/F07-S05.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "9c43aa1407ba490d8ed5c2060ae1e97e9048a5495abbf0f705dbf729ba7309ed"
+  },
+  {
+    "file": "inlays/printable/individual/F07/F07-T05.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "45a2e8b0855a5ec7295963f7665af2585d09dad1e3c7c8a486c09755a5c73d9f"
+  },
+  {
+    "file": "inlays/printable/individual/F07/F07-T07.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "d14f57e799cfac4bcccf8bbd79a8bad03ed75ea8f98084dcd3aafabbef359420"
+  },
+  {
+    "file": "inlays/printable/individual/F08/F08-P16.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "27a6e6df2d9e30f82c4a68dfe39fabf5c2c433560ad158850517c0cfb215f024"
+  },
+  {
+    "file": "inlays/printable/individual/F08/F08-P18.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "3978c076b2d568eb1fb25827b95ced69f2af12adf5d1844ad210b51493f5cdbc"
+  },
+  {
+    "file": "inlays/printable/individual/F08/F08-P22.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "c36aced7a61bc18e522e8e351bb9411cfe9f6cda455a6943ce466eae529a4aec"
+  },
+  {
+    "file": "inlays/printable/individual/F08/F08-P24.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "0e6069fb39569a4f48f27505ad938b4dd053490aff10b43c31cba648b24d3226"
+  },
+  {
+    "file": "inlays/printable/individual/F08/F08-S02.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "9c43aa1407ba490d8ed5c2060ae1e97e9048a5495abbf0f705dbf729ba7309ed"
+  },
+  {
+    "file": "inlays/printable/individual/F08/F08-S06.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "c6b369e2d5ece3ee7105a613279320b425d73161994d7dff672a1a15868be422"
+  },
+  {
+    "file": "inlays/printable/individual/F08/F08-T06.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "45a2e8b0855a5ec7295963f7665af2585d09dad1e3c7c8a486c09755a5c73d9f"
+  },
+  {
+    "file": "inlays/printable/individual/F08/F08-T08.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "d14f57e799cfac4bcccf8bbd79a8bad03ed75ea8f98084dcd3aafabbef359420"
+  },
+  {
+    "file": "inlays/printable/individual/F09/F09-P01.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "66021c24c2894275ffeba89fe219ca2d325bbb24415d2866d991f07f8cede342"
+  },
+  {
+    "file": "inlays/printable/individual/F09/F09-P02.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "e6ac22e9044eb1f57a37f29cbb24da15c0a12bb0f7cced56b0dffbcb0a4e201c"
+  },
+  {
+    "file": "inlays/printable/individual/F09/F09-P04.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "6929be84ff8680159448210a7bbd848df5e75ef50b833e1c574b8dc1f754a33d"
+  },
+  {
+    "file": "inlays/printable/individual/F09/F09-P05.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "947babd6e2df77996565c1783260d55abf6b08ed47f7b4d54613727ca00eef54"
+  },
+  {
+    "file": "inlays/printable/individual/F09/F09-S01.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "d4cbc0fc7ee3128548ae430bfca62ae0e09d5937884d48da405f6af836f96258"
+  },
+  {
+    "file": "inlays/printable/individual/F09/F09-S03.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "8f83c64749fcfc3f43b501ce2dd6b127a8ca4d5554f8ef4086233c6c6684290e"
+  },
+  {
+    "file": "inlays/printable/individual/F09/F09-T01.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "e04d7da56c7209a19b362f10763abe1cfbc9086ae5cdf09334807c52877408b7"
+  },
+  {
+    "file": "inlays/printable/individual/F09/F09-T02.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "786f0c517dfb6c62990dbdd8424a41f640aa7116daf527aab6815f270e430017"
+  },
+  {
+    "file": "inlays/printable/individual/F10/F10-P07.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "e6ac22e9044eb1f57a37f29cbb24da15c0a12bb0f7cced56b0dffbcb0a4e201c"
+  },
+  {
+    "file": "inlays/printable/individual/F10/F10-P08.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "66021c24c2894275ffeba89fe219ca2d325bbb24415d2866d991f07f8cede342"
+  },
+  {
+    "file": "inlays/printable/individual/F10/F10-P10.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "947babd6e2df77996565c1783260d55abf6b08ed47f7b4d54613727ca00eef54"
+  },
+  {
+    "file": "inlays/printable/individual/F10/F10-P11.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "6929be84ff8680159448210a7bbd848df5e75ef50b833e1c574b8dc1f754a33d"
+  },
+  {
+    "file": "inlays/printable/individual/F10/F10-S01.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "8f83c64749fcfc3f43b501ce2dd6b127a8ca4d5554f8ef4086233c6c6684290e"
+  },
+  {
+    "file": "inlays/printable/individual/F10/F10-S04.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "d4cbc0fc7ee3128548ae430bfca62ae0e09d5937884d48da405f6af836f96258"
+  },
+  {
+    "file": "inlays/printable/individual/F10/F10-T03.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "e04d7da56c7209a19b362f10763abe1cfbc9086ae5cdf09334807c52877408b7"
+  },
+  {
+    "file": "inlays/printable/individual/F10/F10-T04.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "786f0c517dfb6c62990dbdd8424a41f640aa7116daf527aab6815f270e430017"
+  },
+  {
+    "file": "inlays/printable/individual/F11/F11-P13.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "e6ac22e9044eb1f57a37f29cbb24da15c0a12bb0f7cced56b0dffbcb0a4e201c"
+  },
+  {
+    "file": "inlays/printable/individual/F11/F11-P14.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "66021c24c2894275ffeba89fe219ca2d325bbb24415d2866d991f07f8cede342"
+  },
+  {
+    "file": "inlays/printable/individual/F11/F11-P16.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "947babd6e2df77996565c1783260d55abf6b08ed47f7b4d54613727ca00eef54"
+  },
+  {
+    "file": "inlays/printable/individual/F11/F11-P17.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "6929be84ff8680159448210a7bbd848df5e75ef50b833e1c574b8dc1f754a33d"
+  },
+  {
+    "file": "inlays/printable/individual/F11/F11-S02.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "8f83c64749fcfc3f43b501ce2dd6b127a8ca4d5554f8ef4086233c6c6684290e"
+  },
+  {
+    "file": "inlays/printable/individual/F11/F11-S03.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "d4cbc0fc7ee3128548ae430bfca62ae0e09d5937884d48da405f6af836f96258"
+  },
+  {
+    "file": "inlays/printable/individual/F11/F11-T05.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "e04d7da56c7209a19b362f10763abe1cfbc9086ae5cdf09334807c52877408b7"
+  },
+  {
+    "file": "inlays/printable/individual/F11/F11-T06.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "786f0c517dfb6c62990dbdd8424a41f640aa7116daf527aab6815f270e430017"
+  },
+  {
+    "file": "inlays/printable/individual/F12/F12-P19.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "66021c24c2894275ffeba89fe219ca2d325bbb24415d2866d991f07f8cede342"
+  },
+  {
+    "file": "inlays/printable/individual/F12/F12-P20.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "e6ac22e9044eb1f57a37f29cbb24da15c0a12bb0f7cced56b0dffbcb0a4e201c"
+  },
+  {
+    "file": "inlays/printable/individual/F12/F12-P22.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.6977633952142,
+    "sha256": "6929be84ff8680159448210a7bbd848df5e75ef50b833e1c574b8dc1f754a33d"
+  },
+  {
+    "file": "inlays/printable/individual/F12/F12-P23.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 359.7445373566623,
+    "sha256": "947babd6e2df77996565c1783260d55abf6b08ed47f7b4d54613727ca00eef54"
+  },
+  {
+    "file": "inlays/printable/individual/F12/F12-S02.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "d4cbc0fc7ee3128548ae430bfca62ae0e09d5937884d48da405f6af836f96258"
+  },
+  {
+    "file": "inlays/printable/individual/F12/F12-S04.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 388.98626038311903,
+    "sha256": "8f83c64749fcfc3f43b501ce2dd6b127a8ca4d5554f8ef4086233c6c6684290e"
+  },
+  {
+    "file": "inlays/printable/individual/F12/F12-T07.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767966,
+    "sha256": "e04d7da56c7209a19b362f10763abe1cfbc9086ae5cdf09334807c52877408b7"
+  },
+  {
+    "file": "inlays/printable/individual/F12/F12-T08.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 108.97670345767965,
+    "sha256": "786f0c517dfb6c62990dbdd8424a41f640aa7116daf527aab6815f270e430017"
+  },
+  {
+    "file": "stl/fit-coupons/foam-pocket-test.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 986.655729706611,
+    "sha256": "30a1b6ab58834831c98ce5f46bf78df928a6f865d06bc724cc4b95088ad67f2d"
+  },
+  {
+    "file": "stl/fit-coupons/fourfold-key-peg.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 417.1186098231462,
+    "sha256": "ff54c3361eac569ca48896749030ba10b0f4fb7bb9ba45be69b849b814c1decc"
+  },
+  {
+    "file": "stl/fit-coupons/fourfold-key-socket.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 322.2741796939128,
+    "sha256": "c11435e9740e011adc40a33c2116538597e91a720d04d594161dae16f44a8ec8"
+  },
+  {
+    "file": "stl/fit-coupons/nut-fit-5.25.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 3930.2624453503827,
+    "sha256": "b3c4abb61e7aef853a7c627b7ac55960c2d414bd3e36c1b1bc59393415a619cf"
+  },
+  {
+    "file": "stl/fit-coupons/threefold-key-peg.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 482.24701883645895,
+    "sha256": "d27c3b09b55901483b34faf230ee9bccf61857c71fe1d9696f3dc8a3168eeddf"
+  },
+  {
+    "file": "stl/fit-coupons/threefold-key-socket.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 348.6787181389839,
+    "sha256": "e55934a3af366ebd343ed6cff2d30aeeb5127b9a1eee936347ab12c1e45b1dea"
+  },
+  {
+    "file": "stl/optional/assembly-stand.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 8968.379399143994,
+    "sha256": "1be0ef5812cf161df35f977de8d0c6da613e7a96149a5bf99b12c2ec15892d58"
+  },
+  {
+    "file": "stl/puzzle/core.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 30392.4643612963,
+    "sha256": "2424250181e27338f25ef90b7bbe66e7d5ba9beca6b5c5e347a9555a172ab8cc"
+  },
+  {
+    "file": "stl/puzzle/fourfold-center-print-6.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 12341.348506737178,
+    "sha256": "b913796fa7c3fcd972e8ee6ca4c0aa8211e6a51dee6cf18186f0610e2e383089"
+  },
+  {
+    "file": "stl/puzzle/fourfold-plug-print-6.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 615.7391254747685,
+    "sha256": "531c26af8c63f26b8a5fa25a39133159a49a510578f8827a420916e2e63f14b7"
+  },
+  {
+    "file": "stl/puzzle/petal-print-24.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 4318.69723869823,
+    "sha256": "0f1a00c98af9905ee90f6dc27a3cb05764d91e2eb7950b8eb980c31bfc6f28c2"
+  },
+  {
+    "file": "stl/puzzle/threefold-center-print-8.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 3685.49776152654,
+    "sha256": "c727bb6887eda8206f79a4ece8ada361d3283cc7fd203d6a88dd8b8a180d5ba2"
+  },
+  {
+    "file": "stl/puzzle/threefold-plug-print-8.stl",
+    "watertight": true,
+    "components": 1,
+    "volume_mm3": 491.1651595079018,
+    "sha256": "88995474d42f9869c2c5f3bb465bfb3fd6870700abeb64583a53cb35c2f7fba6"
+  }
+]

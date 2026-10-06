@@ -1,0 +1,520 @@
+{
+  "passed": true,
+  "method": "Radial placement into an expanded loose shell, followed by coordinated contraction; centers unscrewed until seated.",
+  "initial_center_translation_mm": 12.0,
+  "initial_petal_translation_mm": 11.399999999999999,
+  "contraction": [
+    {
+      "center_translation_mm": 0.0,
+      "petal_translation_mm": 0.0,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 0.1,
+      "petal_translation_mm": 0.095,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 0.2,
+      "petal_translation_mm": 0.19,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 0.30000000000000004,
+      "petal_translation_mm": 0.28500000000000003,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 0.4,
+      "petal_translation_mm": 0.38,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 0.5,
+      "petal_translation_mm": 0.475,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 0.6000000000000001,
+      "petal_translation_mm": 0.5700000000000001,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 0.7000000000000001,
+      "petal_translation_mm": 0.665,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 0.8,
+      "petal_translation_mm": 0.76,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 0.9,
+      "petal_translation_mm": 0.855,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.0,
+      "petal_translation_mm": 0.95,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.1,
+      "petal_translation_mm": 1.045,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.2000000000000002,
+      "petal_translation_mm": 1.1400000000000001,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.3,
+      "petal_translation_mm": 1.2349999999999999,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.4000000000000001,
+      "petal_translation_mm": 1.33,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.5,
+      "petal_translation_mm": 1.4249999999999998,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.6,
+      "petal_translation_mm": 1.52,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.7000000000000002,
+      "petal_translation_mm": 1.615,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.8,
+      "petal_translation_mm": 1.71,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 1.9000000000000001,
+      "petal_translation_mm": 1.805,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.0,
+      "petal_translation_mm": 1.9,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.1,
+      "petal_translation_mm": 1.9949999999999999,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.2,
+      "petal_translation_mm": 2.09,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.3000000000000003,
+      "petal_translation_mm": 2.185,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.4000000000000004,
+      "petal_translation_mm": 2.2800000000000002,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.5,
+      "petal_translation_mm": 2.375,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.6,
+      "petal_translation_mm": 2.4699999999999998,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.7,
+      "petal_translation_mm": 2.565,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.8000000000000003,
+      "petal_translation_mm": 2.66,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 2.9000000000000004,
+      "petal_translation_mm": 2.7550000000000003,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.0,
+      "petal_translation_mm": 2.8499999999999996,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.1,
+      "petal_translation_mm": 2.945,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.2,
+      "petal_translation_mm": 3.04,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.3000000000000003,
+      "petal_translation_mm": 3.1350000000000002,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.4000000000000004,
+      "petal_translation_mm": 3.23,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.5,
+      "petal_translation_mm": 3.3249999999999997,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.6,
+      "petal_translation_mm": 3.42,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.7,
+      "petal_translation_mm": 3.515,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.8000000000000003,
+      "petal_translation_mm": 3.61,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 3.9000000000000004,
+      "petal_translation_mm": 3.705,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.0,
+      "petal_translation_mm": 3.8,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.1000000000000005,
+      "petal_translation_mm": 3.8950000000000005,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.2,
+      "petal_translation_mm": 3.9899999999999998,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.3,
+      "petal_translation_mm": 4.085,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.4,
+      "petal_translation_mm": 4.18,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.5,
+      "petal_translation_mm": 4.2749999999999995,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.6000000000000005,
+      "petal_translation_mm": 4.37,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.7,
+      "petal_translation_mm": 4.465,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.800000000000001,
+      "petal_translation_mm": 4.5600000000000005,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 4.9,
+      "petal_translation_mm": 4.655,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.0,
+      "petal_translation_mm": 4.75,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.1000000000000005,
+      "petal_translation_mm": 4.845000000000001,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.2,
+      "petal_translation_mm": 4.9399999999999995,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.300000000000001,
+      "petal_translation_mm": 5.035,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.4,
+      "petal_translation_mm": 5.13,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.5,
+      "petal_translation_mm": 5.225,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.6000000000000005,
+      "petal_translation_mm": 5.32,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.7,
+      "petal_translation_mm": 5.415,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.800000000000001,
+      "petal_translation_mm": 5.510000000000001,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 5.9,
+      "petal_translation_mm": 5.605,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.0,
+      "petal_translation_mm": 5.699999999999999,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.1000000000000005,
+      "petal_translation_mm": 5.795,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.2,
+      "petal_translation_mm": 5.89,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.300000000000001,
+      "petal_translation_mm": 5.985,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.4,
+      "petal_translation_mm": 6.08,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.5,
+      "petal_translation_mm": 6.175,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.6000000000000005,
+      "petal_translation_mm": 6.2700000000000005,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.7,
+      "petal_translation_mm": 6.365,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.800000000000001,
+      "petal_translation_mm": 6.46,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 6.9,
+      "petal_translation_mm": 6.555,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.0,
+      "petal_translation_mm": 6.6499999999999995,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.1000000000000005,
+      "petal_translation_mm": 6.745,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.2,
+      "petal_translation_mm": 6.84,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.300000000000001,
+      "petal_translation_mm": 6.9350000000000005,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.4,
+      "petal_translation_mm": 7.03,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.5,
+      "petal_translation_mm": 7.125,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.6000000000000005,
+      "petal_translation_mm": 7.22,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.7,
+      "petal_translation_mm": 7.3149999999999995,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.800000000000001,
+      "petal_translation_mm": 7.41,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 7.9,
+      "petal_translation_mm": 7.505,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 8.0,
+      "petal_translation_mm": 7.6,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 8.25,
+      "petal_translation_mm": 7.8374999999999995,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 8.5,
+      "petal_translation_mm": 8.075,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 8.75,
+      "petal_translation_mm": 8.3125,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 9.0,
+      "petal_translation_mm": 8.549999999999999,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 9.25,
+      "petal_translation_mm": 8.7875,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 9.5,
+      "petal_translation_mm": 9.025,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 9.75,
+      "petal_translation_mm": 9.2625,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 10.0,
+      "petal_translation_mm": 9.5,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 10.25,
+      "petal_translation_mm": 9.737499999999999,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 10.5,
+      "petal_translation_mm": 9.975,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 10.75,
+      "petal_translation_mm": 10.2125,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 11.0,
+      "petal_translation_mm": 10.45,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 11.25,
+      "petal_translation_mm": 10.6875,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 11.5,
+      "petal_translation_mm": 10.924999999999999,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 11.75,
+      "petal_translation_mm": 11.1625,
+      "maximum_collision_mm3": 0.0
+    },
+    {
+      "center_translation_mm": 12.0,
+      "petal_translation_mm": 11.399999999999999,
+      "maximum_collision_mm3": 0.0
+    }
+  ],
+  "entry": [
+    {
+      "family": "T",
+      "additional_outward_travel_mm": 80,
+      "worst": [
+        0,
+        0
+      ]
+    },
+    {
+      "family": "S",
+      "additional_outward_travel_mm": 80,
+      "worst": [
+        0,
+        0
+      ]
+    },
+    {
+      "family": "P",
+      "additional_outward_travel_mm": 80,
+      "worst": [
+        0,
+        0
+      ]
+    }
+  ],
+  "scope": "Finite constructive rigid path, exploiting cubic symmetry for repeated parts. Requires supporting several loose pieces together, for example with temporary tape; not single-piece insertion into a tightly fastened puzzle."
+}

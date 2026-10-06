@@ -1,0 +1,9 @@
+{
+  "replaces": "S01",
+  "withdrawal_direction": [
+    -1.0,
+    -0.0,
+    -0.0
+  ],
+  "maximum_collision_mm3": 0.0
+}

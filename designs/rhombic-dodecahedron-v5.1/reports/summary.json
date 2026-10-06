@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "delivery_meshes_reloaded": true,
+  "surface_pieces": 38,
+  "printed_puzzle_parts": 53,
+  "central_plugs": 14,
+  "axes_checked": 14,
+  "turn_sample_step_degrees": 3,
+  "washer_root_webs_checked": true,
+  "assembly_order": [
+    "38-piece loose shell with centers unscrewed",
+    "gradual coordinated shell closure",
+    "screws and washers after seating",
+    "14 central keyed plugs",
+    "foam spanning each base/plug joint"
+  ],
+  "scope": "Finite rigid CAD checks and layer-connectivity model. Physical print, torque, wear and elastic popping untested."
+}

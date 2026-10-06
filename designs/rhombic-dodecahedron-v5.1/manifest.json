@@ -1,0 +1,1897 @@
+{
+  "version": "vertex-turning-rhombic-dodecahedron-v5.1-exact-inlays",
+  "units": "mm",
+  "opposite_face_spacing_mm": 76.0,
+  "opposite_axis_vertex_spacing_mm": 107.48023074035522,
+  "parts": [
+    {
+      "name": "threefold-center-print-8",
+      "family": "T",
+      "quantity": 8,
+      "file": "stl/puzzle/threefold-center-print-8.stl",
+      "sha256": "c727bb6887eda8206f79a4ece8ada361d3283cc7fd203d6a88dd8b8a180d5ba2",
+      "mechanism_to_print": [
+        [
+          0.4082482904638628,
+          -0.8164965809277259,
+          0.4082482904638628,
+          3.379568845884002
+        ],
+        [
+          -0.7071067811865475,
+          -1.622704860489121e-16,
+          0.7071067811865471,
+          -0.0001608323739263895
+        ],
+        [
+          -0.5773502691896255,
+          -0.5773502691896255,
+          -0.577350269189626,
+          -19.69999940553053
+        ]
+      ],
+      "dimensions_mm": [
+        27.751598358154297,
+        30.13129997253418,
+        24.736875534057617
+      ],
+      "volume_mm3": 3685.49776152654,
+      "triangles": 16364,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "print_orientation": "inward radial direction down; screw well upward"
+    },
+    {
+      "name": "fourfold-center-print-6",
+      "family": "S",
+      "quantity": 6,
+      "file": "stl/puzzle/fourfold-center-print-6.stl",
+      "sha256": "b913796fa7c3fcd972e8ee6ca4c0aa8211e6a51dee6cf18186f0610e2e383089",
+      "mechanism_to_print": [
+        [
+          1.570092458683775e-16,
+          -0.7071067811865476,
+          0.7071067811865475,
+          5.329070518200751e-15
+        ],
+        [
+          1.5700924586837752e-16,
+          0.7071067811865475,
+          0.7071067811865476,
+          3.552713678800501e-15
+        ],
+        [
+          -1.0,
+          0.0,
+          2.220446049250313e-16,
+          -18.430793762207028
+        ]
+      ],
+      "dimensions_mm": [
+        33.4080924987793,
+        33.4080924987793,
+        31.52081298828125
+      ],
+      "volume_mm3": 12341.348506737178,
+      "triangles": 30564,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 1.5252923189262433e-05,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "print_orientation": "inward radial direction down; screw well upward"
+    },
+    {
+      "name": "petal-print-24",
+      "family": "P",
+      "quantity": 24,
+      "file": "stl/puzzle/petal-print-24.stl",
+      "sha256": "0f1a00c98af9905ee90f6dc27a3cb05764d91e2eb7950b8eb980c31bfc6f28c2",
+      "mechanism_to_print": [
+        [
+          -0.12287701635996594,
+          -0.5135248511212746,
+          0.8492311028991727,
+          1.1286598024150845
+        ],
+        [
+          -0.44297415754833824,
+          0.7941220275110614,
+          0.41610587735101845,
+          3.2772164843071123
+        ],
+        [
+          -0.8880738339771151,
+          -0.3250575836718681,
+          -0.32505758367186843,
+          -19.261825893087387
+        ]
+      ],
+      "dimensions_mm": [
+        35.159202575683594,
+        19.42615509033203,
+        25.727201461791992
+      ],
+      "volume_mm3": 4318.69723869823,
+      "triangles": 16248,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      },
+      "print_orientation": "inward radial direction down"
+    },
+    {
+      "name": "threefold-plug-print-8",
+      "family": "TC",
+      "quantity": 8,
+      "file": "stl/puzzle/threefold-plug-print-8.stl",
+      "sha256": "88995474d42f9869c2c5f3bb465bfb3fd6870700abeb64583a53cb35c2f7fba6",
+      "mechanism_to_print": [
+        [
+          -0.04273212933194659,
+          0.7275037805840995,
+          -0.6847716512521526,
+          0.09158859126899133
+        ],
+        [
+          0.8153776007405552,
+          -0.37068169081100943,
+          -0.44469590992954544,
+          0.7846227938298735
+        ],
+        [
+          -0.5773502691896254,
+          -0.5773502691896254,
+          -0.5773502691896258,
+          -36.59999954957126
+        ]
+      ],
+      "dimensions_mm": [
+        10.307518005371094,
+        9.674809455871582,
+        9.8391695022583
+      ],
+      "volume_mm3": 491.1651595079018,
+      "triangles": 654,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "fourfold-plug-print-6",
+      "family": "SC",
+      "quantity": 6,
+      "file": "stl/puzzle/fourfold-plug-print-6.stl",
+      "sha256": "531c26af8c63f26b8a5fa25a39133159a49a510578f8827a420916e2e63f14b7",
+      "mechanism_to_print": [
+        [
+          2.220446049250313e-16,
+          0.0,
+          1.0,
+          8.881784197001252e-15
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          0.0,
+          2.220446049250313e-16,
+          -40.0
+        ]
+      ],
+      "dimensions_mm": [
+        8.079999923706055,
+        8.079999923706055,
+        13.553718566894531
+      ],
+      "volume_mm3": 615.7391254747685,
+      "triangles": 684,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "core",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/puzzle/core.stl",
+      "sha256": "2424250181e27338f25ef90b7bbe66e7d5ba9beca6b5c5e347a9555a172ab8cc",
+      "mechanism_to_print": [
+        [
+          0.816496580927726,
+          -0.4082482904638631,
+          -0.408248290463863,
+          -0.0
+        ],
+        [
+          -1.0582778705763863e-16,
+          0.7071067811865475,
+          -0.7071067811865476,
+          -0.0
+        ],
+        [
+          0.5773502691896258,
+          0.5773502691896258,
+          0.5773502691896256,
+          19.60000033646982
+        ]
+      ],
+      "dimensions_mm": [
+        42.33321762084961,
+        42.181495666503906,
+        39.20000076293945
+      ],
+      "volume_mm3": 30392.4643612963,
+      "triangles": 21706,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "nut-fit-5.25",
+      "family": "nut-coupon",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.25.stl",
+      "sha256": "b3c4abb61e7aef853a7c627b7ac55960c2d414bd3e36c1b1bc59393415a619cf",
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -9.600000381469727
+        ]
+      ],
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3930.2624453503827,
+      "triangles": 632,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "assembly-stand",
+      "family": "stand",
+      "quantity": 1,
+      "file": "stl/optional/assembly-stand.stl",
+      "sha256": "1be0ef5812cf161df35f977de8d0c6da613e7a96149a5bf99b12c2ec15892d58",
+      "mechanism_to_print": [
+        [
+          2.2082822134634154e-16,
+          -0.10452846326765347,
+          -0.9945218953682732,
+          1.9539925233402755e-14
+        ],
+        [
+          2.3209981329686762e-17,
+          0.9945218953682732,
+          -0.10452846326765347,
+          1.7763568394002505e-15
+        ],
+        [
+          0.9999999999999999,
+          0.0,
+          2.2204460492503128e-16,
+          89.99999999999999
+        ]
+      ],
+      "dimensions_mm": [
+        43.984920501708984,
+        43.984920501708984,
+        70.30000305175781
+      ],
+      "volume_mm3": 8968.379399143994,
+      "triangles": 1920,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    }
+  ],
+  "plates": [
+    {
+      "name": "caps-01",
+      "file": "plates/caps-01.3mf",
+      "objects": [
+        "T01-cap",
+        "T02-cap",
+        "T03-cap",
+        "T04-cap",
+        "T05-cap",
+        "T06-cap",
+        "T07-cap",
+        "T08-cap",
+        "S01-cap",
+        "S02-cap",
+        "S03-cap",
+        "S04-cap",
+        "S05-cap",
+        "S06-cap"
+      ]
+    },
+    {
+      "name": "P-01",
+      "file": "plates/P-01.3mf",
+      "objects": [
+        "P01",
+        "P02",
+        "P03",
+        "P04",
+        "P05",
+        "P06",
+        "P07",
+        "P08",
+        "P09",
+        "P10",
+        "P11",
+        "P12",
+        "P13",
+        "P14",
+        "P15",
+        "P16",
+        "P17",
+        "P18",
+        "P19",
+        "P20",
+        "P21",
+        "P22",
+        "P23",
+        "P24"
+      ]
+    },
+    {
+      "name": "centers-core-01",
+      "file": "plates/centers-core-01.3mf",
+      "objects": [
+        "core",
+        "S01",
+        "S02",
+        "S03",
+        "S04",
+        "S05",
+        "S06",
+        "T01",
+        "T02",
+        "T03",
+        "T04",
+        "T05",
+        "T06",
+        "T07",
+        "T08"
+      ]
+    }
+  ],
+  "instances": [
+    {
+      "name": "T01",
+      "family": "T",
+      "signature": [
+        0
+      ],
+      "direction": [
+        -0.5773502691896258,
+        -0.5773502691896258,
+        -0.5773502691896258
+      ],
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "T02",
+      "family": "T",
+      "signature": [
+        1
+      ],
+      "direction": [
+        -0.5773502691896258,
+        -0.5773502691896258,
+        0.5773502691896258
+      ],
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "T03",
+      "family": "T",
+      "signature": [
+        2
+      ],
+      "direction": [
+        -0.5773502691896258,
+        0.5773502691896258,
+        -0.5773502691896258
+      ],
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "T04",
+      "family": "T",
+      "signature": [
+        3
+      ],
+      "direction": [
+        -0.5773502691896258,
+        0.5773502691896258,
+        0.5773502691896258
+      ],
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "T05",
+      "family": "T",
+      "signature": [
+        4
+      ],
+      "direction": [
+        0.5773502691896258,
+        -0.5773502691896258,
+        -0.5773502691896258
+      ],
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "T06",
+      "family": "T",
+      "signature": [
+        5
+      ],
+      "direction": [
+        0.5773502691896258,
+        -0.5773502691896258,
+        0.5773502691896258
+      ],
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "T07",
+      "family": "T",
+      "signature": [
+        6
+      ],
+      "direction": [
+        0.5773502691896258,
+        0.5773502691896258,
+        -0.5773502691896258
+      ],
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "T08",
+      "family": "T",
+      "signature": [
+        7
+      ],
+      "direction": [
+        0.5773502691896258,
+        0.5773502691896258,
+        0.5773502691896258
+      ],
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "S01",
+      "family": "S",
+      "signature": [
+        8
+      ],
+      "direction": [
+        -1.0,
+        -0.0,
+        -0.0
+      ],
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "S02",
+      "family": "S",
+      "signature": [
+        9
+      ],
+      "direction": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "S03",
+      "family": "S",
+      "signature": [
+        10
+      ],
+      "direction": [
+        -0.0,
+        -1.0,
+        -0.0
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "S04",
+      "family": "S",
+      "signature": [
+        11
+      ],
+      "direction": [
+        0.0,
+        1.0,
+        0.0
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "S05",
+      "family": "S",
+      "signature": [
+        12
+      ],
+      "direction": [
+        -0.0,
+        -0.0,
+        -1.0
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "S06",
+      "family": "S",
+      "signature": [
+        13
+      ],
+      "direction": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P01",
+      "family": "P",
+      "signature": [
+        0,
+        8
+      ],
+      "direction": [
+        -0.8880738339771151,
+        -0.32505758367186816,
+        -0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "P02",
+      "family": "P",
+      "signature": [
+        0,
+        10
+      ],
+      "direction": [
+        -0.32505758367186816,
+        -0.8880738339771151,
+        -0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P03",
+      "family": "P",
+      "signature": [
+        0,
+        12
+      ],
+      "direction": [
+        -0.32505758367186816,
+        -0.32505758367186816,
+        -0.8880738339771151
+      ],
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P04",
+      "family": "P",
+      "signature": [
+        1,
+        8
+      ],
+      "direction": [
+        -0.8880738339771151,
+        -0.32505758367186816,
+        0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P05",
+      "family": "P",
+      "signature": [
+        1,
+        10
+      ],
+      "direction": [
+        -0.32505758367186816,
+        -0.8880738339771151,
+        0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "P06",
+      "family": "P",
+      "signature": [
+        1,
+        13
+      ],
+      "direction": [
+        -0.32505758367186816,
+        -0.32505758367186816,
+        0.8880738339771151
+      ],
+      "canonical_to_assembly": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P07",
+      "family": "P",
+      "signature": [
+        2,
+        8
+      ],
+      "direction": [
+        -0.8880738339771151,
+        0.32505758367186816,
+        -0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P08",
+      "family": "P",
+      "signature": [
+        2,
+        11
+      ],
+      "direction": [
+        -0.32505758367186816,
+        0.8880738339771151,
+        -0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "P09",
+      "family": "P",
+      "signature": [
+        2,
+        12
+      ],
+      "direction": [
+        -0.32505758367186816,
+        0.32505758367186816,
+        -0.8880738339771151
+      ],
+      "canonical_to_assembly": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P10",
+      "family": "P",
+      "signature": [
+        3,
+        8
+      ],
+      "direction": [
+        -0.8880738339771151,
+        0.32505758367186816,
+        0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "P11",
+      "family": "P",
+      "signature": [
+        3,
+        11
+      ],
+      "direction": [
+        -0.32505758367186816,
+        0.8880738339771151,
+        0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P12",
+      "family": "P",
+      "signature": [
+        3,
+        13
+      ],
+      "direction": [
+        -0.32505758367186816,
+        0.32505758367186816,
+        0.8880738339771151
+      ],
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P13",
+      "family": "P",
+      "signature": [
+        4,
+        9
+      ],
+      "direction": [
+        0.8880738339771151,
+        -0.32505758367186816,
+        -0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P14",
+      "family": "P",
+      "signature": [
+        4,
+        10
+      ],
+      "direction": [
+        0.32505758367186816,
+        -0.8880738339771151,
+        -0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "P15",
+      "family": "P",
+      "signature": [
+        4,
+        12
+      ],
+      "direction": [
+        0.32505758367186816,
+        -0.32505758367186816,
+        -0.8880738339771151
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P16",
+      "family": "P",
+      "signature": [
+        5,
+        9
+      ],
+      "direction": [
+        0.8880738339771151,
+        -0.32505758367186816,
+        0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "P17",
+      "family": "P",
+      "signature": [
+        5,
+        10
+      ],
+      "direction": [
+        0.32505758367186816,
+        -0.8880738339771151,
+        0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P18",
+      "family": "P",
+      "signature": [
+        5,
+        13
+      ],
+      "direction": [
+        0.32505758367186816,
+        -0.32505758367186816,
+        0.8880738339771151
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P19",
+      "family": "P",
+      "signature": [
+        6,
+        9
+      ],
+      "direction": [
+        0.8880738339771151,
+        0.32505758367186816,
+        -0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "P20",
+      "family": "P",
+      "signature": [
+        6,
+        11
+      ],
+      "direction": [
+        0.32505758367186816,
+        0.8880738339771151,
+        -0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P21",
+      "family": "P",
+      "signature": [
+        6,
+        12
+      ],
+      "direction": [
+        0.32505758367186816,
+        0.32505758367186816,
+        -0.8880738339771151
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P22",
+      "family": "P",
+      "signature": [
+        7,
+        9
+      ],
+      "direction": [
+        0.8880738339771151,
+        0.32505758367186816,
+        0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P23",
+      "family": "P",
+      "signature": [
+        7,
+        11
+      ],
+      "direction": [
+        0.32505758367186816,
+        0.8880738339771151,
+        0.32505758367186816
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "P24",
+      "family": "P",
+      "signature": [
+        7,
+        13
+      ],
+      "direction": [
+        0.32505758367186816,
+        0.32505758367186816,
+        0.8880738339771151
+      ],
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    }
+  ],
+  "cap_instances": [
+    {
+      "name": "T01-cap",
+      "family": "TC",
+      "parent": "T01",
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "T02-cap",
+      "family": "TC",
+      "parent": "T02",
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "T03-cap",
+      "family": "TC",
+      "parent": "T03",
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "T04-cap",
+      "family": "TC",
+      "parent": "T04",
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "T05-cap",
+      "family": "TC",
+      "parent": "T05",
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "T06-cap",
+      "family": "TC",
+      "parent": "T06",
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "T07-cap",
+      "family": "TC",
+      "parent": "T07",
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "T08-cap",
+      "family": "TC",
+      "parent": "T08",
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "S01-cap",
+      "family": "SC",
+      "parent": "S01",
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "S02-cap",
+      "family": "SC",
+      "parent": "S02",
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "S03-cap",
+      "family": "SC",
+      "parent": "S03",
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "S04-cap",
+      "family": "SC",
+      "parent": "S04",
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "S05-cap",
+      "family": "SC",
+      "parent": "S05",
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "S06-cap",
+      "family": "SC",
+      "parent": "S06",
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    }
+  ],
+  "inlays": {
+    "total": 96,
+    "per_face": 8,
+    "faces": 12,
+    "thickness_mm": 2.0,
+    "recess_depth_mm": 2.1,
+    "minimum_between_pockets_mm": 1.6,
+    "default_cuts": "inlays/faces",
+    "fit_coupon": "stl/fit-coupons/foam-pocket-test.stl",
+    "face_map": "images/inlay-face-map.png"
+  },
+  "plugs": {
+    "total": 14,
+    "threefold": 8,
+    "fourfold": 6,
+    "key_clearance_per_side_mm": 0.12,
+    "rib_interference_mm": 0.04,
+    "outer_rim_modified": false,
+    "fit_test": "stl/fit-coupons/cap-key-fit-tests.3mf",
+    "glue_policy": "Foam spans base and plug. Glue after adjustment; remove and replace that foam to service the screw."
+  },
+  "printable_inlays": {
+    "total": 96,
+    "thickness_mm": 2.0,
+    "clearance_per_side_mm": 0.0,
+    "xy_contour_compensation_mm": 0.0,
+    "face_plates": "inlays/printable/faces",
+    "individual_stls": "inlays/printable/individual",
+    "placement_map": "inlays/printable/placement-map.png",
+    "instructions": "inlays/printable/README.md"
+  }
+}

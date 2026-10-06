@@ -6,6 +6,12 @@ The successful behavior comes from a combination of features. The print trials c
 
 On 2026-09-18 the owner reported that the Skewb with trimmed flange tips printed very well and turns very nicely. This extends the physical evidence to a second mechanism topology using close main faces, wider tracks, continuous R3 radial rounding and flat axle bearings. It is qualitative print and turning feedback, not a measured strength or endurance rating. [Report and supplied export hashes](../designs/skewb-v1.1/physical-feedback.json).
 
+## Default for new designs
+
+Use **concentric spherical-shell shoulders centered on the puzzle origin** for floating-piece retention. On each broad load-bearing face, the surface normal should follow the local radius (`n = ±x / |x|`). Conical or wavy exterior cuts do not change this requirement. Flat washer seats and matching axle-bearing pads have separate jobs and remain appropriate.
+
+Provide substantial overlap after all grooves, tolerances and rounding. Round the outline of flange ends in the radial view while preserving the spherical bearing lands. Keep main-body clearance separate from sliding-track clearance, and check the remaining inner feet against their actual retainers, including lifted neighbors and intermediate turns. See section 17 for demonstrated dimensions and section 18 for layered support.
+
 ## 1. Give retention, guidance and fastening separate jobs
 
 A useful interface has an explicit answer to each of these questions:
@@ -16,7 +22,7 @@ A useful interface has an explicit answer to each of these questions:
 | Support inward force | Flat annular bearing pad | Screw has to carry bending that a bearing could support |
 | Limit outward movement | Washer, screw and seat | Loose adjustment becomes separation |
 | Prevent an anchored nut turning | Seated hex flats with adequate engagement | Locknut spins before the screw can advance |
-| Retain a sliding piece | Overlapping bearing land opposing withdrawal, flat or spherical as appropriate | A sloped lip becomes an escape ramp |
+| Retain a sliding piece | Overlapping concentric spherical bearing land for radial capture in new puzzle designs | A sloped lip becomes an escape ramp |
 | Permit intended motion | Swept track with positive allowance | Local interference despite an apparently generous gap elsewhere |
 | Help entry under small misalignment | Rounded ends and ridges | A sharp tip meets a sharp track mouth |
 
@@ -270,3 +276,13 @@ The **Double Ivy** uses four radial piece levels with the holding order **floati
 **Check both sides of a nominally symmetric fillet.** A tangent-selection threshold below mesh asymmetry caused the C/F fitting routine to select only one side of an R2 fillet. The missing half-arc left a sharp outer shoulder. Inspect sections and the actual exterior, not merely the requested radius or mesh connectivity. The published correction completes both sides outside the retaining region, preserving the working feet and bearing faces. It is CAD-checked and not yet reprinted; it must not be credited with the improvement that the owner observed before replacing those parts.
 
 **Keep evidence tied to the exact geometry.** Archive the printed baseline hashes and its checks, identify the eight revised parts, and distinguish the physically proven baseline mechanism from the unprinted finishing change. Small local corrections can preserve mechanical compatibility without inheriting an unearned claim of physical testing.
+
+## 19. Size rigid inlays from the tested pocket fit
+
+For the **76 mm rhombic dodecahedron**, make rigid inlays **2.00 mm thick with the exact nominal pocket contour: zero offset**. Use **0.00 mm XY contour compensation** when slicing these exports. The owner found this nominal size nicely snug by cancelling a 0.15 mm reduction in the slicer; the reduced version was less satisfactory. Use this demonstrated fit for this design instead of applying a generic shrink allowance. Printer and material changes may still call for a sample fit. [Physical evidence](../designs/rhombic-dodecahedron-v5.1/physical-feedback.json).
+
+Keep foam cutting allowances separate from rigid printed contours. Compressible foam can use a slightly oversized contour; rigid inserts should follow their own fit evidence. The 2.1 mm recess leaves 0.1 mm for a thin adhesive film under either 2 mm material. Keep the finished inlay flush or recessed, and keep adhesive out of moving seams.
+
+Small keyed central plugs can close screw wells and complete the divider walls while the main piece keeps its outer rim and most of its pocket floor. The inlays may bridge the base/plug joint. Finish screw adjustment before fitting them, and plan to remove the affected inlays for later access. Do not add a large detachable face carrier solely to preserve inexpensive replaceable coverings.
+
+The rhombic dodecahedron’s full build was reported to assemble very well and turn smoothly with R28.5/R33.5 spherical retention, 0.43 mm clearance at each spherical bearing face, close 0.06 mm main-face gaps and rounded flange ends. This supports that combination, not an isolated friction or strength rating for any single dimension.

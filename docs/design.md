@@ -1,5 +1,7 @@
 # Redi design reference
 
+For **new designs and retention revisions**, use concentric spherical-shell retaining shoulders centered on the puzzle origin, so the broad holding faces are orthogonal to the local radius. Preserve angular overlap, round flange ends in radial outline, and allow sliding-track clearance separately from main-body clearance. Flat washer seats and matching axle pads are separate interfaces. See [mechanism principles](mechanism-principles.md#default-for-new-designs). The dimensions below describe the specific Redi geometry.
+
 For reusable hardware geometry, see the self-contained [captive DIN985 M3 nut-slot specification](#captive-din985-m3-nut-slot-specification): **5.25 mm terminal seat and 5.85 mm entrance**. It includes exact CAD construction and fit checks for another project.
 
 For the newer, owner-tested Skewb with trimmed flange tips, see its [design reference](../designs/skewb-v1.1/DESIGN.md) and [print files](../designs/skewb-v1.1). This page records the separate Redi design.
