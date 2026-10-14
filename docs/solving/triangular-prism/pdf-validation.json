@@ -1,0 +1,8 @@
+{
+  "pdf": "docs/solving/triangular-prism-solving-guide.pdf",
+  "sha256": "0a469b1787a6f5021a67f77a103433728cd4deceab62a84bcd2e702221339016",
+  "pages": 9,
+  "visual_review": "All nine pages inspected; final label spacing on pages 2 and 3 rechecked.",
+  "extraction_check": "All 40 table rows match algorithms.json.",
+  "worked_examples": "Both paired-swap examples and the mixed-corner example verified."
+}

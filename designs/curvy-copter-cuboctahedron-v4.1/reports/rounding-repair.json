@@ -1,0 +1,49 @@
+[
+  {
+    "family": "C",
+    "removed_volume_mm3": 0.2026772573962736,
+    "corrected_edges": [
+      {
+        "axes": [
+          1,
+          8
+        ],
+        "corrected_sections": 62
+      },
+      {
+        "axes": [
+          3,
+          9
+        ],
+        "corrected_sections": 71
+      }
+    ]
+  },
+  {
+    "family": "K",
+    "removed_volume_mm3": 0.6220524243212432,
+    "corrected_edges": [
+      {
+        "axes": [
+          1,
+          5
+        ],
+        "corrected_sections": 54
+      },
+      {
+        "axes": [
+          1,
+          8
+        ],
+        "corrected_sections": 55
+      },
+      {
+        "axes": [
+          5,
+          8
+        ],
+        "corrected_sections": 63
+      }
+    ]
+  }
+]

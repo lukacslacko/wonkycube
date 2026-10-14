@@ -1,0 +1,967 @@
+{
+  "probes": [
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.408248290463863,
+        -0.408248290463863,
+        0.816496580927726
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 131.4249067774661,
+      "peak_at_mm": 4.25
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.15173553493335828,
+        -0.6189215859195581,
+        0.7706571208529165
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 208.54977915871896,
+      "peak_at_mm": 5.75
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.08766711288072805,
+        -0.4922621013285091,
+        0.8660210741747559
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 205.18718471562843,
+      "peak_at_mm": 5.5
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.10335683531585524,
+        -0.3369498608089553,
+        0.9358323332169695
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 192.55768752468043,
+      "peak_at_mm": 5.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.19460065378277902,
+        -0.19460065378277902,
+        0.9613850274965957
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 195.4101950972601,
+      "peak_at_mm": 5.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.33694986080895517,
+        -0.10335683531585524,
+        0.9358323332169695
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 192.56173114826456,
+      "peak_at_mm": 5.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.4922621013285091,
+        -0.08766711288072805,
+        0.8660210741747559
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 205.19579453158272,
+      "peak_at_mm": 5.5
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.6189215859195581,
+        -0.15173553493335823,
+        0.7706571208529165
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 208.55690650827268,
+      "peak_at_mm": 5.75
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.6829900079721883,
+        -0.27839501952440715,
+        0.6752931675310768
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 172.6365634512651,
+      "peak_at_mm": 5.75
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.6673002855370613,
+        -0.4337072600439611,
+        0.6054819084888634
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 113.61013009455883,
+      "peak_at_mm": 5.25
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.5760564670701375,
+        -0.5760564670701375,
+        0.5799292142092373
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 97.86215129183584,
+      "peak_at_mm": 4.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.4337072600439612,
+        -0.6673002855370613,
+        0.6054819084888634
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 113.60034371779389,
+      "peak_at_mm": 5.25
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.2783950195244074,
+        -0.6829900079721883,
+        0.6752931675310767
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 172.6276428785516,
+      "peak_at_mm": 5.75
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        0.07104908140911897,
+        -0.7399491434997701,
+        0.6689000620906512
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 457.88486122857745,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        0.18226682099640695,
+        -0.5200782441987768,
+        0.8344443815347918
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 432.4668027188142,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        0.1550306973635608,
+        -0.25046841509088374,
+        0.9556312342723152
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 284.8864095580365,
+      "peak_at_mm": 7.5
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.0033613921570441693,
+        -0.0033613921570441693,
+        0.9999887009789327
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 247.44183397948842,
+      "peak_at_mm": 5.5
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.25046841509088363,
+        0.1550306973635608,
+        0.9556312342723152
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 284.8865093808481,
+      "peak_at_mm": 7.5
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.5200782441987768,
+        0.18226682099640695,
+        0.8344443815347918
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 432.461686675443,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.7399491434997701,
+        0.07104908140911907,
+        0.6689000620906512
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 457.8827318570976,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.851166883087058,
+        -0.1488218178918743,
+        0.5033557426465104
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 354.8119094727571,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.8239307594542121,
+        -0.4184316469997672,
+        0.3821688899089871
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 167.29942966101777,
+      "peak_at_mm": 7.5
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.6655386699336071,
+        -0.6655386699336069,
+        0.33781142320236973
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 88.4285745687192,
+      "peak_at_mm": 5.5
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.41843164699976737,
+        -0.8239307594542119,
+        0.38216888990898706
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 167.28783786957945,
+      "peak_at_mm": 7.5
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.14882181789187474,
+        -0.8511668830870582,
+        0.5033557426465103
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 354.8103073833746,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        0.28186028951045283,
+        -0.8045686629997695,
+        0.5227083734893168
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 670.3934386992591,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        0.4308497306820985,
+        -0.5100253415986716,
+        0.7444747547756885
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 626.0986157511021,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        0.3943636911815851,
+        -0.14885078507352617,
+        0.9068190132880045
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 426.852961670948,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        0.1821785758280853,
+        0.1821785758280853,
+        0.9662411360620604
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 303.1356638811306,
+      "peak_at_mm": 7.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.14885078507352598,
+        0.3943636911815851,
+        0.9068190132880046
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 426.8568630271227,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.5100253415986716,
+        0.4308497306820985,
+        0.7444747547756885
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 626.0971129147576,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.8045686629997695,
+        0.2818602895104529,
+        0.5227083734893168
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 670.3898013090205,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.9535581041714153,
+        -0.01268303189064495,
+        0.300941992202945
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 538.1120225330174,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.9170720646709021,
+        -0.3738575884157903,
+        0.13859773369062897
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 237.97622876968336,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.7048869493174021,
+        -0.7048869493174019,
+        0.07917561091657307
+      ],
+      "first_contact_mm": 1.0,
+      "maximum_intersection_mm3": 82.16539914904504,
+      "peak_at_mm": 6.5
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.3738575884157906,
+        -0.9170720646709019,
+        0.1385977336906289
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 237.9590965088489,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "P",
+      "support_family": "C",
+      "support_outward_lift_mm": 0.15,
+      "direction": [
+        -0.012683031890645518,
+        -0.9535581041714153,
+        0.30094199220294465
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 538.1046075954814,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.5773502691896257,
+        -0.5773502691896257,
+        0.5773502691896257
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 120.3057906208928,
+      "peak_at_mm": 5.5
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.31134385063169795,
+        -0.7785299016178978,
+        0.5449368761247979
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 143.15665007695299,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.27520688382627717,
+        -0.6798018722740582,
+        0.6798018722740582
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 141.58431960332814,
+      "peak_at_mm": 6.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.31134385063169795,
+        -0.5449368761247979,
+        0.7785299016178978
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 143.15295588266434,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.41007187997553757,
+        -0.4100718799755376,
+        0.8146668684233187
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 151.25999672758994,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.5449368761247979,
+        -0.31134385063169795,
+        0.7785299016178978
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 143.16059610031775,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.6798018722740582,
+        -0.27520688382627717,
+        0.6798018722740582
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 141.5833541656118,
+      "peak_at_mm": 6.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.7785299016178978,
+        -0.31134385063169795,
+        0.5449368761247979
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 143.1529533820076,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.8146668684233186,
+        -0.41007187997553746,
+        0.41007187997553757
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 151.26489638029702,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.7785299016178979,
+        -0.5449368761247978,
+        0.31134385063169806
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 143.1657259917617,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.6798018722740582,
+        -0.6798018722740582,
+        0.27520688382627717
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 141.59253938140736,
+      "peak_at_mm": 6.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.5449368761247979,
+        -0.7785299016178978,
+        0.31134385063169795
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 143.1643223700491,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.4100718799755377,
+        -0.8146668684233185,
+        0.41007187997553735
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 151.26579171850787,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.0674846573859576,
+        -0.8784828822948467,
+        0.4729837698404022
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 226.5569352763539,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.00475372637694641,
+        -0.70709879157213,
+        0.70709879157213
+      ],
+      "first_contact_mm": 1.5,
+      "maximum_intersection_mm3": 185.53311389600447,
+      "peak_at_mm": 7.5
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.06748465738595759,
+        -0.4729837698404022,
+        0.8784828822948466
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 226.55644777780063,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.23886874810867426,
+        -0.23886874810867428,
+        0.9412138133038579
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 290.02152207491577,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.4729837698404021,
+        -0.06748465738595764,
+        0.8784828822948467
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 226.56399032089854,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.70709879157213,
+        -0.00475372637694641,
+        0.70709879157213
+      ],
+      "first_contact_mm": 1.5,
+      "maximum_intersection_mm3": 185.53371876478272,
+      "peak_at_mm": 7.5
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.8784828822948466,
+        -0.06748465738595759,
+        0.4729837698404022
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 226.55244965500643,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.9412138133038579,
+        -0.23886874810867412,
+        0.23886874810867434
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 290.0249233583543,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.8784828822948467,
+        -0.4729837698404018,
+        0.06748465738595773
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 226.56950709707667,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.7070987915721302,
+        -0.70709879157213,
+        0.0047537263769464105
+      ],
+      "first_contact_mm": 1.5,
+      "maximum_intersection_mm3": 185.54547691486346,
+      "peak_at_mm": 7.5
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.4729837698404021,
+        -0.8784828822948467,
+        0.06748465738595764
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 226.56520926363044,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.2388687481086745,
+        -0.9412138133038579,
+        0.23886874810867406
+      ],
+      "first_contact_mm": 1.25,
+      "maximum_intersection_mm3": 290.0264635818031,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        0.17360384077782473,
+        -0.9128251117323976,
+        0.3696106354772864
+      ],
+      "first_contact_mm": 1.0,
+      "maximum_intersection_mm3": 269.77169528177575,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        0.2576394127098936,
+        -0.6832356595708764,
+        0.6832356595708764
+      ],
+      "first_contact_mm": 1.5,
+      "maximum_intersection_mm3": 200.00565972703592,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        0.17360384077782476,
+        -0.36961063547728656,
+        0.9128251117323977
+      ],
+      "first_contact_mm": 1.0,
+      "maximum_intersection_mm3": 269.77347492551877,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.055985611383696406,
+        -0.055985611383696475,
+        0.9968606836644665
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 394.95769072256354,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.3696106354772864,
+        0.17360384077782468,
+        0.9128251117323977
+      ],
+      "first_contact_mm": 1.0,
+      "maximum_intersection_mm3": 269.7782758810324,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.6832356595708764,
+        0.2576394127098936,
+        0.6832356595708764
+      ],
+      "first_contact_mm": 1.5,
+      "maximum_intersection_mm3": 200.00836404754608,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.9128251117323976,
+        0.17360384077782473,
+        0.36961063547728645
+      ],
+      "first_contact_mm": 1.0,
+      "maximum_intersection_mm3": 269.76810798378125,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.9968606836644665,
+        -0.05598561138369625,
+        0.05598561138369657
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 394.9585640775093,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.9128251117323978,
+        -0.3696106354772861,
+        -0.1736038407778246
+      ],
+      "first_contact_mm": 1.0,
+      "maximum_intersection_mm3": 269.7805466677586,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.6832356595708766,
+        -0.6832356595708764,
+        -0.2576394127098936
+      ],
+      "first_contact_mm": 1.5,
+      "maximum_intersection_mm3": 200.02233168004517,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.3696106354772864,
+        -0.9128251117323977,
+        -0.17360384077782468
+      ],
+      "first_contact_mm": 1.0,
+      "maximum_intersection_mm3": 269.7798345771186,
+      "peak_at_mm": 8.0
+    },
+    {
+      "family": "K",
+      "support_family": "P",
+      "support_outward_lift_mm": 0.8,
+      "direction": [
+        -0.05598561138369676,
+        -0.9968606836644665,
+        0.055985611383696156
+      ],
+      "first_contact_mm": 0.75,
+      "maximum_intersection_mm3": 394.9593378608485,
+      "peak_at_mm": 8.0
+    }
+  ],
+  "scope": "Finite straight extraction probes using only actual exported retaining feet. Supported corner test gives every petal 0.8 mm outward play. No force or elastic simulation."
+}

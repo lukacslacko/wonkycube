@@ -1,0 +1,471 @@
+{
+  "macros": {
+    "M": {
+      "word": "R U' R U",
+      "inverse": "U' R U R"
+    },
+    "N": {
+      "word": "L U' R U R L D R D' R",
+      "inverse": "R D R D' L R U' R U L"
+    }
+  },
+  "tables": {
+    "H": [
+      {
+        "slots": [
+          "RU",
+          "LU",
+          "BU"
+        ],
+        "setup": "R U'",
+        "use": "M",
+        "undo": "U R",
+        "full": "R U' R U' R U U R"
+      },
+      {
+        "slots": [
+          "RU",
+          "LU",
+          "RD"
+        ],
+        "setup": "",
+        "use": "M",
+        "undo": "",
+        "full": "R U' R U"
+      },
+      {
+        "slots": [
+          "RU",
+          "LU",
+          "LD"
+        ],
+        "setup": "D",
+        "use": "M",
+        "undo": "D'",
+        "full": "D R U' R U D'"
+      },
+      {
+        "slots": [
+          "RU",
+          "LU",
+          "BD"
+        ],
+        "setup": "D'",
+        "use": "M",
+        "undo": "D",
+        "full": "D' R U' R U D"
+      },
+      {
+        "slots": [
+          "RU",
+          "BU",
+          "RD"
+        ],
+        "setup": "U",
+        "use": "M'",
+        "undo": "U'",
+        "full": "U U' R U R U'"
+      },
+      {
+        "slots": [
+          "RU",
+          "BU",
+          "LD"
+        ],
+        "setup": "U D",
+        "use": "M'",
+        "undo": "D' U'",
+        "full": "U D U' R U R D' U'"
+      },
+      {
+        "slots": [
+          "RU",
+          "BU",
+          "BD"
+        ],
+        "setup": "U D'",
+        "use": "M'",
+        "undo": "D U'",
+        "full": "U D' U' R U R D U'"
+      },
+      {
+        "slots": [
+          "RU",
+          "RD",
+          "LD"
+        ],
+        "setup": "L",
+        "use": "M'",
+        "undo": "L",
+        "full": "L U' R U R L"
+      },
+      {
+        "slots": [
+          "RU",
+          "RD",
+          "BD"
+        ],
+        "setup": "D' L",
+        "use": "M",
+        "undo": "L D",
+        "full": "D' L R U' R U L D"
+      },
+      {
+        "slots": [
+          "RU",
+          "LD",
+          "BD"
+        ],
+        "setup": "D L",
+        "use": "M'",
+        "undo": "L D'",
+        "full": "D L U' R U R L D'"
+      },
+      {
+        "slots": [
+          "LU",
+          "BU",
+          "RD"
+        ],
+        "setup": "U'",
+        "use": "M",
+        "undo": "U",
+        "full": "U' R U' R U U"
+      },
+      {
+        "slots": [
+          "LU",
+          "BU",
+          "LD"
+        ],
+        "setup": "U' D",
+        "use": "M",
+        "undo": "D' U",
+        "full": "U' D R U' R U D' U"
+      },
+      {
+        "slots": [
+          "LU",
+          "BU",
+          "BD"
+        ],
+        "setup": "U' D'",
+        "use": "M",
+        "undo": "D U",
+        "full": "U' D' R U' R U D U"
+      },
+      {
+        "slots": [
+          "LU",
+          "RD",
+          "LD"
+        ],
+        "setup": "U' L",
+        "use": "M'",
+        "undo": "L U",
+        "full": "U' L U' R U R L U"
+      },
+      {
+        "slots": [
+          "LU",
+          "RD",
+          "BD"
+        ],
+        "setup": "R D'",
+        "use": "M'",
+        "undo": "D R",
+        "full": "R D' U' R U R D R"
+      },
+      {
+        "slots": [
+          "LU",
+          "LD",
+          "BD"
+        ],
+        "setup": "U' D L",
+        "use": "M'",
+        "undo": "L D' U",
+        "full": "U' D L U' R U R L D' U"
+      },
+      {
+        "slots": [
+          "BU",
+          "RD",
+          "LD"
+        ],
+        "setup": "U L",
+        "use": "M'",
+        "undo": "L U'",
+        "full": "U L U' R U R L U'"
+      },
+      {
+        "slots": [
+          "BU",
+          "RD",
+          "BD"
+        ],
+        "setup": "U D' L",
+        "use": "M",
+        "undo": "L D U'",
+        "full": "U D' L R U' R U L D U'"
+      },
+      {
+        "slots": [
+          "BU",
+          "LD",
+          "BD"
+        ],
+        "setup": "U D L",
+        "use": "M'",
+        "undo": "L D' U'",
+        "full": "U D L U' R U R L D' U'"
+      },
+      {
+        "slots": [
+          "RD",
+          "LD",
+          "BD"
+        ],
+        "setup": "R D L",
+        "use": "M'",
+        "undo": "L D' R",
+        "full": "R D L U' R U R L D' R"
+      }
+    ],
+    "K": [
+      {
+        "slots": [
+          "FU",
+          "BRU",
+          "BLU"
+        ],
+        "setup": "",
+        "use": "N",
+        "undo": "",
+        "full": "L U' R U R L D R D' R"
+      },
+      {
+        "slots": [
+          "FU",
+          "BRU",
+          "FD"
+        ],
+        "setup": "R U' R",
+        "use": "N",
+        "undo": "R U R",
+        "full": "R U' R L U' R U R L D R D' R R U R"
+      },
+      {
+        "slots": [
+          "FU",
+          "BRU",
+          "BRD"
+        ],
+        "setup": "R U R",
+        "use": "N",
+        "undo": "R U' R",
+        "full": "R U R L U' R U R L D R D' R R U' R"
+      },
+      {
+        "slots": [
+          "FU",
+          "BRU",
+          "BLD"
+        ],
+        "setup": "U R U' B",
+        "use": "N'",
+        "undo": "B U R U'",
+        "full": "U R U' B R D R D' L R U' R U L B U R U'"
+      },
+      {
+        "slots": [
+          "FU",
+          "BLU",
+          "FD"
+        ],
+        "setup": "L U L",
+        "use": "N'",
+        "undo": "L U' L",
+        "full": "L U L R D R D' L R U' R U L L U' L"
+      },
+      {
+        "slots": [
+          "FU",
+          "BLU",
+          "BRD"
+        ],
+        "setup": "U L U' R",
+        "use": "N",
+        "undo": "R U L U'",
+        "full": "U L U' R L U' R U R L D R D' R R U L U'"
+      },
+      {
+        "slots": [
+          "FU",
+          "BLU",
+          "BLD"
+        ],
+        "setup": "R U' B",
+        "use": "N",
+        "undo": "B U R",
+        "full": "R U' B L U' R U R L D R D' R B U R"
+      },
+      {
+        "slots": [
+          "FU",
+          "FD",
+          "BRD"
+        ],
+        "setup": "U R",
+        "use": "N'",
+        "undo": "R U'",
+        "full": "U R R D R D' L R U' R U L R U'"
+      },
+      {
+        "slots": [
+          "FU",
+          "FD",
+          "BLD"
+        ],
+        "setup": "U' L",
+        "use": "N",
+        "undo": "L U",
+        "full": "U' L L U' R U R L D R D' R L U"
+      },
+      {
+        "slots": [
+          "FU",
+          "BRD",
+          "BLD"
+        ],
+        "setup": "B",
+        "use": "N'",
+        "undo": "B",
+        "full": "B R D R D' L R U' R U L B"
+      },
+      {
+        "slots": [
+          "BRU",
+          "BLU",
+          "FD"
+        ],
+        "setup": "U R U' R",
+        "use": "N",
+        "undo": "R U R U'",
+        "full": "U R U' R L U' R U R L D R D' R R U R U'"
+      },
+      {
+        "slots": [
+          "BRU",
+          "BLU",
+          "BRD"
+        ],
+        "setup": "L U' R",
+        "use": "N'",
+        "undo": "R U L",
+        "full": "L U' R R D R D' L R U' R U L R U L"
+      },
+      {
+        "slots": [
+          "BRU",
+          "BLU",
+          "BLD"
+        ],
+        "setup": "R U L",
+        "use": "N'",
+        "undo": "L U' R",
+        "full": "R U L R D R D' L R U' R U L L U' R"
+      },
+      {
+        "slots": [
+          "BRU",
+          "FD",
+          "BRD"
+        ],
+        "setup": "U' R",
+        "use": "N'",
+        "undo": "R U",
+        "full": "U' R R D R D' L R U' R U L R U"
+      },
+      {
+        "slots": [
+          "BRU",
+          "FD",
+          "BLD"
+        ],
+        "setup": "L",
+        "use": "N",
+        "undo": "L",
+        "full": "L L U' R U R L D R D' R L"
+      },
+      {
+        "slots": [
+          "BRU",
+          "BRD",
+          "BLD"
+        ],
+        "setup": "U B",
+        "use": "N'",
+        "undo": "B U'",
+        "full": "U B R D R D' L R U' R U L B U'"
+      },
+      {
+        "slots": [
+          "BLU",
+          "FD",
+          "BRD"
+        ],
+        "setup": "R",
+        "use": "N'",
+        "undo": "R",
+        "full": "R R D R D' L R U' R U L R"
+      },
+      {
+        "slots": [
+          "BLU",
+          "FD",
+          "BLD"
+        ],
+        "setup": "U L",
+        "use": "N",
+        "undo": "L U'",
+        "full": "U L L U' R U R L D R D' R L U'"
+      },
+      {
+        "slots": [
+          "BLU",
+          "BRD",
+          "BLD"
+        ],
+        "setup": "U' B",
+        "use": "N'",
+        "undo": "B U",
+        "full": "U' B R D R D' L R U' R U L B U"
+      },
+      {
+        "slots": [
+          "FD",
+          "BRD",
+          "BLD"
+        ],
+        "setup": "R U R U' B",
+        "use": "N",
+        "undo": "B U R U' R",
+        "full": "R U R U' B L U' R U R L D R D' R B U R U' R"
+      }
+    ]
+  },
+  "validation": {
+    "early_phase_states": 96,
+    "horizontal_permutations": 360,
+    "corner_permutations": 360,
+    "setup_entries_independently_checked_with_CAD_3D_matrices": 40,
+    "random_scrambles_solved": 1000,
+    "scramble_length": 80,
+    "max_solution_moves_in_sample": 85,
+    "setup_search_group_sizes": {
+      "H": 720,
+      "K": 360
+    }
+  }
+}

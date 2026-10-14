@@ -1,0 +1,240 @@
+{
+  "pages": 9,
+  "paragraph_bounds": [
+    {
+      "page": 1,
+      "top": 760,
+      "bottom": 732,
+      "text": "For the successfully printed 64 mm, non-wavy shape mod. Restore the cube shape, including the orient"
+    },
+    {
+      "page": 1,
+      "top": 428,
+      "bottom": 400,
+      "text": "The colors only distinguish piece families in this guide. Your puzzle can be one color: use its shap"
+    },
+    {
+      "page": 1,
+      "top": 103,
+      "bottom": 75,
+      "text": "<b>Already solved the petals and all five centers?</b> Go straight to page 7. For the full method, f"
+    },
+    {
+      "page": 2,
+      "top": 760,
+      "bottom": 732,
+      "text": "The prism is tilted inside the cube. U and D are the opposing polar screws, not necessarily the top "
+    },
+    {
+      "page": 2,
+      "top": 455,
+      "bottom": 413,
+      "text": "R is the right-front side axis; L is the left-front one; B is behind. D is opposite U. Keep these na"
+    },
+    {
+      "page": 2,
+      "top": 224,
+      "bottom": 194,
+      "text": "<b>Clockwise means looking from outside straight into that axis's screw hole.</b> Judge D from under"
+    },
+    {
+      "page": 2,
+      "top": 98,
+      "bottom": 70,
+      "text": "Turn the entire layer attached to the chosen axis, with every piece it carries. Finish each 180- or "
+    },
+    {
+      "page": 3,
+      "top": 760,
+      "bottom": 732,
+      "text": "Labels name fixed slots, not pieces traveling with a turn. These are solved views: use the outlines "
+    },
+    {
+      "page": 3,
+      "top": 114,
+      "bottom": 86,
+      "text": "<b>RU</b> is between the R and U centers. <b>FU</b> is the front upper corner between L, R and U; <b"
+    },
+    {
+      "page": 4,
+      "top": 760,
+      "bottom": 732,
+      "text": "Work on the three blue vertical petals first. Ignore the horizontal petals and corners until later; "
+    },
+    {
+      "page": 4,
+      "top": 697,
+      "bottom": 669,
+      "text": "Ignore their orientation for now. Each side half-turn swaps one pair. Choose a swap that puts a misp"
+    },
+    {
+      "page": 4,
+      "top": 507,
+      "bottom": 479,
+      "text": "Once all three are in place, either none or exactly two need a half-turn in their own slots. Use the"
+    },
+    {
+      "page": 4,
+      "top": 327,
+      "bottom": 299,
+      "text": "With the vertical petals fully solved, either zero or two side centers are half a turn wrong. Repeat"
+    },
+    {
+      "page": 4,
+      "top": 148,
+      "bottom": 120,
+      "text": "Use U or U' to finish the upper screwed center; use D or D' to finish the lower one. These moves pre"
+    },
+    {
+      "page": 5,
+      "top": 760,
+      "bottom": 732,
+      "text": "This stage preserves all five screwed centers and all three vertical petals. The floating corners ma"
+    },
+    {
+      "page": 5,
+      "top": 452,
+      "bottom": 410,
+      "text": "<b>M sends RU to LU, LU to RD, and RD to RU.</b> Every other horizontal petal returns to its slot. M"
+    },
+    {
+      "page": 5,
+      "top": 390,
+      "bottom": 361.0,
+      "text": "Page 6 lists all 20 triples. Find the three slots you want, then do <b>Setup S, Use, Undo S</b>. For"
+    },
+    {
+      "page": 5,
+      "top": 311,
+      "bottom": 267.5,
+      "text": "Pick a wrong slot <b>a</b>. The piece in a belongs in <b>b</b>; the piece in b belongs in <b>c</b>. "
+    },
+    {
+      "page": 5,
+      "top": 211,
+      "bottom": 181,
+      "text": "For <b>a swaps with b</b> and <b>c swaps with d</b>, do these two cycles:<br/><b>a &gt; b &gt; c &gt"
+    },
+    {
+      "page": 5,
+      "top": 104,
+      "bottom": 76,
+      "text": "A horizontal petal in its correct slot automatically has its correct orientation. <b>There is no sep"
+    },
+    {
+      "page": 6,
+      "top": 760,
+      "bottom": 732,
+      "text": "An arrow means where the current occupant moves. Every listed cycle closes back to its first slot. A"
+    },
+    {
+      "page": 6,
+      "top": 96,
+      "bottom": 68,
+      "text": "<b>Reverse direction:</b> toggle M / M' only. Always finish the undo column, even if a piece looks s"
+    },
+    {
+      "page": 7,
+      "top": 760,
+      "bottom": 732,
+      "text": "Start here only when all five centers and all nine petals are solved. This ten-move algorithm restor"
+    },
+    {
+      "page": 7,
+      "top": 448,
+      "bottom": 406,
+      "text": "<b>N sends FU to BRU, BRU to BLU, and BLU to FU.</b> The three lower corners return unchanged. N' re"
+    },
+    {
+      "page": 7,
+      "top": 383,
+      "bottom": 354.0,
+      "text": "Each corner has only one reachable orientation in a particular slot. Use the solved shapes on page 3"
+    },
+    {
+      "page": 7,
+      "top": 301,
+      "bottom": 272.0,
+      "text": "Follow the same method as with horizontal petals: if the piece in a belongs in b, and the piece in b"
+    },
+    {
+      "page": 7,
+      "top": 203,
+      "bottom": 173,
+      "text": "If FU / BRU are swapped and FD / BRD are swapped, do<br/><b>FU &gt; BRU &gt; FD</b>, then <b>FU &gt;"
+    },
+    {
+      "page": 7,
+      "top": 99,
+      "bottom": 71,
+      "text": "<b>Finish:</b> every piece now belongs in its own slot and orientation, so the outer surface returns"
+    },
+    {
+      "page": 8,
+      "top": 760,
+      "bottom": 732,
+      "text": "Perform Setup S, then the indicated N or N', then Undo S. Only the three named corners change after "
+    },
+    {
+      "page": 8,
+      "top": 96,
+      "bottom": 68,
+      "text": "<b>Reverse direction:</b> toggle N / N' only. The table is exhaustive for any three corners. Repeat "
+    },
+    {
+      "page": 9,
+      "top": 760,
+      "bottom": 732,
+      "text": "The method solves shape and orientation, not just which family occupies each gap. Use the fixed slot"
+    },
+    {
+      "page": 9,
+      "top": 429,
+      "bottom": 402.6,
+      "text": "Check that you completed the undo setup and kept the same axis names. U and D are 120-degree moves; "
+    },
+    {
+      "page": 9,
+      "top": 372.6,
+      "bottom": 359.40000000000003,
+      "text": "D is clockwise when viewed from below, looking into its screw. A view from above reverses the appare"
+    },
+    {
+      "page": 9,
+      "top": 329.40000000000003,
+      "bottom": 303.00000000000006,
+      "text": "With all three vertical petals in their correct slots, flips occur in pairs. Recheck the part identi"
+    },
+    {
+      "page": 9,
+      "top": 273.00000000000006,
+      "bottom": 246.60000000000005,
+      "text": "After the earlier checkpoints, a lone swap of horizontal petals is unreachable. A lone corner swap i"
+    },
+    {
+      "page": 9,
+      "top": 216.60000000000005,
+      "bottom": 190.20000000000005,
+      "text": "There is no independent corner twist in this mechanism. Recheck its home slot against the solved atl"
+    },
+    {
+      "page": 9,
+      "top": 105,
+      "bottom": 69,
+      "text": "<b>Verification.</b> The guide's sequences were checked against the design's exact oriented move mod"
+    }
+  ],
+  "validation": {
+    "early_phase_states": 96,
+    "horizontal_permutations": 360,
+    "corner_permutations": 360,
+    "setup_entries_independently_checked_with_CAD_3D_matrices": 40,
+    "random_scrambles_solved": 1000,
+    "scramble_length": 80,
+    "max_solution_moves_in_sample": 85,
+    "setup_search_group_sizes": {
+      "H": 720,
+      "K": 360
+    }
+  }
+}

@@ -5,3 +5,9 @@
 *.py text eol=lf
 *.md text eol=lf
 *.json text eol=lf
+*.pdf binary
+*.dwg binary
+# Keep generated cutting files byte-for-byte, including their formatting.
+*.dxf -text -whitespace
+*.svg -text -whitespace
+*.csv -text -whitespace

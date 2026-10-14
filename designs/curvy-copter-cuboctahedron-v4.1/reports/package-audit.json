@@ -1,0 +1,146 @@
+{
+  "passed": true,
+  "stls": [
+    {
+      "file": "stl/fit-coupons/paper-pocket-test.stl",
+      "components": 1,
+      "closed": true,
+      "volume_mm3": 698.1561407790788
+    },
+    {
+      "file": "stl/fit-coupons/plug-key-fit-test.stl",
+      "components": 1,
+      "closed": true,
+      "volume_mm3": 498.1170150204601
+    },
+    {
+      "file": "stl/fit-coupons/plug-socket-fit-test.stl",
+      "components": 1,
+      "closed": true,
+      "volume_mm3": 1387.4083282846132
+    },
+    {
+      "file": "stl/puzzle/axial-center-print-12.stl",
+      "components": 1,
+      "closed": true,
+      "volume_mm3": 7204.686078773465
+    },
+    {
+      "file": "stl/puzzle/core.stl",
+      "components": 1,
+      "closed": true,
+      "volume_mm3": 31700.326612050394
+    },
+    {
+      "file": "stl/puzzle/floating-corner-print-8.stl",
+      "components": 1,
+      "closed": true,
+      "volume_mm3": 2080.23266487854
+    },
+    {
+      "file": "stl/puzzle/keyed-plug-print-12.stl",
+      "components": 1,
+      "closed": true,
+      "volume_mm3": 1110.4663205034649
+    },
+    {
+      "file": "stl/puzzle/petal-print-24.stl",
+      "components": 1,
+      "closed": true,
+      "volume_mm3": 5050.602173662405
+    }
+  ],
+  "plates": [
+    {
+      "file": "plates/04-keyed-plugs.3mf",
+      "objects": 12,
+      "inside_256mm_bed": true,
+      "no_xy_bounding_box_overlap": true
+    },
+    {
+      "file": "plates/02-petals.3mf",
+      "objects": 24,
+      "inside_256mm_bed": true,
+      "no_xy_bounding_box_overlap": true
+    },
+    {
+      "file": "plates/01-centers.3mf",
+      "objects": 12,
+      "inside_256mm_bed": true,
+      "no_xy_bounding_box_overlap": true
+    },
+    {
+      "file": "plates/03-floating-corners.3mf",
+      "objects": 8,
+      "inside_256mm_bed": true,
+      "no_xy_bounding_box_overlap": true
+    },
+    {
+      "file": "start-here/fit-check.3mf",
+      "objects": 5,
+      "inside_256mm_bed": true,
+      "no_xy_bounding_box_overlap": true
+    }
+  ],
+  "exact_face_cut_sets": [
+    {
+      "face": "SX+",
+      "contours": 8
+    },
+    {
+      "face": "SX-",
+      "contours": 8
+    },
+    {
+      "face": "SY+",
+      "contours": 8
+    },
+    {
+      "face": "SY-",
+      "contours": 8
+    },
+    {
+      "face": "SZ+",
+      "contours": 8
+    },
+    {
+      "face": "SZ-",
+      "contours": 8
+    },
+    {
+      "face": "T+++",
+      "contours": 7
+    },
+    {
+      "face": "T++-",
+      "contours": 7
+    },
+    {
+      "face": "T+-+",
+      "contours": 7
+    },
+    {
+      "face": "T+--",
+      "contours": 7
+    },
+    {
+      "face": "T-++",
+      "contours": 7
+    },
+    {
+      "face": "T-+-",
+      "contours": 7
+    },
+    {
+      "face": "T--+",
+      "contours": 7
+    },
+    {
+      "face": "T---",
+      "contours": 7
+    }
+  ],
+  "cutting_sheets_with_verified_svg_dxf_dwg": 30,
+  "full_puzzle_printed_part_count": 57,
+  "source": "Independent package inventory and reload checks; detailed mechanism tests are separate reports."
+}

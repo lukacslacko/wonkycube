@@ -1,0 +1,572 @@
+[
+  {
+    "file": "SX-",
+    "path": "inlays/faces/SX-",
+    "contours": 8,
+    "extents_mm": [
+      6.609211045955334,
+      6.609211045955334,
+      75.39078895404467,
+      75.39078895404467
+    ],
+    "width_mm": 68.78157790808933,
+    "height_mm": 68.78157790808933,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SX-",
+    "path": "inlays/fit-variants/easy/easy-SX-",
+    "contours": 8,
+    "extents_mm": [
+      6.66019060386575,
+      6.66019060386575,
+      75.33980939613424,
+      75.33980939613424
+    ],
+    "width_mm": 68.67961879226849,
+    "height_mm": 68.67961879226849,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SX+",
+    "path": "inlays/faces/SX+",
+    "contours": 8,
+    "extents_mm": [
+      6.609211045955334,
+      6.609211045955334,
+      75.39078895404467,
+      75.39078895404467
+    ],
+    "width_mm": 68.78157790808933,
+    "height_mm": 68.78157790808933,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SX+",
+    "path": "inlays/fit-variants/easy/easy-SX+",
+    "contours": 8,
+    "extents_mm": [
+      6.66019060386575,
+      6.66019060386575,
+      75.33980939613424,
+      75.33980939613424
+    ],
+    "width_mm": 68.67961879226849,
+    "height_mm": 68.67961879226849,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SY-",
+    "path": "inlays/faces/SY-",
+    "contours": 8,
+    "extents_mm": [
+      6.609211045955334,
+      6.609211045955334,
+      75.39078895404467,
+      75.39078895404467
+    ],
+    "width_mm": 68.78157790808933,
+    "height_mm": 68.78157790808933,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SY-",
+    "path": "inlays/fit-variants/easy/easy-SY-",
+    "contours": 8,
+    "extents_mm": [
+      6.66019060386575,
+      6.66019060386575,
+      75.33980939613424,
+      75.33980939613424
+    ],
+    "width_mm": 68.67961879226849,
+    "height_mm": 68.67961879226849,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SY+",
+    "path": "inlays/faces/SY+",
+    "contours": 8,
+    "extents_mm": [
+      6.609211045955334,
+      6.609211045955334,
+      75.39078895404467,
+      75.39078895404467
+    ],
+    "width_mm": 68.78157790808933,
+    "height_mm": 68.78157790808933,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SY+",
+    "path": "inlays/fit-variants/easy/easy-SY+",
+    "contours": 8,
+    "extents_mm": [
+      6.66019060386575,
+      6.66019060386575,
+      75.33980939613424,
+      75.33980939613424
+    ],
+    "width_mm": 68.67961879226849,
+    "height_mm": 68.67961879226849,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SZ-",
+    "path": "inlays/faces/SZ-",
+    "contours": 8,
+    "extents_mm": [
+      6.609211045955334,
+      6.609211045955334,
+      75.39078895404467,
+      75.39078895404467
+    ],
+    "width_mm": 68.78157790808933,
+    "height_mm": 68.78157790808933,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SZ-",
+    "path": "inlays/fit-variants/easy/easy-SZ-",
+    "contours": 8,
+    "extents_mm": [
+      6.66019060386575,
+      6.66019060386575,
+      75.33980939613424,
+      75.33980939613424
+    ],
+    "width_mm": 68.67961879226849,
+    "height_mm": 68.67961879226849,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SZ+",
+    "path": "inlays/faces/SZ+",
+    "contours": 8,
+    "extents_mm": [
+      6.609211045955334,
+      6.609211045955334,
+      75.39078895404467,
+      75.39078895404467
+    ],
+    "width_mm": 68.78157790808933,
+    "height_mm": 68.78157790808933,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SZ+",
+    "path": "inlays/fit-variants/easy/easy-SZ+",
+    "contours": 8,
+    "extents_mm": [
+      6.66019060386575,
+      6.66019060386575,
+      75.33980939613424,
+      75.33980939613424
+    ],
+    "width_mm": 68.67961879226849,
+    "height_mm": 68.67961879226849,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T---",
+    "path": "inlays/faces/T---",
+    "contours": 7,
+    "extents_mm": [
+      17.62624415415639,
+      27.237500088769735,
+      64.37760565839089,
+      67.92066878504026
+    ],
+    "width_mm": 46.7513615042345,
+    "height_mm": 40.68316869627053,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T---",
+    "path": "inlays/fit-variants/easy/easy-T---",
+    "contours": 7,
+    "extents_mm": [
+      17.676787574880308,
+      27.287500088769736,
+      64.3266261004811,
+      67.870125364313
+    ],
+    "width_mm": 46.6498385256008,
+    "height_mm": 40.582625275543265,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T--+",
+    "path": "inlays/faces/T--+",
+    "contours": 7,
+    "extents_mm": [
+      17.622394341609112,
+      14.079331214959726,
+      64.3737558458436,
+      54.762499911230265
+    ],
+    "width_mm": 46.751361504234495,
+    "height_mm": 40.68316869627054,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T--+",
+    "path": "inlays/fit-variants/easy/easy-T--+",
+    "contours": 7,
+    "extents_mm": [
+      17.67337389951889,
+      14.129874635686999,
+      64.32321242511969,
+      54.71249991123027
+    ],
+    "width_mm": 46.6498385256008,
+    "height_mm": 40.582625275543265,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T-+-",
+    "path": "inlays/faces/T-+-",
+    "contours": 7,
+    "extents_mm": [
+      17.626244154156392,
+      27.237500088769735,
+      64.37760565839089,
+      67.92066878504028
+    ],
+    "width_mm": 46.751361504234495,
+    "height_mm": 40.68316869627054,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T-+-",
+    "path": "inlays/fit-variants/easy/easy-T-+-",
+    "contours": 7,
+    "extents_mm": [
+      17.67678757488031,
+      27.287500088769736,
+      64.3266261004811,
+      67.87012536431301
+    ],
+    "width_mm": 46.6498385256008,
+    "height_mm": 40.58262527554328,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T-++",
+    "path": "inlays/faces/T-++",
+    "contours": 7,
+    "extents_mm": [
+      17.622394341609112,
+      14.079331214959733,
+      64.37375584584362,
+      54.762499911230265
+    ],
+    "width_mm": 46.75136150423451,
+    "height_mm": 40.68316869627053,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T-++",
+    "path": "inlays/fit-variants/easy/easy-T-++",
+    "contours": 7,
+    "extents_mm": [
+      17.67337389951889,
+      14.129874635687006,
+      64.3232124251197,
+      54.71249991123027
+    ],
+    "width_mm": 46.64983852560081,
+    "height_mm": 40.582625275543265,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T+--",
+    "path": "inlays/faces/T+--",
+    "contours": 7,
+    "extents_mm": [
+      17.626244154156392,
+      27.237500088769735,
+      64.37760565839089,
+      67.92066878504028
+    ],
+    "width_mm": 46.751361504234495,
+    "height_mm": 40.68316869627054,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T+--",
+    "path": "inlays/fit-variants/easy/easy-T+--",
+    "contours": 7,
+    "extents_mm": [
+      17.67678757488031,
+      27.287500088769736,
+      64.3266261004811,
+      67.87012536431301
+    ],
+    "width_mm": 46.6498385256008,
+    "height_mm": 40.58262527554328,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T+-+",
+    "path": "inlays/faces/T+-+",
+    "contours": 7,
+    "extents_mm": [
+      17.622394341609112,
+      14.079331214959733,
+      64.37375584584362,
+      54.762499911230265
+    ],
+    "width_mm": 46.75136150423451,
+    "height_mm": 40.68316869627053,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T+-+",
+    "path": "inlays/fit-variants/easy/easy-T+-+",
+    "contours": 7,
+    "extents_mm": [
+      17.67337389951889,
+      14.129874635687006,
+      64.3232124251197,
+      54.71249991123027
+    ],
+    "width_mm": 46.64983852560081,
+    "height_mm": 40.582625275543265,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T++-",
+    "path": "inlays/faces/T++-",
+    "contours": 7,
+    "extents_mm": [
+      17.62624415415639,
+      27.237500088769735,
+      64.37760565839089,
+      67.92066878504026
+    ],
+    "width_mm": 46.7513615042345,
+    "height_mm": 40.68316869627053,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T++-",
+    "path": "inlays/fit-variants/easy/easy-T++-",
+    "contours": 7,
+    "extents_mm": [
+      17.676787574880308,
+      27.287500088769736,
+      64.3266261004811,
+      67.870125364313
+    ],
+    "width_mm": 46.6498385256008,
+    "height_mm": 40.582625275543265,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T+++",
+    "path": "inlays/faces/T+++",
+    "contours": 7,
+    "extents_mm": [
+      17.622394341609112,
+      14.079331214959726,
+      64.3737558458436,
+      54.762499911230265
+    ],
+    "width_mm": 46.751361504234495,
+    "height_mm": 40.68316869627054,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T+++",
+    "path": "inlays/fit-variants/easy/easy-T+++",
+    "contours": 7,
+    "extents_mm": [
+      17.67337389951889,
+      14.129874635686999,
+      64.32321242511969,
+      54.71249991123027
+    ],
+    "width_mm": 46.6498385256008,
+    "height_mm": 40.582625275543265,
+    "dxf_closed_polyline_count": 7,
+    "dwg_roundtrip_max_error_mm": 1.0048591735576161e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "paper-size-options",
+    "path": "inlays/fit-test/paper-size-options",
+    "contours": 3,
+    "extents_mm": [
+      5.0,
+      5.0,
+      62.9,
+      15.0
+    ],
+    "width_mm": 57.9,
+    "height_mm": 10.0,
+    "dxf_closed_polyline_count": 3,
+    "dwg_roundtrip_max_error_mm": 7.944109290391274e-15,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "calibration-20mm",
+    "path": "inlays/fit-test/calibration-20mm",
+    "contours": 1,
+    "extents_mm": [
+      0.0,
+      0.0,
+      20.0,
+      20.0
+    ],
+    "width_mm": 20.0,
+    "height_mm": 20.0,
+    "dxf_closed_polyline_count": 1,
+    "dwg_roundtrip_max_error_mm": 0.0,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  }
+]
