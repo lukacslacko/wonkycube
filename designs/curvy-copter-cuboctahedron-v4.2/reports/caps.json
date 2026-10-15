@@ -1,0 +1,16 @@
+{
+  "key_size_mm": [
+    12.0,
+    10.4
+  ],
+  "key_corner_radius_mm": 1.2,
+  "key_gap_per_side_mm": 0.12,
+  "key_bottom_mm": 38.0,
+  "head_top_mm": 35,
+  "head_clearance_mm": 3,
+  "crush_rib_interference_mm": 0.04,
+  "rib_intersection_mm3": 0.0662399986737246,
+  "rotational_symmetry_degrees": 180,
+  "outer_rim_unchanged": true,
+  "paper_bridges_joint": true
+}

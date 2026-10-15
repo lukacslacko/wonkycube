@@ -1,0 +1,18 @@
+[
+  {
+    "family": "C",
+    "sha256": "3022411c59d95cbf9f4aa6b68488db21e39ae5a7a78875fb947c078178ddc4a7"
+  },
+  {
+    "family": "P",
+    "sha256": "4beb62b53dd5475817c165c4192dd468a889b703379b5d775338cb983cad8880"
+  },
+  {
+    "family": "K",
+    "sha256": "bbe320b6d00d9865c6ca8b056fa959949339cf94f712a417a7845b7e4604f6d8"
+  },
+  {
+    "family": "core",
+    "sha256": "f3d32eef77d72cba87b043bab0b4d52e3c6b77adf714a2f27485d50782e93a8e"
+  }
+]

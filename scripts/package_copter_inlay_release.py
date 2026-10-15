@@ -1,19 +1,21 @@
 """Package the full design and a small cutter-only download."""
 from pathlib import Path
-import argparse,hashlib,zipfile
-ROOT=Path(__file__).resolve().parents[1];D=ROOT/'designs/curvy-copter-cuboctahedron-v4.1'
-parser=argparse.ArgumentParser();parser.add_argument('--output',type=Path,default=ROOT/'dist');args=parser.parse_args();args.output.mkdir(parents=True,exist_ok=True)
-tag='curvy-copter-cuboctahedron-v4.1'
+import argparse,hashlib,json,zipfile
+ROOT=Path(__file__).resolve().parents[1]
+parser=argparse.ArgumentParser();parser.add_argument('--output',type=Path,default=ROOT/'dist');parser.add_argument('--version',choices=['v4.1','v4.2'],default='v4.2');args=parser.parse_args();args.output.mkdir(parents=True,exist_ok=True)
+tag='curvy-copter-cuboctahedron-'+args.version;D=ROOT/'designs'/tag
+depth=json.loads((D/'manifest.json').read_text())['pocket_depth_mm'];a4=args.version=='v4.2'
 def clean(p):return p.is_file() and p.name!='.DS_Store' and '__pycache__' not in p.parts
 files=sorted(p for p in D.rglob('*') if clean(p))
 full=args.output/(tag+'-full.zip')
 with zipfile.ZipFile(full,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
  for p in files:z.write(p,tag+'/'+p.relative_to(D).as_posix())
-cut=args.output/(tag+'-inlays.zip')
+cut=args.output/(tag+('-inlays-A4.zip' if a4 else '-inlays.zip'))
 selected=sorted(p for p in (D/'inlays').rglob('*') if clean(p))
 selected += [D/'LICENSE',D/'images/face-map.png',D/'images/face-map.svg',D/'reference/inlay-faces.json',D/'reports/cutting-files.json']
 with zipfile.ZipFile(cut,'w',zipfile.ZIP_DEFLATED,compresslevel=6) as z:
- z.writestr('README.txt','Curvy Copter cuboctahedron v4.1 - laminated-paper inlays\r\n\r\nStart with inlays/README.md (readable as text).\r\nUse DXF for Silhouette Studio Basic; SVG for Designer Edition or above.\r\nCheck each sheet against inlays/sheet-dimensions.csv before cutting.\r\nDefault faces/ outlines are exact pocket size; cut each face once.\r\nThe pocket depth is 0.5 mm including laminate and adhesive.\r\n\r\nBuild guide and full print package:\r\nhttps://github.com/lukacslacko/wonkycube/releases/tag/'+tag+'\r\n')
+ instructions=('Select ALL shapes, lock aspect ratio and set 210 mm width x 297 mm height.\r\nUngroup if needed and DELETE THE OUTER A4 RECTANGLE before cutting.\r\nDo not rely on the cutter to ignore the frame layer.\r\nRecut these outlines for the matching 1 mm-pocket v4.2 parts.\r\n' if a4 else 'Check each sheet against inlays/sheet-dimensions.csv before cutting.\r\n')
+ z.writestr('README.txt',f'Curvy Copter cuboctahedron {args.version} - laminated-paper inlays\r\n\r\nStart with inlays/README.md (readable as text).\r\nUse DXF for Silhouette Studio Basic; SVG for Designer Edition or above.\r\n'+instructions+f'Default faces/ outlines are exact pocket size; cut each face once.\r\nThe pocket depth is {depth:g} mm including laminate and adhesive.\r\n\r\nBuild guide and full print package:\r\nhttps://github.com/lukacslacko/wonkycube/releases/tag/'+tag+'\r\n')
  for p in selected:z.write(p,p.relative_to(D).as_posix())
  z.writestr('SHA256SUMS.txt',''.join(hashlib.sha256(p.read_bytes()).hexdigest()+'  '+p.relative_to(D).as_posix()+'\n' for p in selected))
 for p in [full,cut]:

@@ -1,0 +1,872 @@
+[
+  {
+    "file": "SX-",
+    "path": "inlays/faces/SX-",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.87391717105854,
+      114.37391717105854,
+      139.12608282894146,
+      182.62608282894146
+    ],
+    "inlay_width_mm": 68.25216565788293,
+    "inlay_height_mm": 68.25216565788293,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SX-",
+    "path": "inlays/fit-variants/easy/easy-SX-",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.92489672896895,
+      114.42489672896895,
+      139.07510327103103,
+      182.57510327103103
+    ],
+    "inlay_width_mm": 68.15020654206208,
+    "inlay_height_mm": 68.15020654206208,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SX+",
+    "path": "inlays/faces/SX+",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.87391717105854,
+      114.37391717105854,
+      139.12608282894146,
+      182.62608282894146
+    ],
+    "inlay_width_mm": 68.25216565788293,
+    "inlay_height_mm": 68.25216565788293,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SX+",
+    "path": "inlays/fit-variants/easy/easy-SX+",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.92489672896895,
+      114.42489672896895,
+      139.07510327103103,
+      182.57510327103103
+    ],
+    "inlay_width_mm": 68.15020654206208,
+    "inlay_height_mm": 68.15020654206208,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SY-",
+    "path": "inlays/faces/SY-",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.87391717105854,
+      114.37391717105854,
+      139.12608282894146,
+      182.62608282894146
+    ],
+    "inlay_width_mm": 68.25216565788293,
+    "inlay_height_mm": 68.25216565788293,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SY-",
+    "path": "inlays/fit-variants/easy/easy-SY-",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.92489672896895,
+      114.42489672896895,
+      139.07510327103103,
+      182.57510327103103
+    ],
+    "inlay_width_mm": 68.15020654206208,
+    "inlay_height_mm": 68.15020654206208,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SY+",
+    "path": "inlays/faces/SY+",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.87391717105854,
+      114.37391717105854,
+      139.12608282894146,
+      182.62608282894146
+    ],
+    "inlay_width_mm": 68.25216565788293,
+    "inlay_height_mm": 68.25216565788293,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SY+",
+    "path": "inlays/fit-variants/easy/easy-SY+",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.92489672896895,
+      114.42489672896895,
+      139.07510327103103,
+      182.57510327103103
+    ],
+    "inlay_width_mm": 68.15020654206208,
+    "inlay_height_mm": 68.15020654206208,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SZ-",
+    "path": "inlays/faces/SZ-",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.87391717105854,
+      114.37391717105854,
+      139.12608282894146,
+      182.62608282894146
+    ],
+    "inlay_width_mm": 68.25216565788293,
+    "inlay_height_mm": 68.25216565788293,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SZ-",
+    "path": "inlays/fit-variants/easy/easy-SZ-",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.92489672896895,
+      114.42489672896895,
+      139.07510327103103,
+      182.57510327103103
+    ],
+    "inlay_width_mm": 68.15020654206208,
+    "inlay_height_mm": 68.15020654206208,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "SZ+",
+    "path": "inlays/faces/SZ+",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.87391717105854,
+      114.37391717105854,
+      139.12608282894146,
+      182.62608282894146
+    ],
+    "inlay_width_mm": 68.25216565788293,
+    "inlay_height_mm": 68.25216565788293,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-SZ+",
+    "path": "inlays/fit-variants/easy/easy-SZ+",
+    "contours": 8,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      70.92489672896895,
+      114.42489672896895,
+      139.07510327103103,
+      182.57510327103103
+    ],
+    "inlay_width_mm": 68.15020654206208,
+    "inlay_height_mm": 68.15020654206208,
+    "dxf_closed_polyline_count": 9,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T---",
+    "path": "inlays/faces/T---",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.94036151407704,
+      128.46947870080837,
+      128.05963848592296,
+      168.5305212991916
+    ],
+    "inlay_width_mm": 46.11927697184592,
+    "inlay_height_mm": 40.06104259838324,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T---",
+    "path": "inlays/fit-variants/easy/easy-T---",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.99079296210604,
+      128.5196944248229,
+      128.00920703789393,
+      168.4803055751771
+    ],
+    "inlay_width_mm": 46.01841407578789,
+    "inlay_height_mm": 39.960611150354225,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T--+",
+    "path": "inlays/faces/T--+",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.94036151407704,
+      128.4694787008084,
+      128.05963848592296,
+      168.53052129919163
+    ],
+    "inlay_width_mm": 46.11927697184592,
+    "inlay_height_mm": 40.06104259838324,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T--+",
+    "path": "inlays/fit-variants/easy/easy-T--+",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.99079296210604,
+      128.5196944248229,
+      128.00920703789393,
+      168.4803055751771
+    ],
+    "inlay_width_mm": 46.01841407578789,
+    "inlay_height_mm": 39.960611150354225,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T-+-",
+    "path": "inlays/faces/T-+-",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.94036151407704,
+      128.46947870080837,
+      128.05963848592296,
+      168.5305212991916
+    ],
+    "inlay_width_mm": 46.11927697184592,
+    "inlay_height_mm": 40.06104259838324,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T-+-",
+    "path": "inlays/fit-variants/easy/easy-T-+-",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.99079296210604,
+      128.5196944248229,
+      128.00920703789393,
+      168.4803055751771
+    ],
+    "inlay_width_mm": 46.01841407578789,
+    "inlay_height_mm": 39.960611150354225,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T-++",
+    "path": "inlays/faces/T-++",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.94036151407704,
+      128.4694787008084,
+      128.05963848592296,
+      168.53052129919163
+    ],
+    "inlay_width_mm": 46.11927697184592,
+    "inlay_height_mm": 40.06104259838324,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T-++",
+    "path": "inlays/fit-variants/easy/easy-T-++",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.99079296210604,
+      128.5196944248229,
+      128.00920703789393,
+      168.4803055751771
+    ],
+    "inlay_width_mm": 46.01841407578789,
+    "inlay_height_mm": 39.960611150354225,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 5.859285502108464e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T+--",
+    "path": "inlays/faces/T+--",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.94036151407704,
+      128.46947870080837,
+      128.05963848592296,
+      168.5305212991916
+    ],
+    "inlay_width_mm": 46.11927697184592,
+    "inlay_height_mm": 40.06104259838324,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T+--",
+    "path": "inlays/fit-variants/easy/easy-T+--",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.99079296210604,
+      128.5196944248229,
+      128.00920703789393,
+      168.4803055751771
+    ],
+    "inlay_width_mm": 46.01841407578789,
+    "inlay_height_mm": 39.960611150354225,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T+-+",
+    "path": "inlays/faces/T+-+",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.94036151407704,
+      128.4694787008084,
+      128.05963848592296,
+      168.53052129919163
+    ],
+    "inlay_width_mm": 46.11927697184592,
+    "inlay_height_mm": 40.06104259838324,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 6.355287432313019e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T+-+",
+    "path": "inlays/fit-variants/easy/easy-T+-+",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.99079296210604,
+      128.5196944248229,
+      128.00920703789393,
+      168.4803055751771
+    ],
+    "inlay_width_mm": 46.01841407578789,
+    "inlay_height_mm": 39.960611150354225,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 5.859285502108464e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T++-",
+    "path": "inlays/faces/T++-",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.94036151407704,
+      128.46947870080837,
+      128.05963848592296,
+      168.5305212991916
+    ],
+    "inlay_width_mm": 46.11927697184592,
+    "inlay_height_mm": 40.06104259838324,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T++-",
+    "path": "inlays/fit-variants/easy/easy-T++-",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.99079296210604,
+      128.5196944248229,
+      128.00920703789393,
+      168.4803055751771
+    ],
+    "inlay_width_mm": 46.01841407578789,
+    "inlay_height_mm": 39.960611150354225,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "T+++",
+    "path": "inlays/faces/T+++",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.94036151407704,
+      128.4694787008084,
+      128.05963848592296,
+      168.53052129919163
+    ],
+    "inlay_width_mm": 46.11927697184592,
+    "inlay_height_mm": 40.06104259838324,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "easy-T+++",
+    "path": "inlays/fit-variants/easy/easy-T+++",
+    "contours": 7,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      81.99079296210604,
+      128.5196944248229,
+      128.00920703789393,
+      168.4803055751771
+    ],
+    "inlay_width_mm": 46.01841407578789,
+    "inlay_height_mm": 39.960611150354225,
+    "dxf_closed_polyline_count": 8,
+    "dwg_roundtrip_max_error_mm": 7.105427357601002e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "paper-size-options",
+    "path": "inlays/fit-test/paper-size-options",
+    "contours": 3,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      76.05,
+      143.5,
+      133.95,
+      153.5
+    ],
+    "inlay_width_mm": 57.89999999999999,
+    "inlay_height_mm": 10.0,
+    "dxf_closed_polyline_count": 4,
+    "dwg_roundtrip_max_error_mm": 5.684341886080802e-14,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  },
+  {
+    "file": "calibration-20mm",
+    "path": "inlays/fit-test/calibration-20mm",
+    "contours": 1,
+    "scaling_frame_count": 1,
+    "scaling_frame_layer": "A4_FRAME_DELETE_BEFORE_CUTTING",
+    "extents_mm": [
+      0.0,
+      0.0,
+      210.0,
+      297.0
+    ],
+    "width_mm": 210.0,
+    "height_mm": 297.0,
+    "inlay_extents_mm": [
+      95.0,
+      138.5,
+      115.0,
+      158.5
+    ],
+    "inlay_width_mm": 20.0,
+    "inlay_height_mm": 20.0,
+    "dxf_closed_polyline_count": 2,
+    "dwg_roundtrip_max_error_mm": 0.0,
+    "dwg_encoding": "AC1015 / AutoCAD 2000",
+    "converter": "ODA File Converter 27.9",
+    "independent_reader": "GNU LibreDWG 0.14 / ezdxf 1.4.4",
+    "audit_errors": 0
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "core_identical": true,
+  "pocket_stage_preserves_repaired_mechanism_to_float32_export_precision": [
+    {
+      "family": "C",
+      "verified_radius_mm": 35,
+      "symmetric_difference_mm3": 0.0002260611669571582
+    },
+    {
+      "family": "P",
+      "verified_radius_mm": 35,
+      "symmetric_difference_mm3": 0.003132010339394845
+    },
+    {
+      "family": "K",
+      "verified_radius_mm": 35,
+      "symmetric_difference_mm3": 0.00011363417339358648
+    }
+  ],
+  "source": "Bundled SHA-verified v3.2 meshes with localized completion of both R2 fillet halves on C/K. Spherical bearing lands are preserved away from those rounded edge ends.",
+  "rounding_repair": [
+    {
+      "family": "C",
+      "removed_volume_mm3": 0.2026772573962736,
+      "corrected_edges": [
+        {
+          "axes": [
+            1,
+            8
+          ],
+          "corrected_sections": 62
+        },
+        {
+          "axes": [
+            3,
+            9
+          ],
+          "corrected_sections": 71
+        }
+      ]
+    },
+    {
+      "family": "K",
+      "removed_volume_mm3": 0.6220524243212432,
+      "corrected_edges": [
+        {
+          "axes": [
+            1,
+            5
+          ],
+          "corrected_sections": 54
+        },
+        {
+          "axes": [
+            1,
+            8
+          ],
+          "corrected_sections": 55
+        },
+        {
+          "axes": [
+            5,
+            8
+          ],
+          "corrected_sections": 63
+        }
+      ]
+    }
+  ],
+  "spherical_retention": {
+    "shoulder_radius_mm": 28.5,
+    "collar_outer_radius_mm": 33.5,
+    "neck_angle_degrees": 40.0,
+    "petal_groove_extra_width_mm": 0.2,
+    "petal_to_center_bearing_clearance_mm": 0.43000000000000005,
+    "corner_to_petal_bearing_clearance_mm": 0.33,
+    "center_flange_end_rounding_mm": 1.2,
+    "center_flange_rounding_direction": "transverse outline, swept radially; original bearing rims retained"
+  }
+}

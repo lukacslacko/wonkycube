@@ -1,0 +1,821 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "step": 1,
+      "axis": 2,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P18",
+        "P19",
+        "C12",
+        "K07",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 12,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239554757084212e-06
+    },
+    {
+      "step": 2,
+      "axis": 7,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "C03",
+        "K02",
+        "K03",
+        "P08",
+        "P09"
+      ],
+      "legal_axis_count": 10,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239554741038655e-06
+    },
+    {
+      "step": 3,
+      "axis": 0,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P14",
+        "P15",
+        "C10",
+        "K05",
+        "K06",
+        "P21",
+        "P22"
+      ],
+      "legal_axis_count": 9,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239340952416412e-06
+    },
+    {
+      "step": 4,
+      "axis": 5,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 9,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239554759880422e-06
+    },
+    {
+      "step": 5,
+      "axis": 6,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P14",
+        "P16",
+        "P17",
+        "P18",
+        "C11",
+        "K05",
+        "K07"
+      ],
+      "legal_axis_count": 7,
+      "samples": 7,
+      "maximum_collision_mm3": 5.2393409594271824e-06
+    },
+    {
+      "step": 6,
+      "axis": 7,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "C03",
+        "K02",
+        "K03",
+        "P08",
+        "P09"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 5.2395546042343425e-06
+    },
+    {
+      "step": 7,
+      "axis": 10,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P03",
+        "K03",
+        "P07",
+        "C06",
+        "P18",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 7,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239569026044365e-06
+    },
+    {
+      "step": 8,
+      "axis": 5,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 5.2395647722550665e-06
+    },
+    {
+      "step": 9,
+      "axis": 7,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "C03",
+        "K02",
+        "P08",
+        "P09",
+        "P18",
+        "K07"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239554587737526e-06
+    },
+    {
+      "step": 10,
+      "axis": 10,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P03",
+        "K03",
+        "P07",
+        "P09",
+        "C06",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239568904140218e-06
+    },
+    {
+      "step": 11,
+      "axis": 5,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564704742393e-06
+    },
+    {
+      "step": 12,
+      "axis": 6,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P07",
+        "P14",
+        "P16",
+        "P17",
+        "C11",
+        "K05"
+      ],
+      "legal_axis_count": 7,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239569118824598e-06
+    },
+    {
+      "step": 13,
+      "axis": 5,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 5.2395646834703545e-06
+    },
+    {
+      "step": 14,
+      "axis": 2,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564776338722e-06
+    },
+    {
+      "step": 15,
+      "axis": 5,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564711099616e-06
+    },
+    {
+      "step": 16,
+      "axis": 2,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239566728977622e-06
+    },
+    {
+      "step": 17,
+      "axis": 7,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P02",
+        "C03",
+        "K02",
+        "P08",
+        "P18",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239372327066124e-06
+    },
+    {
+      "step": 18,
+      "axis": 2,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239566665054074e-06
+    },
+    {
+      "step": 19,
+      "axis": 10,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239554547559373e-06
+    },
+    {
+      "step": 20,
+      "axis": 5,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239372347132652e-06
+    },
+    {
+      "step": 21,
+      "axis": 10,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564568868458e-06
+    },
+    {
+      "step": 22,
+      "axis": 2,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239566519354385e-06
+    },
+    {
+      "step": 23,
+      "axis": 5,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.23956478582438e-06
+    },
+    {
+      "step": 24,
+      "axis": 2,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239567271432554e-06
+    },
+    {
+      "step": 25,
+      "axis": 5,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564690968039e-06
+    },
+    {
+      "step": 26,
+      "axis": 10,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564490206139e-06
+    },
+    {
+      "step": 27,
+      "axis": 2,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239555395782045e-06
+    },
+    {
+      "step": 28,
+      "axis": 5,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239372208944825e-06
+    },
+    {
+      "step": 29,
+      "axis": 10,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.2395643883120865e-06
+    },
+    {
+      "step": 30,
+      "axis": 2,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239565235401318e-06
+    },
+    {
+      "step": 31,
+      "axis": 5,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.2395646457248046e-06
+    },
+    {
+      "step": 32,
+      "axis": 10,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564364207915e-06
+    },
+    {
+      "step": 33,
+      "axis": 2,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.23956519471494e-06
+    },
+    {
+      "step": 34,
+      "axis": 5,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.2395646395813585e-06
+    },
+    {
+      "step": 35,
+      "axis": 2,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239567009961163e-06
+    },
+    {
+      "step": 36,
+      "axis": 5,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P01",
+        "P04",
+        "C01",
+        "K01",
+        "K04",
+        "P05",
+        "P12"
+      ],
+      "legal_axis_count": 3,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239554384946081e-06
+    },
+    {
+      "step": 37,
+      "axis": 8,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "P04",
+        "K04",
+        "P06",
+        "C05",
+        "P13",
+        "K06",
+        "P22"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239569019800084e-06
+    },
+    {
+      "step": 38,
+      "axis": 10,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564271867465e-06
+    },
+    {
+      "step": 39,
+      "axis": 3,
+      "angle_degrees": 70.52877936550931,
+      "moving_pieces": [
+        "C04",
+        "K01",
+        "P05",
+        "P10",
+        "P11",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 5.2395547507287534e-06
+    },
+    {
+      "step": 40,
+      "axis": 10,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "P02",
+        "P03",
+        "K02",
+        "P09",
+        "C06",
+        "P14",
+        "K05"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564260948641e-06
+    },
+    {
+      "step": 41,
+      "axis": 8,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P04",
+        "K04",
+        "P06",
+        "C05",
+        "P13",
+        "K06",
+        "P22"
+      ],
+      "legal_axis_count": 4,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239568801682187e-06
+    },
+    {
+      "step": 42,
+      "axis": 2,
+      "angle_degrees": 109.47122063449069,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239566159159647e-06
+    },
+    {
+      "step": 43,
+      "axis": 8,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "P04",
+        "K04",
+        "P06",
+        "C05",
+        "P13",
+        "K06",
+        "P22"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239340784576165e-06
+    },
+    {
+      "step": 44,
+      "axis": 2,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239563990851121e-06
+    },
+    {
+      "step": 45,
+      "axis": 3,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "C04",
+        "K01",
+        "P05",
+        "P10",
+        "P11",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 6,
+      "samples": 7,
+      "maximum_collision_mm3": 5.2395647737254505e-06
+    },
+    {
+      "step": 46,
+      "axis": 2,
+      "angle_degrees": 180.0,
+      "moving_pieces": [
+        "K03",
+        "P17",
+        "P19",
+        "C12",
+        "K08",
+        "P23",
+        "P24"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239371558351732e-06
+    },
+    {
+      "step": 47,
+      "axis": 8,
+      "angle_degrees": -109.47122063449069,
+      "moving_pieces": [
+        "P04",
+        "K04",
+        "P06",
+        "C05",
+        "P13",
+        "K06",
+        "P22"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239554617606107e-06
+    },
+    {
+      "step": 48,
+      "axis": 3,
+      "angle_degrees": -70.52877936550931,
+      "moving_pieces": [
+        "C04",
+        "K01",
+        "P05",
+        "P10",
+        "P11",
+        "K07",
+        "P21"
+      ],
+      "legal_axis_count": 5,
+      "samples": 7,
+      "maximum_collision_mm3": 5.239564714005834e-06
+    }
+  ]
+}

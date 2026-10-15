@@ -1,10 +1,11 @@
-"""Audit published v4.1 delivery hashes, cutter sheets and the solving guide."""
+"""Audit published delivery hashes, cutter sheets and the solving guide."""
 from pathlib import Path
-import ast,csv,hashlib,json,re
+import argparse,ast,csv,hashlib,json,re
 from urllib.parse import unquote
 import numpy as np,trimesh,ezdxf
 from shapely.geometry import Polygon
-ROOT=Path(__file__).resolve().parents[1];D=ROOT/'designs/curvy-copter-cuboctahedron-v4.1'
+parser=argparse.ArgumentParser();parser.add_argument('--version',choices=['v4.1','v4.2'],default='v4.2');args=parser.parse_args()
+ROOT=Path(__file__).resolve().parents[1];D=ROOT/('designs/curvy-copter-cuboctahedron-'+args.version)
 def digest(p):return hashlib.sha256(p.read_bytes()).hexdigest()
 def main():
  pub=json.loads((D/'publication.json').read_text());meta=json.loads((D/'manifest.json').read_text())
@@ -24,7 +25,13 @@ def main():
  assert len(cuts)==len(dims)==30;exact=0
  for rec in cuts:
   stem=D/rec['path'];doc=ezdxf.readfile(stem.with_suffix('.dxf'));entities=list(doc.modelspace())
-  assert len(entities)==rec['contours']
+  frames=[e for e in entities if e.dxf.layer=='A4_FRAME_DELETE_BEFORE_CUTTING']
+  inlays=[e for e in entities if e.dxf.layer=='CUT']
+  assert len(entities)==len(inlays)+len(frames)==rec['contours']+rec.get('scaling_frame_count',0)
+  if args.version=='v4.2':
+   assert len(frames)==1 and meta['pocket_depth_mm']==1.0
+   fp=Polygon(np.array(list(frames[0].points()))[:,:2]);assert fp.bounds==(0.,0.,210.,297.) and abs(fp.area-210*297)<1e-8
+   for e in inlays:assert fp.buffer(-5).contains(Polygon(np.array(list(e.points()))[:,:2]))
   pts=[]
   for e in entities:
    assert e.dxftype()=='POLYLINE' and e.is_closed
@@ -32,10 +39,14 @@ def main():
   pp=np.array(pts);width,height=np.ptp(pp,axis=0);row=dims[rec['path'].removeprefix('inlays/')+'.dxf']
   assert abs(width-float(row['selection_width_mm']))<2e-6
   assert abs(height-float(row['selection_height_mm']))<2e-6
-  assert int(row['contours'])==len(entities)
+  assert int(row.get('inlay_contours',row.get('contours')))==len(inlays)
+  if frames:
+   cutpts=np.vstack([np.array(list(e.points()))[:,:2] for e in inlays]);cw,ch=np.ptp(cutpts,axis=0)
+   assert abs(cw-float(row['inlays_only_width_mm']))<2e-6 and abs(ch-float(row['inlays_only_height_mm']))<2e-6
+   assert int(row['removable_A4_frames'])==1 and width==210 and height==297
   assert stem.with_suffix('.dwg').read_bytes()[:6]==b'AC1015'
   assert rec['audit_errors']==0 and rec['dwg_roundtrip_max_error_mm']<1e-5
-  if '/faces/' in rec['path']:exact+=len(entities)
+  if '/faces/' in rec['path']:exact+=len(inlays)
  assert exact==104
  for name in ['summary','rounding-regression','package-audit']:assert json.loads((D/'reports'/f'{name}.json').read_text())['passed']
  assert (D/'LICENSE').read_bytes()==(ROOT/'LICENSE').read_bytes()

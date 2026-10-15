@@ -29,15 +29,15 @@ A naturally aligned **rhombic dodecahedron, 76 mm between opposite faces**, with
 
 ## Curvy Copter cuboctahedron
 
-![Natural vertex-turning cuboctahedron with colored paper inlays](designs/curvy-copter-cuboctahedron-v4.1/images/assembled.png)
+![Natural vertex-turning cuboctahedron with colored paper inlays](designs/curvy-copter-cuboctahedron-v4.2/images/assembled.png)
 
 A naturally aligned **72 mm vertex-turning cuboctahedron** with twelve screwed centers, twenty-four petals and eight floating corners. It has 45° conical cuts, ordinary 180° turns and jumbling at suitable partial alignments. Concentric spherical-shell shoulders retain petals under centers and corners under petals; the original spherical-version core can be reused.
 
-The square and triangular faces take **104 laminated-paper inlays in 0.5 mm pockets**. Twelve keyed screw plugs complete the central pocket floors and dividing walls. Exact-contour **SVG, DXF and genuine DWG** cutting files are included, with a cutter-only ZIP and Windows/Silhouette instructions. The R2 radial edge fillets continue around both sides without thin hook remnants.
+The square and triangular faces take **104 laminated-paper inlays in 1 mm pockets**. Twelve keyed screw plugs complete the central pocket floors and dividing walls. Exact-contour **SVG, DXF and genuine DWG** cutting files are included, with a cutter-only ZIP and Windows/Silhouette instructions. Every sheet includes a removable **210 × 297 mm A4 scaling rectangle**; delete it after sizing the import and before cutting. The R2 radial edge fillets continue around both sides without thin hook remnants.
 
-**The underlying spherical-retention mechanism printed and built very well.** The pocketed parts, keyed plugs and v4.1 edge correction are CAD-checked and await physical confirmation. The [paintable v3.2 design](designs/curvy-copter-cuboctahedron-v3.2/README.md) remains available.
+**The underlying spherical-retention mechanism printed and built very well.** The 1 mm pockets and matching cutting contours preserve at least 1.2 mm separating walls and backing; this revision is CAD-checked and awaits physical print/cut confirmation. The [paintable v3.2 design](designs/curvy-copter-cuboctahedron-v3.2/README.md) remains available.
 
-[Download the puzzle and cutting files](https://github.com/lukacslacko/wonkycube/releases/tag/curvy-copter-cuboctahedron-v4.1) · [Build guide](designs/curvy-copter-cuboctahedron-v4.1/README.md) · [Cutting on Windows](designs/curvy-copter-cuboctahedron-v4.1/inlays/README.md) · [Piece map](designs/curvy-copter-cuboctahedron-v4.1/NEIGHBORS.md) · [Validation](designs/curvy-copter-cuboctahedron-v4.1/VALIDATION.md)
+[Download the puzzle and cutting files](https://github.com/lukacslacko/wonkycube/releases/tag/curvy-copter-cuboctahedron-v4.2) · [Build guide](designs/curvy-copter-cuboctahedron-v4.2/README.md) · [Cutting on Windows](designs/curvy-copter-cuboctahedron-v4.2/inlays/README.md) · [Piece map](designs/curvy-copter-cuboctahedron-v4.2/NEIGHBORS.md) · [Validation](designs/curvy-copter-cuboctahedron-v4.2/VALIDATION.md)
 
 ## Double Ivy
 
@@ -88,7 +88,7 @@ The [mechanism design guide](docs/mechanism-principles.md) explains these choice
 | Wavy Redi | [Design](designs/wavy-redi-v1.1/README.md#mechanism-choices) | [Source](designs/wavy-redi-v1.1/source/README.md) | [Validation](designs/wavy-redi-v1.1/VALIDATION.md) |
 | Triangular prism | [Design](designs/triangular-prism-v1/README.md#retention-and-fit) | [Source](designs/triangular-prism-v1/source/BUILD.md) | [Validation](designs/triangular-prism-v1/VALIDATION.md) |
 | Rhombic dodecahedron | [Design](designs/rhombic-dodecahedron-v5.1/README.md#mechanism-and-validation) | [Source](designs/rhombic-dodecahedron-v5.1/source/BUILD.md) | [Validation and build feedback](designs/rhombic-dodecahedron-v5.1/VALIDATION.md) |
-| Curvy Copter cuboctahedron | [Design](designs/curvy-copter-cuboctahedron-v4.1/README.md#paper-pockets-and-plugs) | [Source](designs/curvy-copter-cuboctahedron-v4.1/source/BUILD.md) | [Validation and print-evidence scope](designs/curvy-copter-cuboctahedron-v4.1/VALIDATION.md) |
+| Curvy Copter cuboctahedron | [Design](designs/curvy-copter-cuboctahedron-v4.2/README.md#pockets-and-cutting-sheets) | [Source](designs/curvy-copter-cuboctahedron-v4.2/source/BUILD.md) | [Validation and print-evidence scope](designs/curvy-copter-cuboctahedron-v4.2/VALIDATION.md) |
 | Double Ivy | [Design](designs/double-ivy-v7.1/DESIGN-NOTES.md) | [Source](designs/double-ivy-v7.1/BUILD.md) | [Validation and feedback](designs/double-ivy-v7.1/VALIDATION.md) |
 
 Designed and physically iterated by **László Lukács**, with CAD, optimization and documentation developed with **OpenAI Codex**. Source, documentation and original generated models are available under the [MIT license](LICENSE).

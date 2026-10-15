@@ -1,0 +1,6 @@
+{
+  "basis": "Core and spherical-shell mechanism inherited from physically assembled v3.2. Local subtractive C/K fillet completion narrows no assembly route. New plugs are installed from outside after screw adjustment, then paper is fitted.",
+  "new_plug_insertion_checked": true,
+  "shell_assembly": "Assemble floating shell with screwed centers absent or loose, using rotational hooking as on the printed base puzzle. No new glue joints in mechanism.",
+  "scope": "Inherited physical assembly evidence; no exhaustive numerical shell assembly planner. The 0.5 mm pocket version was printed; the owner reports insufficient inlay guidance. The new 1 mm version is not yet printed."
+}

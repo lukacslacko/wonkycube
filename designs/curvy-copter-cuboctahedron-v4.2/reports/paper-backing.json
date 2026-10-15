@@ -1,0 +1,44 @@
+[
+  {
+    "inlay": "C-SX-",
+    "missing_floor_outside_joint_mm3": 2.2931881046461015e-05,
+    "base_floor_fraction": 0.7598912447077599,
+    "plug_floor_fraction": 0.22884230957929563
+  },
+  {
+    "inlay": "C-SZ+",
+    "missing_floor_outside_joint_mm3": 1.8817401144045207e-05,
+    "base_floor_fraction": 0.7598914733490386,
+    "plug_floor_fraction": 0.2288423095792963
+  },
+  {
+    "inlay": "C-T--+",
+    "missing_floor_outside_joint_mm3": 2.0269102536830367e-05,
+    "base_floor_fraction": 0.7425055527951386,
+    "plug_floor_fraction": 0.2441894866703659
+  },
+  {
+    "inlay": "C-T-++",
+    "missing_floor_outside_joint_mm3": 2.3249086006773152e-05,
+    "base_floor_fraction": 0.742505156493604,
+    "plug_floor_fraction": 0.2441894866554117
+  },
+  {
+    "inlay": "P-SZ+",
+    "missing_floor_outside_joint_mm3": 4.6919197437082975e-05,
+    "base_floor_fraction": 1.0,
+    "plug_floor_fraction": 0.0
+  },
+  {
+    "inlay": "P-T--+",
+    "missing_floor_outside_joint_mm3": 1.0892717676647362e-05,
+    "base_floor_fraction": 1.0,
+    "plug_floor_fraction": 0.0
+  },
+  {
+    "inlay": "K-T--+",
+    "missing_floor_outside_joint_mm3": 1.9240742246645615e-05,
+    "base_floor_fraction": 1.0,
+    "plug_floor_fraction": 0.0
+  }
+]

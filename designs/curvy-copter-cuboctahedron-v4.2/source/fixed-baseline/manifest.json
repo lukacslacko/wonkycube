@@ -1,0 +1,1936 @@
+{
+  "version": "natural-cuboctahedron-45-spherical-v3.2",
+  "units": "mm",
+  "square_face_spacing_mm": 72.0,
+  "spherical_retention": {
+    "shoulder_radius_mm": 28.5,
+    "collar_outer_radius_mm": 33.5,
+    "neck_angle_degrees": 40.0,
+    "petal_groove_extra_width_mm": 0.2,
+    "petal_to_center_bearing_clearance_mm": 0.43000000000000005,
+    "corner_to_petal_bearing_clearance_mm": 0.33,
+    "center_flange_end_rounding_mm": 1.2,
+    "center_flange_rounding_direction": "transverse outline, swept radially; original bearing rims retained"
+  },
+  "parts": [
+    {
+      "name": "axial-center-print-12",
+      "family": "C",
+      "quantity": 12,
+      "file": "stl/puzzle/axial-center-print-12.stl",
+      "sha256": "3022411c59d95cbf9f4aa6b68488db21e39ae5a7a78875fb947c078178ddc4a7",
+      "mechanism_to_print": [
+        [
+          1.20934159356662e-16,
+          -0.838670567945424,
+          -0.5446390350150272,
+          13.541353823713859
+        ],
+        [
+          1.862222749216933e-16,
+          0.5446390350150272,
+          -0.838670567945424,
+          18.296527097759345
+        ],
+        [
+          1.0,
+          0.0,
+          2.220446049250313e-16,
+          36.0
+        ]
+      ],
+      "dimensions_mm": [
+        28.084272384643555,
+        34.056800842285156,
+        33.42564010620117
+      ],
+      "volume_mm3": 7864.579198447428,
+      "triangles": 17038,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "petal-print-24",
+      "family": "P",
+      "quantity": 24,
+      "file": "stl/puzzle/petal-print-24.stl",
+      "sha256": "4beb62b53dd5475817c165c4192dd468a889b703379b5d775338cb983cad8880",
+      "mechanism_to_print": [
+        [
+          0.7071067811865476,
+          -0.7071067811865477,
+          -5.332807685932122e-17,
+          -8.881784197001252e-16
+        ],
+        [
+          0.577350269189626,
+          0.5773502691896258,
+          0.5773502691896257,
+          -5.871082337613693
+        ],
+        [
+          -0.40824829046386296,
+          -0.40824829046386296,
+          0.8164965809277261,
+          -18.42623991455097
+        ]
+      ],
+      "dimensions_mm": [
+        23.256820678710938,
+        28.2363224029541,
+        25.62007713317871
+      ],
+      "volume_mm3": 5255.496463397819,
+      "triangles": 21342,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0,
+        "detached_pre_export_remnants": [
+          {
+            "volume_mm3": 2.2210163046920745e-06,
+            "bounds_mm": [
+              [
+                -2.101547634074029,
+                -6.160550892181441,
+                33.14765962713121
+              ],
+              [
+                -1.1835379131106918,
+                -5.3019965321673554,
+                33.14921733743807
+              ]
+            ]
+          }
+        ]
+      },
+      "print_orientation": "inward radial direction down"
+    },
+    {
+      "name": "corner-print-8",
+      "family": "K",
+      "quantity": 8,
+      "file": "stl/puzzle/corner-print-8.stl",
+      "sha256": "bbe320b6d00d9865c6ca8b056fa959949339cf94f712a417a7845b7e4604f6d8",
+      "mechanism_to_print": [
+        [
+          0.4082482904638628,
+          -0.8164965809277259,
+          -0.4082482904638628,
+          1.8705227174439822
+        ],
+        [
+          -0.7071067811865475,
+          -1.622704860489121e-16,
+          -0.7071067811865471,
+          -0.00031896734954184325
+        ],
+        [
+          0.5773502691896255,
+          0.5773502691896255,
+          -0.577350269189626,
+          41.5692204828613
+        ]
+      ],
+      "dimensions_mm": [
+        17.775638580322266,
+        19.05613899230957,
+        20.522808074951172
+      ],
+      "volume_mm3": 2159.4688484963276,
+      "triangles": 8238,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "core",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/puzzle/core.stl",
+      "sha256": "f3d32eef77d72cba87b043bab0b4d52e3c6b77adf714a2f27485d50782e93a8e",
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.7071067811865475,
+          -0.7071067811865477,
+          -0.0
+        ],
+        [
+          0.0,
+          0.7071067811865477,
+          0.7071067811865475,
+          19.60000077723709
+        ]
+      ],
+      "dimensions_mm": [
+        42.17525100708008,
+        39.20000076293945,
+        39.20000076293945
+      ],
+      "volume_mm3": 31700.326612050394,
+      "triangles": 16876,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "nut-fit-5.20",
+      "family": "coupon-5.2",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.20.stl",
+      "sha256": "67d4cb2c05ef5e7904c08e0b317bb726d8f56501c68732884b555c3d12471dfc",
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -9.600000381469727
+        ]
+      ],
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3932.1802591385967,
+      "triangles": 632,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "nut-fit-5.25",
+      "family": "coupon-5.25",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.25.stl",
+      "sha256": "b3c4abb61e7aef853a7c627b7ac55960c2d414bd3e36c1b1bc59393415a619cf",
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -9.600000381469727
+        ]
+      ],
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3930.2624453503827,
+      "triangles": 632,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "nut-fit-5.30",
+      "family": "coupon-5.3",
+      "quantity": 1,
+      "file": "stl/fit-coupons/nut-fit-5.30.stl",
+      "sha256": "eda67f7f9de04c2a772207ae8a55f8efdac9783cf149097019166f04dc3154d5",
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          -9.600000381469727
+        ]
+      ],
+      "dimensions_mm": [
+        24.0,
+        18.0,
+        10.0
+      ],
+      "volume_mm3": 3928.3354286742215,
+      "triangles": 632,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "core-seat-5.20",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/optional/core-seat-5.20.stl",
+      "sha256": "e3125ce97830fade26e2b074c6bb31cd5e965598314c472ccad7569fb591e39b",
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.7071067811865475,
+          -0.7071067811865477,
+          -0.0
+        ],
+        [
+          0.0,
+          0.7071067811865477,
+          0.7071067811865475,
+          19.60000077723709
+        ]
+      ],
+      "dimensions_mm": [
+        42.17525100708008,
+        39.20000076293945,
+        39.20000076293945
+      ],
+      "volume_mm3": 31723.34025917509,
+      "triangles": 16872,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "core-seat-5.30",
+      "family": "core",
+      "quantity": 1,
+      "file": "stl/optional/core-seat-5.30.stl",
+      "sha256": "62a98499e76cf9439a130898e30636f6bbd6386bbf38942f126a76aa43c22782",
+      "mechanism_to_print": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.7071067811865475,
+          -0.7071067811865477,
+          -0.0
+        ],
+        [
+          0.0,
+          0.7071067811865477,
+          0.7071067811865475,
+          19.60000077723709
+        ]
+      ],
+      "dimensions_mm": [
+        42.17525100708008,
+        39.20000076293945,
+        39.20000076293945
+      ],
+      "volume_mm3": 31677.2021219849,
+      "triangles": 16874,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    },
+    {
+      "name": "assembly-stand",
+      "family": "stand",
+      "quantity": 1,
+      "file": "stl/optional/assembly-stand.stl",
+      "sha256": "d1c74cb2012d154685389dab9fe01a2276811c895d483719de0d0fde4b7073a7",
+      "mechanism_to_print": [
+        [
+          -0.6984011233337103,
+          -0.15643446504023087,
+          -0.6984011233337105,
+          1.5987211554602254e-14
+        ],
+        [
+          -0.11061587104123714,
+          0.9876883405951378,
+          -0.11061587104123717,
+          1.7763568394002505e-15
+        ],
+        [
+          0.7071067811865477,
+          0.0,
+          -0.7071067811865475,
+          90.00000267440046
+        ]
+      ],
+      "dimensions_mm": [
+        43.98492431640625,
+        43.984920501708984,
+        70.30000305175781
+      ],
+      "volume_mm3": 7265.821649783637,
+      "triangles": 1920,
+      "watertight": true,
+      "components": 1,
+      "cleanup": {
+        "slit_weld_displacement_bound_mm": 0.0,
+        "coordinate_decimals": 8,
+        "local_contact_envelope_mm": 0.0,
+        "local_contact_capsules": 0,
+        "local_contact_added_volume_mm3": 0.0
+      }
+    }
+  ],
+  "plates": [
+    {
+      "name": "P-01",
+      "file": "plates/P-01.3mf",
+      "objects": [
+        "P01",
+        "P02",
+        "P03",
+        "P04",
+        "P05",
+        "P06",
+        "P07",
+        "P08",
+        "P09",
+        "P10",
+        "P11",
+        "P12",
+        "P13",
+        "P14",
+        "P15",
+        "P16",
+        "P17",
+        "P18",
+        "P19",
+        "P20",
+        "P21",
+        "P22",
+        "P23",
+        "P24"
+      ]
+    },
+    {
+      "name": "C-01",
+      "file": "plates/C-01.3mf",
+      "objects": [
+        "core",
+        "C01",
+        "C02",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07",
+        "C08",
+        "C09",
+        "C10",
+        "C11",
+        "C12"
+      ]
+    },
+    {
+      "name": "K-01",
+      "file": "plates/K-01.3mf",
+      "objects": [
+        "K01",
+        "K02",
+        "K03",
+        "K04",
+        "K05",
+        "K06",
+        "K07",
+        "K08"
+      ]
+    }
+  ],
+  "instances": [
+    {
+      "name": "P01",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        1,
+        5
+      ],
+      "direction": [
+        -0.40824829046386296,
+        -0.40824829046386296,
+        0.8164965809277259
+      ],
+      "source_index": 0,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "P02",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        1,
+        7
+      ],
+      "direction": [
+        0.40824829046386296,
+        -0.40824829046386296,
+        0.8164965809277259
+      ],
+      "source_index": 1,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "P03",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        3,
+        7
+      ],
+      "direction": [
+        0.40824829046386296,
+        0.40824829046386296,
+        0.8164965809277259
+      ],
+      "source_index": 2,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "P04",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        3,
+        5
+      ],
+      "direction": [
+        -0.40824829046386296,
+        0.40824829046386296,
+        0.8164965809277259
+      ],
+      "source_index": 3,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "C01",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        5
+      ],
+      "direction": [
+        -0.7071067811865476,
+        0.0,
+        0.7071067811865476
+      ],
+      "source_index": 4,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "C02",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        1
+      ],
+      "direction": [
+        0.0,
+        -0.7071067811865476,
+        0.7071067811865476
+      ],
+      "source_index": 5,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "C03",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        7
+      ],
+      "direction": [
+        0.7071067811865476,
+        0.0,
+        0.7071067811865476
+      ],
+      "source_index": 6,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "C04",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        3
+      ],
+      "direction": [
+        0.0,
+        0.7071067811865476,
+        0.7071067811865476
+      ],
+      "source_index": 7,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "K01",
+      "family": "K",
+      "orbit": "K",
+      "signature": [
+        1,
+        5,
+        8
+      ],
+      "direction": [
+        -0.5773502691896257,
+        -0.5773502691896257,
+        0.5773502691896257
+      ],
+      "source_index": 8,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "K02",
+      "family": "K",
+      "orbit": "K",
+      "signature": [
+        1,
+        7,
+        10
+      ],
+      "direction": [
+        0.5773502691896257,
+        -0.5773502691896257,
+        0.5773502691896257
+      ],
+      "source_index": 9,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "K03",
+      "family": "K",
+      "orbit": "K",
+      "signature": [
+        3,
+        7,
+        11
+      ],
+      "direction": [
+        0.5773502691896257,
+        0.5773502691896257,
+        0.5773502691896257
+      ],
+      "source_index": 10,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ]
+    },
+    {
+      "name": "K04",
+      "family": "K",
+      "orbit": "K",
+      "signature": [
+        3,
+        5,
+        9
+      ],
+      "direction": [
+        -0.5773502691896257,
+        0.5773502691896257,
+        0.5773502691896257
+      ],
+      "source_index": 11,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P05",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        5,
+        8
+      ],
+      "direction": [
+        -0.816496580927726,
+        -0.408248290463863,
+        0.408248290463863
+      ],
+      "source_index": 12,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P06",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        1,
+        8
+      ],
+      "direction": [
+        -0.408248290463863,
+        -0.816496580927726,
+        0.408248290463863
+      ],
+      "source_index": 13,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P07",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        1,
+        10
+      ],
+      "direction": [
+        0.408248290463863,
+        -0.816496580927726,
+        0.408248290463863
+      ],
+      "source_index": 14,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P08",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        7,
+        10
+      ],
+      "direction": [
+        0.816496580927726,
+        -0.408248290463863,
+        0.408248290463863
+      ],
+      "source_index": 15,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P09",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        7,
+        11
+      ],
+      "direction": [
+        0.816496580927726,
+        0.408248290463863,
+        0.408248290463863
+      ],
+      "source_index": 16,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P10",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        3,
+        11
+      ],
+      "direction": [
+        0.408248290463863,
+        0.816496580927726,
+        0.408248290463863
+      ],
+      "source_index": 17,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P11",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        3,
+        9
+      ],
+      "direction": [
+        -0.408248290463863,
+        0.816496580927726,
+        0.408248290463863
+      ],
+      "source_index": 18,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P12",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        5,
+        9
+      ],
+      "direction": [
+        -0.816496580927726,
+        0.408248290463863,
+        0.408248290463863
+      ],
+      "source_index": 19,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "C05",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        8
+      ],
+      "direction": [
+        -0.7071067811865476,
+        -0.7071067811865476,
+        0.0
+      ],
+      "source_index": 20,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "C06",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        10
+      ],
+      "direction": [
+        0.7071067811865476,
+        -0.7071067811865476,
+        0.0
+      ],
+      "source_index": 21,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "C07",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        11
+      ],
+      "direction": [
+        0.7071067811865476,
+        0.7071067811865476,
+        0.0
+      ],
+      "source_index": 22,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "C08",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        9
+      ],
+      "direction": [
+        -0.7071067811865476,
+        0.7071067811865476,
+        0.0
+      ],
+      "source_index": 23,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ]
+      ]
+    },
+    {
+      "name": "P13",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        4,
+        8
+      ],
+      "direction": [
+        -0.816496580927726,
+        -0.408248290463863,
+        -0.408248290463863
+      ],
+      "source_index": 24,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P14",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        0,
+        8
+      ],
+      "direction": [
+        -0.408248290463863,
+        -0.816496580927726,
+        -0.408248290463863
+      ],
+      "source_index": 25,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P15",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        0,
+        10
+      ],
+      "direction": [
+        0.408248290463863,
+        -0.816496580927726,
+        -0.408248290463863
+      ],
+      "source_index": 26,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P16",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        6,
+        10
+      ],
+      "direction": [
+        0.816496580927726,
+        -0.408248290463863,
+        -0.408248290463863
+      ],
+      "source_index": 27,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P17",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        6,
+        11
+      ],
+      "direction": [
+        0.816496580927726,
+        0.408248290463863,
+        -0.408248290463863
+      ],
+      "source_index": 28,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P18",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        2,
+        11
+      ],
+      "direction": [
+        0.408248290463863,
+        0.816496580927726,
+        -0.408248290463863
+      ],
+      "source_index": 29,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P19",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        2,
+        9
+      ],
+      "direction": [
+        -0.408248290463863,
+        0.816496580927726,
+        -0.408248290463863
+      ],
+      "source_index": 30,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "P20",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        4,
+        9
+      ],
+      "direction": [
+        -0.816496580927726,
+        0.408248290463863,
+        -0.408248290463863
+      ],
+      "source_index": 31,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "C09",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        4
+      ],
+      "direction": [
+        -0.7071067811865476,
+        0.0,
+        -0.7071067811865476
+      ],
+      "source_index": 32,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "C10",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        0
+      ],
+      "direction": [
+        0.0,
+        -0.7071067811865476,
+        -0.7071067811865476
+      ],
+      "source_index": 33,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "C11",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        6
+      ],
+      "direction": [
+        0.7071067811865476,
+        0.0,
+        -0.7071067811865476
+      ],
+      "source_index": 34,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "C12",
+      "family": "C",
+      "orbit": "C",
+      "signature": [
+        2
+      ],
+      "direction": [
+        0.0,
+        0.7071067811865476,
+        -0.7071067811865476
+      ],
+      "source_index": 35,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "K05",
+      "family": "K",
+      "orbit": "K",
+      "signature": [
+        0,
+        4,
+        8
+      ],
+      "direction": [
+        -0.5773502691896257,
+        -0.5773502691896257,
+        -0.5773502691896257
+      ],
+      "source_index": 36,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "K06",
+      "family": "K",
+      "orbit": "K",
+      "signature": [
+        0,
+        6,
+        10
+      ],
+      "direction": [
+        0.5773502691896257,
+        -0.5773502691896257,
+        -0.5773502691896257
+      ],
+      "source_index": 37,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "K07",
+      "family": "K",
+      "orbit": "K",
+      "signature": [
+        2,
+        6,
+        11
+      ],
+      "direction": [
+        0.5773502691896257,
+        0.5773502691896257,
+        -0.5773502691896257
+      ],
+      "source_index": 38,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ]
+      ]
+    },
+    {
+      "name": "K08",
+      "family": "K",
+      "orbit": "K",
+      "signature": [
+        2,
+        4,
+        9
+      ],
+      "direction": [
+        -0.5773502691896257,
+        0.5773502691896257,
+        -0.5773502691896257
+      ],
+      "source_index": 39,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "P21",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        0,
+        4
+      ],
+      "direction": [
+        -0.40824829046386296,
+        -0.40824829046386296,
+        -0.8164965809277259
+      ],
+      "source_index": 40,
+      "canonical_to_assembly": [
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "P22",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        0,
+        6
+      ],
+      "direction": [
+        0.40824829046386296,
+        -0.40824829046386296,
+        -0.8164965809277259
+      ],
+      "source_index": 41,
+      "canonical_to_assembly": [
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "P23",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        2,
+        6
+      ],
+      "direction": [
+        0.40824829046386296,
+        0.40824829046386296,
+        -0.8164965809277259
+      ],
+      "source_index": 42,
+      "canonical_to_assembly": [
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -1.0,
+          -0.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    },
+    {
+      "name": "P24",
+      "family": "P",
+      "orbit": "P",
+      "signature": [
+        2,
+        4
+      ],
+      "direction": [
+        -0.40824829046386296,
+        0.40824829046386296,
+        -0.8164965809277259
+      ],
+      "source_index": 43,
+      "canonical_to_assembly": [
+        [
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          -0.0,
+          -1.0,
+          -0.0
+        ],
+        [
+          -0.0,
+          -0.0,
+          -1.0
+        ]
+      ]
+    }
+  ]
+}

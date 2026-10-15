@@ -1,0 +1,104 @@
+{
+  "passed": true,
+  "byte_identical_stl_families": [
+    "core"
+  ],
+  "paper_pockets_and_cut_contours_identical": false,
+  "pocket_depth_mm": 1.0,
+  "checks": [
+    {
+      "family": "C",
+      "removed_volume_mm3": 196.764138398673,
+      "added_volume_mm3": 4.2562341166371525,
+      "added_internal_numerical_residual_mm3": 3.450774241682026e-05,
+      "protected_corner_spine_removed_mm3": null,
+      "edges": [
+        {
+          "axes": [
+            1,
+            8
+          ],
+          "radius_mm": 2,
+          "remaining_material_in_full_arc_mm3": 0.00014223079672321865,
+          "largest_bad_section_trim_area_mm2": 5.478158503706315
+        },
+        {
+          "axes": [
+            3,
+            9
+          ],
+          "radius_mm": 2,
+          "remaining_material_in_full_arc_mm3": 0.00019745196388277396,
+          "largest_bad_section_trim_area_mm2": 5.48013322293199
+        }
+      ],
+      "measured_section_mm": 33.0625,
+      "both_half_arc_measurements": [
+        {
+          "side": -1,
+          "angle_radians": -0.4245553666229271,
+          "distance_to_expected_R2_arc_mm": 0.0007851480258159652,
+          "old_distance_mm": 0.11672391497592235
+        },
+        {
+          "side": 1,
+          "angle_radians": 0.4245553666229271,
+          "distance_to_expected_R2_arc_mm": 0.0015532145669201398,
+          "old_distance_mm": 0.0015533354598385072
+        }
+      ]
+    },
+    {
+      "family": "K",
+      "removed_volume_mm3": 79.02619030901043,
+      "added_volume_mm3": 0.22366003483343086,
+      "added_internal_numerical_residual_mm3": 5.7048326079221126e-05,
+      "protected_corner_spine_removed_mm3": 0.0,
+      "edges": [
+        {
+          "axes": [
+            1,
+            5
+          ],
+          "radius_mm": 2,
+          "remaining_material_in_full_arc_mm3": 0.0001737432460567707,
+          "largest_bad_section_trim_area_mm2": 0.5216268933265796
+        },
+        {
+          "axes": [
+            1,
+            8
+          ],
+          "radius_mm": 2,
+          "remaining_material_in_full_arc_mm3": 0.00016810485434553396,
+          "largest_bad_section_trim_area_mm2": 0.5218550744869164
+        },
+        {
+          "axes": [
+            5,
+            8
+          ],
+          "radius_mm": 2,
+          "remaining_material_in_full_arc_mm3": 0.0002632009170698064,
+          "largest_bad_section_trim_area_mm2": 4.139094106742031
+        }
+      ],
+      "measured_section_mm": 28.24999999999998,
+      "both_half_arc_measurements": [
+        {
+          "side": -1,
+          "angle_radians": -0.6789999366231657,
+          "distance_to_expected_R2_arc_mm": 0.0037445170308510085,
+          "old_distance_mm": 0.003743178073650302
+        },
+        {
+          "side": 1,
+          "angle_radians": 0.6789999366231657,
+          "distance_to_expected_R2_arc_mm": 0.00035749079336379384,
+          "old_distance_mm": 0.05608659447658138
+        }
+      ]
+    }
+  ],
+  "scope": "Every repaired swept half-arc is checked for residual material. Both sides of a strongly affected full-arc section per family are compared with the intended R2 circle. Pocket contours are regenerated for the deeper recesses. Numerical mesh residual tolerance is separate from the localized physical trims."
+}

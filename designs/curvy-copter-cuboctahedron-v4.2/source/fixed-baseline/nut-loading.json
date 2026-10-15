@@ -1,0 +1,62 @@
+[
+  {
+    "axis": 0,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 3.999614926063722e-06
+  },
+  {
+    "axis": 1,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 8.762038741435522e-06
+  },
+  {
+    "axis": 2,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 8.762038769376142e-06
+  },
+  {
+    "axis": 3,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 1.78524820918946e-05
+  },
+  {
+    "axis": 4,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 4.823318607618687e-06
+  },
+  {
+    "axis": 5,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 2.0930849027983218e-06
+  },
+  {
+    "axis": 6,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 2.95844532776752e-06
+  },
+  {
+    "axis": 7,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 4.793240238252841e-06
+  },
+  {
+    "axis": 8,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 1.9323029441888157e-06
+  },
+  {
+    "axis": 9,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 1.647808551096165e-06
+  },
+  {
+    "axis": 10,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 2.9660537846033207e-06
+  },
+  {
+    "axis": 11,
+    "test_nut_af_mm": 5.15,
+    "maximum_collision_mm3": 1.9982392203861367e-06
+  }
+]

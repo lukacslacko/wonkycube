@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "delivered_stls_reloaded": true,
+  "normal_axes": 12,
+  "jumbling_demonstration_steps": 5,
+  "jumbling_walk_steps": 48,
+  "capture_probes": 74,
+  "maximum_collision_tolerance_mm3": 0.005,
+  "core_reusable": true,
+  "physical_evidence": "Original spherical v3.2 printed and built successfully. The owner printed the 0.5 mm inlay version and requested deeper locating pockets. These 1 mm pockets and their regenerated outlines are not yet physically tested.",
+  "scope": "Finite rigid mesh motion/capture, floor containment, keyed access and layer connectivity checks; no simulation of paper, glue, support scars, wear or elastic forces."
+}
